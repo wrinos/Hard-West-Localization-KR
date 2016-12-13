@@ -1,0 +1,89 @@
+text_id	en	format
+	Scenario selection menu	
+scen_01_desc	Your rootless, but happy times of drifting are violently interrupted when you cross the wrong man. But a powerful stranger helps you rise up, transforming you from a carefree gambler into the personification of vengeance.	
+scen_02_desc	Harnessing the meteor's power to cure the plague of Madness was DeLear's greatest triumph, and Grand Inquisitor Cervantes intends to eradicate it from history. Follow Cervantes as he tracks down and exterminates DeLear's supporters in an attempt to bring down the man himself.	
+scen_03_desc	Father wandered the land, haunted by the curse he'd brought on the family, and became the solitary Undertaker. When his new home comes under attack, though, he must face his demons once and for all.	
+scen_04_desc	Florence was taken from you far too soon, but you can still save her, if the devil is to be believed. Destroying Purgatory will require a truly legendary posse, though. In the meantime, your Father has become a formidable warrior, pursuing his own agenda.	
+scen_05_desc	Solomon DeLear unexpectedly inherits great wealth and a dangerous mission, to cure the madness spreading across the region. Aided by a mysterious benefactor, he delves ever deeper into the unexplored reaches of the human mind.	
+scen_06_desc	A hotblooded young adventurer hears fantastic tales of a lost city of gold and plots an expedition to the heart of the jungle. Unfathomable wealth and eternal glory are within reach, but what price is he is willing to pay for them?	
+scen_07_desc	Your journey on the Oregon Trail is halted by the harsh realities of the West. You find temporary solace in the gold trade, but bad times are just around the corner. Soon you will be forced to make choices that will shape your destiny forever.	
+scen_08_desc	On the run from the evil Inquisitor, Cassandra lit out for Mexico. Once there, it would take charisma, an iron will and a healthy dose of precognition to untangle the lies and deception that surround her.	
+	Loading screen hints	
+hint_loading_01	If someone fires at you and misses, it uses some of your Luck. You gain Luck when you're hit.	
+hint_loading_02	If an enemy sees you coming, he'll shoot when you get close (watch for red circles). It's always more effective to surprise someone.	
+hint_loading_03	In combat, click on a character's portrait to get info on their equipment and stats.	
+hint_loading_04	The Enemy Bar at the bottom right lists all enemies you can shoot at, ranked by effectiveness.	
+hint_loading_05	Different weapons reload differently. Different clips take different numbers of bullets at a time.	
+hint_loading_06	End your move in cover. It reduces your chance of getting hit as well as damage received.	
+hint_loading_07	Within five tiles, Chance to Hit is always 100%. On adjacent tiles all cover is ignored.	
+hint_loading_08	Some objects can be turned into effective cover, this does not cost Action Points.	
+hint_loading_09	The Fate Trader sells Trinkets: unique, powerful items unlocked throughout the campaign.	
+hint_loading_10	Each weapon has a range group. Each range group performs differently at varying distances.	
+hint_loading_11	Flanking is a highly effective combat tactic.	
+hint_loading_12	Non-targetable abilities (Reload, consumable items etc) can be used instantly by right-clicking the ability button.	
+hint_loading_13	As a character's Heat goes up, their gunpoint threats (Subdue) become more effective and longer-lasting.	
+hint_loading_14	A character's Heat is based on his personality and how dangerous their weapons look. Heat affects how suspicious enemies are.	
+hint_loading_15	Higher ground provides an Aim bonus.	
+hint_loading_16	Shooting a gun always interrupts setup and starts combat, as do certain abilities and items.	
+hint_loading_17	Most abilities and trick shots require Luck. If you want to use them, avoid being fired at.	
+hint_loading_18	Detected enemies are revealed until the end of your turn.	
+hint_loading_19	When Chance to Hit exceeds 80%, it gets rounded up to 100%. If it's below 20%, it drops to 0%.	
+hint_loading_20	If a character leaves your posse or dies, their equipment and cards return to your inventory. And the dead stay dead. Usually.	
+hint_loading_21	Enemies sometimes give away their position by making noise.	
+hint_loading_22	Watch out for enemy shadows your characters spot.	
+hint_loading_23	Serious injuries sustained by your characters eventually turn into scars, which provide significant bonuses.	
+hint_loading_24	The game is regularly saved in the world map, and automatically at the beginning of combat.	
+hint_loading_25	If you threaten someone during setup, make sure to stick around. If you leave them alone, they'll start combat.	
+hint_loading_26	You can open doors when standing on adjacent tiles without using any Action Points (mouse RMB, gamepad RS).	
+hint_loading_27	HP is replenished when tactical encounters start. Luck is not.	
+hint_loading_28	Many of your decisions carry over to other scenarios.	
+hint_loading_29	You can reassign Talent cards before starting a tactical encounter.	
+hint_loading_30	Try bypassing enemy cover by ricocheting bullets off shiny metal objects.	
+	TUTORIAL	
+tutorial_init_h	Learning the ropes	
+tutorial_init_desc	Do you want to play the Tutorial?<br>We promise it's short. And useful.	
+tutorial_init_yes	Let's do this.	
+tutorial_init_no	Not really.	
+tutorial_popup_continue	CONTINUE	
+tutorial_popup_turnorder_h	Turn Order	
+tutorial_popup_turnorder	Hard West is turn based.<br>You start.	
+tutorial_panel_storycontext	In this mission, your Father must rescue your Mother, who's been kidnapped by evil men.	
+tutorial_panel_moverange	You can only move within the range indicated.	
+tutorial_popup_cover_h	Cover	
+tutorial_popup_cover	Cover is indicated by shield icons. Always stay in Cover.<br><br>There is Half-Cover and Full Cover. Full Cover provides the best protection.	
+tutorial_panel_enemies	You have detected an enemy. All characters marked with red shield icons are enemies.	
+tutorial_panel_enemyexposed	This enemy is out of Cover, so your shot will be very effective.	
+tutorial_panel_chancetohit	Chance to Hit is based on your character's Aim ability.	
+tutorial_popup_aps_h	Action Points	
+tutorial_popup_aps	Most actions require Action Points. Each character starts combat with 2 APs.<br><br>Shooting typically uses up all remaining APs. When all of your characters are out of APs, the Enemy Turn starts.	
+tutorial_popup_luck_h	Luck	
+tutorial_popup_luck	Each character has a certain amount of Luck. High Luck protects from enemy shots, but when they miss, Luck is depleted.	
+tutorial_panel_flanking	When enemies are in Cover, bypass their protection by flanking them.	
+tutorial_panel_reload	Remember to reload often. Many weapons reload only a couple rounds at a time.	
+tutorial_popup_shadowspotting_h	Shadow Spotting	
+tutorial_popup_shadowspotting	In broad daylight, you can locate enemies by their shadows.<br><br>You can even shoot them if you have an unobstructed line of fire. Some materials, like cloth or foliage, can be shot through.	
+tutorial_panel_blindshot	When you have line of fire, but no line of sight, your Chance to Hit is reduced.	
+tutorial_panel_dash	You can use objects in the environment to create more effective Cover.	
+tutorial_panel_hp	The red bar shows your Hit Points. When hit, your Luck is partially replenished.	
+tutorial_popup_outtaluck	You ran out of luck and are bound to be shot. You must take better cover.	
+tutorial_popup_reactionshot	Avoid moving through a red circle: it means an enemy sees you, he'll shoot if you approach.	
+tutorial_panel_abilities	You have several Abilities at your disposal. Some Abilities require Luck.	
+tutorial_panel_fanning	Fanning fires 3 bullets in quick succession.	
+tutorial_panel_end	That's it for the tutorial.<br>You're on your own now.	
+	setup tutorial	
+tutorialsetup_popup_intro_h	SETUP STAGE	
+tutorialsetup_popup_intro	This mission starts with a setup stage. Enemies don't expect an attack and won't shoot on sight.	
+tutorialsetup_popup_cone	They won't bother until you attack or cross their cone of view. Character heat determines cone size.	
+tutorialsetup_popup_suspicious	The additional number on a suspicious enemy icon says how many turns they will start combat.	
+tutorialsetup_popup_subdue	Use the subdue ability to delay their reaction. Subdue doesn't start combat.	
+tutorialsetup_popup_repeat	You can subdue an enemy repeatedly with one character and proceed with the other one.	
+tutorialsetup_popup_usage	Use the setup stage to prepare for combat and advance objectives, i.e. lock the guards inside the house.	
+tutorialsetup_popup_cheech	Careful: Cheech knows you and will react right away if he recognizes you.	
+tutorialsetup_popup_jaildoor	Careful: jail door is guarded and opening it will start combat.	
+tutorial_panel_ok	OK	
+	Additional Scenario 7 text	
+7_5_MexicoVillageAlt_name	It was high time you fixed what you'd broken. And kill all the misfits who were flocking to town.	
+s7_mexicantown_revisit_desc	The town had been a mess ever since you killed the crime lord. It was time to finish what you started.	
+s7_mexicantown_revisit_attack	Yes, it was.	t
+s7_mexicantown_revisit_later	No, it wasn't.	x
+s7_t1_openbox	Open the box.	

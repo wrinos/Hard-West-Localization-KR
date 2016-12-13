@@ -1,0 +1,306 @@
+text_id	en	format
+	Scenario 1 Characters	
+undead	Warren	
+undead_desc	Maimed, mutilated and shot to death, you have risen from the grave to avenge your beloved Florence. Your newfound sense of purpose makes you tougher, angrier and more determined than ever.	
+hired_gun1	Scrawny Kid	
+hired_gun1_desc	With his meek physiognomy and scrawny physique, the Kid looked like the offspring of a man and a starving cow. What he lacked in strength and endurance he made up for in wickedness and cruelty.	
+hired_gun2	Old Man Murray	
+hired_gun2_desc	Old Man Murray worked for the Masked Man until he got caught skimming money. To make an example of him, the Masked Man destroyed Murray's gin business and delivered him to hungry cannibals. Grateful for his rescue, Murray pledged Warren his undying loyalty.	
+s1_oldjudge_pc	Brandon Scott	
+s1_oldjudge_pc_desc	Brandon was the scourge of the countryside and a harbinger of endless suffering. A destroyer of dreams and devourer of fortunes, he was the local tax collector.	
+childeater_gdcdemo	Childeater	
+childeater_gdcdemo_desc	Childeater was the kind of person who didn't tell. And you would do well not to ask.	
+devil	Devil	
+card_player_gun	Townsman	
+farmer_gun	Cannibal Gunslinger	
+farmer_rifle	Cannibal Longshot	
+farmer_shotgun	Cannibal Sprayer	
+farmer_sniper	Cannibal Huntress	
+demon_gdcdemo	Demon	
+manager_gdcdemo	Manager Egil Töllner	
+pinkerton_gun	Bank Guard	
+pinkerton_rifle	Bank Guard	
+pinkerton_shotgun	Bank Guard	
+pinkerton_sniper	Bank Guard	
+demongang_gun	Gangster	
+demongang_rifle	Gangster	
+demongang_shotgun	Gangster	
+demongang_sniper	Gangster	
+retired_demon	Retired Demon	
+sheriff	Murderous Sheriff	
+oilrig_pistol	Worker	
+oilrig_shotgun	Worker	
+oilrig_sniper	Worker	
+oilrig_guard_pistol	Guard	
+oilrig_guard_shotgun	Guard	
+oilrig_guard_rifle	Guard	
+oilrig_boss_stage1	Masked Man	
+oilrig_boss_stage2	The Man with the Broken Mask	
+s1_intro_gun	Hired Gun	
+s1_intro_shotgun	Hired Gun	
+s1_intro_rifle	Hired Gun	
+s1_bankguard_gun	Bank Guard	
+s1_bankguard_rifle	Bank Guard	
+s1_bankguard_shotgun	Bank Guard	
+s1_bankguard_sniper	Bank Guard	
+	Scenario 2 Characters	
+s2_cassandra	Cassandra	
+s2_cassandra_desc	Cervantes knew almost nothing about this woman, but she appeared trustworthy. Still, he kept his eye on her.	
+s2_inquisitor	Gabriel de Cervantes	
+s2_inquisitor_desc	A Grand Inquisitor in the service of the Devil, his charisma was matched only by his lack of compassion. Dead bodies and broken dreams followed wherever he went.	
+s2_el_federale	Joaquim Perez	
+s2_el_federale_desc	A god-fearing lawman turned vigilante, Perez had recently killed a member of the Order for personal reasons when he met Cervantes. He had been little more than a mindless puppet since.	
+s2_nun	Rosario Aiza	
+s2_nun_desc	Sister Aiza had devoted her life to worshipping the Lord and felt no punishment was too strong for those who tarnished His name. The Inquisitor found her useful, but knew to keep his true motives hidden.	
+s2_devil_worshipper	Bathym Raum	
+s2_devil_worshipper_desc	Raum's history was as mysterious as his name. Some claimed he had walked the Earth for centuries. As a fellow agent of the Devil, Cervantes considered him an ally. For now, anyway.	
+s2_salesman	Dave Oshry	
+s2_salesman_desc	This snake oil salesman had cheated more common folk than the devil himself. Through his alliance with the Grand Inquisitor, he hoped to even cheat death itself.	
+s2_poncho	Chip	
+s2_poncho_desc	Charlie Hinshaw had gotten his busted tooth fixed, but should have killed his dentist. Thankfully his gunplay was better than his looks. In Cervantes he'd finally found a man who could afford his services.	
+s2_solomon_impostor	Solomon DeLear?	
+s2_solomon	Solomon DeLear	
+s2_order_man_gun	Order Henchman	
+s2_order_man_shotgun	Order Henchman	
+s2_order_man_rifle	Order Henchman	
+s2_order_man_sniper	Order Henchman	
+s2_order_woman_gun	Order Henchman	
+s2_order_woman_shotgun	Order Henchman	
+s2_order_woman_rifle	Order Henchman	
+s2_order_woman_sniper	Order Henchman	
+s2_order_elite_gun	Order Elite	
+s2_order_elite_shotgun	Order Elite	
+s2_order_elite_rifle	Order Elite	
+s2_order_elite_sniper	Order Elite	
+s2_guardian_gun	Sanctuary Guardian	
+s2_guardian_shotgun	Sanctuary Guardian	
+s2_guardian_rifle	Sanctuary Guardian	
+s2_guardian_sniper	Sanctuary Guardian	
+s2_mob_man_gun	Cowboy	
+s2_mob_man_shotgun	Farmer	
+s2_mob_man_rifle	Citizen	
+s2_mob_whore_gun	Prostitute	
+s2_mob_rich_gun	Businessman	
+s2_clairvoyant	Clairvoyant	
+killer_shotgun	Order Henchman	
+	Scenario 3 Characters	
+undertaker	Undertaker	
+undertaker_desc	Your father's deal with the devil had jinxed everyone around him. To avoid hurting you, he left, changed his name and became the Undertaker. But the freshly renamed "Benjamin Morin" couldn't escape his fate. The next victim of the curse would be his new hometown, when it was decimated by Bathym Raum's cultists.	
+s3_oswald	Oswald Harrington	
+s3_oswald_desc	A retired bounty hunter, Harrington's long face, brusque manner, sharp skills, and quirky sense of justice were forged over years of running down lowlifes.	
+s3_hired_gun1	Abe Fleischer	
+s3_hired_gun1_desc	More bloodthirsty ape than human being, it was rumored that Fleischer switched from slavery to gunslinging, because he preferred dead to alive.	
+s3_hired_gun2	Booker Johnson	
+s3_hired_gun2_desc	Born a slave, Johnson freed himself through a combination of determination and firepower. Those who threatened him never lived long.	
+s3_ashmore	Reverend Ashmore	
+s3_ashmore_desc	Reverend Ashmore was a preacher for hire, who insisted on being paid in opium. The closest thing to a saint you could find in this age, he felt his bible-toting present balanced out his gunslinging past.	
+s3_demonprince	Bathym Raum, the Demon Prince	
+madman_king	Madman king	
+cultist_gun	Cultist	
+cultist_rifle	Cultist	
+cultist_shotgun	Cultist	
+cultist_sniper	Cultist	
+3_1_leader_cultist	Cultist Leader	
+3_1_cultist_gun	Ardent Cultist	
+3_1_cultist_rifle	Devoted Cultist	
+3_1_cultist_frenzy	Frenzied Cultist	
+3_1_cultist_shotgun	Zealous Cultist	
+3_1_cultist_sniper	Ruthless Cultist	
+3_3_madman_king	Mad King	
+3_3_mad_woman_gunsling	Megaloman Madwoman	
+3_3_madman_gunslinger	Delirious Madman	
+3_3_mad_woman_fast	Obsessive Madwoman	
+3_3_madman_rifleman	Schizophrenic Madman	
+3_3_madman_brawler	Paranoic Madman	
+3_2_cultist_gun	Ardent Cultist	
+3_2_cultist_rifle	Devoted Cultist	
+3_2_cultist_frenzy	Frenzied Cultist	
+3_2_cultist_shotgun	Zealous Cultist	
+3_4_cultist_gun	Ardent Cultist	
+3_4_cultist_rifle	Devoted Cultist	
+3_4_cultist_frenzy	Frenzied Cultist	
+3_4_cultist_shotgun	Zealous Cultist	
+	Scenario 4 Characters	
+s4_undead	Warren	
+s4_undead_desc	After exacting your revenge on the Masked Man, you learned that Florence was trapped in Purgatory. You set out to bring her back, no matter the consequences.	
+s4_undertaker	Undertaker	
+s4_undertaker_desc	The curse had nearly driven Father mad, especially when it had recurred. But then he had been given new purpose by visiting his curse upon the evil forces threatening the land. He knew he would eventually have to face you, though, and accepted his fate solemnly.	
+s4_inquisitor	Gabriel de Cervantes	
+s4_inquisitor_desc	The Inquisitor had served his master well. Your posse only rode with the best, and he joined to help take Purgatory.	
+s4_cassandra	Cassandra Lee Snowden	
+s4_cassandra_desc	Finally free from her powers of clairvoyance, Cassandra returned to the mainland to fight the evil that had always haunted her visions.	
+s4_hooker_pc	Lulu	
+s4_hooker_pc_desc	Lulu had been one of Emma Bai-Bai's working girls. Smart enough to get herself out of the mess at the brothel, she was also a crack shot and had no qualms about volunteering her body to help the cause.	
+s4_deviant_pc	Randy Hardin	
+s4_deviant_pc_desc	Hardin's lifelong addiction to the pleasures of the flesh cost him a fortune and left him riddled with disease. In his later years he worked as Wizard Algretto's head of security until the wizard turned on him, detaining him without explanation.	
+s4_last_mohican_pc	Cheveyo	
+s4_last_mohican_pc_desc	The last of his tribe, soul warrior Cheveyo navigated by the twin stars of honor and revenge.	
+s4_war_hero_pc	Jefferson Burns	
+s4_war_hero_pc_desc	Jefferson Burns had made a career out of Indian killing. But his last mission, to massacre an entire native tribe, had shaken his soul. He hoped freeing the souls trapped in Purgatory would redeem his unforgivable actions on earth.	
+s4_bounty_hunter_pc	Miguel "El Hermoso" Ochoa	
+s4_bounty_hunter_pc_desc	A bounty hunter working for Wizard Algretto, Ochoa joined you to help recover Henry Persons. Ochoa stayed with your party regardless of your actions, though he never explained why.	
+s4_pinkerton_pc	Henry H. Persons	
+s4_pinkerton_pc_desc	Rumored to have served under Solomon DeLear, Henry Howard Persons may not have been entirely stable, but he was an accomplished gunfighter with an iron will.	
+s4_harrington_pc	Oswald Harrington	
+s4_harrington_pc_desc	A retired bounty hunter, Harrington's long face, brusque manner, sharp skills, and quirky sense of justice were forged over years of running down lowlifes.	
+s4_cultist_gun	Ardent Cultist	
+s4_cultist_rifle	Devoted Cultist	
+s4_cultist_frenzy	Frenzied Cultist	
+s4_skullspawn_demon	Skullspawn Demon	
+s4_hooker_gun	Working Girl	
+s4_hooker_shotgun	Barmaid	
+s4_hooker_madam	Emma Bai-Bai	
+s4_brothel_gunman1	David Vega	
+s4_brothel_gunman2	Pablo del Poncho	
+s4_brothel_gunman3	Luciano Frias-Andrade	
+s4_brothel_patron	Patron	
+s4_madam_assistant	James Rusk, Madam's Assistant	
+s4_madam_bodyguard	Gesheed the Bodyguard	
+s4_brothel_guard	Swanky K	
+s4_vermillion	Sean Vermillion	
+s4_wizard_gun	Gun-Toting Bozo	
+s4_wizard_rifle	Gallery Clerk	
+s4_wizard_sniper	Bullet Thrower	
+s4_convict_gun	Miserable Convict	
+s4_convict_rifle	Eagle Eye Convict	
+s4_convict_lead	Spartacus' Chapin	
+	Scenario 5 Characters	
+soloman	Solomon DeLear	
+soloman_desc	DeLear was a brilliant and inquisitive inventor who took over Trumercliff's laboratory and work. He was determined to stop the plague of Madness, no matter the cost.	
+apersons	A. Persons	
+apersons_desc	Fighting a plague of Madness is no mean feat. So the Protector hired three Pinkerton agents to protect DeLear while he worked. Mr. A. Persons is one of them.	
+bpersons	B. Persons	
+bpersons_desc	The Protector knew things would get bloody. And he did not want DeLear to become distracted by attachments to his bodyguards, should they fall in the line of duty. Thus his contract specified that each agent's true identity and name should be obscured. Each would simply be Mr. Persons.	
+cpersons	C. Persons	
+cpersons_desc	Whenever one of the Persons was killed, another Pinkerton agent was sent to replace him, taking on the same name and mission of his predecessor: protect DeLear at all costs.	
+madman	Madman	
+trumercliff	Trumercliff	
+turner	Sheriff Turner	
+madpersons	Mad Persons	
+5_1_madman_gunslinger	Deliric Madman	
+5_1_mad_woman_fast	Obsessive Madwoman	
+5_1_madman_rifleman	Schizophrenic Madman	
+5_1_madman_brawler	Paranoic Madman	
+5_2_madman_brawler	Paranoic Madman	
+5_2_madman_rifleman	Schizophrenic Madman	
+5_2_mad_woman_gunsling	Megaloman Madwoman	
+5_2_madman_deputy	Turner's Deputy	
+5_3_nightmare_gunsling	Nighmare of Insanity	
+5_3_nightmare_woman	Nightmare of Dellusion	
+5_3_nightmare_soldier	Nightmare of Violence	
+5_3_nightmare_persons	Nightmare of Paranoia	
+5_3_nightmare_demon	Nightmare of Cruelty	
+5_4_mad_woman_fast	Obsessive Madwoman	
+5_4_madman_rifleman	Schizophrenic Madman	
+5_4_madman_brawler	Paranoic Madman	
+5_4_madman_deputy	Turner's Deputy	
+5_4_madpersons	Mad Persons	
+5_4_mad_woman_gunsling	Megaloman Madwoman	
+5_5_madpersons	Mad Persons	
+5_5_mad_woman_gunsling	Megaloman Madwoman	
+5_5_mad_soldier	Psychopatic Madman	
+5_5_madman_brawler	Paranoic Madman	
+5_5_madman_deputy	Turner's Deputy	
+	Scenario 6 Characters	
+gentleman	Alvaro Vasquez	
+gentleman_desc	Alvaro Vasquez was born into a wealthy family, but felt unfulfilled. He hoped his mission to the Golden City would both fatten his wallet and fill the emptiness in his soul.	
+gentleman_mask	Masked Man	
+gentleman_mask_desc	Alvaro's character had changed along with his appearance. Whatever was going on behind the mask was anyone's guess.	
+old_friend	Diego	
+old_friend_desc	Diego and Vasquez had been best friends since early childhood, each watching out for the other. Though his friend seemed driven by a certain mania, there was no way Diego could refuse this adventure.	
+tutor	Señor Zacarías	
+tutor_desc	Zacarias was a scholar and a war veteran who had mentored Vasquez since childhood. Vasquez considered him a loyal friend and a trusted advisor. In many ways he was closer to Zacarias than he was to his own father.	
+s6_inquisitor	Gabriel de Cervantes	
+s6_inquisitor_desc	Cervantes was a feared and respected member of the Inquisition. He felt Vasquez had great potential to be an righteous instrument of the almighty.	
+s6_adventurer	Victor Suncove	
+s6_adventurer_desc	Suncove was a famous adventurer who had seen more of the globe than any other man. A vicious fighter and unrepentant narcissist, some said his courage was almost entirely dependent on his ignorance.	
+s6_peons_leader	David O'Connell	
+s6_peons_leader_desc	As was evident from his scarred face, O'Connell had taken his share of lumps. He was an effective manager, but derived a disturbing amont of joy from killing.	
+s6_bandit_gun	Lafórtuna's Thug	
+s6_bandit_rifle	Lafórtuna's Sharpshooter	
+s6_bandit_shotgun	Lafórtuna's Bruiser	
+s6_peon_gun	Zacarías's Supporter	
+s6_peon_rifle	Zacarías's Supporter	
+s6_peon_shotgun	Zacarías's Supporter	
+s6_mercenary	Mercenary Gunslinger	
+s6_rebel_gun	Native Gunman	
+s6_rebel_rifle	Native Gunman	
+s6_rebel_shotgun	Native Gunman	
+s6_rebel_sniper	Native Gunman	
+tutor_hostile	Señor Zacarías	
+old_friend_hostile	Diego	
+	Scenario 7 Characters	
+warren	Warren	
+warren_desc	That's you.<br>After Mother died, you had to grow up fast. You were always impulsive, courageous and wild at heart. You always believed in doing the right thing, no matter the consequences. And you never pulled your punches.	
+warrens_father	Father	
+warrens_father_desc	Father was a reasonable, law-abiding man. The best role model a kid could have, he never lost hope, no matter what the hard, unforgiving West dished out.	
+s7_florence	Florence	
+s7_florence_desc	The love of your life. After Mother and Father, she was the only person in the world you ever gave a good goddamn about. Willowy but able, and braver than a mother mongoose, she was ready to stand by your side come what may.	
+s7_vaquero	Cheech	
+s7_vaquero_desc	As he himself often said, Cheech wasn't paid to talk. But he was a competent gunfighter, and didn't flinch from death.	
+s7_worst_mexican	Lucio Moleana	
+tutorial_enemy1	Outlaw	
+tutorial_enemy2	Outlaw	
+tutorial_enemy3	Outlaw	
+tutorial_enemy4	Outlaw	
+attacker_gun	Attacker	
+attacker_rifle	Attacker	
+attacker_shotgun	Attacker	
+attacker_sniper	Attacker	
+s7_criminal	Moritz Haase	
+judge_junior	Gunmen Leader	
+s7_bandit	Bandit	
+loan_shark	Loan Shark El Oshcuro	
+s7_t2_attacker_gun	Bandit	
+s7_t2_attacker_rifle	Bandit	
+s7_t2_attacker_shotgun	Bandit	
+s7_sharkguard_gun	Guard	
+s7_sharkguard_rifle	Guard	
+s7_sharkguard_shotgun	Guard	
+s7_mexambush_gun	Bandit	
+s7_mexambush_rifle	Bandit	
+s7_mexambush_shotgun	Bandit	
+s7_railroad_gun	Invader	
+s7_railroad_rifle	Invader	
+s7_railroad_shotgun	Invader	
+s7_miner1	Pat Douglas	
+s7_miner1_desc	Pat's parents were chasing gold as well. He's been a gold digger ever since he can remember.	
+s7_miner2	Old Ike	
+s7_miner2_desc	Ike has been working the deep mines, mostly. By now he's always squinting and avoids sunlight.	
+	Scenario 8 Characters	
+cassandra_pc	Cassandra Lee Snowden	
+cassandra_pc_desc	Cassandra Lee Snowden's charm and education helped her become an accomplished con-artist. Her precognition powers made her a powerful ally, and the most wanted woman in the west.	
+rogue_pc	Andrew Hardin	
+rogue_pc_desc	Hardin first appeared to be a chilvalrous diamond in the rough. But in time, the leers he shot at any woman in sight, including Cassandra, showed his true nature.	
+paco_pc	Paco	
+paco_pc_desc	Big as a house and dumb as a rock, Paco took everything at face value. In his eyes, Cassandra was an angel who walked the earth. She could do no wrong and he would do anything for her.	
+felicia_pc	Felicia Alambre	
+felicia_pc_desc	A native child who was kidnapped by settlers, she was educated and named by Europeans then sold into marriage. When her husband drank himself to death, she was saddled by his debts, and could only hope to make enough money at the local brothel. Staying alive there had made her hard and unsentimental. Both excellent traits in a warrior.	
+macho_pc	Jim Vaughn	
+macho_pc_desc	A professional gambler and duelist, Jim Vaughn's hey-day had passed. Inspired by Cassandra, though, he'd decided to pick up his guns again.	
+el_federale	Joaquim Perez	
+el_federale_desc	A brutal vigilante and the favorite pet of Inquisitor Cervantes, Perez would stop at nothing to bring Cassandra to justice. Preferably at the end of a rope. Now, however, after seeing the Protector's experiments, he thought there might be wisdom in sparing her.	
+angry_peasant	Angry Peasant	
+rurale_long	Rurale	
+rurale_short	Rurale	
+rurale_sniper	Rurale	
+freak_collector	The Protector	
+s8_merc	Protector's Thug	
+s8_merc2	Protector's Thug	
+s8_mex_soldier_long	Mercenary	
+s8_mex_soldier_short	Mercenary	
+s8_mex_soldier_close	Mercenary	
+s8_mob_leader	Executioner	
+s8_peasant_gun	Angry Peasant	
+s8_female_townie_gun	Bloodthirsty Citizen	
+s8_peasant_shotgun	Angry Peasant	
+s8_suspicious_peasant_shotgun	Dimwitted Peasant	
+s8_townie_gun	Bloodthirsty Citizen	
+s8_townie_rifle	Bloodthirsty Citizen	
+s8_minion_normal	Inquisitor's Corrupt Rurale	
+s8_minion_demon	Inquisitor's Demonic Minion	
+s8_lunatic_demon	Failed Experiment	
+	Unassigned characters	
+gcdemo_hiredgun1	Cheveyo	
+gcdemo_hiredgun2	Sir Arthur Fitzsimmons	
+undertaker_hack	Undertaker	

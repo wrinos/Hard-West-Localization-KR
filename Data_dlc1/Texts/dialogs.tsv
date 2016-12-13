@@ -1,0 +1,150 @@
+dialog_id	en	filename	duration	postpause	speaker_id
+	Tactical 9_1: Quarry				
+s9_t1_reveal	Is that you, Libertee?	s9_t1_reveal	3	1	morbid
+s9_t1_kill_theodor	Oh dear me, there goes Theodor.	s9_t1_kill_theodor	3	1	morbid
+s9_t1_kill_louise	Louise! Rest in peace, you cranky old hag.	s9_t1_kill_louise	3	1	morbid
+s9_t1_kill_gunther	Gunther! I hope this gives you the peace you deserve.	s9_t1_kill_gunther	3	1	morbid
+s9_t1_3rdkill	Please! Stop shooting and let me explain!	s9_t1_3rdkill_00	3	0	morbid
+s9_t1_3rdkill	You'll pay, you sick bastard!	s9_t1_3rdkill_01	3	0	libertee
+s9_t1_3rdkill	I never meant you harm. Quite the opposite in fact. Do you remember the day you escaped?	s9_t1_3rdkill_02	3	0	morbid
+s9_t1_escape_intro	After the Emancipation. You think I'd forget a day like that?	s9_t1_escape_intro_00	3	1	libertee
+s9_t1_escape_intro	Many would have seen it as a victory and waited for the fall of the Confederacy.	s9_t1_escape_intro_01	3	0	morbid
+s9_t1_escape_intro	But you took matters into your own hands. I saw what you did. You... were magnificent.	s9_t1_escape_intro_02	3	0	morbid
+s9_t1_objectives	Freedom was just beyond the quarry gate. But how to get it open?	s9_t1_objectives_00	3	0	morbid
+s9_t1_objectives	I had guns stashed around the camp. And I had a friend in the brig. I'd been planning.	s9_t1_objectives_01	3	0	libertee
+s9_t1_weapons	How you smuggled those weapons in is still a riddle to me.	s9_t1_weapons_00	3	0	morbid
+s9_t1_weapons	You can do a lot of things when you're desperate enough.	s9_t1_weapons_01	3	0	libertee
+s9_t1_friend	You risked your own freedom to save that poor devil from the brig. Your courage was incredible.	s9_t1_friend_00	3	0	morbid
+s9_t1_friend	I only saved him because I needed an extra pair of hands.	s9_t1_friend_01	3	0	libertee
+s9_t1_friend	Call it what you will. I still found it marvelous.	s9_t1_friend_02	3	0	morbid
+s9_t1_gateopened	Somehow you found a way to open the gate to your freedom.	s9_t1_gateopened_00	3	0	morbid
+s9_t1_gateopened	When I saw this, I knew you were the one I had been looking for.	s9_t1_gateopened_01	3	0	morbid
+s9_t1_getaway	Sliding down that chute was certain death. But you still braved it.	s9_t1_getaway_00	3	0	morbid
+s9_t1_getaway	I'd rather die than be a slave a minute longer.	s9_t1_getaway_01	3	0	libertee
+s9_t1_getaway	It was apparent, my dear. And incredible.	s9_t1_getaway_02	3	0	morbid
+	Strategic: Stage 1				
+s9_str1_intro	I had to look away. Your fall was too painful to watch.	s9_str1_intro_00	3	1	morbid
+s9_str1_intro	Luckily, we reached you before the slavers.	s9_str1_intro_01	3	1	morbid
+s9_str1_intro	We took your broken body to my laboratory where you would be safe.	s9_str1_intro_02	3	0	morbid
+s9_str1_cuttochase	Get to the point. Why did you do it? Why me?	s9_str1_cuttochase_00	3	0	libertee
+s9_str1_cuttochase	Patience. I will explain all.	s9_str1_cuttochase_01	3	0	morbid
+s9_str1_cuttochase	Oh, you will. Or you gonna have a real pretty hole where your face used to be.	s9_str1_cuttochase_02	3	0	libertee
+s9_str1_surgery	You were already an incredible specimen. Your surgeries made you something even more.	s9_str1_surgery_00	3	0	morbid
+s9_str1_surgery	Even more what? Your surgeries made me a monster. You only wanted me for your sick fantasies.	s9_str1_surgery_01	3	0	libertee
+s9_str1_surgery	And after you'd had your fun, you sent those thugs to kill me.	s9_str1_surgery_02	3	0	libertee
+	Tactical 9_2: Cemetery				
+s9_t2_intro	When I woke up, the pain was blinding. And my hands...	s9_t2_intro_00	5	0	libertee
+s9_t2_intro	Yes, your hands were quite mangled in the fall. But in any case, your new ones are far superior.	s9_t2_intro_01	3	0	morbid
+s9_t2_intro	Superior?! These are Fred Glass's hands, you bastard!	s9_t2_intro_02	3	0	libertee
+s9_t2_firstkill	Your armed goons were closing in. But I don't die easy.	s9_t2_firstkill	3	0	libertee
+s9_t2_phineas	The gunfire woke up Phineas. Your other freak.	s9_t2_phineas	3	0	libertee
+s9_t2_doorslocked	I was locked in. But no lock ever stopped me for long.	s9_t2_doorslocked	3	0	libertee
+s9_t2_released	Luckily, Phineas had the key and let me out.	s9_t2_released_00	3	0	libertee
+s9_t2_released	We needed to get away. No witnesses.	s9_t2_released_01	3	0	libertee
+s9_t2_released	We figgered we could buy some time if we made a few false tracks.	s9_t2_released_02	3	0	libertee
+s9_t2_healed	Whatever was in that tank, it kicked like a mule.	s9_t2_healed	3	0	libertee
+s9_t2_falsetracks	After that I knew we wouldn't be followed.	s9_t2_falsetracks	3	0	libertee
+s9_t2_end	You saw how I handle myself in the quarry; what made you think you'd be able to kill me?	s9_t2_end_00	3	0	libertee
+s9_t2_end	If I *were* trying to kill you, why would I send Phineas to help you?	s9_t2_end_01	3	0	morbid
+s9_t2_end	He'w's your victim, same as me. Even without him talking none, we had an understanding.	s9_t2_end_02	3	0	libertee
+	Strategic: Stage 2				
+s9_str2_intro	I'w's furious. I swore I'd kill the sumbitch that did this to me.	s9_str2_intro_00	3	0	libertee
+s9_str2_intro	Didn't Phineas tell you about me? About my intentions?	s9_str2_intro_01	3	0	morbid
+s9_str2_intro	Oh he wrote out a whole pretty story. Too bad I can't read.	s9_str2_intro_02	3	0	libertee
+s9_str2_vigilantes	Two vigilantes tryin' to do the same as me? I thought maybe we could make a deal.	s9_str2_vigilantes	3	0	libertee
+s9_str2_evangelists	Them brothers was carryin' a heavy grudge on those doctors.	s9_str2_evangelists_00	3	0	libertee
+s9_str2_evangelists	And I figured them doctors for the ones as done this to me. If only I'd known it was you all along.	s9_str2_evangelists_01	3	0	libertee
+s9_str2_evangelists	I am innocent! Well, mostly. But do go on.	s9_str2_evangelists_02	3	0	morbid
+	Tactical 9_3: Ironlines				
+s9_t3_intro	It was a setup, all right.	s9_t3_intro_00	3	0	libertee
+s9_t3_intro	As soon as we arrived, them slavers started poppin' out from under every damn rock.	s9_t3_intro_01	3	0	libertee
+s9_t3_ending	Later, we found out the train had almost nothing of value.	s9_t3_ending_00	3	0	libertee
+s9_t3_ending	But that pile o' corpses would certainly get us lots of Ether.	s9_t3_ending_01	3	0	libertee
+	Tactical 9_4: GreenerPastures				
+s9_t4_intro_pt1_solo	To get inside, I acted real pitiful. Pantomin' like I needed the doctors' help.	s9_t4_intro_pt1_solo	3	0	libertee
+s9_t4_intro_pt1_bros	The plan was to get inside pretending Phineas and I were captives.	s9_t4_intro_pt1_bros	3	0	libertee
+s9_t4_intro_pt2_both	Once we got past them guards, we'd get the answers we were after one way or another.	s9_t4_intro_pt2_both	3	0	libertee
+s9_t4_doctorsubdued	I pulled my gun on that fancy-pants doctor. He told me everything. Damn near messed his shorts too.	s9_t4_doctorsubdued_00	3	0	libertee
+s9_t4_doctorsubdued	He told me your name. Told me 'bout your ideas too. Superior humans.	s9_t4_doctorsubdued_01	3	0	libertee
+s9_t4_tapes	They had this funny talking machine. And these cylinders with voices on 'em?	s9_t4_tapes_00	3	0	libertee
+s9_t4_tapes	I put a few in and listened. They told all about you and your damned experiments.	s9_t4_tapes_01	3	0	libertee
+s9_t4_lies	My work, you mean! But, Phineas. Did he not tell you that it was a load of blasted lies?	s9_t4_lies_00	3	0	morbid
+s9_t4_lies	Sure didn't. Ain't that a kick in the head. Maybe he ain't so fond of you after all?	s9_t4_lies_01	3	0	libertee
+s9_t4_combatstarts	Them guards didn't fall for our trick for long.	s9_t4_combatstarts	3	0	libertee
+s9_t4_getaway	I had what I came for, so I called the retreat.	s9_t4_getaway	3	0	libertee
+s9_t4_getaway_a	But the brothers wanted the doctors dead.	s9_t4_getaway_a_00	3	0	libertee
+s9_t4_getaway_a	They said they didn't mind if we skipped, but they needed to avenge their brothers.	s9_t4_getaway_a_01	3	0	libertee
+s9_t4_getaway_b	The boat was waiting by the river.	s9_t4_getaway_b_00	3	0	libertee
+s9_t4_getaway_b	But then again, we might as well send every last one of those bastards straight to hell.	s9_t4_getaway_b_01	3	0	libertee
+s9_t4_endkill	Damn if that river didn't run red till we left it.	s9_t4_endkill	3	0	libertee
+s9_t4_endboat	We jumped in that boat and got away, fast as we could.	s9_t4_endboat	3	0	libertee
+	Strategic: Stage 2, post 9_4				
+s9_str3_quarry	Those men. The doctors. They lied to you. They just wanted to turn you against me.	s9_str3_quarry_00	3	0	morbid
+s9_str3_quarry	You lie! You were one of them!	s9_str3_quarry_01	3	0	libertee
+s9_str3_quarry	There was a time when I counted myself among their number. But no more.	s9_str3_quarry_02	3	0	morbid
+s9_str3_postquarry	Libertee, I implore you. Let us go back to the surgery and I will show you.	s9_str3_postquarry_00	3	0	morbid
+s9_str3_postquarry	Circumstances forced me to abandon you.	s9_str3_postquarry_01	3	0	morbid
+	Strategic: Stage 3				
+s9_t5_splosion	The blast resulting from the overloading Ether pump was a sight to behold.	s9_t5_splosion_00	3	0	morbid
+s9_t5_splosion	Heavy though it weighed on my heart, I knew I could not solve that conundrum on the cemetery.	s9_t5_splosion_01	3	0	morbid
+s9_t5_splosion	I had to find the other Masked Doctors and tell them of this treason.	s9_t5_splosion_02	3	0	morbid
+s9_t5_splosion	And I'm supposed to believe that's why you left me to die?	s9_t5_splosion_03	3	0	libertee
+s9_t5_splosion	I had no choice. But I instructed Phineas to protect you. And you survived.	s9_t5_splosion_04	3	0	morbid
+s9_str3_humiliation	My radical ideas upset the primitive minds of the locals, which put me at odds with Duval's political ambition.	s9_str3_humiliation_00	3	1	morbid
+s9_str3_humiliation	He betrayed me. Left me mutilated and humiliated in a refuge for penniless wretches.	s9_str3_humiliation_01	3	0	morbid
+s9_str3_wantedfound	When I heard you had survived, I was ecstatic. I knew you had embraced your superhuman potential!	s9_str3_wantedfound_00	3	1	morbid
+s9_str3_wantedfound	And you chose to remain in the quarry and wait for me. I knew then you had feelings for me!	s9_str3_wantedfound_01	3	0	morbid
+s9_str3_wantedfound	Oh I got feelings. Just not the ones you're thinking of.	s9_str3_wantedfound_02	3	0	libertee
+	Tactical 9_5: Cemetery Escape				
+s9_t5_intro	The surgery was a triumph. And a resounding validation of my theories.	s9_t5_intro_00	3	1	morbid
+s9_t5_intro	Unless I stabilized your grafts, though, it would all be for naught.	s9_t5_intro_01	3	1	morbid
+s9_t5_intro2	I prepared to redirect the flow of Ether to you. Phineas was to open the valve on my signal.	s9_t5_intro_02	3	0	morbid
+s9_t5_etherflow	It was done. I sighed with relief and smiled with barely contained satisfaction.	s9_t5_etherflow_00	3	0	morbid
+s9_t5_etherflow	When you start smiling, I start worrying.	s9_t5_etherflow_01	3	0	libertee
+s9_t5_etherflow_b	That's when I heard the commotion outside.	s9_t5_etherflow_02	3	0	morbid
+s9_t5_enemies	A bunch of scoundrels held their guns with what I interpreted as a hostile intention.	s9_t5_enemies_00	3	1	morbid
+s9_t5_enemies	Initially, I mistook them for morphine addicts looking to ease their pain.	s9_t5_enemies_01	3	0	morbid
+s9_t5_enemies	Then I realized they were led by a Masked Doctor. That preposterous plague mask was unmistakable.	s9_t5_enemies_02	3	0	morbid
+s9_t5_valvesstart	For every rascal we eliminated, two more appeared. Fighting them individually was futile.	s9_t5_valvesstart_00	3	1	morbid
+s9_t5_valvesstart	Quickly, I came up with a plan. If I overloaded the pump in the chapel it would distract them.	s9_t5_valvesstart_01	3	0	morbid
+s9_t5_valvesshut	The trap was set. The pump explosion would knock everyone there unconscious.	s9_t5_valvesshut_00	3	1	morbid
+s9_t5_valvesshut	Meantime, I needed to get help. And try to find some answers.	s9_t5_valvesshut_01	3	0	morbid
+	Tactical 9_6: Harbor				
+s9_t6_intro	When the Doctors' minions found out we were coming, they started draining the Ether into the river.	s9_t6_intro_00	3	0	morbid
+s9_t6_intro	We had to make haste, if we were to secure anything at all!	s9_t6_intro_01	3	0	morbid
+s9_t6_deadbutether	The minions were dead, but the Ether was still flowing into the river.	s9_t6_deadbutether	3	0	morbid
+s9_t6_ethersecured1	We closed the valve on the first tank. The trip would not be completely in vain.	s9_t6_ethersecured1	3	0	morbid
+s9_t6_ethersecured2	The second valve was closed with some Ether still in the keg.	s9_t6_ethersecured2	3	0	morbid
+s9_t6_ethersecured3	The final keg was now secure. We made quite a capable team.	s9_t6_ethersecured3	3	0	morbid
+s9_t6_killremaining	All that remained was the unfortunate business of eliminating the witnesses.	s9_t6_killremaining	3	0	morbid
+s9_t6_etherlost	The tanks were empty and the Ether floated downstream, useless to everyone.	s9_t6_etherlost	3	0	morbid
+s9_t6_allkilled_etherplus	The Doctors' minions were dead and the Ether was secured.	s9_t6_allkilled_etherplus_00	3	0	morbid
+s9_t6_allkilled_etherplus	It was a victory worthy of Nelson or Wellington.	s9_t6_allkilled_etherplus_01	3	0	morbid
+s9_t6_allkilled_etherfailed	While we did not secure much Ether, we at least crippled the Doctors' operations there.	s9_t6_allkilled_etherfailed_00	3	0	morbid
+s9_t6_allkilled_etherfailed	And that felt like victory.	s9_t6_allkilled_etherfailed_01	3	0	morbid
+	Tactical 9_7: Quarry Showdown				
+s9_t7_s1_intro	I first suspected your grudge against me when I was surrounded by armed thugs.	s9_t7_s1_intro_00	3	0	morbid
+s9_t7_s1_intro	But I was shocked when it became clear you'd told them to terminate my life. I shot first.	s9_t7_s1_intro_01	3	0	morbid
+s9_t7_s1_intro	Idiots. I told them to disarm you. But don't worry. We'll get to the killing.	s9_t7_s1_intro_02	3	0	libertee
+s9_t7_s1_desertersdead	I made it my mission to find you and explain our apparent misunderstanding.	s9_t7_s1_desertersdead	3	0	morbid
+s9_t7_s1_flare	I spotted fire in the distance and decided to investigate.	s9_t7_s1_flare	3	0	morbid
+s9_t7_s1_flare_alt	I spotted fire in the distance. I made a note to investigate once the thugs were dead.	s9_t7_s1_flare_alt	3	0	morbid
+s9_t7_intro	Now you know everything. I admit, I did not treat you too tenderly.	s9_t7_intro_00	3	0	morbid
+s9_t7_intro	But has anyone? I at least empowered you to do your own bidding.	s9_t7_intro_01	3	2	morbid
+s9_t7_intro	So kill me, if you will. Without you, I have no reason to go on.	s9_t7_intro_02	3	0	morbid
+s9_t7_killed	You stole my freedom. You disfigured me with your experiments. You are no better than the slavers.	s9_t7_killed	3	0	libertee
+s9_t7_foes	Who is that?!	s9_t7_foes_00	3	0	libertee
+s9_t7_foes	Duval's men, no doubt. It was... a setup.	s9_t7_foes_01	3	0	morbid
+s9_t7_subdued	Stop whining, old man. You're one sick bastard. But I won't be the one to kill you.	s9_t7_subdued_00	3	0	libertee
+s9_t7_subdued	You are truly the superior human being I have been looking for, Libertee!	s9_t7_subdued_01	3	0	morbid
+s9_t7_subdued	Save it!	s9_t7_subdued_02	3	0	libertee
+s9_t7_subdued_foes	Wh-- who are these people?!	s9_t7_subdued_foes_00	3	0	libertee
+s9_t7_subdued_foes	Duval's men, no doubt! They seem to have us surrounded!	s9_t7_subdued_foes_01	3	0	morbid
+s9_t7_noduval_first	I can't see Duval anywhere!	s9_t7_noduval_first	3	0	libertee
+s9_t7_noduval_second_lib	He must be hiding.	s9_t7_noduval_second_lib	3	0	libertee
+s9_t7_noduval_second_doc	No doubt he's skulking in the back somewhere, the coward.	s9_t7_noduval_second_doc	3	0	morbid
+s9_t7_reinforcements	There he is!	s9_t7_reinforcements	3	0	libertee
+s9_t7_duvaldead	Rest in pieces, Duval.	s9_t7_duvaldead	3	0	libertee
+s9_t7_duvaldead_morbid	Good riddance, I say!	s9_t7_duvaldead_morbid	3	0	morbid
+s9_t7_ending_gorman	What now, Libertee?	s9_t7_ending_gorman	3	1	morbid
+s9_t7_ending_libertee	I've got my freedom. But there's others waiting for it too. It's time to help them get it.	s9_t7_ending_libertee	3	0	libertee

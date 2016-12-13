@@ -1,0 +1,212 @@
+text_id	en	format
+	Names of characters performing voiced narration	
+speaker_libertee	Libertee	
+speaker_morbid	Dr Gorman	
+	Shop names	
+s9_shop_morgue_name	The Morgue	
+s9_shop_gunsmith_name	Maple Falls Gunshop	
+s9_shop_gunsmith2_name	Maple Falls Gunshop	
+s9_shop_outlawden_name	Outlaw Den	
+s9_shop_congregation_name	Herbalist's	
+s9_shop_congregation2_name	Herbalist's	
+s9_shop_nikosgoods_name	Niko's General Goods	
+	Character names and descriptions	
+s9_morbid	Dr Aldous Gorman	
+s9_morbid_desc	Doctor Gorman is an expert in medicine, human anatomy and the revolutionary new field of transplantology. A pioneer, his research attracts disgust, fear and envy, but his work is meticulously researched using the latest methods.	
+s9_libertee	Libertee	
+s9_libertee_desc	Born a slave, Libertee was given a name that fit the hopes and wishes of her parents. As a young woman, she is determined to live up to the appellation.	
+s9_libertee_monster	Libertee	
+s9_libertee_monster_desc	After her monstrous transformation, Libertee might look like a corpse, but her new grafts make her tougher, faster and more dangerous than most.	
+s9_phineas	Phineas	
+s9_phineas_desc	Dr Gorman's mute manservant, Phineas has served as a test subject for many of his master's experimental treatments. This has not been without impact on Phineas' looks, sympathies or psyche. Reticent to say the least, no one knows his true feelings about his employer.	
+s9_phineas_copy	Phineas	
+s9_phineas_copy_desc	Dr Gorman's mute manservant, Phineas has served as a test subject for many of his master's experimental treatments. This has not been without impact on Phineas' looks, sympathies or psyche. Reticent to say the least, no one knows his true feelings about his employer.	
+s9_theodor	Theodor	
+s9_theodor_desc	In his younger days, Theodor was a successful traveling salesman. When he got too old (and too recognized for his snake oil), his family placed him in a home for the destitute. Now he is on the loose again, however.	
+s9_theodor_alt	Theodor	
+s9_theodor_alt_desc	In his younger days, Theodor was a successful traveling salesman. When he got too old (and too recognized for his snake oil), his family placed him in a home for the destitute. Now he is on the loose again, however.	
+s9_louise	Louise	
+s9_louise_desc	One would have a hard time finding a meaner woman than Louise. After nagging three husbands into early graves, her viciousness was a legend in the Lonestar state.	
+s9_louise_alt	Louise	
+s9_louise_alt_desc	One would have a hard time finding a meaner woman than Louise. After nagging three husbands into early graves, her viciousness was a legend in the Lonestar state.	
+s9_madjoe	Gunther	
+s9_madjoe_desc	After losing his entire platoon in the Mexican-American war, Gunther lost the will to live. A shell-shocked old man, every day he prays to death to deliver him to his comrades.	
+s9_madjoe_alt	Gunther	
+s9_madjoe_alt_desc	After losing his entire platoon in the Mexican-American war, Gunther lost the will to live. A shell-shocked old man, every day he prays to death to deliver him to his comrades.	
+s9_luke	Luke the Evangelist	
+s9_luke_desc	Luke is a former member of the infamous Evangelist gang, made up of four brothers bearing the names Matthew, Mark, Luke and John.	
+s9_john	John the Evangelist	
+s9_john_desc	The youngest of the four Evangelist brothers, John is partly responsible for the gang's demise. Now reconciled with his only surviving brother, John is trying to make amends.	
+s9_slave1_pc	Fred Glass	
+s9_slave1_pc_desc	Fred Glass was one of the few men working in Stringfellow Quarry who hadn't lost his will to live free. Now he has a chance to make his dream come true.	
+s9_slave2_pc	Paddy Somerset	
+s9_slave2_pc_desc	Paddy was a valet to one Inquisitor Cervantes. But one day his master grew displeased with him and sold him to the quarry. Somerset admits he prefers the deadly exhaustion of the quarry to the company of his old master, but refuses to say why.	
+s9_intro_libertee	Libertee	
+s9_intro_phineas	Phineas	
+s9_intro_morbid	Dr Aldous Gorman	
+s9_intro_theodor	Theodor	
+s9_intro_louise	Louise	
+s9_intro_gunther	Gunther	
+s9_t1_slaver	Slaver	
+s9_t1_slaver_female	Slaver	
+s9_t1_guard	Slaver Guard	
+s9_t1_warden	Elite Slaver	
+s9_masked_gun	Assailant Gunslinger	
+s9_masked_gun_f	Assailant Gunslinger	
+s9_masked_rifle	Assailant Longshot	
+s9_masked_shotgun	Assailant Sprayer	
+s9_t3_slaver_gun	Slaver Quickshooter	
+s9_t3_slaver_shotgun	Slaver Sprayer	
+s9_t3_slaver_gun_tough	Tough Slaver	
+s9_t3_slaver_rifle	Slaver Marauder	
+s9_t4_doctor	Masked Doctor	
+s9_t4_warden	Warden	
+s9_t4_warden_female	Warden	
+s9_t4_sniper	Warden Sharpshooter	
+s9_t4_assistant	Doctor's Assistant	
+s9_t5_masked_doctor	Masked Emissary	
+s9_t6_harbour_gun	Home Guard Gunfighter	
+s9_t6_harbour_rifle	Home Guard Rifleman	
+s9_t6_harbour_shotgun	Doctor's Assistant	
+s9_t6_harbour_persons	Mr. Persons	
+s9_t7_soldier_gun	Deserter Gunslinger	
+s9_t7_soldier_rifle	Deserter Longshot	
+s9_t7_masked_gun	Home Guard Gunfighter	
+s9_t7_masked_rifle	Home Guard Rifleman	
+s9_t7_masked_shotgun	Home Guard Shock Trooper	
+s9_t7_slaver	Slaver	
+s9_t7_slaver_female	Slaver	
+s9_t7_senator	Governor Duval	
+s9_t7_guardian	Mr. Persons	
+	Card names	
+cannibal_stomach_dlc1	Cannibal Stomach	
+bulls_heart_dlc1	Bull's Heart	
+tail_dlc1	Human Tail	
+left_lung_dlc1	Lung of Fury	
+teeth_dlc1	Sasquatch Teeth	
+liver_dlc1	Gambler's Liver	
+heart_dlc1	Redundant Heart	
+unidentified_dlc1	Unidentified Organ	
+brain_dlc1	Vampire's Brain	
+skin_dlc1	Tattooed Skin	
+ear_dlc1	Tracker's Ear	
+hand_dlc1	Hand of Fortune	
+arm_dlc1	Sharpshooter's Arm	
+third_eye_dlc1	Third Eye	
+tumor_dlc1	Tumor	
+mesmer_eye_dlc1	Mesmerizing Eye	
+right_lung_dlc1	Lucky Lung	
+sting_dlc1	Stinger	
+chest_dlc1	Slaver's Ribcage	
+eye_dlc1	Libertee's Eye	
+stomach_dlc1	Marshall's Stomach	
+kidney_dlc1	Bounty Hunter's Kidney	
+spine_dlc1	Living Spine	
+tongue_dlc1	Priest's Tongue	
+blood_dlc1	Human Blood	
+lymph_dlc1	Human Lymph	
+	Card item names and descriptions	
+cannibal_stomach_dlc1_item_name	Cannibal Stomach	
+cannibal_stomach_dlc1_item_desc	Former property of a cannibal, this stomach shows signs of adaptation to a diet of human flesh.<br><br>Ability: Cannibal<br>Compatibility: ΔΘ	
+bulls_heart_dlc1_item_name	Bull's Heart	
+bulls_heart_dlc1_item_desc	The bovine cardio-vascular system is vastly superior to that of a human.<br><br>Ability: Vengeance<br>Compatibility: ΔΣ	
+tail_dlc1_item_name	Human Tail	
+tail_dlc1_item_desc	One of Dr Gorman's outlandish specimens.<br><br>Ability: Dodge<br>Compatibility: ΔΞ	
+left_lung_dlc1_item_name	Lung of Fury	
+left_lung_dlc1_item_desc	The lung of a woman whose banshee-like scream could kill people.<br><br>Ability: Shriek<br>Compatibility: ΘΦ	
+teeth_dlc1_item_name	Sasquatch Teeth	
+teeth_dlc1_item_desc	Teeth recovered from a feral mountain ape.<br><br>Ability: Terror<br>Compatibility: ΔΨ	
+liver_dlc1_item_name	Gambler's Liver	
+liver_dlc1_item_desc	Living proof of what a man's arrogance can cost him.<br><br>Ability: Jinx<br>Compatibility: ΔΩ	
+heart_dlc1_item_name	Redundant Heart	
+heart_dlc1_item_desc	Most vital organs come in pairs - except the heart. Modern medicine can fix that.<br><br>Ability: Transfusion<br>Compatibility: ΘΞ	
+unidentified_dlc1_item_name	Unidentified Organ	
+unidentified_dlc1_item_desc	An unusual growth found in the body of a wounded soldier. It serves a golem better.<br><br>Ability: Equalization<br>Compatibility: ΘΣ	
+brain_dlc1_item_name	Vampire's Brain	
+brain_dlc1_item_desc	The preserved brain of a patient suffering from photophobia, who also made a habit of drinking human blood.<br><br>Ability: Shadow Salve<br>Compatibility: ΔΦ	
+skin_dlc1_item_name	Tattooed Skin	
+skin_dlc1_item_desc	Satanic patterns tattooed on this skin make its wearer an expert in camouflage.<br><br>Ability: Shadow Cloak<br>Compatibility: ΞΣ	
+ear_dlc1_item_name	Tracker's Ear	
+ear_dlc1_item_desc	This ear grants its wearer the acute hearing of an expert tracker.<br><br>Ability: Beast Hearing<br>Compatibility: ΘΨ	
+hand_dlc1_item_name	Hand of Fortune	
+hand_dlc1_item_desc	The digits of a master craftsman and prospector. Very handy indeed.<br><br>Ability: Scavenger<br>Compatibility: ΦΨ	
+arm_dlc1_item_name	Sharpshooter's Arm	
+arm_dlc1_item_desc	Steady aim and feats of sharpshooting are now within your reach.<br><br>Ability: Artery Shot<br>Compatibility: ΘΩ	
+third_eye_dlc1_item_name	Third Eye	
+third_eye_dlc1_item_desc	The all-seeing third eye made manifest. This specimen is said to have belonged to the great Benjamin Franklin.<br><br>Ability: Golden Bullet<br>Compatibility: Θ	
+tumor_dlc1_item_name	Tumor	
+tumor_dlc1_item_desc	This unusual growth seems to grant its wearer similarly unusual powers.<br><br>Ability: Shadow Kill<br>Compatibility: ΞΩ	
+mesmer_eye_dlc1_item_name	Mesmerizing Eye	
+mesmer_eye_dlc1_item_desc	Anyone who looks in this eye becomes paralyzed, unable to react to obvious danger.<br><br>Ability: Disguise<br>Compatibility: ΞΦ	
+right_lung_dlc1_item_name	Lucky Lung	
+right_lung_dlc1_item_desc	This lung was miraculously saved from a horrible accident. It must carry some power.<br><br>Ability: Smell Blood<br>Compatibility: ΣΦ	
+sting_dlc1_item_name	Stinger	
+sting_dlc1_item_desc	A venomous stinger of arachnid origin grafted onto the human body.<br><br>Ability: Crippler<br>Compatibility: ΣΨ	
+chest_dlc1_item_name	Slaver's Ribcage	
+chest_dlc1_item_desc	The leader of the slavers seemed to possess some sort of unholy power. Wearing his chest gives it to you.<br><br>Ability: Unholy Power<br>Compatibility: ΨΩ	
+eye_dlc1_item_name	Libertee's Eye	
+eye_dlc1_item_desc	Libertee's capacity to perform controlled ricochets makes her eye an attractive asset for any gunfighter.<br><br>Ability: Ricochet<br>Compatibility: ΦΩ	
+stomach_dlc1_item_name	Marshall's Stomach	
+stomach_dlc1_item_desc	The job of a federal marshall requires an iron stomach. This one confers courage in any situation.<br><br>Ability: Courage<br>Compatibility: ΣΩ	
+kidney_dlc1_item_name	Bounty Hunter's Kidney	
+kidney_dlc1_item_desc	The bounty hunter is the filter of humanity, the kidney is the filter of the human. When a famous bounty hunter's body arrived at the cemetery, Dr Gorman knew what he must do.<br><br>Ability: Chain Kill<br>Compatibility: ΞΨ	
+spine_dlc1_item_name	Living Spine	
+spine_dlc1_item_desc	The spine had been kept alive in an experimental eldritch balm, probably intended for future implantation.<br><br>Ability: Barrage<br>Compatibility: Φ	
+tongue_dlc1_item_name	Priest's Tongue	
+tongue_dlc1_item_desc	Filled with leprosy or not, the tongue of a man of god is suited to prayer.<br><br>Ability: Prayer<br>Compatibility: ΔΣΩ	
+blood_dlc1_item_name	Human Blood	
+blood_dlc1_item_desc	Blood of a particularly aggressive individual.<br><br>Improves offensive stats<br>Compatibility: ΔΘΞΣΦΨΩ	
+lymph_dlc1_item_name	Human Lymph	
+lymph_dlc1_item_desc	The central currency of the human immune system, lymph grants vitality and durability.<br><br>Improves defensive stats<br>Compatibility: ΔΘΞΣΦΨΩ	
+	Item names and descriptions (other than cards)	
+ether_dlc1_name	Ether	
+ether_dlc1_desc	A versatile biological substance with eerie and unparalleled restorative properties.	
+recipe_cursed_name	Golem Recipe: Abomination	
+recipe_cursed_desc	Combine: Cannibal Stomach, Vampire's Brain, Sasquatch Teeth, Tattooed Skin and Human Blood.	
+recipe_ubermensch_name	Golem Recipe: Homo Superior	
+recipe_ubermensch_desc	Combine: Bull's Heart, Redundant Heart, Libertee's Eye, Mesmerizing Eye and Lung of Fury.	
+recipe_universal_name	Golem Recipe: Centurion	
+recipe_universal_desc	Combine: Tracker's Ear, Sharpshooter's Arm, Slaver's Ribcage, Marshall's Stomach and Bounty Hunter's Kidney.	
+recipe_monster_name	Golem Recipe: Feral	
+recipe_monster_desc	Combine: Human Tail, Unidentified Organ, Third Eye, Stinger and Living Spine.	
+recipe_zombie_name	Golem Recipe: Revenant	
+recipe_zombie_desc	Combine: Gambler's Liver, Hand of Fortune, Lucky Lung, Priest's Tongue and Human Lymph.	
+	Buff names and descriptions	
+dlcbuff_decay1	Decay Propensity	
+dlcbuff_decay1_desc	For unknown reasons, grafts deteriorate with time.	
+dlcbuff_decay2	Creeping Decay	
+dlcbuff_decay2_desc	A slight rot has crept in.	
+dlcbuff_decay3	Encroaching Decay	
+dlcbuff_decay3_desc	The rot is spreading.	
+dlcbuff_decay4	Serious Decay	
+dlcbuff_decay4_desc	Gangrene and rotting flesh give out a putrid stench.	
+dlcbuff_decay5	Terminal Decay	
+dlcbuff_decay5_desc	The body is literally falling apart.	
+dlcbuff_hand_1	Compatible Tissues I	
+dlcbuff_hand_1_desc	The tissues seem to have a slight positive reaction.<br>Reduces Decay buildup.	
+dlcbuff_hand_2	Compatible Tissues II	
+dlcbuff_hand_2_desc	This combination of tissues seems to produce fewer signs of rejection.<br>Reduces Decay buildup.	
+dlcbuff_hand_3	Compatible Tissues III	
+dlcbuff_hand_3_desc	These tissues seem to work well with one another.<br>Reduces Decay buildup.	
+dlcbuff_hand_4	Compatible Tissues IV	
+dlcbuff_hand_4_desc	A strong, positive compatibility effect.<br>Reduces Decay buildup.	
+dlcbuff_hand_5	Compatible Tissues V	
+dlcbuff_hand_5_desc	A particularly successful union of foreign tissues.<br>Reduces Decay buildup.	
+dlcbuff_hand_cursed	Abomination	
+dlcbuff_hand_cursed_desc	A truly cursed being.	
+dlcbuff_hand_uber	Homo Superior	
+dlcbuff_hand_uber_desc	A specimen of superior humankind. Make way for this pretty thing.	
+dlcbuff_hand_universal	Centurion	
+dlcbuff_hand_universal_desc	The highest application of science in service of warriorhood.	
+dlcbuff_hand_monster	Feral Golem	
+dlcbuff_hand_monster_desc	Tales of feral men have abounded for ages. Now it appears they are true.	
+dlcbuff_hand_zombie	Revenant	
+dlcbuff_hand_zombie_desc	Five persons in one.	
+dlcbuff_revenge	Libertee's Revenge	
+dlcbuff_revenge_desc	Vengeance is complete.	
+	New weapon name and description	
+revolver_fitzpatrick_name	Fitzpatrick Revolver	
+revolver_fitzpatrick_desc	A unique revolver loaded with powerful rifle rounds that can pierce any obstacle.	
+	Special "joker" cards descriptions for the DLC	
+none_dlc_lymph_desc	No ability. Improves defensive stats.	
+none_dlc_blood_desc	No ability. Improves offensive stats.	

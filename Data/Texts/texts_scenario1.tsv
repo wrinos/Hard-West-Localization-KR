@@ -1,0 +1,318 @@
+text_id	en	format
+	Loading screen titles and hints	
+scen_01	As Good as Dead	
+scen_01_name	You would have your revenge on the Masked Man.<br>But first, he needed to know the depths of your anger.	
+camp_01_name	And if you wrong us, do we not revenge ourselves?	
+1_0_Town_name	You were surrounded with nowhere to run.<br>You were as good as dead.	
+1_2_Farm_name	The Cannibals had Old Man Murray.<br>Whether he lived or not, they would die.	
+0_demo_name	The bank was full of cash, but security was tight, and there were demons ready to intervene, should the manager call for help.<br>Unless you recruited the madman detained in town, getting to the vault would be a challenge.	
+1_4_Mansion_name	You approached the retired Demon's hideout with your mind on his money.<br>This wasn't going to be pretty.	
+1_5_OilRig_name	The Masked Man might not die easily.<br> But you would make sure he paid for his sins.	
+	CUSTOM SCENARIO UI	
+customui_01_wanted	WANTED	
+customui_01_reward	$[%0] REWARD	
+customui_01_desc	for the murder of [%0] people<br>& $[%1] worth of damage	
+	Objectives	
+s1t1_die	Time to die. Take as many of them with you as you can	
+s1t1_killall	Kill everyone in town	
+s1_remain	still breathing)	
+s1t1_moreenemies	Send a distress call over the telegraph to summon more enemies (Optional)	
+s1_goal	Find Masked Man and take your revenge	
+s1_gotoginmill	Go to Gin Mill and talk to Murray about Masked Man	
+s1_askaboutmurray	Ask the locals about Old Man Murray	
+s1_attackfarm	Attack the Cannibal Farm	
+s1t2_savemurray	Free Murray before he bleeds out. Or just kill everyone (Optional)	
+s1t2_savemurray_addon	(	
+s1t2_savemurray_addon2	turns left)	
+s1t2_killall	Kill everyone	
+s1t2_killremaining_addon	(	
+s1t2_killremaining_addon2	remaining)	
+s1t2_eatmeat	Feast on the meat to regain strength (Optional)	
+s1_kill100	Kill 100 people for an infernal reward (Optional)	
+s1_bank	Rob the Aspirton bank (Optional)	
+s1_bank_manager	Kill or subdue the manager	
+s1_bank_telegraph	Destroy the telegraph (Optional)	
+s1_bank_jail	Open the jail door (Optional)	
+s1_bank_key	Get the safe key	
+s1_bank_safe	Open the safe	
+s1_bank_killall	Kill all hostiles to escape	
+s1_bank_demonarrival	Time until demons' arrival:	
+s1_raidfarm	Raid the farm	
+s1t3_killall	Kill everyone	
+s1_damageproperties	Ravage $65'000 worth of Masked Man's properties	
+s1_damageproperties2	Ravage $X worth of Masked Man's properties	
+s1_damageproperties3	Ravage $X worth of Masked Man's properties	
+s1_raidhideout	Raid Masked Man's hideout	
+s1_raiddemon	Raid the Demon's Hideout (Optional)	
+s1t4_killdemon	Kill the retired demon	
+s1t4_killall	Kill all the remaining hostiles	
+s1t5_killmaskedman	Kill the Masked Man	
+s1t5_killunmaskedman	Kill the unmasked man	
+	Main plot strategic events	
+s1_intro	After the fray	
+s1_intro_desc	The stranger approached you again.<br><br>He said he knew the Masked Man's location, but that telling you would "spoil the sportsmanship of the hunt."<br><br>You didn't pay it much mind. You knew that if you took enough money from him, he'd find you.	
+s1_intro_desc3	The stranger asked if you'd met any of your enemy's enemies. Said he'd heard tell of an old man named Murray. Seems he ran the Gin Mill and had crossed the Masked Man somehow. Tracking him down might put you closer to your target.	
+s1_intro_desc4	Then the stranger made an ominous request. He said that if you took 100 lives he would reward you handsomely.	
+fear_rises	Fear rises	
+fear_level1	As the bounty on your head increased, people in the area wanted less and less to do with you. The shop owners raised prices 10 percent, hoping you'd take your business elsewhere.	
+fear_level2	The reward on your head attracted bounty hunters from far off places. Let 'em. It was their funeral. Still, anytime you went anywhere now, it seemed there were more enemies to contend with.	
+fear_level3	Terror spread through the land. Many of the shop owners just up and left town, closing their shops for good.	
+damage_done	Damaging properties	
+damage_level1	You killed, burned and terrorized, but you still couldn't find much information about the Masked Man. Seems they still feared him more than you. Time to fix that.	
+damage_level2	Intimidation and destruction served you well. As you became more fearsome, the people you interrogated seemed to know more and more. You were moving up the chain. Still, the location of the Masked Man's hideout remained a secret.	
+damage_level3	Finally, you knew the Masked Man's location: his oil field.	
+death_toll	Death toll	
+death_toll_desc	The stranger showed up right on cue. Congratulated you on a job well done.<br><br>Then he offered a boon of your choosing.	
+death_toll_cash	You asked for cash. Lots of it.	g
+death_toll_guns	You asked for guns and equipment. And some more guns for good measure.	g
+death_toll_cards	You asked for elite skills.	g
+death_toll_desc2	The stranger also gave you the location of the Masked Man's hideout.	
+	Strategic screen status popup	
+s1_strategic_popup_lucklost	Warren lost 25 Luck.	
+	Exploration prompts	
+s1_spiritcompany	Murray Spirit Company	
+s1_spiritcompany_desc	You arrived at Old Man Murray's gin mill to find the place ruined, deserted and covered in crates.<br><br>The upper floor office remained suspended but looked like it would fall apart any second. You figured you could grab one thing and get out. But should you get the money from the safe or the curious glass item on the desk?	
+s1_spiritcompany_cash	You took the cash from the safe.	g
+s1_spiritcompany_item	You took the glass item.	g
+s1_spiritcompany_desc_tem	As you grabbed the item from the desk, the floor lurched and a low rumble heralded the office's imminent demise. You leaped from the room as it collapsed into rubble on the floor below.<br><br>You inspected the loot. Turned out to be just a strange old monocle.	
+s1_spiritcompany_desc_cash	As you grabbed the cash from the safe, the floor lurched and a low rumble heralded the office's imminent demise. You leaped from the room as it collapsed into rubble on the floor below.<br><br>You inspected the loot - not a bad chunk of tin.	
+s1_poachinggrounds	Poaching Grounds	
+s1_poachinggrounds_desc	The forests in Indian country teemed with game, more than the natives could ever catch, let alone eat. Which made them easy pickings for poachers.<br><br>The ground was riddled with their traps. On a lucky day you could disarm them and steal the bait. On a bad day you'd catch a broken finger, a gashed hand, or worse.<br><br>Maybe it would be simpler just to stake out the traps and wait for the poachers to show. Nothing like stealing from a thief.	
+s1_poachinggrounds_trap1	You tried to disarm a trap.	g
+s1_poachinggrounds_trap2	You decided to try to disable another trap.	g
+s1_poachinggrounds_trap3	There was always another trap waiting to be disarmed.	g
+s1_poachinggrounds_desc_trap1	Your luck held. You deftly disarmed the trap and stole the bounty.	
+s1_poachinggrounds_desc_trap2	Pushing your luck, you disarmed another trap.	
+s1_poachinggrounds_desc_trap3	As you tried to pick the trap, lady luck showed you her bad side.	
+s1_poachinggrounds_wait	You set up an ambush for the poachers and settled in for a wait.	g
+s1_poachinggrounds_desc_wait	Finally the poachers showed. You took them out like clockwork, except for one.<br><br>At first he refused to talk, but some creative pain mismanagement took care of that. Once he knew you were serious, he told you Old Man Murray was alive, but had been captured. He said the Masked Man had left him with the rednecks living at Rancho Rojo, then paused for effect.<br><br>Seeing your puzzled face, the poacher added solemnly: "they eat people."	
+gunsmith_shop	Gunsmith Shoppe	
+gunsmith_shop_desc	You entered the shop, a dozen of suspicious eyes burning holes in you.<br><br>A giant of a man presented himself as Mr. Dorias, the proprietor. He wanted you to know you were "personally" invited to shop in his place.	
+gunsmith_shop_desc_return	O. Dorias' gunsmith shop offered a decent selection of firearms. This time you attracted less unwanted attention.	
+gunsmith_shop_desc_goback	Mr. Dorias asked if'n you needed anything else.	
+gunsmith_shop_shop	You browsed Dorias's wares.	b
+gunsmith_shop_needmore	Rumor had it Dorias was good with shotguns. You asked a few pointed questions.	i
+gunsmith_shop_ask	You asked Dorias if he knew anything about what happened at Murray's Gin Mill.	i
+gunsmith_shop_leave	You decided it was time to leave.	x
+gunsmith_shop_leave2	You left.	x
+gunsmith_shop_shotgun	Dorias said he could install an additional barrel on your shotgun, for a price.	
+gunsmith_shop_shotgun_goback	The gunsmith asked if you had any more shotguns that needed work.	
+gunsmith_shop_shotgun_opt1	You figured two barrels are better than one ([%0])	p10cash
+gunsmith_shop_shotgun_opt2	What's better than two barrels? Three barrels. ([%0])	p20cash
+gunsmith_shop_shotgun_opt3	Three barrels was good, but four was juuuuust right. ([%0])	p40cash
+gunsmith_shop_shotgun_opt5	You shook your head.	x
+gunsmith_shop_shotgun_opt6	You left the shop.	x
+gunsmith_shop_desc_ask	The old gunsmith explained that if there was one thing that bothered the Masked Man, it was losing money. He'd started getting suspicious Murray was skimming money. And when the Masked Man got suspicious, he didn't waste time wondering what to do.	
+elixir_trader	Elixir Trader’s	
+elixir_trader_desc	Jeremiah Benjamin Baker sold all kinds of cures, balms and ointments. If their smell was to be believed, most of them were a variation on bottled urine.	
+elixir_trader_barter	You browsed his shop anyway.	b
+elixir_trader_leave	You decided not to waste any more time on the old charlatan.	x
+elixir_trader_inquire	You asked Baker about the cannibal farm.	g
+elixir_trader_desc_inquire	The shopkeeper revealed the maneaters sometimes came to him looking for meat-tenderizers and exotic herbs.<br><br>If you wanted, he could send a letter of introduction, telling them you were one of them. That way you could approach them without raising the alarm.<br><br>Every favor has a price, though. He'd only do it if you helped him test his new potion.	
+elixir_trader_inquire2	You agreed to take a sip of his vile concoction.	g
+elixir_trader_desc_inquire2	A nauseating wave rushed through your body. Your face felt hot, then your entire body cramped up and you fell to the ground in agony. When it subsided, he apologized profusely, insisting you keep the rest as a make-good.<br><br>He'd send the letter immediately.	
+hanged_slave	Hanged Slave	
+hanged_slave_desc	You encountered a hanged man, a runaway slave by the look of him. A voodoo talisman was tied around his wrist. You remembered your father grim face when he told you it was bad luck to touch a hanged man.	
+hanged_slave_opt1	You decided to bury him.	g
+hanged_slave_opt1_result	Giving him a proper burial felt like the right the to do, but your personal satisfaction was the only profit you got from it.	
+hanged_slave_opt2	You took the talisman.	g
+hanged_slave_opt2_result	As you took the talisman you felt a deep chill run down your spine.	
+outlaw_joint	Old John Kraimer’s Inn	
+outlaw_joint_desc	Kraimer's dilapidated joint played host to a rowdy bunch of ugly-mugged drunkards. <br><br>And it was your lucky day. Sitting at the bar was one of the Masked Man's thugs that killed you.	
+outlaw_joint_desc_nothug	Kraimer's dilapidated joint played host to a rowdy bunch of ugly-mugged drunkards.	
+outlaw_joint_getthug	You stabbed the thug in the back.	g
+outlaw_joint_drink	You got the cheapest drink they had. Just needed a little courage ([%0])	p10cash
+outlaw_joint_drinkbest	You got the best and strongest drink they had. Nothing like a little liquid courage ([%0])	p35cash
+outlaw_joint_eat	You ordered the suspicous smelling stew ([%0])	p45cash
+outlaw_joint_barter	You bought liquor.	b
+outlaw_joint_leave	You left while you were still standing.	x
+outlaw_joint_desc_getthug	You stabbed the thug in the back. As ladies screamed and men rose to their feet, you dragged him outside by his collar. After a little more persuasion, he spilled the beans on the Masked Man's locations and operations.	
+outlaw_joint_desc_getthug2	The thug gave you directions to the Masked Man's homestead and cattle pasture.	
+outlaw_joint_desc_getthug3	He said the Masked Man also owned an excavation site and an old sawmill, but was in the dark about the location of the Masked Man himself.	
+outlaw_joint_desc_getthug4	Begging you to spare his life, he told you of a gold transport waiting to be picked up from the bank in Aspirton. He warned you that the Masked Man had a deal with some demons to protect it. If they got a telegraph message, or the church bell tolled seven times, they'd swoop in like... well, like demons. <br><br>When he finished, you promised you wouldn't kill him. Then you slit his throat.	
+outlaw_joint_keeptalking	...	
+outlaw_joint_desc_drink	Drops of whiskey dripped through the holes in your face.<br>The liquor filled your mouth with fire and your heart with courage.	
+outlaw_joint_desc_drinkbest	Drops of whiskey dripped through the holes in your face.<br>It was mighty fine hooch. You felt like you could take on the world.	
+outlaw_joint_desc_eat	The stew tasted funny and smelled funnier. You couldn't recognize the meat, and no one would tell you what it was. But it was that or seek vengeance on an empty stomach.	
+outlaw_joint_desc_murray	Old Man Murray looked like he was drinking to forget. While you were checking the Inn out, he just sat in the back, downing glass after glass of the worst poison they had, muttering about someone named Roberta.	
+outlaw_joint_leave2	You helped him out.	
+ghost_town	The ghost town of Hope	
+ghost_town_desc	Rumor had it the whole town had died of plague in a single week. With the sickness in the air and the bodies on the ground, no one dared to loot the place.	
+ghost_town_opt1	The best thing about being undead? It gives you an iron stomach. You looted the husk of a town.	g
+ghost_town_opt1_result	You found some loot, but there was something in the air. Your breath became heavier and slower.	
+ghost_town_opt2	You burned the place down and searched the remains.	g
+ghost_town_opt2_result	You found some valuables in the ashes.	
+ghost_town_desc_crone	Suddenly, an old hag approached, squawking like a preacher. She said the city was a grave; but not all citizens were buried in it. Seven men were buried in the forest.<br><br>Six decent folk and one thief buried with his loot.	
+ghost_town_desc_crone2	She said if you dug up the thief's grave, you'd be rich beyond measure.<br><br>Touch the wrong grave though, and you'd be cursed. Bad luck would haunt you, sickness would crush your bones and spirits would follow you forever.<br><br>She vanished, leaving you alone with the memorial marker.	
+ghost_town_desc_board	Only part of the memorial was legible. All you could make out was:<br>Stephen Teague, a hard-working farmer<br>Romney Tate, a fair judge<br>Tony Sullivan, a magnificent cook<br>Donovan Byrnes, a brave miner<br>Sam Courtney, the finest blacksmith	
+miners_house	The Southwest Mining Company excavation site.	
+miners_house_desc	Prospectors in the area had teamed up with Masked Man to form the Southwest Mining Company. You could collapse just the entrance for an immediate short-term effect. Or you could blow it up top to bottom to put it out of commission forever. That would take longer and there would be far greater risk of injury.	
+miners_house_collapse	You collapsed the entrance.	g
+miners_house_collapse_result	With the mine entrance blocked, the mining operation stopped for a while, severely impacting the Masked Man's funds.	
+miners_house_blowup	You blew up the entire mine.	g
+miners_house_blowup_result	You were injured in the explosion, but it was worth it. The mine was completely destroyed. The Masked Man would be furious when he heard about this.	
+grave_01	Abandoned grave	
+grave_01_desc	Here lies Sam Courtney, a skilled [unreadable].<br><br>Sam had been found stabbed to death in his house, with no indication of struggle.<br>The investigation discovered that he'd been testing his new stab-proof jacket.	
+grave_dig	You dug it up.	g
+grave_leave	You left.	x
+grave_01_result	You dug up the bones of an enormous man. He must have been the blacksmith. With him, you found a vest made of some kind of leather you hadn't seen before.	
+grave_02	Mossy grave	
+grave_02_desc	The grave was covered in fresh moss, a pristine green carpet flecked with morning dew. <br><br>The only readable part of the epitaph was "...a fine merchant."	
+grave_02_result	You dug up a skeleton wearing a merchant's finery, a vial of potion beside him. The card in his pocket read "Timothy McDonald."	
+grave_03	Cracked grave	
+grave_03_desc	Someone had tried to dig this grave up, but left in a hurry.<br><br>A note was nailed to the cross: "Seeking this man's lawful heir. Contact me. - Romney Tate."	
+grave_03_result	You dug up a thick-boned skeleton, by all appearances a cook. There was something stashed there... maybe it was still edible.	
+grave_04	Lonely grave	
+grave_04_desc	This grave bore just a simple cross, and did not appear well-tended. <br><br>A name was carved on it: "Faryn Brygo"	
+grave_04_result	There was nothing there, apart from the skeleton. You figured this must be the spot. As you dug deeper, your shovel thudded on a wooden chest. The thief's loot was yours.	
+grave_05	Poor grave	
+grave_05_desc	This grave was poor as could be, though the meadow flowers around it meant he'd been loved.<br><br>You weren't sure why, but you have a feeling this was the grave of a farmer.	
+grave_05_result	As goes the grave, so goes the man: poor. A name was sewn in the lining of his coat: Stephen Teague. The only other item present was a bottle of liquor.	
+grave_06	Grimy grave	
+grave_06_desc	The grave was dirty and foul, filled with broken bottles and other debris.<br><br>The headstone read: Donovan Byrnes.	
+grave_06_result	The skeleton was unremarkable, except for one solid gold tooth. Must have been a miner.	
+grave_07	Mucky grave	
+grave_07_desc	This was a burial site, but not what you'd call a proper grave.	
+grave_07_result	As expected, there were no fine clothes, gold or valuables here. But you did find a derringer. To your surprise, you also found a card saying: "Romney Tate, Judge."	
+s1_grave_pinkerton	Pinkerton grave	
+s1_grave_pinkerton_desc	You came across a mass grave, labeled with the famous detective company's mark. Many an agent who had perished in the field lay there.	
+s1_grave_pinkerton_desc_dig	You found many valuables, but your karma felt like it'd been on a three day bender.	
+indian_totem	Indian totem of a despicable god	
+indian_totem_desc	Beneath the totem lay a hoard of gold, precious stones and jewelry.<br>A screaming eagle carved into the totem spoke, posessed by a spiteful deity. It whispered that it wanted one of your companions. And that it would reward you greatly.	
+indian_totem_sacrifice_hired_gun1	You sacrificed Old Man Murray. Sorry old pal.	g
+indian_totem_sacrifice_hired_gun2	You sacrificed Scrawny Kid. Sorry kid, it's just business.	g
+indian_totem_sacrifice_s1_oldjudge_pc	You sacrificed Brandon Scott. You never liked the way he wore his breeches.	g
+indian_totem_sacrifice_childeater_gdcdemo	You sacrificed Childeater. He was bad business.	g
+indian_totem_steal	You tried to steal the valuables.	g
+indian_totem_leave	You left the totem.	x
+indian_totem_sacrifice_desc	You shot your companion in the back of the head. The vile god moaned in ecstasy and delivered your reward.	
+indian_totem_desc_steal	As you pocketed your blood money, the eagle suddenly attacked, damaging you severely.	
+x_spot	X marks the spot	
+x_spot_desc	This had to be the spot	
+x_spot_opt1	You started digging.	g
+x_spot_treasure	After an hour of digging, you hit a small iron chest. You shot the rusty padlock off and retrieved the small fortune residing inside.	
+x_spot_leave	You left before anyone saw you.	x
+old_sawmill	Old Sawmill	
+old_sawmill_desc	The old sawmill was no longer in use, its tall buildings fallen into wobbly disrepair. There would be lumberjack tools inside, but you didn't know if you should press your luck.	
+old_sawmill_leave	You turned reluctantly away.	x
+old_sawmill_taketools	The precarious building contained a saw.	g
+old_sawmill_desc_lucky	You were successful in retrieving the tools, but it felt like your luck was running out.	p
+old_sawmill_desc_unlucky	In the dim light you spied a saw.<br><br>Unluckily, however, the moment you bent to pick it up, the entire building collapsed, crushing you in the rubble.	
+old_sawmill_leave2	You left the sawmill.	x
+hermit_hut	Hermit Hut	
+hermit_hut_desc	The hut was filled with valuable items, gold and gems. Silent Jo, the hermit, was clearly off his rocker, but had an eye for quality goods. He asked if you could spare anything.	
+hermit_hut_kill	You shot the man, and looted his hut. Filthy hoarder. You were doing him a favor.	g
+hermit_hut_give1	You gave the man what he asked for ([%0])	p5tobacco
+hermit_hut_give2	You gave the man what he asked for ([%0])	p1liquoir
+hermit_hut_give3	You gave the man what he asked for ([%0])	p1opium
+hermit_hut_desc_give	Pleased with the gift, he cackled to himself.<br><br>Then he asked for more.	
+hermit_hut_desc_kill	You took what you judged to be a fair amount in valuables.	
+hermit_hut_desc_giveall	You couldn't tell if the Hermit was high or just crazy, but he told you of a spot where he'd found more treasure than he could carry. If you went there, you could retrieve the rest.	
+big_tree	Big Tree	
+big_tree_desc	This was the tree the natives had been talking about. You were ready to take it down.	
+big_tree_desc_nosaw	This was the tree the natives had been talking about. If you had the right tools you could cut it down.	
+big_tree_nosaw	With no tools to cut the tree down, you left.	x
+big_tree_saw	You started cutting through the tree with the saw.	g
+big_tree_desc_saw	You sawed until your hands were covered in blisters.<br><br>Finally, in the center of the tree, you found a set of human bones. You took them to the natives who made a powerful charm from unlucky man's bones.	
+big_tree_leave	You walked away.	x
+water_tower	Water Tower	
+water_tower_desc	The water tower was the linchpin of Cannibal Farm.<br><br>You could have spilled the water to damage the Masked Man's property.<br>Or you could have poisoned the water to weaken the cannibals.	
+water_tower_desc_return	You returned to the water tower supplying Cannibal Farm.<br><br>You still needed to decide whether you should spill the water to damage the Masked Man's property or to poison the water to injure those who drank it.	
+water_tower_poison	You poured the poison into the water ([%0])	p1poison_vial
+water_tower_spillwater	You smashed open the valve at the bottom of the tower, letting the water cascade out.	g
+water_tower_leave	You left.	x
+water_tower_poison_result	You dropped the poison into the water, then found a good spot to observe the results.<br><br>You saw, a couple of buckets being carried back to Cannibal Farm. A little while later you heard screaming. Then you noticed black smoke rising from the farm.<br><br>Were they burning bodies or roasting them?	
+water_tower_spillwater_result	You smiled as the contents of the tower spilled out and quickly disappeared into the parched earth.<br>This wouldn't be enough to prevent the Masked Man's men from working, but their hard times would become even harder.	
+farm	Cannibal Farm	
+farm_desc	The farm looked innocent enough. But you knew better than to trust appearances.<br><br>The cannibals had heavy sentries at the entrances. You hadn't seen a trace of Murray yet. Chances are they had him locked away somewhere.	
+farm_desc_return	You returned to Cannibal Farm. Things looked normal. They didn't expect an attack.	
+farm_accept	You decided to go in guns blazing.	t
+farm_accept_setup	You entered the farm. If the elixir trader had kept his promise, the enemy wouldn't expect trouble.	t
+farm_deny	You decided to return later.	x
+farm_aftermath	After the fight, you noticed a bunch of farmhands high-tailing it into the fields. Horseback, you could have easily caught up with them.	
+farm_aftermath_letgo	You let them go.	g
+farm_aftermath_shoot	You chased them down and shot every one.	g
+farm_aftermath_shoot_result	As you dashed forward, you soon had your victims within range. Though they scattered, hid and crawled, none could escape your cleansing fury.	
+farm_aftermath_unlocks	When the dust settled, you climbed the tall windmill to scout the region.<br><br>You could see a bustling and lively bar in the distance as well as a ghost town nearby. Just north of the farm, you spied a man dangling from a tree.	
+farm_desc_murraysurvived	Grateful for his rescue, Murray told you everything he knew about the Masked Man.	
+town	Aspirton	
+town_nosnakes	After the recent unpleasant events, most of the community fled. The bank was the last secure location in town. It would be easier to raid Aspirton at night. Only a maniac would try to raid the bank in broad daylight.	
+town_nightraid	You decided on a night raid.	g
+town_nightraid_result	You raided the town at under cover of darkness, setting houses on fire and firing into them at random. As expected, the few remaining survivors fled. By morning, Aspirton was completely deserted.	
+town_robbank	You robbed the bank.	t
+town_aftermath	While looting the town, you still encountered many people.	
+town_aftermath_killwomen	You killed any men who might put up a fight.	g
+town_aftermath_killwomen_result	Without the men, the unprotected town would soon be deserted.	
+town_aftermath_killwomenchildren	You killed everyone, regardless of age or gender.	g
+town_aftermath_killwomenchildren_result	You killed them all. Every single person. By your hand and by your device this settlement ceased to exist.	
+town_aftermath_killnoone	You decided to let them be.	x
+hidden_manor	Masked Man's hideout	
+hidden_manor_desc	This was the Masked Man's hideout. He had no doubt prepared a warm welcome.	
+hidden_manor_accept	You decided to attack immediately.	t
+hidden_manor_deny	You decided not to attack just yet.	x
+grassland_pasture	Masked Man's pastures	
+grassland_pasture_desc	Cowboys tended herds across the fertile lands. The animals were owned by the Masked Man or one of his associates. The farmhands were just cheap labor, but their lives would still count toward your tally.	
+grassland_pasture_kill	You decided to kill the horses.	g
+grassland_pasture_killhang	You decided to kill the horses and hang the cowboys.	g
+grassland_pasture_kill_result	As soon as you showed your face, the cowboys fled in terror. You let them run as you methodically  slaughtered their horses, slitting their throats before shooting them in the head. Sleep tight, little horsies.	
+grassland_pasture_killhang_result	You rounded up the cowboys and tied them down. Then you killed the horses and hanged the farmhands on nearby trees. When you were finished, the landscape was peaceful again, just bathed in blood.<br><br>The Masked Man would hear about what you had done.	
+judge_homestead	Masked Man's Homestead	
+judge_homestead_desc	It looked like the Masked Man was away. There were few clues, but you could still loot his house.<br><br>If you focused on the valuables, you knew the servants would get a chance to run.<br>If you focused on the servants, some would grab whatever they could and run off with it.	
+judge_homestead_take	You took the valuables.	g
+judge_homestead_desc_take	Slowly and carefully, you scouted the house. The service fled, while you collected all the shiny items and trinkets.	
+judge_homestead_takeenslave	You took the valuables, enslaving whoever you could along the way.	g
+judge_homestead_desc_takeenslave	They were good stock. With one hand you stole their valuables, with the other, you herded them into a room. There, you tied their hands and cuffed their necks to a chain. Then you marched them out to the forest and across the marshes for two days and two nights. On the third day you reached the slavers, who were more than happy to compensate you for your trouble. And your excellent merchandise.	
+judge_homestead_kill	You focused on killing the servants.	g
+judge_homestead_desc_kill	You walked from room to room, shooting everything that moved. While some managed to get away, often with the most valuable goods, you added many kills to your tally and found many trinkets of value.	
+judge_homestead_burn	You burned down the house with everything and everyone inside.	g
+judge_homestead_desc_burn	You circled the house, barring the exits and smashing every oil lamp you found. Undetected, you lit a cigarette, enjoying the tickle of smoke through the holes in your face. When it dwindled, you flicked it, a tiny coal arcing through pitch. A moment later the house was bright with merry flames. The screams of those being burned alive filled the night like a symphony, occasionally interrupted by suicidal gunshots.	
+judge_homestead_leave	You left the homestead behind.	x
+s1_blindgunman	Old acquaintance	
+s1_blindgunman_desc1	As you walked through the forest, suddenly everything went silent. Not a bird chirped. You strained your ears, but heard nothing.	
+s1_blindgunman_desc2	Suddenly you heard the crack of a shot, and a bullet tore your side. Seeking cover, you glanced back to see the blind gunman you robbed so long ago wearing a placid smile and scenting the air for another shot.<br><br>You plunged into the stream and let it carry you away. Hopefully the water would foil his fiendish nose.	
+s1_blindgunman_desc3	You managed to get away.	
+indian_tent	Indian Camp	
+s1_hospital_desc_pax	The natives lived in a small, infertile area that had been "given" to them by the occupying forces. They were accustomed to trading with palefaces, though most not as pale as you.	
+s1_hospital_desc	The natives could put any gunslinger back together with their rituals and herbal medicine if the price was right.	
+s1_hospital_descmurray	The natives could put any gunslinger back together with their rituals and herbal medicine if the price was right.<br><br>Except Old Man Murray. Murray was beyond fixing, they said. Many were convinced he'd been dead for years. You couldn't help seeing the sense in their theory.	
+s1_hospital_healing	You sought healing.	n
+s1_hospital_heal_undead	Warren needed healing ([%0])	p50cash
+s1_hospital_heal_hired_gun1	Scrawny Kid needed healing ([%0])	p50cash
+s1_hospital_heal_hired_gun2	Old Man Murray needed healing ([%0])	p50cash
+s1_hospital_heal_s1_oldjudge_pc	Brandon Scott needed healing ([%0])	p50cash
+s1_hospital_heal_childeater_gdcdemo	Childeater needed healing ([%0])	p50cash
+s1_hospital_heal_desc	The shaman chanted and, using a mix of herbs and oils, effected a cure.	
+s1_hospital_leave	You left the encampment.	x
+s1_hospital_tradegoods	You traded goods with the natives.	b
+s1_hospital_offerwhiskey	You sat by the fire and offered a bottle of whiskey to share ([%0])	p1liquoir
+s1_hospital_desc_offerwhiskey	You sat a few hours, drinking and smoking with the natives.<br><br>Around midnight, the real stories began to unwind. You heard tell of a sinister deity living in the forest. And a totem representing it not far away.	
+s1_hospital_desc_offerwhiskey2	The natives told a tale of an old hermit who lived in a secluded hut. Word was he'd found a treasure of incredible value, but fearing the envy of others had kept to himself and was thus unable to enjoy his own riches.	
+s1_hospital_desc_offerwhiskey3	Another campfire tale told of a man who took a nap in the shadow of a small tree. The smell of the sap kept him snoozing for weeks until the tree grew around him, burying him inside. Some nights, when the wind blew cold and there was no moon, they said you could hear him wailing beneath the bark.	
+s1_hospital_inquire	You inquired about Old Man Murray.	
+s1_hospital_desc_inquire	The natives knew many old men, but no Murrays. They said the only white folk around those parts were the Masked Man's thugs, who poached from the nearby forest.	
+s1_scrawnykid	The Scrawny Kid	
+s1_scrawnykid_desc	As you traveled down a lonesome road, the blood of your victims still smeared on your palms, a scrawny teenager stepped out of the bushes and accused you of killing his parents. You said you didn't rightly remember, but you'd killed so many people at that point, the odds were with him.<br>He didn't look like much of a threat, but from the pure hatred burning in his eyes you could tell that what he lacked in brawn, he made up with in determination.	
+s1_scrawnykid_desc2	His only problem was that he wanted to get them himself. That kid was hatred impersonated.<br>Bullied all his life, he was now getting payback, big time. He wanted to tag along.	
+s1_scrawnykid_desc_metbefore	As you travelled down a lonesome road, a scrawny teenager stepped out of the bushes. You's met him before - it was the twin who killed his brother. With a smirk, he called you a naive fool.	
+s1_scrawnykid_desc_metbefore2	The kid said he appreciated your shooting skills and your killing talent. He wanted to tag along and learn your ways.	
+s1_scrawnykid_join	You let him join you.	g
+s1_scrawnykid_leave	You told him to get lost.	g
+s1_scrawnykid_desc_join	The scrawny kid joined you. You didn't yet realize that he would be the most vicious and sadistic being you would ever encounter. Apart from yourself, of course.	
+s1_scrawnykid_desc_leave	You just walked past, ignoring him. He bothered you down the trail a piece, and at one point set an ugly trap for you.	
+s1_scrawnykid_ok	Well, shit.	x
+s1_oldjudge	Brandon Scott	
+s1_oldjudge_desc	As you travelled down a lonesome road, a trail of smoking ruins in your wake, an old man stepped onto the road ahead.<br><br>He knew you were going after the Masked Man.	
+s1_oldjudge_desc2	He said that Masked Man had taken something he was after. He didn't approve of your methods, but he appreciated your effectiveness. He wanted to join you.	
+s1_oldjudge_join	You let him join you.	g
+s1_oldjudge_leave	You told him to get lost.	g
+s1_oldjudge_desc_join	You'd soon learn the old man was the meanest cuss this region had ever seen. Until you showed up, that is.	
+s1_oldjudge_desc_leave	You wondered if you'd ever see him again.	
+s1_fatetrader	Fate Trader	
+s1_fatetrader_desc	You were quite confident you'd met the man before. He muttered a welcome.	
+s1_fatetrader_barter	You browsed his exceptional wares.	b
+s1_demonhideout	Demon's Hideout	
+s1_demonhideout_unlock	You heard the story of a demon that once walked the earth with a gang. He amassed countless riches, then retired, hoarding his wealth in his hideout. It was said that he was exceptionally dangerous, but if you managed to kill him, all his loot would be yours.	
+s1_demonhideout_desc	This was the home of the retired demon gang leader.	
+s1_demonhideout_attack	You unleashed hell.	t
+s1_demonhideout_later	You would unleash hell later.	x
+s1_demonhideout_victory	With the demon dead, all the riches were now yours.	

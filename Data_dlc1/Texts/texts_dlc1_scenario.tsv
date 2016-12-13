@@ -1,0 +1,530 @@
+text_id	en	format
+	Titles and loading screens	
+scen_09	Scars of Freedom	
+scen_09_name	Though most people didn't know what it was or what it did,<br>Ether turned the wheels of that region. And whether they knew it or not, everybody wanted it.	
+9_1_Quarry_name	Stringfellow Quarry, Texas.<br>The Civil War	
+9_2_Cemetery_name	It was a rude awakening, if I'd ever had one.	
+9_3_Ironlines_name	The Masked Doctors transported their dirty resources on the 9:09	
+9_4_GreenerPastures_name	It was time to put them Masked Doctors to the question.	
+9_5_CemeteryEscape_name	My greatest achievement was interrupted most viciously.	
+9_6_Harbor_name	Duval would hardly miss those supplies. And I needed them for the greater cause.	
+9_7_QuarryShowdown_name	Thus, have we come full circle.	
+	Custom UI text	
+gui_dlc1_tooltip_no_hand	Arrange body parts by compatibility rating or complete golem recipes to get additional bonuses.	
+gui_dlc1_tooltip_decayimmunity	This person is not a golem, so they do not suffer from Decay.	
+gui_dlc1_tooltip_cannothands	This person is not a golem and cannot use foreign body parts.	
+	Floating text	
+s9_t2_doorlocked	Locked	
+s9_t2_fullhp	Already at full health	
+s9_t5_notinposition	Dr Gorman is not in position	
+	Mission failed reasons	
+s9_t1_fail_morbidkilled	You killed Doctor Gorman. Interrogating him may prove difficult.	
+	Strategic event popups	
+s9_eventpopup_phineasdecay	Phineas is suffering from decay. Treat him at the Morgue in exchange for Ether.	
+s9_eventpopup_etherfromtac	^Ether recovered from fallen enemies: [%0]	
+s9_eventpopup_medishow_markup	Prices in all shops have increased by 10%	
+s9_eventpopup_morgue_markup	Prices in the morgue have increased by 15 percentage points	
+s9_eventpopup_newcard	New body part(s) available in the Morgue: [%0]	
+	Objective text	
+s9_t1_kill_henchmen	Kill all henchmen	
+s9_t1_dont_kill_morbid	Do not kill Dr Gorman	
+s9_t1_kill_storage_enemies	Fight your way out of the quarry	
+s9_t1_open_gate	Open the quarry gate	
+s9_t1_free_slave	Free Paddy Somerset (Optional)	
+s9_t1_get_equipment	Search the stashes for hidden weapons (Optional)	
+s9_t1_escape	Get Libertee to freedom via the slide chute	
+s9_str1_gotomorgue	Go to the Morgue and purchase a body part	
+s9_str1_partsforlibertee	Purchase at least one more body part	
+s9_str1_gotolab	Return to the Laboratory and perform the surgery on Libertee	
+s9_str1_curephineas	Cure Phineas' decay at the Morgue (Optional)	
+s9_str1_visitharpers	Pay a visit to Mrs. Harper (Optional)	
+s9_str1_mineaccident	Attend to the mining accident (Optional)	
+s9_t2_clear_floor	Kill all hostiles on this floor	
+s9_t2_free_libertee	Have Phineas open the doors leading to Libertee's room	
+s9_t2_false_trail	Use the rear gate to leave false tracks and delay the pursuit (Optional)	
+s9_t2_heal_yourself	Heal yourself with the remaining Ether (Optional)	
+s9_t2_kill_remaining	Kill all remaining enemies	
+s9_str2_gormanhouse	Go to Phineas's safehouse	
+s9_str2_maskeddoctors	Explore nearby fringe locations and learn more about your attackers	
+s9_str2_findevangelists	Find the Evangelists at the Greaves Cabin	
+s9_str2_attacktrain	Intercept the Masked Doctors' cargo train (Optional)	
+s9_str2_attackasylum	Interrogate the Masked Doctors in the Greener Pastures Asylum	
+s9_str2_sellgunorliquor	Exchange guns or liquor for information on the Masked Doctors	
+s9_str2_gotoquarry	Go to the Quarry and setup an ambush for Dr Gorman	
+s9_t3_killeveryone	Defeat the slavers	
+s9_t4_subdue	Subdue the Masked Doctor to learn about your oppressors	
+s9_t4_or_search	OR search the premises to find information about the Masked Doctors	
+s9_t4_search	Search the premises to find information about the Masked Doctors	
+s9_t4_kill_all	Kill all hostiles	
+s9_t4_or_escape	OR bring Libertee and Phineas to the boat to escape	
+s9_t4_collect_ether	Collect Ether for later use	
+s9_t5_resurrect_libertee	In one turn, open the Ether flow using the main valve, then redirect it using the console	
+s9_t5_ether_flowing	(Ether is flowing)	
+s9_t5_ether_notflowing	(Ether is not flowing)	
+s9_t5_check_outside	Investigate the commotion outside	
+s9_t5_defend_yourself	Kill any invaders	
+s9_t5_close_valves	Close the safety valves to overload the machine	
+s9_t5_phineas_valve	When Dr Gorman is in position, have Phineas use the main valve	
+s9_t5_doc_exit	Move Doctor Gorman to the exit	
+s9_str3_visitduval	Report the attack to Doctor Duval	
+s9_str3_attackharbor	Attack the Doctors' Ether Storage	
+s9_str3_findlibertee	Look for clues to track Libertee	
+s9_str3_meetlibatquarry	Go to the Quarry to meet Libertee	
+s9_t6_close_taps	Close the taps on the Ether kegs	
+s9_t6_close_faster	Close the taps as quickly as possible, to conserve more Ether	
+s9_t6_kill_remaining	Kill the remaining enemies	
+s9_t7_find_libertee	Find Libertee	
+s9_t7_inspect_fire	Investigate the fire	
+s9_t7_kill_soldiers	Kill the deserters	
+s9_t7_kill_doc	Kill Doctor Gorman	
+s9_t7_or_subdue_doc	OR subdue him	
+s9_t7_kill_attackers	Kill Duval's men	
+s9_t7_defeat_governor	Kill Duval	
+	Strategic interactions - General (all stages + tutorial)	
+s9_loc_cemetery_intro	Laboratory	
+s9_loc_cemetery_intro_desc	Before I could improve you, I needed several body parts to replace the ones you lost in the fall and an ample supply of Ether.<br><br>I felt my comrades at the Morgue might be of some assistance.	
+s9_loc_morgue	Morgue	
+s9_loc_morgue_doc_desc	I returned to the morgue and Vennesen greeted me with a nod.	
+s9_loc_morgue_doc_opt1	I reviewed the newest merchandise.	b
+s9_loc_morgue_doc_opt2	I asked whether they could do anything about the decay.	i
+s9_loc_morgue_doc_opt3	We required some medical attention.	i
+s9_loc_morgue_doc_opt6	I left.	x
+s9_loc_morgue_lib_desc	We returned to that abomination of a place. Your friend Vennesen smiled his shifty smile, as usual.	
+s9_loc_morgue_lib_opt1	I looked at his stock of body parts. Ugly stuff.	b
+s9_loc_morgue_lib_opt2	We needed decay treatment.	i
+s9_loc_morgue_lib_opt3	We needed some patching up.	i
+s9_loc_morgue_lib_opt6	We left.	x
+s9_loc_morgue_doc_decay_first	The downside of our transplant technology was that the grafts decayed over time. Once decay set in, gangrene and other diseases were sure to follow.<br><br>But the possibilities transplantation offered trumped any inconvenience and we were confident we would improve our technology over time.<br><br>At any rate, it was time to get some decay treatment.	
+s9_loc_morgue_doc_decay_return	We needed Ether treatment for the grafts.	
+s9_loc_morgue_lib_decay_first	What you keep forgetting is your abominations rot as they go along. Phineas made it clear that unless the scars were treated with Ether, we'd all end up piles of goo.<br><br>We asked your friend Vennesen to show us how to do that.	
+s9_loc_morgue_lib_decay_return	We came back for some scar cleaning.	
+s9_loc_morgue_decay_morbid_1	I needed decay treatment ([%0])	p1ether_dlc1
+s9_loc_morgue_decay_morbid_2	I needed decay treatment ([%0])	p2ether_dlc1
+s9_loc_morgue_decay_morbid_3	I needed decay treatment ([%0])	p4ether_dlc1
+s9_loc_morgue_decay_morbid_4	I needed decay treatment ([%0])	p6ether_dlc1
+s9_loc_morgue_decay_morbid_5	I needed decay treatment ([%0])	p9ether_dlc1
+s9_loc_morgue_decay_libertee_1	I'd got real rotten ([%0])	p1ether_dlc1
+s9_loc_morgue_decay_libertee_2	I'd got real rotten ([%0])	p2ether_dlc1
+s9_loc_morgue_decay_libertee_3	I'd got real rotten ([%0])	p4ether_dlc1
+s9_loc_morgue_decay_libertee_4	I'd got real rotten ([%0])	p6ether_dlc1
+s9_loc_morgue_decay_libertee_5	I'd got real rotten ([%0])	p9ether_dlc1
+s9_loc_morgue_decay_phineas_1	Phineas was falling apart ([%0])	p1ether_dlc1
+s9_loc_morgue_decay_phineas_2	Phineas was falling apart ([%0])	p2ether_dlc1
+s9_loc_morgue_decay_phineas_3	Phineas was falling apart ([%0])	p4ether_dlc1
+s9_loc_morgue_decay_phineas_4	Phineas was falling apart ([%0])	p6ether_dlc1
+s9_loc_morgue_decay_phineas_5	Phineas was falling apart ([%0])	p9ether_dlc1
+s9_loc_morgue_decay_luke_1	Luke started to rot ([%0])	p1ether_dlc1
+s9_loc_morgue_decay_luke_2	Luke started to rot ([%0])	p2ether_dlc1
+s9_loc_morgue_decay_luke_3	Luke started to rot ([%0])	p4ether_dlc1
+s9_loc_morgue_decay_luke_4	Luke started to rot ([%0])	p6ether_dlc1
+s9_loc_morgue_decay_luke_5	Luke started to rot ([%0])	p9ether_dlc1
+s9_loc_morgue_decay_john_1	John smelled even worse than usual ([%0])	p1ether_dlc1
+s9_loc_morgue_decay_john_2	John smelled even worse than usual ([%0])	p2ether_dlc1
+s9_loc_morgue_decay_john_3	John smelled even worse than usual ([%0])	p4ether_dlc1
+s9_loc_morgue_decay_john_4	John smelled even worse than usual ([%0])	p6ether_dlc1
+s9_loc_morgue_decay_john_5	John smelled even worse than usual ([%0])	p9ether_dlc1
+s9_loc_morgue_decay_theodor_1	Theodor was not feeling too dandy ([%0])	p1ether_dlc1
+s9_loc_morgue_decay_theodor_2	Theodor was not feeling too dandy ([%0])	p2ether_dlc1
+s9_loc_morgue_decay_theodor_3	Theodor was not feeling too dandy ([%0])	p4ether_dlc1
+s9_loc_morgue_decay_theodor_4	Theodor was not feeling too dandy ([%0])	p6ether_dlc1
+s9_loc_morgue_decay_theodor_5	Theodor was not feeling too dandy ([%0])	p9ether_dlc1
+s9_loc_morgue_decay_louise_1	Louise was even grumpier than usual ([%0])	p1ether_dlc1
+s9_loc_morgue_decay_louise_2	Louise was even grumpier than usual ([%0])	p2ether_dlc1
+s9_loc_morgue_decay_louise_3	Louise was even grumpier than usual ([%0])	p4ether_dlc1
+s9_loc_morgue_decay_louise_4	Louise was even grumpier than usual ([%0])	p6ether_dlc1
+s9_loc_morgue_decay_louise_5	Louise was even grumpier than usual ([%0])	p9ether_dlc1
+s9_loc_morgue_decay_gunther_1	Gunther smiled, said he felt ill and hoped to die soon. Not on my watch ([%0])	p1ether_dlc1
+s9_loc_morgue_decay_gunther_2	Gunther smiled, said he felt ill and hoped to die soon. Not on my watch ([%0])	p2ether_dlc1
+s9_loc_morgue_decay_gunther_3	Gunther smiled, said he felt ill and hoped to die soon. Not on my watch ([%0])	p4ether_dlc1
+s9_loc_morgue_decay_gunther_4	Gunther smiled, said he felt ill and hoped to die soon. Not on my watch ([%0])	p6ether_dlc1
+s9_loc_morgue_decay_gunther_5	Gunther smiled, said he felt ill and hoped to die soon. Not on my watch ([%0])	p9ether_dlc1
+s9_loc_morgue_decay_buy	I returned to trading.	b
+s9_loc_morgue_decay_exit	We left the Morgue.	x
+s9_loc_morgue_healing_doc_desc	As you may have guessed, Ether was useful not only for organ transplants, but also as a healing agent.	
+s9_loc_morgue_healing_doc_return	We had ailments beyond mere decay.	
+s9_loc_morgue_healing_lib_desc	I asked Vennesen whether we could use Ether to heal our wounds. He said we could.	
+s9_loc_morgue_healing_lib_return	We came back for some healing.	
+s9_loc_morgue_healing_morbid	I was feeling quite dreadful ([%0])	p4ether_dlc1
+s9_loc_morgue_healing_libertee	I ached all over ([%0])	p4ether_dlc1
+s9_loc_morgue_healing_phineas	Phineas needed to be patched up ([%0])	p4ether_dlc1
+s9_loc_morgue_healing_luke	Luke was paining something awful ([%0])	p4ether_dlc1
+s9_loc_morgue_healing_john	John cursed his wounds ([%0])	p4ether_dlc1
+s9_loc_morgue_healing_theodor	Theodor was a bit under the weather ([%0])	p4ether_dlc1
+s9_loc_morgue_healing_louise	Louise ranted about her wounds ([%0])	p4ether_dlc1
+s9_loc_morgue_healing_gunther	Gunther seemed disappointed when I asked for his wounds to be tended ([%0])	p4ether_dlc1
+s9_loc_generalstore	General Store	
+s9_loc_generalstore_desc	The small array of tents and a single wooden building looked like a mirage in the middle of the badlands. The sign read: "Niko's General Goods".<br><br>The store was run by a gentleman in round glasses and a black duster coat.	
+s9_loc_generalstore_returned	I arrived at the lonesome general store.	
+s9_loc_generalstore_offerstanding	<br><br>The man said if I took part in a "little test" of his, he'd give me a [%0]% discount.	
+s9_loc_generalstore_test	I took the deal.	gd3
+s9_loc_generalstore_barter	I just wanted to trade.	b
+s9_loc_generalstore_exit	I left.	x
+s9_loc_generalstore_test_desc	Without a word, he held forth a single jellybean in each hand: he said one was orange-flavored, and the other was blueberry. He said I should pick one.	
+s9_loc_generalstore_red	I picked the orange one.	g
+s9_loc_generalstore_blue	I chose the blue one.	g
+s9_loc_generalstore_test_result	^I don't know what he put in them jellybeans, but next thing I knew I woke up and it was a quarter hour later. As you can imagine I was a tad miffed, but the man kept his promise: a discount of [%0]% was mine for the taking.<br><br>	
+s9_loc_generalstore_test_result_doc	^I am unable to determine the ingredients that constituted these jellybeans, but I had passed out for a quarter of an hour. As you can imagine, I was less than satisfied, but the peculiar man kept his promise of a [%0]% discount on all his wares.<br><br>	
+s9_loc_generalstore_red_result	He said he would also sell me a unique pistol from his collection.	
+s9_loc_generalstore_blue_result	He said he would also sell me a powerful amulet.	
+	Strategic interactions - Stage 1 (Gorman narrates)	
+s9_loc_morgue_s1_intro	The Morgue was run by the Masked Doctors, a secret medical society that counted me among its membership.<br><br>The Morgue had facilities for keeping human body parts alive outside of the host body, which enabled us to replace damaged body parts in humans and alleviate previously incurable ailments.	
+s9_loc_morgue_s1_intro_opt1	I reviewed their latest merchandise, searching for something suitable for you.	n
+s9_loc_morgue_s1_intro2	Havelock Vennesen and I had known one another for ages. He was the Doctors' primary merchant, exchanging body parts for Ether.<br><br>Ether could be manufactured from various biological material, but for human organs and surgeries, only Ether from human material was acceptable. Anything else caused horrific disfiguration of the subject.<br><br>The business ran on Ether, which made it a de facto currency. If one wanted body parts for their research, they paid in Ether, not money.	
+s9_loc_morgue_s1_intro2_opt1	I went on to peruse his wares.	b
+s9_loc_morgue_s1_afterwards	That's the way things worked in the Morgue: Ether for parts. To elevate you beyond the human mass, I would need more of both. Much more.	
+s9_loc_morgue_s1_afterwards_exit	I needed to get going.	x
+s9_loc_warhospital	War Hospital	
+s9_loc_warhospital_desc	I went to the war hospital, where wounded soldiers were being nursed back to health, or to a state where they could be put in front of the house with a begging bowl.<br><br>I posed as a local doctor. No one questioned my ruse.	
+s9_loc_warhospital_opt1	I began circulating among the patients, extracting Ether from them.	gd9
+s9_loc_warhospital_opt2	I examined the patients, looking for body parts suitable for you.	gd9
+s9_loc_warhospital_opt4	I decided to leave them alone for the time being.	x
+s9_loc_warhospital_opt1_result	After I had extracted a good deal of bodily fluids for Ether production, one of the nurses identified me as a stranger.<br><br>She raised a clamor, and called the staff to apprehend me.	
+s9_loc_warhospital_opt2_result	I found a myopic soldier who had once been a sharpshooter. I reasoned that his skill must lie in his arms, so I amputated one of them and had it sent to the morgue, where my friends could prepare it for my use. As I was leaving, however, one of the nurses identified me as a stranger.<br><br>She raised a clamor, and called the staff to apprehend me.	
+s9_loc_warhospital_alarm_exit	Luckily for me, the response to the alarm was quite uncoordinated, thus I was able to escape before facing the consequences of my actions.	x
+s9_loc_richhouse	Rich House	
+s9_loc_richhouse_desc	I was called to tend to a severe case of gout affecting a wealthy rancher.<br><br>The man was so delirious with pain he barely knew I was there.	
+s9_loc_richhouse_opt1	He was so far gone, I decided that rather than treat his gout, I would simply extract some Ether from him.	gd6
+s9_loc_richhouse_opt2	I gave him some saffron extract to ease his condition. And I charged his family a pretty penny.	gd6
+s9_loc_richhouse_opt1_result	Though I knew it would be ineffective, I bled him, collecting his fluids to make more ether. I charged his family a modest fee for this service.	
+s9_loc_richhouse_opt2_result	^The extract took effect quickly. I left the rest of it with his family, and I charged them $[%0] for the service.	
+s9_loc_richhouse_exit	I got back on my way.	x
+s9_loc_lynchmob	Lynch Mob	
+s9_loc_lynchmob_desc	A noisy crowd attracted my attention. I soon realized it was a lynch mob. They were bent on punishing a Chinaman, whom they said had slept with a white woman.<br><br>I had seen the poor devil in town. A first-class craftsman, he was good with his hands and a prodigy at finding useful trinkets others might dismiss as junk.	
+s9_loc_lynchmob_opt1	Despite the high risk of injury, I decided to break up the mob and save him. A wounded man usually meant a lot of Ether.	gd6
+s9_loc_lynchmob_opt2	It would have been foolhardy to take on the whole crowd, so I watched patiently from a safe distance. I hoped I would be able to salvage something from the corpse.	gd9
+s9_loc_lynchmob_opt1_result	Once I had managed to get the crowd's attention, I told them I'd seen other Chinese sneaking into their homes while they were occupied by this distraction. The angry crowd rushed back toward town.<br><br>Unfortunately, one of the villagers threw a stray "goodbye" rock which hit my friend Phineas, inflicting a nasty wound.	
+s9_loc_lynchmob_opt1_result_next	The Chinaman was grateful, but he guessed correctly that I did not help him merely out of the kindness of my heart.	n
+s9_loc_lynchmob_opt1_business	I offered to dress his wounds in exchange for some of his blood. I needed more Ether.	
+s9_loc_lynchmob_opt1_business_opt1	He hesitated a moment, but ultimately agreed to the arrangement.	x
+s9_loc_lynchmob_opt2_result	The mob did their worst. There was hardly anything left after they finished with the poor man.	
+s9_loc_lynchmob_opt2_result_exit	His death was not in vain, however, I managed to salvage one of his hands.	x
+s9_loc_slaughterhouse	Slaughterhouse	
+s9_loc_slaughterhouse_desc1a	^I visited the local slaughterhouse.	
+s9_loc_slaughterhouse_desc1b	^I returned to the slaughterhouse.	
+s9_loc_slaughterhouse_desc2	The bovine cardio-vascular system is far more efficient than the human's. Naturally I was interested in acquiring some of that power for you.	
+s9_loc_slaughterhouse_opt1	I had their strongest bull slaughtered and its heart extracted ([%0])	p50cash
+s9_loc_slaughterhouse_opt2	The bull I wanted was too expensive to purchase, so I resolved to slaughter it when nobody was looking.	gd9
+s9_loc_slaughterhouse_opt3	I decided to return there later.	x
+s9_loc_slaughterhouse_opt1_result	I found buying a heart for you quite romantic.<br><br>Of course it had to be prepped at the Morgue before I could use it in a human being.	
+s9_loc_slaughterhouse_opt2_result	Extracting the bull's heart proved a noisy affair. Inevitably it attracted the attention of the stable boy. We managed to run from him with our prize intact, but he managed to wound Phineas with a bullet from his derringer.	
+s9_loc_slaughterhouse_exit	I got back on my way.	x
+s9_loc_town	Maple Falls	
+s9_loc_town_s1_desc	Maple Falls was the biggest settlement in the area, and was peopled with decent folk, for the most part.<br><br>There was a gunsmith, a saloon and there was always somebody who needed medical attention.	
+s9_loc_town_s1_return	I returned to Maple Falls.	
+s9_loc_town_s1_opt1	I paid a visit to the gunsmith.	i
+s9_loc_town_s1_opt2	I made a round of the houses and offered my medical expertise, hoping it would net me some coin.	gd9
+s9_loc_town_s1_opt3	I left the town.	x
+s9_loc_town_s1_gunsmith	The gunsmith was a smug, well-dressed man, but an incorrigible buffoon. He fixed us with a condescending look without saying anything.	
+s9_loc_town_s1_gunsmith_opt1	I took a look at his wares.	b
+s9_loc_town_s1_gunsmith_opt2	I left his store behind.	x
+s9_loc_town_s1_medround	^Though it took me a couple of hours, I made $[%0] profit from home visits.	
+s9_loc_town_s1_messenger	Upon entering Maple Falls, a scrawny youngster approached me and began blithering about an accident in a nearby coal mine. He urged me to go there immediately.	
+s9_loc_town_s1_messenger_opt1	I told him I would do so, after I had concluded my business with the gunsmith.	i
+s9_loc_town_s1_messenger_opt2	I agreed to go with him.	x
+s9_loc_baths	Beauty Clinic	
+s9_loc_baths_desc	One of my fellow Doctors, Dr Stoneman, ran a beauty clinic in the nearby hot springs area. While he was not overly fond of me, many of his patients harbored the opposite sentiment.<br><br>Case in point: the elderly Mrs. Harper saw me in the clinic and implored me to visit her at home to resolve a problem of hers.	
+s9_loc_baths_desc_next	I promised I would come.	n
+s9_loc_baths_desc2	The clinic had an experimental cosmetic surgery ward. There Dr Stoneman restored syphilis victims' noses, removed gunshot scarring and removed excess fat tissue from the obese.<br><br>As fat is an extremely efficient source of Ether, I was naturally quite interested.	
+s9_loc_baths_opt1	I snuck into the operating ward to search for a suitable patient.	gd9
+s9_loc_baths_opt2	I sought out Stoneman and offered him a generous sum for the fat ([%0])	p100cash
+s9_loc_baths_surgery	After searching the rooms, I found a morbidly obese man taking a nap. He was perfect.<br><br>I put a chloroform-soaked rag against his mouth and nose, turned him over and started cutting into his skin.	
+s9_loc_baths_surgery_opt1	I had collected a good deal of fat when I was discovered by a warden.	n
+s9_loc_baths_surgery_opt1_result	The guard was confused. I assured him that Stoneman was a colleague of mine and I would be finished in a matter of minutes. Still he rushed off to alert Stoneman.<br><br>He was furious, naturally.<br><br>Still, by the time he arrived I had sewn the patient back together, and the fat had been removed properly. Stoneman might complain about my burglery, but not my surgery.	
+s9_loc_baths_surgery_opt1_result_opt1	Luckily, Dr Duval, an old friend and the leader of our secret society, was there too.	n
+s9_loc_baths_surgery_opt1_result_opt1_result	If it were not for Dr Duval, my dispute with Dr Stoneman could have gotten violent, which would have been most unfortunate.<br><br>Instead, however, Duval assured Stoneman I meant no harm, and that I had effectively done Stoneman a service, by taking care of his patient in exchange for a mere bucket of fat.<br><br>Stoneman called me an epithet I am loath to repeat and assured me my "rampage" would soon be over. I dismissed his threats and the matter was resolved.	
+s9_loc_baths_surgery_exit	I left the premises.	x
+s9_loc_baths_trade	Stoneman was more than a little surprised, and declined my offer most vehemently. He called me an epithet I am loath to repeat and assured me my "rampage" would soon be over.<br><br>Luckily, Dr Duval, a long-time friend of mine and the leader of our secret society, noticed our spat and intervened.<br><br>He spoke to us at length about professional camaraderie and sharing assets for the advancement of medicine. In the end, Stoneman was forced to back down.	
+s9_loc_baths_trade_exit	We concluded the trade and I left the premises.	x
+s9_loc_harperranch	Harper Ranch	
+s9_loc_harperranch_desc	I found Mrs. Harper most distraught. She told me, quite convincingly, that ever since her first son, Henry had gone to war, her other children had been plotting to kill her.<br><br>While she was resigned to passing away, she feared the prospect of being strangled, poisoned or otherwise brutalized. She then asked me to help her end her life peacefully.<br><br>She promised significant compensation.	
+s9_loc_harperranch_opt1	I agreed to assist her in this most delicate matter.	gd12
+s9_loc_harperranch_opt2	I told her I could not in good conscience take part in such a scheme.	gd3
+s9_loc_harperranch_declined	Mrs. Harper was distraught. She got on her knees and begged me to spare her the horror of facing her murderers and the humiliation of being slaughtered like a pig.<br><br>She was clearly desperate.	
+s9_loc_harperranch_declined_opt1	Taken aback by her intensity, I finally agreed to do as she wished.	gd9
+s9_loc_harperranch_declined_opt2	Still I remained resolute in my decision.	gd3
+s9_loc_harperranch_declined2	Mrs. Harper simply would not give up. She promised to make me her sole heir, even at the expense of those of her kin not involved in this vicious murder plot.<br><br>She even went as far as offering me her body, before or after her death, whichever struck my fancy.	
+s9_loc_harperranch_declined2_opt1	I agreed to her wishes, not out of greed, but for the sake of compassion.	gd6
+s9_loc_harperranch_declined2_opt2	I said "no" in the strongest possible terms and threatened to tell her children what she had said.	gd3
+s9_loc_harperranch_declined3	She burst into tears and cursed me, but finally gave up her mad quest.<br><br>Later, I met her daughter-in-law, who told me Mrs. Harper had lost her wits in old age and become paranoid. She thanked me for taking a strong stance against her preposterous request and insisted I take a handsome reward for my integrity.	
+s9_loc_harperranch_declined3_exit	I thanked her and got back on my way.	x
+s9_loc_harperranch_euthanasia	Mrs. Harper put on her finest clothes for the occasion and lay down on a couch. She motioned to me to proceed.<br><br>I prepared a chloroform mask for her, loaded with a dose so big it would put down a horse. She breathed its vapors until she placidly became insensate. After a brief interval, I checked her pulse and found she had passed away.	
+s9_loc_harperranch_euthanasia_opt1	Alas, her children did not appreciate my actions.	n
+s9_loc_harperranch_euthanasia2	When Mrs. Harper's younger son learned what happened, he was furious. Apparently, Mrs. Harper had lost her wits in her old age and had become paranoid.<br><br>I had been duped by this mad woman. And now her son was challenging me to a duel.	
+s9_loc_harperranch_euthanasia2_opt1	As a man of honor, I accepted. Phineas served as my second.	g
+s9_loc_harperranch_duel	We were to march ten steps, then turn around and fire. The Harpers had their own family guns, passed from generation to generation, for use in such momentous events as this.<br><br>The day was sunny with a slight breeze. As the countdown started, I marched into the face of death.	
+s9_loc_harperranch_duel_opt1	Before the countdown was finished, I spun around and shot young Harper in the back.	g
+s9_loc_harperranch_duel_opt2	I waited until the countdown finished, then turned around and fired to the best of my ability.	g
+s9_loc_harperranch_duel_opt1_result	Young Harper was sent flying. As his second pulled his gun on me, Phineas shot him between the eyes.<br><br>Unfortunately, due to the circumstances, we had no time to harvest blood from either one of them for Ether production.	
+s9_loc_harperranch_duel_opt2_result	My shoulder burned. Harper's bullet had hit me. Though the pain was severe, I managed to keep my head about me long enough to terminate young Harper's life in response.<br><br>With the help of Phineas, I made a retreat, being sure to collect my blood for later Ether production.	
+s9_loc_harperranch_duel_exit	We left.	x
+s9_loc_accident	Lonestar Coal Mine	
+s9_loc_accident_desc	The wounded miner was conscious, but had a large opening in the middle of his chest.<br><br>I asked how it happened. Apparently, as the man had been stamping some explosives with a metal pole when the charge went off, sending the pole flying through his chest. I could clearly see his beating heart and the expanding motion of his right lung. The left one was almost completely destroyed. The wound bled profusely and the man was short of breath.<br><br>I told the men to leave me alone with him.	
+s9_loc_accident_opt1	I gave him an excessive dose of morphine to ease his pain, tagged his good lung for my friends at the morgue and instructed the other miners to get the priest.	gd6
+s9_loc_accident_opt2	I helped him sit upright and drained the excess blood from his bad lung. It was a partnership. He would live, and I would get my Ether.	gd9
+s9_loc_accident_opt1_result	The morphine worked quickly, and the man passed away without suffering. When the body arrived at the Morgue, Vennesen would note the mark and extract the lung for me.	
+s9_loc_accident_opt2_result	As the man's breath stabilized, I dressed the wound the best I could.<br><br>I called the other miners and told them to get another doctor, who would transfer the man to a proper hospital. Meanwhile, I collected the drained blood.	
+s9_loc_accident_exit	I left the mine.	x
+s9_loc_cemetery_s1_return	I returned to my laboratory in the graveyard. You were still stable.	
+s9_loc_cemetery_s1_opt1	I was ready to perform the surgery.	t
+s9_loc_cemetery_s1_opt2	I still needed to prepare some more for the surgery.	x
+s9_loc_cemetery_s1_presurgery	The singular property of Ether is that it allows useful pieces of the deceased to be reused in living humans. Do you remember that poor devil Somerset whom you freed during your escape?<br><br>His cancerous growth seemed to give him unique powers. Naturally I extracted it and saved for your rebirth.	
+s9_loc_cemetery_s1_surgery	Your former slave masters were content exploiting you for menial quarry work. What a pathetic band of ignorants!<br><br>I could see that your leadership and determination gave you the potential to become a superior human being. But compared with an average human your physical strength was adequate at best. But what about compared to an average tiger? <br><br>Shattered arms? Off with them. Failing heart? Replace it with a bull's. Kidneys? Why stop at two?	
+s9_loc_cemetery_s1_surgery_opt1	I worked all day. And it all came together in a truly divine way.	nd12
+	Strategic interactions - Stage 2 (Libertee narrates)	
+s9_loc_morgue_s2_intro	I thought it was risky to go there what with all them white folk around, but Phineas seemed confident. He wrote some stuff down and showed it to the old man in charge. Then the man whispered in his ear and they shook hands. Vennesen told me I was free to trade with him.	
+s9_loc_morgue_s2_intro_barter	So I did.	b
+s9_loc_morgue_s2_intro_decay	We needed to do something about the rotting flesh.	i
+s9_loc_morgue_s2_intro_healing	We needed something to patch us up.	i
+s9_loc_morgue_s2_intro_exit	I said I'd return later... maybe.	x
+s9_loc_cemetery_s2_aftermath_title	Aftermath	
+s9_loc_cemetery_s2_aftermath	So there we was in the middle of the night with a pile of dead bodies. Phineas didn't seem bothered one bit. He piled them corpses up and collected the blood in buckets like he was tending a garden. I didn't understand all that goo stuff back then. You know, the Ether? But after that, every time we bested an enemy, we'd collect their blood to make Ether with it.<br><br>Phineas made it clear that there were some things in the lab he wanted to take.	
+s9_loc_cemetery_s2_aftermath_opt1	I waited until he was done.	gd6
+s9_loc_cemetery_s2_aftermath_opt2	I said we didn't have time to dilly-dally.	gd3
+s9_loc_cemetery_s2_aftermath_opt1_result	He searched the building methodically and picked up some trinkets as was lying around. We lost a bit of time, but I figured that stuff might could come in handy later on.<br><br>I asked whether he had any safe place we could go.	
+s9_loc_cemetery_s2_aftermath_opt2_result	Phineas grabbed one trinket from the lab and left the rest. It took me a while to figure out it was for making more of that goo.<br><br>I asked him whether he had any safe place to go.	
+s9_loc_cemetery_s2_aftermath_exit	He did.	x
+s9_loc_morbidhouse	Gorman House	
+s9_loc_morbidhouse_desc	Phineas led me to a fine-looking, but neglected ranch. I told him I didn't like the look of the place, but he assured me it would be ok.<br><br>I had no idea who you were. And I certainly didn't realize it was your family home.	
+s9_loc_morbidhouse_opt1	Instead of approaching from the front, we went for the back entrance to the kitchen.	gd3
+s9_loc_morbidhouse_opt2	Despite his confidence, I decided to sneak up on the house from the hunting grounds.	gd3
+s9_loc_morbidhouse_opt1_result	^Walking up on the house was a big mistake. We barely got past the gate, when a bunch of grey-clad folk came out from behind the corner. It was the Home Guard.<br><br>They started shooting at us. We ran, but they still got us.<br><br>	
+s9_loc_morbidhouse_result_2ndpart	That's when it finally dawned on me: we had to steer clear of not just the law, but people in general. We weren't just runaways, we'd killed some white folk. Plus, we looked like a couple of goddamned revenants.	
+s9_loc_morbidhouse_opt1_result_exit	When we lost them in the tall grass, Phineas looked lost. But I knew what to do.	x
+s9_loc_morbidhouse_opt2_result	^Turns out we made a smart choice. From between the trees, we spied a bunch of white folk in grey garb, like uniforms. It was the Home Guard.<br><br>In a panic, we turned around and tried to get out as quickly as possible. That's when Phineas stepped into a snare. It snapped onto his thigh with a squishy sound. We managed to limp away before the Confederates could check out the commotion.<br><br>	
+s9_loc_morbidhouse_opt2_result_exit	Phineas looked like a beaten dog. But I knew what to do.	x
+s9_loc_outlaws	Outlaw Den	
+s9_loc_outlaws_stalker	We arrived at this small inn on a plateau away from the main roads. Phineas claimed we'd find shelter there. I couldn't shake the feeling that somebody was following us. But there was no tracks, no scent, no sound. Just that darn feeling.	
+s9_loc_outlaws_stalker_opt1	We went inside, watching each other's backs.	gd3
+s9_loc_outlaws_stalker_opt2	I told Phineas to stand guard outside while I went in.	gd3
+s9_loc_outlaws_stalker_opt1_result	When we entered the inn, everybody went real quiet and started staring at us like we was a couple of sideshow freaks.<br><br>Suddenly, a shot rang out. I fell to the ground, hurting like hell. What I had taken for a shadow turned out to be a human. This tattooed lunatic walked up to me grinning. Which is when Phineas blew his head clean off.	
+s9_loc_outlaws_stalker_opt2_result	When I entered the inn, everybody went quiet and started staring at me, like I was some kind of sideshow freak.<br><br>Suddenly, I heard gunshots outside. When I ran out I saw Phineas bleeding on the ground. I saw a shadow under a tree, then realized it was a man covered all over in tattoos. He grinned at me.<br><br>And I blew his head clean off.	
+s9_loc_outlaws_stalker_disposal	Phineas dragged the body into a ravine and made some marks on it. I went back to the inn.	n
+s9_loc_outlaws_stalker_aftermath	Suffice to say, this little interlude taught the rest of those thugs not to mess with us.<br><br>When Phineas came back a while later, I asked him what happened to that tattooed stranger. He pointed out the morgue on the map, and indicated that we could pick up some of the thug's parts there.<br><br>Meanwhile, the innkeeper offered us a glass of whiskey and said that if we was looking, he had stuff for sale. So long as we didn't ask too many questions.	
+s9_loc_outlaws_nostalker	We arrived at this small inn on a plateau away from the main roads. Phineas claimed we'd find shelter there.	
+s9_loc_outlaws_altnode	When we entered the inn, everybody went real quiet and started staring at us like we was a couple of sideshow freaks.<br><br>The innkeeper offered us a glass of whiskey and said that if we was looking, he had stuff for sale. So long as we didn't ask too many questions.	
+s9_loc_outlaws_return_short	We went back in to the outlaw den.	
+s9_loc_outlaws_return	We went back in to the outlaw den. No one messed with us after that.	
+s9_loc_outlaws_opt1	I wanted to barter.	b
+s9_loc_outlaws_opt2	I showed the innkeeper the mask we picked up from one of those freaky loons at the cemetery. Asked him if he knew what it was.	gd3
+s9_loc_outlaws_opt3	A shifty-looking guy was staring at us from across the room. I asked him if he had a problem.	i
+s9_loc_outlaws_opt4	I decided to buy the information from the shifty-looking guy after all.	p75cash
+s9_loc_outlaws_opt6	We left.	x
+s9_loc_outlaws_opt2_result_lvl1	His eyes opened wide with fear. When I kept asking questions, he finally told me there were some people looking for them too, and if I wanted to know more, I should ask them.<br><br>He claimed he didn't know no more. Or maybe he just didn't want to tell.	
+s9_loc_outlaws_opt2_result_lvl2	His eyes opened wide with fear but his mouth stayed shut. I told him I already knew somebody been looking for them and I wanted to know who it was. He said he knew the names, John and Luke, the Evangelists. But damned if he knew their whereabouts.	
+s9_loc_outlaws_opt2_result_lvl3	His eyes opened wide with fear. I told him I already knew the Evangelists gang was looking for them. He told me the Evangelists were last seen in Greaves Cabin. I should wait for them there.	
+s9_loc_outlaws_opt2_result_exit	At any rate, we needed to keep looking.	x
+s9_loc_outlaws_opt2_result_exit2	Finally we had something to go on.	x
+s9_loc_outlaws_opt3_result	He didn't have a problem, he had a deal. He wanted cash in exchange for information about the Masked Doctors.<br><br>I asked him why I should trust him. He said I shouldn't, but that he had information about them masked freaks all the same.	
+s9_loc_outlaws_opt3_result_opt1	I forked over the money ([%0])	p75cash
+s9_loc_outlaws_opt3_result_opt2	I told him to get lost.	x
+s9_loc_outlaws_opt3_result_opt1_result	He told us about a train that did regular rounds for the Masked Doctors. He pointed to a trainyard, where we could get the jump on them.	
+s9_loc_outlaws_opt3_result_opt2_result	He told me to come back if I changed my mind. Then he returned to his drink.	
+s9_loc_pass	Mountain Pass	
+s9_loc_pass_desc	After we spied another Home Guard patrol, we decided to take the longer way around, through a mountain pass. It was slowly getting dark.	
+s9_loc_pass_opt1	I decided to set up camp in the forest and start again in the morning.	gd9
+s9_loc_pass_opt2	We needed to press on. We could rest later.	gd3
+s9_loc_pass_opt1_result	I woke up suddenly. It was pitch black. I could hear the faint noise of someone walking in the snow. The footsteps were making their way around the camp.<br><br>I jumped to my feet, kicked Phineas to wake him up, then headed in the direction of the noises. Whoever it was started running.	
+s9_loc_pass_opt1_result_opt1	Naturally we gave chase.	n
+s9_loc_pass_opt2_result	As we traversed a narrow opening between two rocks, a boulder came crashing down on us. We tried to jump out of the way, but we were both badly injured.<br><br>As we lay there we could see someone running off into the woods. Bastard.	
+s9_loc_pass_opt2_result_opt1	We ran after him.	n
+s9_loc_pass_yeti	We finally caught up to our stalker deep in the forest. At first we thought we were in the middle of what looked like a giant bear den. Except there weren't no bear, no siree.<br><br>Instead there was a giant ape pounding around, looking like to kill us. I put a bullet between its eyes.	
+s9_loc_pass_yeti_next	I looked around the den, while Phineas removed the creature's massive head.	n
+s9_loc_pass_yeti_preclue	^Among the human remains scattered in the den, I found pieces of another mask, like them one the attackers had.<br><br>	
+s9_loc_pass_yeti_clue1	I also found a letter. According to Phineas, it said somebody was following them. Some mean-ass gunslingers holding a grudge. I took a shine to these desperadoes right away.	
+s9_loc_pass_yeti_clue2	I also found a letter. According to Phineas, it said some mean-ass gunslingers, John and Luke, the Evangelists, were trying to track them down. I took a shine to those two right away.	
+s9_loc_pass_yeti_clue3	I also found a letter. According to Phineas, it pinpointed the Evangelists' hideout. The place was called 'Greaves Cabin.'	
+s9_loc_pass_noclue	Among the human remains scattered in the den, I found some useful stuff. I figured they wouldn't be needing it none.	
+s9_loc_pass_yeti_exit	We returned to the road.	x
+s9_loc_buffalo	Buffalo Cave	
+s9_loc_buffalo_desc	We came across a swath of ground covered with buffalo tracks. I couldn't believe it. Folks said the buffalo had been wiped out round here.<br><br>So we followed them.<br><br>The tracks led to a large cave in the side of a mountain. Buffalo tracks going into a cave was strange enough, but that many?	
+s9_loc_buffalo_opt1	We headed in.	nd3
+s9_loc_buffalo_desc2	Inside the cave, we found a giant statue made of green stone that glowed in the dark. It had two gems for eyes, and you could hear a whistle. Or maybe that was the bats.	
+s9_loc_buffalo_opt2	I touched the statue.	gd3
+s9_loc_buffalo_preclue	^Images flashed before my eyes and didn't know where I was. I saw a giant herd of buffalo being hunted by a gaggle of white folk. But they didn't kill the animals. They captured them and took them to them masked fellas who collected their blood. Just like Phineas did with that goo tool of his.<br><br>	
+s9_loc_buffalo_clue1	Then I saw something else. People gunning down the hunters and the doctors alike.	
+s9_loc_buffalo_clue2	Then I saw the two men gunning down the hunters and the doctors. And a poster that read: 'Luke and John, Evangelists; REWARD $5,000 EACH'.	
+s9_loc_buffalo_clue3	After that I saw two men gunning down the hunters and the doctors alike. I knew they were the Evangelists. And then I saw their safehouse.	
+s9_loc_buffalo_noclue	Then I saw myself in that very same cave I was in. With a stash right below my feet.	
+s9_loc_buffalo_clue_next	Finally, the vision vanished.	n
+s9_loc_buffalo_statue	And there we were, standing in front of that strange glowing figure.	
+s9_loc_buffalo_statue_opt1	I pried the gems from the statue's eye sockets, planning to fence them for food.	gd3
+s9_loc_buffalo_statue_opt2	For some reason, I put what I was wearing on my neck around that statue's neck.	gd3
+s9_loc_buffalo_statue_opt3	I started digging beneath my feet, right where I saw their stash in my vision.	gd6
+s9_loc_buffalo_statue_opt4	We decided to leave and never return.	g
+s9_loc_buffalo_statue_opt1_result	But while those stones were valuable, I swear they was cursed. I still get nightmares from those things.	
+s9_loc_buffalo_statue_opt2_result	I can't say why I did it. But when I came back to pick it up, it was something completely different!	
+s9_loc_buffalo_statue_opt3_result	After a half hour digging, we found a small chest filled with valuables.	
+s9_loc_buffalo_statue_exit	It was time to go.	x
+s9_loc_hideaway	Hideaway	
+s9_loc_hideaway_desc	We were trudging through a rocky valley trying to avoid a slaver posse on the road when we came to a small hut behind a large boulder.<br><br>We approached it slowly, guns ready. Suddenly, the doors flew open and a man jumped out and tackled me. I landed a fist in his face and pushed him off.<br><br>When I got up, I saw he was dressed like a cowboy, but was wearing Confederate boots with gleaming silver spurs.	
+s9_loc_hideaway_opt1	We understood that he was a deserter.	n
+s9_loc_hideaway_desc2	He looked at us a minute while he caught his breath. Then he laughed grimly and said he figured we was all running for the same reasons. Said we looked like we'd been cut on by those masked madmen. Told us he was done working for them. I told him we were on our way to pay them back for what they done.<br><br>He said if we could spare a gun or some liquor, he'd be happy to tell us what he knew.	
+s9_loc_hideaway_return	We found the deserter again. His offer stood: a gun or some liquor in exchange for information about them masked fellas.	
+s9_loc_hideaway_trade_gun1	I gave him my first gun (	p
+s9_loc_hideaway_trade_gun2	I gave him my other gun (	p
+s9_loc_hideaway_trade_gunend	)	
+s9_loc_hideaway_trade_liquor	I gave him the liquor ([%0])	p5liquoir
+s9_loc_hideaway_trade_beback	I told him I'd be back later with the merchandise.	x
+s9_loc_hideaway_trade_accept	^He took it, and in exchange handed me a piece of paper. Said it was some Masked Doctor documents that might come in handy.<br><br>	
+s9_loc_hideaway_trade_accept_clue1	He also told us there was somebody else going after the Doctors besides us. A mean bunch of gunslingers were tracking them doctors down too. Sounded like they meant business.	
+s9_loc_hideaway_trade_accept_clue2	He also mentioned that Luke and John, the two gunfighters left over from the Evangelist gang were going after the Doctors.	
+s9_loc_hideaway_trade_accept_clue3	When he heard we already knew about the Evangelists, he told us they were hiding out at Greaves Cabin, right down the road.	
+s9_loc_hideaway_trade_accept_noclue	He told us about a train that did regular deliveries for the Masked Doctors. He pointed to a trainyard and said we could get the jump on them there.	
+s9_loc_hideaway_trade_accept_exit	Our business concluded, we were on our way.	x
+s9_loc_congregation	Congregation	
+s9_loc_congregation_desc	We came upon a group of white folks washing their linens in a stream. When they spotted us, they looked like they was gonna run, but the woman in charge calmed them down and told us to come closer. We did, cautiously.<br><br>She told us there was a Home Guard patrol roaming the nearby roads.<br><br>When we made it clear we were no friends of theirs, they invited us to join their congregation.	
+s9_loc_congregation_next	We accepted.	nd3
+s9_loc_congregation_hub	We arrived at the congregation's homestead, a church and a bunch of houses. It wasn't much to look at. They said it was because the government didn't like them, and neither did the Home Guard.<br><br>They made their living farming and selling healing items made from local herbs, but it barely covered their expenses.	
+s9_loc_congregation_opt1	We did some shopping.	b
+s9_loc_congregation_opt2	I showed them the mask and asked whether they knew anything about it. They did, but they made it clear they wanted Ether in exchange ([%0])	p3ether_dlc1
+s9_loc_congregation_opt3	We were soon gone.	x
+s9_loc_congregation_preclue	^The priest who ran things in the congregation said he'd heard tell of the crimes perpetrated by those masked freaks. And he had proof: some kind of document only Phineas could make sense of.<br><br>	
+s9_loc_congregation_clue1	He said it was clear to him that the almighty had turned his fist against the abominators. He'd sent not just us, but two other vigilantes bent on stomping their masked behinds.	
+s9_loc_congregation_clue2	He said the Evangelists would destroy them. When I asked him what the Evangelists had to do with it, he clarified. The Luke and John he referred to were men, flesh and bones, gunslingers from the fearsome Evangelists gang.	
+s9_loc_congregation_clue3	He said two other vigilantes were on the lookout for the abominators. When I told him their names, he gave me the location of their hideout and said I should pay a visit. He said we would make good friends.	
+s9_loc_congregation_noclue	He said our posse renewed his faith in the justice of the almighty, and that he would pray for us. Funnily enough, it seemed to work.	
+s9_loc_congregation_leave	We spent the night and left early the next morning.	x
+s9_loc_evangelists	Greaves Cabin	
+s9_loc_evangelists_desc	The cabin was located on a forbidding peak flanked by a gentler mountain. There were two ways to get to it, climb the brutal peak directly, or follow a narrow path up the easier mountain, then cross a rope bridge over a crevasse at the top. The former was more dangerous, but shorter, the latter was easier, but would take more time to complete.	
+s9_loc_evangelists_opt1	We took the easier route.	gd12
+s9_loc_evangelists_opt2	We climbed the treacherous peak directly.	gd6
+s9_loc_evangelists_opt1_result	^The march up that narrow path took us the better part of the day. Along the way, we found some rare berries I knew could come in handy in a fight.<br><br>Finally, we arrived at the bridge. From there we had a clear view of the cabin, a little ways up the hill. As I told Phineas the bridge made a great shooting gallery for anyone in the cabin, a bullet hit the rock next to his foot.<br><br>	
+s9_loc_evangelists_opt2_result	^The climb turned out to be easier than I thought. Unless you count Phineas slipping on some moss and falling a couple of feet to the rocks below. He was injured, but he could continue.<br><br>We finally came up on a ledge, where we found several dead bodies drying in the sun. Phineas searched them for loot. I was about to tell him there must be a reason so many people died at this spot when a bullet hit the rock right next to his foot.<br><br>	
+s9_loc_evangelists_result_part2	It was the Evangelists. They shouted down for us to state our names and our business. We told them who we were and who we were looking for. They told us we could approach, but that we should leave our guns on the rocks below.	
+s9_loc_evangelists_result_opt1	I told them there was no way I'm putting down my gun while facing two goddamn white vigilantes.	g
+s9_loc_evangelists_ok	They allowed as that was fair enough. So we talked while aiming for each others heads. After a while they understood that our intentions were legitimate.<br><br>When we swapped information, they told us they knew of a mental institution run by one of them masked demons. They said we would find information, and an opportunity for revenge, there.	
+s9_loc_evangelists_ok_exit	That sounded like a mighty fine plan to me.	x
+s9_loc_train	Doctors' Train	
+s9_loc_train_desc	We made it to the trainyard. The engine was there, but hardly anyone was around.<br><br>The brothers didn't like it. They said it was too quiet.	
+s9_loc_train_desc_nobros	We made it to the trainyard. The engine was there, but hardly anyone was around.<br><br>I didn't know if that was good or suspicious.	
+s9_loc_train_return	We returned to the trainyard. The engine was still waiting. Nothing seemed to have changed. I didn't know if that was good or suspicious.	
+s9_loc_train_opt1	We attacked anyway.	t
+s9_loc_train_opt2	I decided to postpone the attack.	x
+s9_loc_greenerpastures	Greener Pastures Asylum	
+s9_loc_greenerpastures_desc	A large building made from red brick sat in the middle of the wetlands. It looked fairly normal until we found bones sticking out of the ground. When we got close, it was clear they were human bones.<br><br>Whatever was happening inside that building, wasn't good. And we intended to make sure it stopped once and for all.	
+s9_loc_greenerpastures_opt1	We played it sneaky and got as close as we could without starting the fight.	t
+s9_loc_greenerpastures_opt2	We still weren't ready to raid this place.	x
+s9_loc_lonesomehouse	Lonesome Homestead	
+s9_loc_lonesomehouse_desc	We were hiking up a hill, when we heard a shrill scream from a nearby valley. Phineas pulled my shirt and formed an asking expression.	
+s9_loc_lonesomehouse_next	I agreed. We needed to see what was going on.	nd3
+s9_loc_lonesomehouse_desc2	It took us a longer while, but we finally came down to a large homestead with its windows blown out. Home Guard bodies were scattered all over the place.<br><br>We went inside very carefully. A woman was lying on the bed, and there was a body of a masked doctor lying on the floor next to her. We could see what she'd been screaming about. The woman's chest had been cut open. There was blood everywhere and she looked close to death.<br><br>But what had killed these men? Could it have been that unholy scream?	
+s9_loc_lonesomehouse_next2	I examined her wounds while Phineas collected the blood she'd spilled.	n
+s9_loc_lonesomehouse_desc3	She grabbed my arm and examined my scars. I could tell she knew just what my unholy hands and Phineas's ruined face meant: we'd had a run with a masked doctor.<br><br>She begged me to end her life now. But asked me to promise we'd leave her body intact, then burn it.	
+s9_loc_lonesomehouse_opt1	I promised we would, and I kept my word. Hell, I wouldn't want anyone walking around with my body parts neither.	gd6
+s9_loc_lonesomehouse_opt2	I put my derringer against her temple and pulled the trigger, but I didn't promise nothing. I made sure not to mess up her lungs. That shout of hers was too good to pass up.	gd6
+s9_greener_aftermath	Upon leaving Greener Pastures...	
+s9_greener_aftermath_desc	^I finally had my answer, Doctor Gorman. I knew who the monster was who turned me into a monster. It was you.<br><br>I swore you'd pay for every one of these scars.<br><br>	
+s9_greener_aftermath_desc_talked	Your masked friend told me you were working over in Stringfellow Quarry. Said you were buying off slaves too sick or injured to work to use as raw materials for your experiments.	
+s9_greener_aftermath_desc_tapes	The voice box mentioned Stringfellow Quarry. Said you were doing business there regularly.	
+s9_greener_aftermath_opt1	I decided to wait for you there.	x
+s9_loc_quarry	Quarry	
+s9_loc_quarry_predesc	I didn't know what to expect in the quarry, but I knew it was gonna be the battle of my life. And I knew that once I went down there, I wouldn't be able to change any of my weapons, nor Phineas's for that matter. This was a point of no return. Before I entered, I had to be sure I was completely ready for this.	
+s9_loc_quarry_predesc_opt1	I was ready.	g
+s9_loc_quarry_predesc_opt2	I needed to prepare some more.	x
+s9_loc_quarry_desc	I've worked that quarry ever since I could heft a pickaxe. And I never saw a dime from it. But now I was free. And I could walk in there and put a bullet in the head of every son of bitch who treated me rough, called me foul names, and worse.<br><br>But slavers is cowards at heart. Soon as they saw me? Realized who I was and what I could do? Them soft boys ran like a pack of scared piglets.<br><br>It felt good. Just not as good as plugging them full of lead.	
+s9_loc_quarry_next	And to be fair, now that I'm remembering all this, I guess I might owe some of that to what I could do now with this "superior" body you made me.	n
+s9_loc_quarry_desc2	But back then I was angry and I wanted answers. Why'd you choose me? Why'd you leave me to die there? What kind of a man would do something like this?	
+s9_loc_quarry_exit	So I waited. I knew you'd show up eventually.	x
+	Strategic interactions - Stage 3 (Gorman betrayed but rising from the ashes)	
+s9_stage3_seenlibertee	I asked around about you. Discreetly of course.	gd3
+s9_stage3_wantedlibertee	WANTED!	
+s9_stage3_wantedlibertee_desc	The poster read: "Wanted dead or alive. Libertee, escaped slave and murderer, and gang. $10,000 for the negro, $2500 for each gang member. Last seen in the vicinity of Stringfellow Quarry."	
+s9_loc_morgue_s3_intro	I exercised utmost caution when approaching the Morgue. I knew Duval would have warned all of the employees against me. I needed to find one that actually knew me.<br><br>So I waited until nightfall and caught Vennesen when he was leaving. He was happy to see me alive.<br><br>I told him what happened. He was very supportive. He said he'd trade with me, but explained he that he would need extra coin to keep his employees' mouths shut.	
+s9_loc_morgue_s3_intro_opt1	I had anticipated higher prices, so I accepted and browsed his stock.	b
+s9_loc_morgue_s3_intro_opt2	For now, I asked him to do something about the decay.	i
+s9_loc_morgue_s3_intro_opt3	Presently, we only needed some patching up.	i
+s9_loc_morgue_s3_intro_opt4	It was a fair deal. Still, I needed to go.	x
+s9_loc_duvalresidence	Duval Residence	
+s9_loc_duvalresidence_desc	The attack on my laboratory was shocking. I suspected a rogue sect within our organization had made me their target. I was confident, however, that my good friend and leader of the Masked Doctors, Dr Duval, would clear this matter in no time.	
+s9_loc_duvalresidence_next	I was only partly right.	n
+s9_loc_duvalresidence_desc2	When I told him about the attack, he smiled condescendingly and admitted that he was behind it.<br><br>Then he went on a screed about my "renegade" actions and "outlandish" experiments, saying they were a blight on his political career. He intended to win the Governor's position by ridding Texas of the scourge of "body snatchers".<br><br>I reminded him of the ideals of the society he helped establish. He laughed harshly and said that the Masked Doctors no longer mattered, at least not beyond the political and economic connections they granted. They might as well no longer exist.	
+s9_loc_duvalresidence_next2	That was when his thugs began manhandling me. I will spare you the details, but it was more than a little unpleasant.	n
+s9_loc_duvalresidence_desc3	I woke up on the operating table with Duval's head floating above me. He asked me to choose which body parts I wanted him to mutilate first.	
+s9_loc_duvalresidence_opt1	I begged him to spare my eyes.	g
+s9_loc_duvalresidence_opt2	I implored he leave my hands intact.	g
+s9_loc_duvalresidence_opt3	I appealed to his decency and asked him to let me keep my brain.	g
+s9_loc_duvalresidence_opt4	I told him to do his worst.	g
+s9_loc_poorhouse	Homeless Shelter	
+s9_loc_poorhouse_desc	It had been several months since Duval mutilated my body and I had hardly recuperated. By the time the wounds he inflicted on me turned to scars. I was a different man.<br><br>My reputation was ruined, my patients were being tended by my competitors, my possessions had been taken by the Home Guard. Worst of all I had no news about you. My despair was bottomless.	
+s9_loc_poorhouse_next	Still, I regained strength over time.	n
+s9_loc_poorhouse_desc2	Luckily, I had lost none of my medical skills and was able to help around the shelter. This also proved an excellent opportunity to continue my research.<br><br>Eventually I recruited three of my fellow inmates to aid my cause.	
+s9_loc_poorhouse_theodor	Theodor, Louise and Gunther.	n
+s9_loc_poorhouse_theodor_desc	Theodor had been a traveling merchant. With my limited resources, I could either restore his amazing sight or his well-traveled legs.	
+s9_loc_poorhouse_theodor_opt1	I chose superior aim.	g
+s9_loc_poorhouse_theodor_opt2	I preferred he move faster.	g
+s9_loc_poorhouse_louise_desc	Louise was a cross old hag who harbored romantic feelings for me. I had no interest in her, of course. I have never been unfaithful to you, Libertee.<br><br>For combat purposes however, I could restore Louise's amazing endurance if I removed what she called her "lucky wart".	
+s9_loc_poorhouse_louise_opt1	I figured survivability in a fight was more important.	g
+s9_loc_poorhouse_louise_opt2	I opted against touching her lucky growth.	g
+s9_loc_poorhouse_gunther_desc	Gunther lost his command in the American-Mexican war of 1846 and returned home a haunted man who cared not for life. The only enthusiasm I ever saw in him was when he joined my team, testament to his powerful death wish.<br><br>He was, unfortunately, completely out of shape. With what few supplies I had, I could remove his less vital organs and improve his durability, or remove the cataracts from his eyes, allowing him to shoot better.	
+s9_loc_poorhouse_gunther_opt1	I chose durability.	g
+s9_loc_poorhouse_gunther_opt2	I fixed his eyes.	g
+s9_loc_poorhouse_ending	These improvements got my men back in the fight, but there was much more I could accomplish with the right parts and enough Ether.<br><br>Throughout all this, though, my primary goal remained finding you.	
+s9_loc_poorhouse_ending_exit	We left the misery of the shelter behind. I was determined to make something of my companions. And myself.	x
+s9_loc_town_s3_desc	Returning to Maple Falls as a vagrant instead of a respected citizen was painful. In my shame, I concealed my identity with a disguise, and we stuck to the less respectable parts of town.	
+s9_loc_town_s3_opt1	I was always on the lookout for body parts or Ether.	gd3
+s9_loc_town_s3_opt2	I returned to that noxious fellow who'd wanted to gamble for his body parts.	gd3
+s9_loc_town_s3_liver_part1a	^An inveterate gambler, already deep in his cups,	
+s9_loc_town_s3_liver_part1b	^The man	
+s9_loc_town_s3_liver_part2	was boasting that he'd already won everything valuable in town. He asserted he could bet his own head and have no fear of ever losing it.	
+s9_loc_town_s3_liver_opt1	I told him if he'd substitute his liver for his head, I'd accept his offer.	gd6
+s9_loc_town_s3_liver_opt2	I baited him into betting his liver against me. For my part, I would enhance my luck with a pair of trick dice ([%0])	p1loaded_dice
+s9_loc_town_s3_liver_opt3	It gave me an idea to make him backup his words, but I wasn't ready yet.	x
+s9_loc_town_s3_liver_win	My deceitful cubes were the end of him.<br><br>I can only commend his honorable attitude. Rather than welsh on the bet, he ordered a final slug of whiskey and asked where we might conduct the operation. When it was done, I sent his liver to the Morgue, and managed to gather some extra Ether. Then we left the gambler to enjoy his final hours. Drunk as he was, I can't imagine they were altogether pleasant.	
+s9_loc_town_s3_liver_loss	Unfortunately, my deceitful cubes refused to dance my way and I soon found myself defeated. Realizing that I would rather part with my honor than my liver, I shot the gentleman where he sat.<br><br>And damn if he didn't manage to return fire. I was badly injured, but alive. And I got a bit of Ether out of it.	
+s9_loc_town_s3_liver_exit	We returned to town.	x
+s9_loc_town_s3_libertee_no	Unfortunately, there was no news.	
+s9_loc_town_s3_libertee_yes	The laundry lady looked at me quizzically, pointed to a piece of paper on the wall and asked whether I meant the wanted negress.	
+s9_loc_harbor	Harbor	
+s9_loc_harbor_desc	It was a storage area where several of my ex-fellows kept their supplies. It seemed that Duval was taking his oath to destroy the society quite seriously. Many precious resources were being dumped into the river.	
+s9_loc_harbor_return	We returned to the Masked Doctors' harbor.	
+s9_loc_harbor_attack	I decided to stop them. I would use the supplies for my own ends.	t
+s9_loc_harbor_leave	We retreated. For now.	x
+s9_loc_congregation_s3_desc	I found a small village founded by a minor religious sect. They mostly kept to themselves, so perhaps you have met them?	
+s9_loc_congregation_s3_return	I returned to the Congregation.	
+s9_loc_congregation_s3_barter	They offered herbal goods in trade.	b
+s9_loc_congregation_s3_libertee_no	They claimed they never heard of you. Though I had the impression they were hiding something, I couldn't act on it.	
+s9_loc_congregation_s3_libertee_yes	They hung their heads and admitted they had seen you in the vicinity. As proof, they gave me a piece of paper with your visage drawn on it.	
+s9_loc_congregation_s3_exit	I left their congregation.	x
+s9_loc_medishow	Medicine Show	
+s9_loc_medishow_desc	^I came across a travelling medicine show. They were charlatans, of course, selling concoctions of dubious origin to the ignorant.<br><br>I despised them, but I was desperate for money.<br><br>They offered to pay me $[%0] if I promoted their products among the populace as legitimate medical cures.<br><br>They said they'd also consider using my image for advertisement purposes. I worried that would further harm my reputation and increase the prices in local shops.	
+s9_loc_medishow_opt1	Even though it was time-consuming, I took the advertisement deal.	gd9
+s9_loc_medishow_opt2	I sold my image to the devil.	gd3
+s9_loc_medishow_opt3	I refused to sign on to their infernal scheme.	gd3
+s9_loc_medishow_promo	We signed the papers and money changed hands. They asked whether they could do anything else for me.	
+s9_loc_medishow_promo_exit	There was nothing else I could think of.	x
+s9_loc_medishow_advert	They made a daguerrotype of my face, then handed me a wad of cash.	
+s9_loc_medishow_advert_exit	I went my own way.	x
+s9_loc_medishow_libretee_no	They were confident they had never heard of you before.	
+s9_loc_medishow_libretee_yes	They said they got a WANTED letter for you from the local sheriff. They handed it to me.	
+s9_loc_lazaretto	Lazaretto	
+s9_loc_lazaretto_desc	I have arrived in the local leper house, filled with miserable, discarded, forgotten human beings. Forgotten being they key word. It seemed no one had seen their potential as sources of Ether, not even my former colleagues.	
+s9_loc_lazaretto_return	The misery of the lazaretto struck me as both a pity and a waste.	
+s9_loc_lazaretto_opt1	I had an enlightening conversation with the local priest, who now suffered from leprosy as well.	gd6
+s9_loc_lazaretto_opt2	Under the pretense of helping the sick I collected a significant amount of Ether.	gd9
+s9_loc_lazaretto_opt3	I decided to return later.	x
+s9_loc_lazaretto_opt1_result	Halfway through his riveting tale, the good priest went silent and pale. Then he reached into his mouth and produced his severed tongue. He looked at me, mute and helpless.	
+s9_loc_lazaretto_opt1_result_opt1	I put the rotting tongue on Ether, then helped the man stop the bleeding and dress the wound ([%0])	p3ether_dlc1
+s9_loc_lazaretto_opt1_result_opt2	I helped him the best I could, but without Ether, there was no way to save the tongue.	n
+s9_loc_lazaretto_mute	The man was thankful for the help, even though he had effectively become mute.	
+s9_loc_lazaretto_opt2_result	It cost me some time, but I collected a large amount of biological material.	
+s9_loc_lazaretto_libertee_no	They said no one matching your description visited them at any time.	
+s9_loc_lazaretto_libertee_yes	They handed me a piece of paper, allegedly distributed by soldiers in grey uniforms.	
+s9_loc_misericordia	Misericordia	
+s9_loc_misericordia_desc	The settlement of Misericordia was a secret project of one of the Masked Doctors. While there were a few adults, the vast majority of the inhabitants were children. All of them were boys. All were tall and fit. And all looked precisely, eerily, the same.<br><br>It seemed the doctor in charge had managed to replace the gonads of all Misericordia couples with identical copies of a pair of testes and ovaries he'd grown in his laboratory. The resulting offspring were identical to one another, but utterly unlike their "parents."<br><br>Mrs. Persons was the community's leader and all the boys were named after her.	
+s9_loc_misericordia_opt1	I suspected there might be some useful material here, so I started snooping around.	gd3
+s9_loc_misericordia_next	I was pushing my luck, but I continued looking.	gd3
+s9_loc_misericordia_end	I decided I should stop before I was discovered.	x
+s9_loc_misericordia_capture	Eventually, the young Persons caught up to me. They chased me from the village and managed to injure both me and my companions.	
+s9_loc_misericordia_loot1	I found some Ether in jars. Not a gigantic quantity, but it was better than nothing.	
+s9_loc_misericordia_loot2	I found an unknown organ preserved in a large Ether container. I claimed it for the cause.	
+s9_loc_misericordia_loot3	I found a stash of identical suits that bore the Pinkerton insignia. Alongside them was an assortment of firearms.	
+s9_loc_misericordia_loot4	I came upon a most interesting specimen: a human spine kept in a large Ether tank. And this was not just a reference display, it was a living organ.<br><br>Naturally, I decided to keep it.	
+s9_loc_misericordia_loot5	I found assorted bombs and petards. These things come in handy in the most unusual situations.	
+s9_loc_quarry_s3_desc	Finally, I had arrived at Stringfellow Quarry. I found it fitting that our story would end where it began. We have come full circle.	
+s9_loc_quarry_s3_return	I returned to Stringfellow Quarry. I knew you were waiting for me there somewhere.	
+s9_loc_quarry_s3_opt1	I was ready as I could ever be.	t
+s9_loc_quarry_s3_opt2	I decided to put aside dramatism and make more preparations.	x
+	Tutorial text	
+s9_tutorial_decay_title	Decay	
+s9_tutorial_decay_desc	As you visit various locations, characters with transplants (golems) will decay, accumulating negative stat modifiers.<br>Observe the clock icons in Exploration Panels to gauge how each action increases your party's Decay.<br>Decay can be reset in the Morgue, at the expense of Ether.	
+s9_tooltip_dlc_handcombinations	Look for body parts with the same symbol, then arrange them on a character to gain additional bonuses.	

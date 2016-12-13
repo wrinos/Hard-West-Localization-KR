@@ -1,0 +1,30 @@
+text_id	en	format
+	Generic dialogue options	
+global_ok	Continue	n
+global_accept	Accept	g
+global_cancel	Cancel	g
+global_deny	Decline	g
+global_decline	Decline	g
+global_exit	Leave	x
+global_nomoney	Not enough resources.	
+global_goback	Go Back	i
+global_continue	Continue	n
+global_end	End Event	x
+global_trade	Trade	b
+global_noresource	Not enough resources.	
+global_notice	Notice	
+global_leave	Leave	x
+global_back	Go back	i
+loc_special_fatetrader	Fate Trader	
+global_dots	Continue	n
+	Objective add-ons	
+global_obj_counter_1	(remaining:	
+global_obj_counter_2	)	
+global_obj_counter_2_opt	) (Optional)	
+global_obj_counter_ints	^(remaining: [%0])	f
+global_obj_counter_ints_opt	^(remaining: [%0]) (Optional)	f
+global_obj_turns_ints	^([%0] turns)	f
+global_obj_turns_ints_opt	^([%0] turns) (Optional)	f
+	Generic popups	
+strategic_popup_luckchange	luck changed	
+strategic_popup_itemsreceived	Items received:	

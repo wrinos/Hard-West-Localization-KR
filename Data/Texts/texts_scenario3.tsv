@@ -1,0 +1,313 @@
+text_id	en	format
+	Loading screen texts and titles	
+scen_03	Graveyard Shift	
+scen_03_name	Ghost Town was destroyed. The Undertaker had to leave and find a way to lift the curse that doomed those around him.	
+3_1_Massacre_name	The Undertaker returned from a funeral to discover his hometown ravaged by a violent cult.	
+3_2_GhostTown_name	The Undertaker asked Harrington to help him end his miserable existence.	
+3_3_Journey_name	The Undertaker and Harrington arrived at the Mad King's hideout.<br>They were looking for Reverend Ashmore.	
+3_4_Swamp_name	In his quest to lift the curse, the Undertaker headed to the Demon Prince's swamp hideout.<br>He and Harrington lay in wait until dawn, prepared to end the cult once and for all.	
+	Objective text	
+s3s1_defend	Time of day:	
+s3t2_kilmorin	Have Harrington kill Morin	
+s3t2_killdemon	Kill the Demon Prince	
+s3t2_defendaltairs	Prevent the Demon Prince from cursing the altars	
+s3t2_defendaltairs_fail	All altars have been cursed by the Demon Prince	
+s3t2_optionalaltairs	Don't allow any altars to be cursed (Optional)	
+s3t3_kill	Kill all henchmen in the hideout	
+s3t3_kill2	Kill all bandits	
+s3t1_kill	Kill the cultists	
+s3t1_kill2	Kill all cultists	
+s3t1_free	Free Oswald Harrington	
+s3t1_silent	Do not trigger the alarm until Oswald is free (Optional)	
+s3t3_find	Find Reverend Ashmore	
+s3t3_subdue	Subdue the "Mad King" to learn about Ashmore's whereabouts	
+s3t3_free	Free Reverend Ashmore	
+s3t3_crates	Loot the supply boxes for food	
+s3t3_run	Run away with Reverend Ashmore	
+week_hermit	Wait 2 days before returning to the Hermit	
+s3_backtohermit	Pay another visit to the Hermit	
+s3_findinfo_ashmoore	Learn about Reverend Ashmore in the Opium Den	
+s3_find_ashmoore	Find Reverend Ashmore west of the Railroad Station	
+s3_findinfo_redcoyote	Pay a visit to Red Coyote	
+s3_find_seamstress	Learn more about the Old Seamstress	
+s3_givewhiskey	Bring 10 ginseng roots to Red Coyote	
+s3_killbear	Kill the bear with a broken skull, somewhere in the Mountains	
+s3_backcoyote	Return to Red Coyote	
+s3_seamstress_body	Go to Ghost Town and dig up the body from the main square	
+s3_seamstress_goback	Return to the Old Seamstress	
+s3_backtohermitend	When you are ready to end your misery, return to the Hermit and accept your death	
+s3t4_destroyidols	Destroy the blood vials	
+s3t4_breakaltair	Use the altar to damage it	
+s3t4_killcultists	...OR Kill all cultists	
+s3t4_killprince	Kill the Demon Prince	
+s3_tut_go_hermit	Go to the Hermit's Hut	
+s3_tut_buy_tobacco	Buy at least 12 Tobacco Bags at the Tobacco Plantation	
+s3_tut_sell_tobacco	Sell the tobacco in Town	
+s3_tut_hire_man	Go to the saloon in Town and hire a gunman	
+s3_tut_ghost_town	Return to Ghost Town and retrieve Harrington's food	
+s3_tut_ghost_town2	Return to Ghost Town and end your life	
+s3_attack_cultists	Go to the Cultist Hideout in the morning and attack them	
+s3_daytime4	Dawn	
+s3_daytime3	Morning	
+s3_daytime2	Midday	
+s3_daytime1	Afternoon	
+s3_daytime0	Dusk	
+s3_rules1	Winds of Time	
+s3_rules1_desc	The day consists of 4 parts: Dawn, Morning, Midday and Afternoon. You can explore one location during each part of the day. Travelling to a new location will change the time of day.	
+s3_rules2	Hard Times	
+s3_rules2_desc	You need to eat every day.<br>A character needs 1 food portion to remain healthy. 2 portions will make him more energetic.<br><br>If a character skips a meal, he will be hungry. Denying him food on the second and following days will cause them to become very weak.<br>Starved characters require 2 food portions to restore their strength.	
+s3_foodturn	Camp	
+s3_foodturn_desc1	The day is nearing its end and you set up camp. It is time to distribute the meals. You have	
+s3_foodturn_desc2	Food Portions. Who eats?	
+s3_foodturn_nofood	The day is nearing its end and you set up camp. It is time to distribute the meals. Unfortunately, you have no more food.	
+s3_food_state3	is already full.	
+s3_food_state2	is satiated.	
+s3_food_state1	is hungry.	
+s3_food_state0	is starving!	
+s3_food_fullman	This member of the posse doesn't need more food.	
+s3_food_end	Get some sleep	
+s3_nextday	A new sun	
+s3_nextday_desc	Another day had arrived. No rest for the wicked.	
+	Exploration prompts	
+s3_town1	Falltown	
+s3_town1_desc	The town was a loose collection of decrepit plank houses.<br>Falltown locals were a rare and sorrowful sight.	
+s3_town1_gotosaloon	The Undertaker went to the saloon.	n
+s3_town1_gotomarket	The Undertaker went to the market.	b
+s3_saloon	Black Magic Saloon	
+s3_saloon_desc	Most of the tables were occupied by card players. The whiskey bar hosted a group of guns for hire.	
+s3_saloon_hire	The Undertaker hired a gunman.	
+s3_saloon_hire_which	All the local scoundrels, bandits and lunatics hung out in the Saloon. It was the ideal place to look for a new posse member.	
+s3_hire_posse_full	The Undertaker's posse was already full, however.	
+s3_saloon_hire1	The Undertaker hired Fleischer - a tough fighter, but a weak shot ([%0])	p200cash
+s3_saloon_hire2	The Undertaker hired Johnson - a fast but fragile fighter ([%0])	p200cash
+s3_saloon_fire1	The Undertaker fired Fleischer.	g
+s3_saloon_fire2	The Undertaker fired Johnson.	g
+s3_saloon_fleisher_hired	Fleischer was a well-known bounty hunter with a gold bullet where a tooth once had been. <br><br>The bullet in his jaw was the only one that ever came close to killing him.	
+s3_saloon_johnson_hired	Johnson was a sad man who remembered slavery all too well.<br>During these turbulent times, life had forced him to train his reflexes, while luck had allowed him to survive.	
+s3_saloon_fleisher_fired	Fleischer muttered that he would wait here for another job, but he didn't seem too happy about it.	
+s3_saloon_johnson_fired	Johnson was visibly disappointed, but didn't say anything. He just frowned and went back to his table in the corner.	
+s3_saloon_fleisher_no	Fleischer returned the money. He refused to travel with Johnson. He didn't give a reason.	
+s3_saloon_johnson_no	Johnson returned the money. He said he'd never work with a former slaver like Fleischer.	
+s3_saloon_nocash	The Undertaker didn't have that much.	
+s3_saloon_confirm	The Undertaker decided to hire him.	
+s3_saloon_hired	Another gunman joined the Undertaker's posse.	
+s3_saloon_too_many_hired	Unfortunately, no one at the saloon wanted to accompany the Undertaker.<br>It seems only cowards remained at the Black Magic.	
+s3_market	The Market	
+s3_market_desc	The first thing that hit the Undertaker's nostrils as he entered the market was the stench of cheap, strong liquor. The market also offered a variety of other low quality goods.	
+s3_distillery	Ma McCarthy's Distillery	
+s3_distillery_desc	The Distillery produced strong whiskey that tasted like a wet dog and burned like poison.<br>Their motto was "Ma McCarthy's whiskey: a real man can take six shots and keep on firing.".	
+s3_plantation	Tobacco Plantation	
+s3_plantation_desc	The tobacco from Bryan Cole's plantation was famous for its moldy look and intense aroma.	
+s3_opiumshop	Opium Den	
+s3_opiumshop_desc	The Opium Den was that rare business which could increase profits while displaying the omnipresent misery of its customers.<br><br>The room was filled with beggars, cowboys and foreigners of all kinds.<br><br>A Chinese man was dozing off behind a table opposite to the entrance. It could only be Jingle Tommy.	
+s3_opiumshop_ashmoore	The Undertaker asked Jingle Tommy about Reverend Ashmore.	i
+s3_opiumshop_ashmoore_desc	Jingle Tommy smiled without opening his eyes and spoke in a lilting near-whisper. The Reverend was supposed to arrive in the Railroad Station a few days ago. Jingle Tommy had found something to occupy him while he waited.	
+s3_opiumshop_ashmoore_reward	Jingle Tommy welcomed Reverend Ashmore with a smile.<br><br>They smoked a little and talked about old times. Tommy gave the Undertaker a bag of opium as a reward for his assistance.	
+s3_opiumshop_ashmoore_bad	Jingle Tommy greeted the Undertaker with a smile.<br><br>Reverend Ashmore was there too. He invited them to sit, chat and smoke a little something.<br><br>Finally, Tommy presented the posse with a large bag of opium. A "finder's fee" he called it.	
+s3_opiumshop_ashmoore_thanks	Jingle Tommy smiled and thanked the Undertaker one more time before falling into a nodding stupor.	
+s3_caravan	Caravan	
+s3_caravan_desc	The Undertaker visited The Caravan, a loosely-knit group of people who never stayed in one place for long. This was either because they were always looking for new sources of revenue, or because eventually the locals would tire of their scams and inflated prices.<br><br>For all their faults, however, they had the best supply of liquor, tobacco and opium within a hundred miles.	
+s3_caravan_desc_b	The Undertaker visited The Caravan, a loosely-knit group of people who never stayed in one place for long. This was either because they were always looking for new sources of revenue, or because eventually the locals would tire of their scams and inflated prices.<br><br>For all their faults, however, they had the best supply of liquor, tobacco and opium within a hundred miles.<br><br>To his surprise, he found a family there he had lent money to for their journey along the Oregon Trail. The family had never forgotten his kindness and now repaid it considerably.	
+s3_sawmill	Sawmill	
+s3_sawmill_desc	The Sawmill was managed by Malcolm Topper, a man of few words and quirky habits.<br><br>If you could stomach the unpleasant sounds he made when spitting through his teeth, you could make a deal.	
+s3_hideout	Cultist Hideout	
+s3_hideout_desc	The ranch had flooded a couple of years back and the waters never receded. Swarms of insects buzzed over the murky, corpse-filled waters.<br><br>Unnerving noises came from the ranch. Laughter, howls, gunshots and the sound of metal on metal floated across the water, conjuring in the men's minds a fearsome image of gruesome monstrosities.<br><br>Harrington suggested an early morning attack would catch their foes off-guard.	
+s3_hideout_desc_ready	The ranch had flooded a couple of years back and the waters never receded. Swarms of insects buzzed over the murky, corpse-filled waters.<br><br>The ranch was silent and the morning fog covered the approach route. The posse knew this was the time to strike.	
+s3_hideout_attack	The posse readied themselves for the attack.	t
+s3_hideout_attack_setup_undertaker	The Ranch was accessible from three sides. The Undertaker approached from the...	
+s3_hideout_attack_setup_oswald	The Ranch was accessible from three sides. Harrington approached from the...	
+s3_hideout_attack_setup_ashmore	The Ranch was accessible from three sides. Ashmore approached from the...	
+s3_hideout_attack_setup_hiredgun1	The Ranch was accessible from three sides. Fleischer approached from the...	
+s3_hideout_attack_setup_hiredgun2	The Ranch was accessible from three sides. Johnson approached from the...	
+s3_hideout_attack_r_sw1	... southwest - through a large clearing.	g
+s3_hideout_attack_r_se2	... southeast - through a ruined farmhouse.	g
+s3_hideout_attack_r_nw2	... northwest - where a middle-sized, worn-out house was standing.	g
+s3_hideout_attack_r_back	The posse reconsidered their plan.	n
+s3_hideout_wait	The posse set up camp and waited for the right time.	g
+s3_ghosttown_prolog	The city was a cabinet of horrors, the streets strewn with the bloody bodies of townsfolk, killed by the diabolical cult.	
+s3_ghosttown_prolog_bury	The Undertaker buried all the bodies.	n
+s3_ghosttown_prolog_burried	It took the Undertaker and Harrington an entire day burying the dead, carrying corpses through the blood-spattered streets.<br><br>The Undertaker couldn't shake the notion that all of this was his fault. He told Harrington as much, relating the story of his continued misfortunes, but omitting the Devil's trickery.<br><br>Harrington was skeptical of the curse, but suggested that visiting Empus the hermit might help the Undertaker find peace.	
+s3_ghosttown	Ghost Town	
+s3_ghosttown_desc	This town had been the Undertaker's shelter from the past, a place where his presence wouldn't hurt anyone close to him.<br><br>Still, the curse had followed him here and this once-thriving town was now in ruins.<br><br>He turned the main square into a cemetery. It felt like the only proper way to honor the dead.	
+s3_ghosttown_tut	Oswald took some food from his abandoned house. They were ready to continue their journey.	
+s3_ghosttown_gotosquare	The Undertaker went to the main square.	n
+s3_ghosttown_square	The Undertaker used almost all of his resources on the cemetary. He made every coffin, cross and tombstone himself, carving epitaphs for Jari Bergman the singer, the kind-hearted Regina Zak, the old banker Sakamoto, young Nicko and more.	
+s3_ghosttown_ghosts	The Undertaker sat down to a grim prayer, determined to communicate with the dead.	n
+s3_ghosttown_goback	The Undertaker returned to the edge of town.	n
+s3_ghosttown_ghoststalk	The Undertaker sat among the graves of his dead friends and enemies.<br><br>His prayer wasn't religious, more a gloomy reflection on his past and present actions.	
+s3_ghostown_healed	The Undertaker got drunk, took a generous portion of medicinal tinctures and built himself a comfortable coffin.<br>He found the work calming and meditative.	
+s3_ghosttown_makesacrifice	The Undertaker wanted to make an offering.	g
+s3_ghosttown_ghoststalk2	The Undertaker was consumed with the idea of offering entertainment for those on the other side.<br><br>It was hard to say whether it was Undertaker or the spirits that truly desired an offering of	
+s3_ghosttown_sac_t	tobacco bags,	
+s3_ghosttown_sac_l	liquor and	
+s3_ghosttown_sac_o	opium pipes.	
+s3_ghosttown_nosacrifice	Unfortunately, he didn't have those items on him.	
+s3_buff_defense	The air felt lighter. It seemed the dead were grateful. It would be a joyous night in Ghost Town.<br><br>Each member of the posse felt the clear presence of guardian spirits.	
+s3_buff_aim	The air felt lighter. It seemed the dead were grateful. It would be a joyous night in Ghost Town.<br><br>The posse members' weapons glowed faintly with ghastly power.	
+s3_buff_movement	The air felt lighter. It seemed the dead were grateful. It would be a joyous night in Ghost Town.<br><br>Every member of the posse felt particularly agile that night.	
+s3_r_buff_defense	The Undertaker prayed for a blessing of protection.	g
+s3_r_buff_aim	The Undertaker prayed for a blessing of precision.	g
+s3_r_buff_movement	The Undertaker prayed for a blessing of speed.	g
+s3_buff_choosing	But what did the Undertaker expect in return? The power of the spirits could affect the posse in a variety of ways.	
+s3_noghosts	The spirits fell silent. The Undertaker knew they were now truly free.	
+s3_ghosts_last_sacrifice	The Undertaker felt the grief of Ghost Town dissapate and blow away on the wind.<br><br>Shortly thereafter a new, sweet fruit began to grow in the fields there. The Undertaker liked to think it was a gift from the liberated spirits.	
+s3_ghosttown_unbury	The Undertaker exhumed one of the bodies to obtain a lock of hair from one of the curse's victims.	n
+s3_ghosttown_r_suicide	The Undertaker prepared to end his own life.	n
+s3_ghosttown_suicide	Harrington returned from patrol, reporting increased cultist activity in the area. The Undertaker told him of his decision to end his life and asked for his help.<br><br>Reluctantly, Harrington agreed.	
+s3_ghosttown_suicide_notnow	Undertaker decided he would not die tonight. He wanted to make sure his companions were ready to fight the cultists.	n
+s3_ghosttown_suicide_confirm	The posse waited until dusk, determined to honor Undertaker's last wish.	t
+s3_ghosttown_unbury_desc	The Undertaker couldn't bring himself to exhume his friends. Instead, he uncovered Bloomberg, a local gambler and perfume aficionado. His body was a foul smelling pile of rot.<br><br>With a grimace, the Undertaker retrieved a lock of his hair and re-buried him.	
+s3_ghosttown_nextstep	The next step	
+s3_ghosttown_nextstep_desc	While the Undertaker dug graves for the cultists, Harrington perused a map he'd found.<br><br>A hideout was marked to the south. Apparently it was a ranch that had flooded and now sat in the middle of a swamp.	
+s3_ghostown_weekended	The search continues	
+s3_ghostown_weekended_desc	After two days, the Undertaker decided it was time to return to the Hermit.<br><br>Surely wise old Empus could come up with something to change his fate.	
+s3_ghosttown_optional_title	Light of the dead	
+s3_ghostown_optional_completed	In the morning, the Undertaker noticed that one of the candles he saved from the Demon Prince was still lit. In fact it  didn't look to have shrunk one bit. Heartened, his first thought was that this candle had the power to light the way for both the living and the dead. Thinking it might come in handy one day, he pocketed the trinket.	
+s3_post	Decaying Post Office	
+s3_post_desc	This former federal post office still received messages and documents, but was now a decaying hangout for crooks and outlaws who traded information about the region. Cody Blake Ash supervised the business.	
+s3_post_buytoday	The Undertaker bought the daily price list ([%0])	p25cash
+s3_post_buytomorrow	The Undertaker bought price lists for two days ([%0])	p40cash
+s3_post_checktoday	The Undertaker reviewed his daily price list.	i
+s3_post_checktomorrow	The Undertaker reviewed the next day's price list.	i
+s3_post_todaylist	Today's price list:	
+s3_post_tomorrowlist	Tomorrow's price list:	
+s3_post_list1	<br>TOWN -	
+s3_post_list2	<br>CARAVAN -	
+s3_post_list3	<br>OPIUM DEN -	
+s3_post_list4	<br>TOBACCO PLANTATION -	
+s3_post_list5	<br>SAWMILL -	
+s3_post_list6	<br>WHISKEY DISTILLERY -	
+s3_post_list7	<br>WANDERING SHOP -	
+s3_post_list8	<br>"PROTECTION" SHOP -	
+s3_post_list_slash	/	
+s3_guns	Kollmann's Gunshop	
+s3_guns_desc	Maybe not the best guns from Tennessee to California, but the deadliest ones around here.	
+s3_hermit	Hermit's Hut	
+s3_hermit_desc	A thin column of acrid smoke rose from the shabby hut, home of Empus the Hermit.<br><br>He greeted the posse with a tired voice, telling them he already knew why they had come.	
+s3p_hermit_start_desc	A thin column of acrid smoke rose from the shabby hut, home of Empus the Hermit.<br><br>They found him alone, muttering under his breath to no one.	
+s3p_hermit_start_ans1	The Undertaker told the story of his curse and how it had plagued him.	n
+s3p_hermit_start_desc2	The Hermit remained silent a long time after the Undertaker finished his tale of woe.<br><br>Finally, he spoke. The curse was powerful, he said. Empus would not be able to lift it alone. And he needed time to learn more about it. Two days of study should suffice.	
+s3p_hermi_mission	The Undertaker told of his unsuccessful expedition.	n
+s3p_hermit_what_now	The Hermit smiled mysteriously, but did not reply.<br><br>The Undertaker begged, pleaded, cursed and threatened, but Empus was impenetrable. Resigned, the gravedigger decided to return to Ghost Town and take his own life to avoid causing any more harm.	
+s3p_hermit_plotinfo	The Undertaker asked if Empus knew how to lift the curse.	n
+s3p_hermit_plotinfodesc1	The Hermit turned his milky eyes towards the Undertaker. He mentioned three individuals that could help.<br><br> The first was the Old Seamstress, a voodoo priestess who lived somewhere in the swamps.	
+s3p_hermit_plotinfodesc2	The second was Red Coyote, an Indian shaman. He was a fretful man, but strong in the traditions of his ancestors.<br><br>He lived to the west at the foot of the mountains.	
+s3p_hermit_plotinfodesc3	The last but not least was Reverend Ashmore, who no one had seen for some time.<br><br>Empus said the Undertaker should seek out Jingle Tommy, the proprietor of the Opium Smoking Room, for more information.	
+s3_hermit_hub	With an unnerving grin, the Hermit smiled and asked whether there was anything else.	
+s3_station3	Railroad Station	
+s3_station3_desc	The "Iron Globetrotter" station building was deserted, but a small hut with a mortar and pestle sign stood nearby.<br>A notice on the wall said Merchant Train called "Protection" was due to arrive in the morning.	
+s3_station3_desct	The "Iron Globetrotter" station building was deserted, but a small hut with a mortar and pestle sign stood nearby.<br><br>As promised by the timetable, an armored Merchant Train called "Protection" waited on the track.	
+s3_station_wait	The Undertaker waited for a while.	g
+s3_station_train	The Undertaker got on the train.	n
+s3_train	Protection Merchant Train	
+s3_train_desc	Protection was a heavily armored vehicle armed with gatling guns and a contingent of guards. It belonged to the mysterious entrepreneur known as The Protector, and was used as a mobile shop for high-value transactions. Jacobson Price ran sales.	
+s3_train_exchange	The Undertaker browsed the merchandise.	b
+s3_safeinwood	Secret of the rotten oak	
+s3_safeinwood_desc	After hours of searching, the posse found the place the old soldier had spoken of, a rotten oak at the base of a hill.<br><br>Excited, they looked inside the tree.	
+s3_safeinwood_descb	There it was. A giant, steel safe, full of treasures plundered during the civil war.<br><br>It had a round, rotating, three-step lock. The code consisted of five rotations, each in alternating directions.	
+s3_safeinwood_try	The Undertaker attempted to crack the safe.	g
+s3_safeinwood_check	The Undertaker read the letter.	n
+s3_safeinwood_letter	Keecham, before rebels decide to attack the bank, be sure to change the safe code to 3-2-3-2-	
+s3_safeinwood_set	The tumbler was set to	
+s3_safeinwood_set1	The Undertaker set it to 1.	g
+s3_safeinwood_set2	The Undertaker set it to 2.	g
+s3_safeinwood_set3	The Undertaker set it to 3.	g
+s3_safeinwood_clear	The Undertaker quit.	
+s3_safeinwood_good	There was a distinctive click as the safe opened. The soldier had been right, it was full of treasures.<br><br>They took it all and left hastily.	
+s3_safeinwood_wrong	The code was wrong.	
+s3_random_safe	Dead Man Walking	
+s3_random_safe_desc	The posse encountered a wounded man in a torn Civil War uniform. Delirious, he seemed to think he knew the Undertaker and kept calling him "Tomas Marshall".<br><br>He spoke of war spoils hidden in "our" safe, assuring the Undertaker that it was secure inside a rotting oak at the base of a hill in the southeast.<br>He said the clerk who last changed the combination vanished, though rumors said he was hiding in the mountains.<br><br>After sharing his story, the man looked relieved, as though he had just relinquished a heavy burden. His breathing became slower as a placid smile stole over his countenance. Ten minutes later he was dead.	
+s3_random_message	Bottoms up	
+s3_random_message_desc	Harrington saw something glittery by the side of the road, his eyes settling on an empty whiskey bottle half-buried in the gravel. Investigation turned up a note inside. The message read:<br><br>"Halpin, my dearest companion, this will be my last message. I am leaving this impious land to the rats, snakes and coyotes and travel to the Old World. I won't be another skull on the pile. Should you need assistance in your travels, try the post office southwest of Ghost Town. Good luck, amigo."	
+s3_random_seamstress	A message from the stranger	
+s3_random_seamstress_desc1_unused	The posse came across a very peculiar man who walked slowly and clumsily and stank of death.<br><br>The man walked straight up to the Undertaker and handed him an envelope.<br><br>When asked about the contents, he pointed toward his sewn-shut mouth and walked away.	
+s3_random_seamstress_ask	Undertaker opened the envelope.	n
+s3_random_seamstress_desc2	A letter in elaborate script read: "I hear you are trying to find me. I am told you are a handsome man, and I fancy the pleasure of your company. Enclosed are directions to my home. It's a swamp, but a cozy one.<br><br>- Ellena, the Seamstress".	
+s3_crossroads	The Crossroads	
+s3_crossroads_desc	The posse came across a solitary woman on her hands and knees in the middle of the crossroads. Exhausted to the point of death, she begged them for food.	
+s3_crossroads_r_a	The Undertaker shared some food with her ([%0])	p1food_portion
+s3_crossroads_r_b	The Undertaker refused. His men needed it more.	g
+s3_crossroads_a	She noisily devoured the portions, thanking the men between chews. She said her name was Jane and that she was married to Saarijarvi, who used to own the nearby trading post.<br><br>They had been attacked by bandits and Saarijärvi had been killed. She had been trying to reach the Railroad Station to withdraw their savings and reopen the business. Now she had the strength to finish her journey.<br><br>She said if they came to the trading post, she would give them special prices on her wares.	
+s3_crossroads_b	The woman croaked resignedly and collapsed.<br><br>When she was dead, the Undertaker buried her on the side of the road, taking the few dollars she had on her in lieu of funeral payment.	
+s3_crossroads_nofood	The Undertaker was willing to help the woman but the posse didn't have any food. The woman croaked resignedly and collapsed.<br><br>When she was dead, the Undertaker buried her on the side of the road, taking the few dollars she had on her in lieu of funeral payment.	
+s3_crossroads_desc_after	The trading post had been completely rebuilt. Jane greeted the posse with a smile, thanked them for saving her life, and offered them a healthy discount on her wares.	
+s3_bridge	Bridge	
+s3_bridge_desc	A one-handed man sat at the entrance to the bridge, wrapped in a poncho. He recognized Harrington, who introduced him to the rest of the posse.<br><br>Bloody Bill had been a successful bounty hunter before he'd lost his hand. He and Harrington had some history. He offered to teach the posse what he called a "handy" trick for a fee. It wasn't cheap, even at the discount rate he said he was giving them.	
+s3_bridge_r_pay	The posse paid Bloody Bill ([%0])	p100cash
+s3_bridge_nomoney	Unfortunately, the posse didn't have enough money.	
+s3_bridge_training	It took Bill an entire day to teach them the trick.<br><br>In the end, only one person was able to grasp the complexity of this strange ability.<br><br>The old bounty hunter took to the road a lot richer.	
+s3_leftwagon	Abandoned Wagon	
+s3_leftwagon_desc	The group found a damaged wagon.<br><br>After investigating, Harrington determined it had come from the west but had been intercepted by people coming from the north. The people then took one person from the wagon and rode back where they came from.<br><br>The wagon held several interesting items, but the weather was deteriorating by the minute. A vicious sandstorm looked to be brewing.	
+s3_leftwagon_r_a	Try to collect everything despite the incoming sandstorm.	g
+s3_leftwagon_r_b	Grab the immediately available items and run from the sandstorm.	g
+s3_leftwagon_a	The sandstorm hit while the posse was still collecting loot, scattering them.<br><br>It took the posse several hours to get together again.	
+s3_leftwagon_b	The posse collected several trinkets, then retreated out of harm's way.	
+s3_fanatics	Riverside Lair	
+s3_fanatics_desc	The tracks led them to two ruined buildings on a hill overlooking a river. Inhuman laughter and howling emanated from the compound.<br><br>Harrington scouted ahead, returning to report that the compound was inhabited by men following the orders of an insane cultist they called the Mad King.<br>Ashmore was here, though dead or alive was anyone's guess.	
+s3_fanatics_r_attack	The posse approached to infiltrate the compound.	t
+s3_fanatics_r_back	The posse decided this wasn't the right time to strike.	x
+s3_fanatics_after_desc	The boat floated with the current, they were out of danger.<br><br>Reverend Ashmore thanked everyone and asked why they wanted to find him. When the Undertaker told him about his curse, the priest shook his head in embarassement, replying that he merely had, as all men did, the power to do good. He offered to join the posse and help with the search.	
+s3_fanatics_after_r_confirm	The Undertaker accepted.	g
+s3_fanatics_after_r_decline	The Undertaker declined.	g
+s3_fanatics_after_confirm	Reverend Ashmore inclined his head with a smile and pointed to the heap of items stocked on the boat. They were almost all his possessions, confiscated by the Mad King's followers.<br><br>After rummaging through the collection, he produced a masterfully crafted rifle he called the Bone Hand.<br><br>Ashmore presented it to Undertaker, warning that it should only be handled by emissaries of Death. Clearly, he believed that Undertaker was one.	
+s3_fanatics_after_decline	Reverend Ashmore's face became solemn as he gestured to the heap of items stocked on the boat. They were almost all his possessions, confiscated by the Mad King's followers.<br><br>After rummaging through the collection, he produced a masterfully crafted rifle he called the Bone Hand.<br><br>Ashmore presented it to Undertaker, warning that it should only be handled by emissaries of Death. Clearly, he believed that Undertaker was one.	
+s3_coyote	Indian Tipi	
+s3_coyote_desc	The party arrived in front of an Indian Tipi decorated with large skulls. A burly Indian man covered in scars sat in the middle of the tent, the floor beneath him stained dark red.<br><br>Red Coyote neither smiled nor greeted them. It took the posse a few minutes to realize he was blind, despite the intense way he stared at them.	
+s3_coyote_hi	The Undertaker explained that he wanted to change his fate and lift the curse.	n
+s3_coyote_givequest_whiskey	Red Coyote cut him off, jumping to his feet and grabbing the gravedigger by the throat. He seemed outraged that they had arrived without "tribute." The posse gathered that they could assuage this tribute by providing ten ginseng roots.	
+s3_coyote_givewhiskey	Undertaker gave Red Coyote what he demanded ([%0])	p10ginseng
+s3_coyote_givequest_bear	Red Coyote accepted the tribute, but it didn't seem to improve his demeanor.<br><br>He snarled something about proving their mettle and hunt for a bear with a broken skull.	
+s3_coyote_quests_end	The legendary bear skull rolled towards Red Coyote's feet. The shaman nodded slowly and began an eerie chant.<br><br>He smeared the blood from his wounds onto the Undertaker, threw some of the red dirt at him and began dancing and chanting.<br><br>Finally he fell silent. The shaman assured the Undertaker that his burden should now be eased.<br><br>The gravedigger wasn't convinced.	
+s3_mountain25	Blue Stone Slope	
+s3_mountain25_desc	There had been a landslide here that uncovered seams of unique minerals in the bedrock. Some said there never were blue stones here. Others said looters had depleted the deposit years ago. Dense fog obscured the area.<br><br>The Posse's arrival startled a coyote, which ran off with something in its mouth.	
+s3_mountain25_r_a	The posse ran after the coyote into the fog.	g
+s3_mountain25_r_b	Harrington lured the coyote with their provisions ([%0])	p1food_portion
+s3_mountain25_a	The posse dispersed to search of the coyote.<br><br>Eventually Harrington found and shot it. A portion of food was retrieved from the carcass, along with a strange medallion the coyote had in his mouth.	
+s3_mountain25_b	They set up the bait and waited behind a rock.<br><br>When the animal approached the meal they tried to shoot it, but the coyote was too fast. It snatched the food, but left behind a strange medallion.	
+s3_mountain25_b_no	Unfortunately, they didn't have any food.	
+s3_mountain26	Giant Cave	
+s3_mountain26_desc	The group entered a giant cave, no doubt home to a host of bats, spiders and snakes.<br><br>Near the entrance next to a burnt-out fireplace lay a corpse. The man had on official-looking attire and had clearly died of cold and hunger.<br><br>Harrington found a note in his inner pocket: "Keecham, I'm worried rebels will attack the bank. Be sure to change the safe code to 3-2-3-2-."	
+s3_mountain26_r_a	The posse entered the cave carefully, without illuminating their way.	g
+s3_mountain26_r_b	The posse entered the cave with torches to light the way.	g
+s3_mountain26_a	They saw gold nuggets shining in the darkness near the entrance.	
+s3_mountain26_b	Illuminating the darkness revealed gold nuggets and a bag marked with strange symbols that contained two bullets.<br><br>However, the light seemed to enrage a flock of vampire bats which now swept down on the posse. Everyone escaped, but they were bleeding from the bites and worried they'd contracted some sort of disease.	
+s3_mountain27	Whitefog Waterfall	
+s3_mountain27_desc	The Undertaker discovered a waterfall. A human skeleton lay at its edge, stuck on a rock.<br>An old, worn-out purse was still attached to its belt and it held a gun tightly in its dead fingers.	
+s3_mountain27_r_a	The Undertaker grabbed the weapon.	g
+s3_mountain27_r_b	The Undertaker grabbed the purse.	g
+s3_mountain27_a	Unclenching its fingers to loosen the weapon disrupted the skeleton which tumbled into the water, taking the purse with it.	
+s3_mountain27_b	Picking up the heavy purse disrupted the skeleton. Its arm broke loose and disappeared into the water along with the weapon.	
+s3_mountains_bear	Bear with the broken skull!	
+s3_mountains_bear_desc	A giant of a bear with a festering wound on its head charged furiously towards the Undertaker.	
+s3_mountains_bear_killed	Broken skull trophy	
+s3_mountains_bear_killed_desc	Undertaker managed to kill the monster and recover its skull. An old rifle bullet was lodged in the dead animal's eyebrow.	
+s3_seamstress	A hut in the swamp	
+s3_seamstress_desc	The group arrived at a hut made of rotting planks and moss. Dozens of candles lit the interior in a cozy fashion. The walls were decorated with herbs and jars filled with eerie specimens.<br><br>They were greeted by an elderly and attractive dark-skinned woman.<br><br>The Seamstress seemed to know why they came. She explained that to help them she needed a lock of hair from someone who died in the massacre.	
+s3_seamstress_resurect_unused	The Undertaker presented the Old Seamstress with a lock of hair. The witch mixed the hair with herbs while muttering spells in an unknown tongue.<br><br>She spent many hours at it before giving up. She said she had never seen a curse this strong. It was as though it came from the Lord of Hell himself. She knew no way of lifting it.<br><br>Before the Undertaker could reply, the Seamstress touched his forehead and he fell unconscious. His companions never otld him what happened next, but when he awoke his aging eyesight was rejuvenated and he felt reborn.	
+s3_death_loan	Mysterious Moneylender	g
+s3_death_loan_desc_a	The Undertaker borrowed money from a mysterious traveler. He would have to repay the debt eventually.	g
+s3_death_loan_desc_b	The mysterious moneylender refused to lend any more. He said the Undertaker had enough to survive.	
+s3_package_cheat_desc_a	The man standing at the corner gave the Undertaker a small package, but took everything else. He said everyone made mistakes, and this loan would be repaid when the time was right. In a blink of an eye, he disappeared.	
+s3_package_cheat_desc_b	He said you had enough.	
+s3_fatetrader	Fate Trader	
+s3_fatetrader_desc	The posse encountered a carriage full of strange items, driven by a toothless dwarf. His cart was adorned with the symbol of a snake biting its own tail.	
+s3_railroad3_entermedic	The Undertaker entered the medic's house.	n
+s3_medic_house	Medic's house	
+s3_medic_house_desc	The shabby house was inhabited by the local medic; a dirty, sleepy man who didn't socialize much.<br><br>Apparently most people were too poor to afford healing. But he refused to work for free.	
+s3_medic_house_heal_under	Undertaker required healing ([%0])	p50cash
+s3_medic_house_heal_harring	Harrington required healing ([%0])	p50cash
+s3_medic_house_heal_ashmore	Ashmore required healing ([%0])	p50cash
+s3_medic_house_heal_fleisher	Fleischer required healing ([%0])	p50cash
+s3_medic_house_heal_johnson	Johnson required healing ([%0])	p50cash
+s3_medic_house_heal_cured	The medic quickly got to work: cutting, sewing and smearing wounds with medication.	
+s3_ghost_town_r_craft	Undertaker decided to carve something in his carpentry workshop.	g
+s3_ghost_town_craft	He imagined the shapes of an eagle, a coyote, a bear and a vulture.<br><br>Each of these animals symbolized something different.	
+s3_ghost_town_craft_eagle	The Undertaker carved a figurine of an eagle - the symbol of marksmanship ([%0])	p2wood
+s3_ghost_town_craft_coyote	The Undertaker carved a figurine of a coyote - the symbol of speed ([%0])	p2wood
+s3_ghost_town_craft_bear	The Undertaker carved a figurine of a bear - the symbol of endurance ([%0])	p2wood
+s3_ghost_town_craft_vulture	The Undertaker carved a figurine of a vulture - the symbol of good eyesight ([%0])	p2wood
+s3_ghost_town_craft_ended	The process took a couple hours. The figurine, though small, had to be carved perfectly.	
+s3_randomshop	Traveling salesman	
+s3_randomshop_desc	The group met a wandering salesman going by the name of Russ Mantia, though everyone called him "The Russian".<br><br>His wares consisted of so many oddities and luxuries it made one wonder about their former owners. And whether they were still alive.	b
+	Additional node	
+s3_post_display_list	^TOWN - sell [%0]%/buy [%1]%<br>CARAVAN - sell [%2]%/buy [%3]%<br>OPIUM SMOKING ROOM - sell [%4]%/buy [%5]%<br>TOBACCO PLANTATION - sell [%6]%/buy [%7]%<br>GUNSMITH - sell [%8]%/buy [%9]%<br>SAWMILL - sell [%10]%/buy [%11]%<br>DISTILLERY - sell [%12]%/buy [%13]%<br>WANDERING SHOP - sell [%14]%/buy [%15]%<br>"PROTECTION" SHOP - sell [%16]%/buy [%17]%	

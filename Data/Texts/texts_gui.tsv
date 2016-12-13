@@ -1,0 +1,709 @@
+text_id	en	format
+	Main menu	
+mainmenu_continue	Load last checkpoint	
+mainmenu_campain1	Campaign	
+mainmenu_options	Options	
+mainmenu_credits	Credits	
+mainmenu_quit	Quit	
+	Scenario selection menu	
+scenario_menu_easy	Easy	
+scenario_menu_medium	Medium	
+scenario_menu_hard	Hard	
+scenario_menu_ironman	Ironman	
+scenario_menu_injuries	Combat Injuries	
+scenario_menu_completed_ratio	Completion ratio:	
+scenario_menu_play	Start Scenario	
+scenario_menu_continue	Load last checkpoint	
+scenario_menu_restart	Restart	
+scenario_menu_cancel	Back to Main Menu	
+scenario_menu_popup_title	New Game	
+scenario_menu_popup_select_mod	Optional modes	
+scenario_menu_popup_desc_easy	A smaller challenge, but a challenge nonetheless.	
+scenario_menu_popup_desc_medium	A challenge, but fair.	
+scenario_menu_popup_desc_hard	Painful. For the veterans of the turn-based tactical genre.	
+scenario_menu_popup_desc_injuries	Your characters gain debuffs when damaged badly, but over time they grow stronger for the experience.	
+scenario_menu_popup_desc_ironman	When a critical character is killed, you will have to start the scenario from scratch.	
+scenario_menu_popup_cancel	Cancel	
+scenario_menu_popup_proceed	Start Scenario	
+	Alerts	
+alert_charkilled	[%0] was killed.	f
+alert_charshot	[%0] was hit for [%1] damage.	f
+alert_suspicion	[%0] is becoming suspicious.	f
+alert_alarmed	[%0] has been alarmed.	f
+alert_allalarmed	Shots fired - alarm raised.	
+alert_gunpointstart	[%0] is subdued, but will call alarm when timer runs out.	f
+alert_releasedgunpoint	[%0] called the alarm.	f
+	Manual Alerts	
+alert_charadded	[%0] joined the team.	f
+alert_moreenemies	More enemies have arrived.	
+	Other stuff	
+tactical_end_success	Success!	
+tactical_end_failure	Failure.	
+tactical_end_continue	Continue	
+tactical_end_retry	Retry	
+tactical_end_allkilled	All your men have been killed.	
+all_characters_dead	All your characters are dead.	
+strategic_end_gotomenu	Return to menu	
+loadsave_mission	Load checkpoint	
+quit_mission_exit	Quit to menu	
+tactical_targeting_aim	Hit chance:	
+loading_play	Play	
+loading_hint	Hint:	
+tactical_setup_unexp_head	SETUP	
+tactical_setup_unexp_body	Evade enemies.<br>Once suspicious, they will eventually attack. Subdue them to delay reaction.	
+tactical_setup_alarm_head	COMBAT	
+tactical_setup_alarm_body	Enemies have been alerted.	
+tactical_setup_critical_info_01	must survive.	
+tactical_setup_critical_info_02	and	
+tactical_setup_critical_info_03	,	
+tactical_critical_character_death_fail	[%0] was killed.	
+ingamemenu_resume	Resume	
+ingamemenu_restart	Restart	
+ingamemenu_quit	Quit to Menu	
+missionend_missioncomplete	Mission Complete	
+missionend_continue	Continue	
+missionend_missionfail	Mission Failed	
+missionend_restart	Restart	
+missionend_scenariocomplete	Scenario Complete	
+missionend_exit	Exit	
+loadsave_mission_end	Checkpoint	
+quit_mission_end	Quit	
+log_checkpoint	CHECKPOINT SAVED	
+	Floating texts	
+tactical_floating_miss	Miss	
+tactical_floating_suspicion	Suspicious	
+tactical_floating_alarmed	ALARMED	
+tactical_floating_handsup	Stick'em up!	
+tactical_floating_subdued	Subdued	
+tactical_floating_abouttoattack	About to attack	
+floating_shadowspotting	Shadow spotted	
+floating_smell_notargets	No more enemies detected	
+	eavesdrop floating texts	
+eavesdrop_text_01	*cough*	
+eavesdrop_text_02	*snort*	
+eavesdrop_text_03	*sniff*	
+eavesdrop_text_04	*yawn*	
+eavesdrop_text_05	*burp*	
+eavesdrop_text_06	*argh*	
+eavesdrop_text_07	*belch*	
+eavesdrop_text_08	*grunt*	
+eavesdrop_text_09	*moan*	
+eavesdrop_text_10	*mumble*	
+eavesdrop_text_11	*murmur*	
+eavesdrop_text_12	*mutter*	
+eavesdrop_text_13	*phew*	
+eavesdrop_text_14	*whisper*	
+eavesdrop_text_15	*click*	
+eavesdrop_text_16	*rustle*	
+eavesdrop_text_17	*hum*	
+eavesdrop_text_18	*chatter*	
+eavesdrop_text_19	*hiccup*	
+	HUD + HUD tooltips	
+weapon_range	Range Modifier	
+hud_heat	Heat	
+tac_characterpanel	CHARACTER SCREEN [%0]	
+tac_clickfordetails	<br> Left Click for Details...	
+hud_enemyturn	ENEMY TURN	
+hud_pause	GAME PAUSED	
+hud_narrator	Death	
+tac_rotateleft	ROTATE CAMERA LEFT [%0]	f
+tac_rotateright	ROTATE CAMERA RIGHT [%0]	f
+tac_endturn	END TURN [%0]	f
+tac_selcharacter	[%0] [%1]	f
+tac_switchweapons	SWITCH WEAPON [%0]	f
+tac_enemyicon	ENEMY IN LINE OF FIRE	
+tac_hp	HIT POINTS	
+tac_luck	LUCK	
+tac_heat	DEGREE OF SUSPICION THIS CHARACTER ATTRACTS	
+tac_noluck	REQUIRES [%0] LUCK	
+tac_lightpanel_day	DAY - daylight casts long shadows, protects from certain abilities	
+tac_lightpanel_night	NIGHT - no shadows can be spotted, no one is protected by sunlight	
+tac_lightpanel_nightmare	NIGHTMARE - no shadows can be spotted, abilities based on shadows are even more powerful	
+	Barter screen	
+barter_header	Barter	
+barter_posse_name	Player Inventory	
+barter_tab_all	All	
+barter_tab_wpns	Weapons	
+barter_tab_equip	Equipment	
+barter_tab_misc	Misc	
+barter_player_offer	Your offer	
+barter_player_offer_value	Total player value	
+barter_shop_offer	Their offer	
+barter_shop_offer_value	Total shop value	
+barter_button_move	Move	
+barter_button_trade	TRADE	
+barter_button_trade_impossible	Offer insufficient	
+barter_button_compare	COMPARE	
+barter_button_exit	CLOSE	
+barter_item_details	DETAILS	
+barter_comparing_with	Comparing with	
+barter_split_title	SPLIT ITEMS	
+barter_split_count	How many?	
+barter_split_total	Total:	
+barter_split_adjust	Adjust to offer	
+barter_split_confirm	Confirm	
+barter_split_cancel	Cancel	
+barter_closepopup_header	Pending offer	
+barter_closepopup_text	This will revert your offer. Are you sure?	
+barter_closepopup_close	Close	
+barter_closepopup_cancel	Cancel	
+barter_players_offer_items	Player offer	
+barter_shop_offer_items	Shop offer	
+barter_shop_items	Shop inventory	
+barter_players_items	Player inventory	
+barter_screen_no_item_selected	Select an item to view its description.	
+pad_barter_changecategory_player	CHANGE PLAYER FILTER	
+pad_barter_changecategory_shop	CHANGE SHOP FILTER	
+	Targeting details window	
+aim_modifier	Special Shot Aim modifier	
+tactical_targeting_chancetohit	Chance to Hit:	
+tactical_targeting_0cth	Impossible to hit. Find a better firing position.	
+tactical_targeting_damage	Damage:	
+tactical_targeting_base_damage	Max. Dmg:	
+tactical_targeting_nolineoffire	No Line of Fire	
+tactical_targeting_aimparam	Character Aim (with modifiers)	
+tactical_targeting_defparam	Target Defense (with Cover)	
+tactical_targeting_weaponhit	Weapon bonus	
+tactical_targeting_height	High Ground bonus	
+tactical_targeting_hitchance	to hit	
+tactical_targeting_weaponcrit	Weapon bonus	
+tactical_targeting_critcover	Target Cover	
+tactical_targeting_close	Close	
+tactical_targeting_noammo	<3>OUT OF AMMO, RELOAD!</3>	
+tactical_targeting_range	Range bonus: +	
+tactical_targeting_dmg	No Cover	
+tactical_targeting_dmghalfcover	Half-Cover: <1>1/[%0]</1>	
+tactical_targeting_dmgfullcover	Full Cover: <1>1/[%0]</1>	
+tactical_targeting_dmgadjacent	Adjacent!	
+tactical_target_select	Select Target	
+tactical_target_enemy	Enemy	
+tactical_target_ally	Ally	
+tactical_target_character	Character	
+tactical_target_tile	Tile	
+tactical_targeting_charaim	Character Aim	
+tactical_targeting_elevation	Elevation	
+tactical_targeting_blindshot	No Line of Sight	
+tactical_targeting_weaponaim	Weapon Accuracy	
+tactical_targeting_distancemodifier	Distance	
+tactical_targeting_targetdef	Defense	
+tactical_targeting_targethalfcover	In Half-Cover	
+tactical_targeting_targetfullcover	In Full-Cover	
+tactical_targeting_rounddown	Chance to Hit below 20% - reduced to 0%	
+tactical_targeting_roundup	Chance to Hit above 80% - increased to 100%	
+tactical_targeting_pointblank	Target in Point Blank Range - Sure Hit	
+tactical_targeting_total	Chance to Hit	
+tactical_targeting_inshadow	In Shadow	
+tactical_usable_causes_combat	Using this Item will start Combat.	
+tactical_targeting_shootable	Immobile Object	
+tactical_targeting_scoped	Scoped Shot Bonus	
+tactical_targeting_fanning	Fanning Penalty	
+tactical_targeting_cone	Cone Shot Penalty	
+tactical_targeting_penetrate	Golden Bullet Bonus	
+tos_confirm	Confirm	
+tos_reloadshortcut	Reload...	
+tos_moreinfo	More Info	
+tos_close	Close	
+tos_weaponbonus	Weapon Bonus	
+tos_targetdefence	Target Defence (with cover)	
+tos_characteraim	Character Aim (with buffs)	
+tos_targetcover	Target Cover	
+tos_revert	Revert	
+	Targeting details window - ability unavailable reasons	
+targeting_problemreason_lowluck	<3>INSUFFICIENT LUCK ([%0] REQUIRED)</3>	
+targeting_problemreason_lowap	<3>INSUFFICIENT ACTION POINTS</3>	
+targeting_problemreason_nolof	<3>NO LINE OF FIRE</3>	
+targeting_problemreason_noammo	<3>NO AMMO</3>	
+targeting_problemreason_notarget	<3>NO VALID TARGETS AVAILABLE</3>	
+targeting_problemreason_nolos	<3>NO LINE OF SIGHT</3>	
+targeting_problemreason_fullammo	<3>AMMO FULL</3>	
+targeting_problemreason_cooldown	<3>COOLDOWN ACTIVE ([%0] TURN(S) REMAINING)</3>	
+	Targeting details window - reasons why Subdue cannot be performed	
+targeting_gunpoint_insight	<3>You cannot threaten enemies when other enemies see you.</3>	
+targeting_gunpoint_immune	<3>This person has cojones the size of bowling balls and will not be threatened.</3>	
+	keys	
+kc_altgr	AltGr	
+kc_backspace	Backspace	
+kc_break	Break	
+kc_capslock	CapsLock	
+kc_clear	Clear	
+kc_delete	Delete	
+kc_downarrow	Down	
+kc_end	End	
+kc_escape	Escape	
+kc_help	Help	
+kc_home	Home	
+kc_insert	Insert	
+kc_keypad0	Keypad0	
+kc_keypad1	Keypad1	
+kc_keypad2	Keypad2	
+kc_keypad3	Keypad3	
+kc_keypad4	Keypad4	
+kc_keypad5	Keypad5	
+kc_keypad6	Keypad6	
+kc_keypad7	Keypad7	
+kc_keypad8	Keypad8	
+kc_keypad9	Keypad9	
+kc_keypaddivide	KpadDivide	
+kc_keypadenter	KpadEnter	
+kc_keypadequals	KpadEquals	
+kc_keypadminus	KpadMinus	
+kc_keypadmultiply	KpadMulti	
+kc_keypadperiod	KpadPeriod	
+kc_keypadplus	KpadPlus	
+kc_leftalt	Alt (L)	
+kc_leftapple	Apple (L)	
+kc_leftarrow	Left	
+kc_leftcontrol	Ctrl (L)	
+kc_leftshift	Shift (L)	
+kc_leftwindows	Windows (L)	
+kc_menu	Menu	
+kc_mouse0	LMB	
+kc_mouse1	RMB	
+kc_mouse2	MMB	
+kc_mouse3	Mouse4	
+kc_mouse4	Mouse5	
+kc_mouse5	Mouse6	
+kc_mouse6	Mouse7	
+kc_numlock	NumLock	
+kc_pagedown	PageDown	
+kc_pageup	PageUp	
+kc_pause	Pause	
+kc_print	Print	
+kc_return	Return	
+kc_rightalt	Alt (R)	
+kc_rightapple	Apple (R)	
+kc_rightarrow	Right	
+kc_rightcontrol	Ctrl (R)	
+kc_rightshift	Shift (R)	
+kc_rightwindows	Windows (R)	
+kc_scrolllock	ScrollLock	
+kc_space	Space	
+kc_sysreq	SysReq	
+kc_tab	Tab	
+kc_uparrow	Up	
+kc_mousewheelup	MouseWheelUp	
+kc_mousewheeldown	MouseWheelDown	
+	short keys (to display on the HUD)	
+skc_altgr	AGr	
+skc_backspace	Bsp	
+skc_break	Brk	
+skc_capslock	CLk	
+skc_clear	Clr	
+skc_delete	Del	
+skc_downarrow	Dn	
+skc_end	End	
+skc_escape	Esc	
+skc_help	Hlp	
+skc_home	Hm	
+skc_insert	Ins	
+skc_keypad0	K0	
+skc_keypad1	K1	
+skc_keypad2	K2	
+skc_keypad3	K3	
+skc_keypad4	K4	
+skc_keypad5	K5	
+skc_keypad6	K6	
+skc_keypad7	K7	
+skc_keypad8	K8	
+skc_keypad9	K9	
+skc_keypaddivide	K/	
+skc_keypadenter	Krt	
+skc_keypadequals	K=	
+skc_keypadminus	K-	
+skc_keypadmultiply	K*	
+skc_keypadperiod	K.	
+skc_keypadplus	K+	
+skc_leftalt	Alt	
+skc_leftapple	Apl	
+skc_leftarrow	Lt	
+skc_leftcontrol	Ctrl (L)	
+skc_leftshift	St	
+skc_leftwindows	Win	
+skc_menu	Menu	
+skc_mouse0	LMB	
+skc_mouse1	RMB	
+skc_mouse2	MMB	
+skc_mouse3	M4	
+skc_mouse4	M5	
+skc_mouse5	M6	
+skc_mouse6	M7	
+skc_numlock	NLk	
+skc_pagedown	PgD	
+skc_pageup	PgU	
+skc_pause	Pse	
+skc_print	Prn	
+skc_return	Ret	
+skc_rightalt	Alt	
+skc_rightapple	Apl	
+skc_rightarrow	Rt	
+skc_rightcontrol	Ctr	
+skc_rightshift	Sft	
+skc_rightwindows	Win	
+skc_scrolllock	SLk	
+skc_space	Spc	
+skc_sysreq	SRq	
+skc_tab	Tab	
+skc_uparrow	Up	
+skc_mousewheelup	WhlUp	
+skc_mousewheeldown	WhlDn	
+	Character Screen (strategic)	
+character_screen_title	CHARACTER SCREEN	
+character_screen_close	CLOSE	
+characterscreen_opencardscreen	OPEN CARD SCREEN	
+char_screen_header	Posse	
+char_screen_loadout_header	Prepare for battle	
+char_screen_loadout_close	PROCEED TO COMBAT	
+character_slot_free	Free inventory slot	
+character_slot_free_desc	Use this slot to equip an item to be used by the character in tactical combat.	
+card_slot_empty	Free card slot	
+card_slot_empty_desc	Click on this slot to open the Ability Cards' Screen. Equip cards to improve this character's skills or grant them new abilities. Arrange poker hands for extra rewards.	
+card_slot_empty_desc_crdscr	Drag cards here to grant this character new abilities and other bonuses. Arrange poker hands for extra rewards.	
+card_slot_locked	Locked card slot	
+card_slot_locked_desc	This slot will become available once this character has gained more experience by participating in tactical combat.	
+handbuff_slot	Hand Bonus	
+handbuff_slot_desc	Arrange poker hands to get additional rewards.	
+characterscreen_weapon_desc	[%0]<br>[%1]<br>Damage: [%2] | Heat: [%3] | Dmg vs half cover: [%4] | Dmg vs full cover: [%5]	
+characterscreen_weapon_fanning	Fanning	
+characterscreen_weapon_scopedshot	Scoped	
+characterscreen_weapon_coneshot	Cone shot	
+characterscreen_weapon_noricochet	No ricochets	
+characterscreen_weapon_noendturn	Allows two shots per turn	
+characterscreen_card_desc	Ability: [%0]<br>[%3]<br>[%1]<br><br>Bonus: [%2]	
+cardscreen_ability_passive	(Passive)	
+cardscreen_ability_active	(Active)	
+cardscreen_ability_active_luck	(Active, requires [%0] Luck)	
+characterscreen_card_maxhp	HP	
+characterscreen_card_aim	Aim	
+characterscreen_card_defense	Defense	
+characterscreen_card_movement	Movement	
+characterscreen_card_sight	Sight	
+characterscreen_card_maxluck	Luck	
+str_characterpanel	CHARACTER SCREEN [%0]	f
+str_mainmenu	PAUSE MENU [%0]	f
+str_category_all	ALL ITEMS	
+str_category_weapons	WEAPONS	
+str_category_usables	USABLE ITEMS	
+str_category_talismans	TALISMANS	
+str_category_misc	MISC	
+str_category_character	[%0]'s items	f
+buffs_strategic_details	BOONS & AFFLICTIONS	
+inventory_strategic_details	INVENTORY	
+info_strategic_details	DETAILS	
+cards_strategic_details	ABILITY CARDS	
+card_screen_title	CARD SCREEN	
+card_screen_header_cards	CARDS	
+card_screen_header_details	DETAILS	
+	Character details screen (tactical)	
+weapon_class_tactical_details	Range	
+weapon_dmg_tactical_details	Damage	
+weapon_heat_details	Heat	
+weapon_maxammo_tactical_details	Ammunition	
+no_weapon_tactical_details	no weapon	
+aim_tactical_details	Aim	
+defense_tactical_details	Defense	
+movement_tactical_details	Movement	
+sight_tactical_details	Sight	
+heat_tactical_details	Heat	
+guns_tactical_details	FIREARMS	
+abilities_tactical_details	TALENTS	
+buffs_tactical_details	BOONS & AFFLICTIONS	
+	spoils popup injured help	
+spoils_1injured	[%0] has been injured.	
+spoils_2injured	[%0] and [%1] have been injured.	
+spoils_3injured	[%0], [%1] and [%2] have been injured.	
+spoils_4injured	[%0], [%1], [%2] and [%3] have been injured.	
+spoils_injuredtutorial	Injuried characters suffer penalties, but the scars will eventually heal and make characters stronger than before. Alternatively you can seek medical attention.	
+	Strategic popups	
+popup_buff_received	Buff received:	
+popup_buff_lost	Buff removed:	
+popup_cash_received	Cash received:	
+popup_cash_lost	Cash lost:	
+popup_character_hired	Character has joined the posse:	
+popup_character_buff	[%0] is now affected by [%1].	
+popup_character_buff_lost	[%0] is no longer affected by [%1].	
+popup_character_injuryhealed	[%0] no longer suffers from [%1]. Over time, it transformed into [%2].	
+popup_character_fired	Character has left the posse:	
+popup_item_received	Item(s) received:	
+popup_item_lost	Item(s) lost:	
+popup_card_received	Card received:	
+popup_objective_started	New objective:	
+popup_objective_completed	Objective completed:	
+popup_objective_failed	Objective failed:	
+popup_objective_updated	Objective updated:	
+popup_location_changed	The location	
+popup_location_opened	Location has become available:	
+popup_location_locked	Location has been locked:	
+popup_location_hidden	Location has vanished:	
+popup_trinket_unlocked	[%0] unlocked at Fate Trader's.	
+header_spoils_popup	New items found	
+content_spoils_popup	You've found new items. Check the character screen.	
+location_opened_popup	New location:	
+popup_cards_unlocked	[%0] new card(s) unlocked.	
+strategic_popup_injurieshealed	[%0]'s injuries have been healed.	
+trinket_count_change	Item count updated at Fate Trader's:	
+	gamepad controls	
+pad_barter_movecursor	MOVE CURSOR	
+pad_barter_transferitem	TRANSFER ITEM	
+pad_barter_trade	TRADE	
+pad_barter_close	CLOSE	
+pad_barter_compare	COMPARE	
+pad_barter_changecharacter	CHANGE CHARACTER	
+pad_barter_changecategory	CHANGE FILTER	
+pad_barter_changelist	CHANGE LIST	
+pad_barter_pendingoffer_cancel	CANCEL	
+pad_barter_pendingoffer_revertoffer	REVERT	
+pad_explorationwindow_movecursor	MOVE CURSOR	
+pad_explorationwindow_skipanim	SKIP ANIMATION	
+pad_explorationwindow_choose	CHOOSE OPTION	
+pad_cardscreen_movecursor	MOVE CURSOR	
+pad_cardscreen_assigncard	ASSIGN CARD	
+pad_cardscreen_releasecard	RELEASE CARD	
+pad_cardscreen_close	CLOSE	
+pad_cardscreen_apply	APPLY CHANGES	
+pad_cardscreen_revert	REVERT ALL CHANGES	
+pad_cardscreen_changechar	SWITCH CHARACTERS	
+pad_cardscreen_showhand	SHOW HAND BONUS	
+pad_characterscreen_movecursor	MOVE CURSOR	
+pad_characterscreen_assignitem_slot1	ASSIGN ITEM IN SLOT 1	
+pad_characterscreen_assignitem_slot2	ASSIGN ITEM IN SLOT 2	
+pad_characterscreen_releaseitem	REMOVE ITEM	
+pad_characterscreen_entercardscreen	OPEN CARD SCREEN	
+pad_characterscreen_close	CLOSE	
+pad_characterscreen_changecharacter	CHANGE CHARACTER	
+pad_characterscreen_changecategory	CHANGE FILTER	
+pad_characterscreen_scrollbuffs	SCROLL BOONS & AFFLICTIONS	
+pad_mainmenu_chooseoption	CHOOSE OPTION	
+pad_mainmenu_confirm	CONFIRM	
+scenario_menu_select	SELECT SCENARIO	
+pad_scenarioselect_difficulty	CHOOSE DIFFICULTY	
+pad_strategicpause_movecursor	MOVE CURSOR	
+pad_strategicpause_chooseoption	CHOOSE OPTION	
+pad_explorationscene_move	MOVE CURSOR	
+pad_explorationscene_goto	CONFIRM MOVE	
+pad_explorationscene_characterscreen	CHARACTER SCREEN	
+pad_explorationscene_menu	MENU	
+pad_tacticalpause_movecursor	MOVE CURSOR	
+pad_tacticalpause_chooseoption	CHOOSE OPTION	
+pad_tacticalcharacter_changecharacter	SWITCH CHARACTERS	
+pad_tacticalcharacter_scrollbuffs	SCROLL BOONS & AFFLICTIONS	
+pad_tacticalcharacter_close	CLOSE	
+pad_loadingscreen_continue	CONTINUE	
+pad_tacticalscene_rotatecamera	ROTATE CAMERA	
+pad_tacticalscene_changefloor	CHANGE FLOOR	
+pad_tacticalscene_endturn	END TURN	
+pad_credits_accelerate	SPEED UP	
+pad_credits_decelerate	SPEED DOWN	
+pad_credits_close	CLOSE	
+pad_options_chooseoption	CHOOSE OPTION	
+pad_options_changecategory	CHANGE FILTER	
+pad_options_apply	APPLY	
+pad_options_close	CLOSE	
+pad_options_adjust	ADJUST	
+	SYSTEM GUI TEXTS	
+gui_param_aim	Aim	
+gui_param_defense	Defense	
+gui_param_sight	Sight	
+gui_param_damage	Damage	
+gui_param_movement	Movement	
+gui_param_maxhp	Max HP	
+gui_param_maxluck	Max Luck	
+gui_param_heat	Heat	
+gui_param_hpchange	HP/Turn	
+gui_param_luckchange	Luck/Turn	
+gui_param_duration	([%0] Turns left)	
+gui_item_desc	[%0]<br>[%1]	
+gui_buff_desc_strategic	[%0]<br>[%1]	
+gui_buff_desc_tactical	[%0]<br>[%1] [%2]	
+	Options screen	
+options_title	Options	
+options_default	Defaults	
+options_apply	Apply	
+options_accept	Accept	
+options_cancel	Cancel	
+options_back	Back	
+options_presstobind	Press the desired Key	
+options_button_gameplay	Game	
+options_button_interface	Interface	
+options_button_video	Video	
+options_button_audio	Audio	
+options_button_controls	Controls	
+options_language	Text Language	
+options_language_en	English	
+options_language_fr	Français	
+options_language_it	Italiano	
+options_language_de	Deutsch	
+options_language_es	Español	
+options_language_pl	Polski	
+options_language_ru	Русский	
+options_subtitles	Cinematic subtitles	
+options_difficulty	Difficulty Level	
+options_difficulty_easy	Easy	
+options_difficulty_medium	Medium	
+options_difficulty_hard	Hard	
+options_difficultypopup_header	Difficulty Level changed	
+options_difficultypopup_body	Changing difficulty at this point affects unlocks and progress to achievements based on Difficulty Level.<br><br>Difficulty change will apply with the start or restart of combat. Proceed?	
+options_difficultypopup_confirm	Confirm	
+options_difficultypopup_discard	Revert change	
+options_always_run	Always run in Setup Stage	
+options_barter_autoadjust	Auto-adjust in Barter	
+options_pawn_superspeed	Worldmap Pawn quick movement	
+options_interface_popup	<3>NOTE!</3><br><br>These settings are for advanced users of Hard West. If this is your first playthrough, we stronly recommend to leave the default settings.	
+options_helpers_coneofview	Cone of View Indicator	
+options_helpers_reactionshot	Reaction Shot Indicator	
+options_helpers_covers	Cover Indicators	
+options_helpers_floatingtext	Floating Text	
+options_helpers_range	Weapon Range Modifier Slider	
+options_helpers_usableglow	Interactive Objects Highlight	
+options_helpers_usableglow_0	No Highlight	
+options_helpers_usableglow_1	Only Ricochet Objects	
+options_helpers_usableglow_2	Ricochet and Usable Objects	
+options_helpers_usableglow_3	All Interactive Objects	
+options_helpers_explorationtextspeed	Exploration Text Speed	
+options_helpers_explorationtextspeed_0	Instant	
+options_helpers_explorationtextspeed_1	Fast	
+options_helpers_explorationtextspeed_2	Moderate	
+options_video_title	Display Settings	
+options_resolutions	Resolution	
+options_fullscreen	Fullscreen	
+options_resolution_apply	Apply	
+options_vsync	VSync	
+options_textures	Texture Quality	
+options_aniso	Anisotropic Filtering	
+options_shadows_quality	Shadow Quality	
+options_shaders_quality	Shader Quality	
+options_post_process_quality	Post-process Quality	
+options_world_details	Worldmap Decoration Level	
+options_video_low	Low	
+options_video_medium	Medium	
+options_video_high	High	
+options_video_veryhigh	Very High	
+options_master_volume	Master Volume	
+options_music_volume	Music Volume	
+options_speech_volume	Speech Volume	
+options_enviro_volume	Ambient Volume	
+options_sfx_volume	SFX Volume	
+options_interface_volume	Interface Volume	
+options_cinematic_volume	Cinematic Volume	
+options_panningspeed	Camera Panning Speed	
+options_disablecontroller	Disable Controller	
+options_keybindings	Keybindings	
+options_padmapping	Pad Mappings	
+	Bindable actions	
+action_endturn	End Turn	
+action_togglecharacterinfo	Character Screen	
+action_weaponchange	Swap Weapons	
+action_reload	Reload	
+action_camera_changefocus	Camera: Change Focus	
+action_camera_panleft	Camera: Pan Left	
+action_camera_panright	Camera: Pan Right	
+action_camera_panforward	Camera: Pan Forward	
+action_camera_panback	Camera: Pan Backwards	
+action_camera_rotateleft	Camera: Rotate Clockwise	
+action_camera_rotateright	Camera: Rotate Counterclockwise	
+action_camera_panup	Camera: Up One Level	
+action_camera_pandown	Camera: Down One Level	
+action_selectnext	Select Next Character	
+action_selectprevious	Select Previous Character	
+action_character1	Select character 1	
+action_character2	Select character 2	
+action_character3	Select character 3	
+action_character4	Select character 4	
+action_option1	Ability bar button 1	
+action_option2	Ability bar button 2	
+action_option3	Ability bar button 3	
+action_option4	Ability bar button 4	
+action_option5	Ability bar button 5	
+action_option6	Ability bar button 6	
+action_option7	Ability bar button 7	
+action_option8	Ability bar button 8	
+action_option9	Ability bar button 9	
+action_option10	Ability bar button 10	
+	options - gamepad layout	
+options_padlayout_cursor	Move Cursor	
+options_padlayout_camera	Move Camera	
+options_padlayout_switchchar	Switch Character	
+options_padlayout_switchab	Switch Ability	
+options_padlayout_moveuse	Move/Use/Target	
+options_padlayout_cancel	Cancel Targeting	
+options_padlayout_skipturn	Skip Turn	
+options_padlayout_switchweapon	Switch Weapon	
+options_padlayout_pause	Pause Menu	
+options_padlayout_charscreen	Character Sceen	
+options_padlayout_focus	Focus on Active Character	
+options_padlayout_rotatecam	Rotate Camera	
+options_padlayout_switchfloor	Change Floor	
+options_pad_deadzone	Gamepad Deadzone	
+	SPECIAL - Corrections to bugged scenario texts   and/or   missing texts	
+	Scenario 3 corrections	
+s3_random_seamstress_desc1	The posse came across a very peculiar man who walked slowly and clumsily and stank of death. The card sewn in his clothes read: "Severen Graves".<br><br>The man walked straight up to the Undertaker and handed him an envelope.<br><br>When asked about the contents, he pointed toward his sewn-shut mouth and walked away.	
+s3_seamstress_resurect	The Undertaker presented the Old Seamstress with a lock of hair. The witch mixed the hair with herbs while muttering spells in an unknown tongue.<br><br>She spent many hours at it before giving up. She said she had never seen a curse this strong. It was as though it came from the Lord of Hell himself. She knew no way of lifting it.<br><br>Before the Undertaker could reply, the Seamstress touched Harrington's forehead and he fell unconscious. When he awoke, his aging eyesight was rejuvenated and he felt reborn.	
+	Scenario 5 corrections	
+s5_craft	Go to the Workshop and buy at least one item	
+s5_cp7_meteor_r_drill	Inside the crater, he found a letter with a familiar seal on it. Solomon realized he had to excavate the Meteor as soon as possible.<br><br>The drilling would take days. He instructed the Pinkertons to prepare defenses around his operation, and The Persons began constructing a temporary fort.<br><br>Solomon realized he would be busy drilling, and unable to aid his protectors in the upcoming battle.	
+	Scenario 6 corrections	
+s6_outpost_aftermath_diego	Diego, showing no interest in engaging the fierce warriors, decided that he would stay back in camp and look after the peons.	
+s6_camp3_desc_hunt	The area wasn't the safest but it sheltered a fair amount of wildlife.	
+s6_hunting_grounds_desc_posse_fail_post	Suddenly, out of the trees, a jaguar pounced on a member of the posse, wounding him badly. The men abandoned the hunt, barely making it out alive.	
+	s7 custom GUI tooltips	
+s7_customgui_prospect_mercury	Mercury	
+s7_customgui_prospect_drilling	Drill	
+s7_customgui_prospect_stampmill	Stamp Mill	
+s7_customgui_prospect_jet	Hydro Jet	
+s7_customgui_usesleft	Mining License Uses Remaining	
+s7_customgui_mining_placer	Placer Gold Tools	
+s7_customgui_mining_deeper	Deeper Gold Tools	
+s7_customgui_mining_hardrock	Hard Rock Gold Tools	
+	missing s7 objective	
+s7_t6_killall	Kill all invaders	
+	bugged ability floats	
+ability_float_smell	Enemies detected: [%0]	
+	Missing stuff	
+pad_missionfailed_restart	RESTART	
+pad_missionfailed_quit	QUIT	
+pad_ricochet_revert	REVERT	
+pad_barter_split_confirm	CONFIRM	
+pad_barter_split_close	CLOSE	
+pad_barter_split_adjust	ADJUST	
+barter_itemprice_notapplicable	N/A	
+weapon_range_close	CLOSE	
+weapon_range_short	SHORT	
+weapon_range_medium	MEDIUM	
+weapon_range_long	LONG	
+	New texts added with DLC	
+mainmenu_dlc	Downloadable content	
+mainmenu_dlc1_continue	Load last checkpoint	
+mainmenu_dlc1_newgame	Play 'Scars of Freedom'	
+mainmenu_dlc1_restart	Restart 'Scars of Freedom'	
+mainmenu_dlc1_options	Options	
+mainmenu_dlc1_credits	Credits	
+mainmenu_dlc1_goback	Back to Main Menu	
+options_waterreflections	Water reflections Quality	
+options_waterreflections_high	High	
+options_waterreflections_medium	Medium	
+options_waterreflections_low	Low	
+options_waterreflections_off	Off	
+scenario_menu_more	Gameplay Mods	
+scenario_menu_popup_desc_more	Additional features that allow you to customize your Hard West experience.	
+scenario_menu_more_confirm	Save and close	
+scenario_menu_more_cancel	Cancel	
+scenario_menu_fulldeck	Full Deck	
+scenario_menu_fulldeck_desc	Start the scenario with a complete set of Ability Cards. Only available in the main campaign.	
+scenario_menu_noreaction	Reaction Shot Disabled	
+scenario_menu_noreaction_desc	Enemies no longer take free shots at approaching player characters.	
+scenario_menu_noreduction	Damage Ignores Cover	
+scenario_menu_noreduction_desc	Cover no longer affects damage.	
+scenario_menu_aiabilities	Enemy Abilities	
+scenario_menu_aiabilities_desc	Enemies will use a wider array of abilities, making combat more challenging.	
+scenario_menu_fastscars	Express Scarification	
+scenario_menu_fastscars_desc	Injuries turn to scars after just one tactical encounter, and not two.	
+scenario_menu_killsluck	Luck for Kills	
+scenario_menu_killsluck_desc	Characters regain Luck for each enemy they kill.	
+scenario_menu_luckregen	Luck Regeneration	
+scenario_menu_luckregen_desc	Each character regains a small amount of Luck each turn.	
+scenario_menu_morewounds	Squishy Posse	
+scenario_menu_morewounds_desc	Every time a player character is shot for more than 1 damage, he or she suffers a wound.	
+scenario_menu_unknownhp	Unknown Health	
+scenario_menu_unknownhp_desc	Enemies no longer display their Hit Points, until they are hit.	
+scenario_menu_cardlock	Cards of Destiny	
+scenario_menu_cardlock_desc	Once a card is assigned to a character, it may only be removed when they die.	
+gameplaymods_pad_selectoption	Adjust	

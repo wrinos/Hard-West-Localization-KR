@@ -1,0 +1,661 @@
+text_id	en	format
+	Loading screen titles	
+scen_08	A Matter of Time	
+scen_08_name	Cassandra's gift was as much a boon as a curse. While undoubtedly useful,<br>the pain associated with it was unbearable.	
+8_1_Gallows_name	The crowd jeered. The noose loomed closer.<br>She didn't lose hope.	
+8_2_TrainCrash_name	If Lafórtuna's mercenaries were allowed to reach the coast,<br>there would be no way to reach the Protector.	
+8_3_LakeHideout_name	Joaquim Perez and the rest of the Inquisitor's hunters landed on the island.<br>Cassandra and her companions scrambled to defend themselves.	
+8_4_Sanitarium_name	All the effort Cassandra put into getting here had been repaid with treachery and cruelty.<br>She swore she would give them what they deserved.	
+	Custom GUI	
+cassandra_power	Precognition	
+	Objectives	
+s8_obj_str_ferryman	Go to the Ferryman to cross the river	
+s8_obj_str_askaboutcolorado	Ask about passage across the river	
+s8_obj_str_lookforpassage	Look for a way across the river	
+s8_obj_str_colorado	Acquire the smuggler boat and cross the river	
+s8_obj_str_contactaristocracy	Go to Hardin's hideout to get the boat to the Protector's island	
+s8_obj_str_attendgame	Attend Lafórtuna's poker tournament	
+s8_obj_str_get25k	Explore the area to raise the $25,000 buy-in	
+s8_obj_str_searchwrecks	Search the shipwrecks for treasure	
+s8_obj_str_calacamap	Visit Garcia-Pimentel residence. Look for map to Calaca Shrine (Optional)	
+s8_obj_str_usecalacamap	Sell the Calaca Shrine map or use it yourself (Optional)	
+s8_obj_str_sellcalacas	Fence the stolen Calacas (Optional)	
+s8_obj_str_getdynamite	Obtain TNT to derail the train from the mines	
+s8_obj_str_interceptwarrant	Set the ambush in the Trainyard	
+s8_obj_str_bigpokergame	Go to Reception Hall to play in the poker game	
+s8_obj_str_visitprotector	Visit Ricardo Lafórtuna in his residence	
+s8_obj_str_returntoprotector	Return to Lafórtuna's Residence	
+s8_obj_str_harbor	Go to the Harbor and sail to the Protector's island	
+s8_obj_tac1_killmarshall	Stop the execution	
+s8_obj_tac1_killpeasants	Rout the peasants	
+s8_obj_tac1_killpigeons	Kill the carrier pigeons	
+s8_obj_tac1_findkey	Find the key to the backyard passage (Optional)	
+s8_obj_tac1_opengate	Open the backyard passage (Optional)	
+s8_obj_tac1_killremainingenemies	Kill the rurales	
+s8_obj_tac2_killeveryone	Leave no witnesses	
+s8_obj_tac3_releaseboatontolake	Release either boat onto the lake	
+s8_obj_tac3_escapeinboat	Bring your team to the remaining boat	
+s8_obj_tac3_killdefenders	Kill the boat's defenders	
+s8_obj_tac3_gathersupplies	Gather supplies	
+s8_obj_tac3_liftbridge	Lift the bridge to cut off enemies (Optional)	
+s8_obj_tac4_breakout	Break out of your cell	
+s8_obj_tac4_findkeys	Find the keys to the cells in the guardroom downstairs (Optional)	
+s8_obj_tac4_releasecompanions	Release your companions (Optional)	
+s8_obj_tac4_releasefederale	Release Perez (Optional)	
+s8_obj_tac4_killcollector	Kill the Protector	
+s8_obj_tac4_usemachine	Have Cassandra use the Protector's machine	
+	Floating text	
+s8_float_t1_doorlocked	LOCKED	
+s8_float_t1_foundkey_a	Found the backyard key!	
+s8_float_t1_foundkey_b	Found a key.	
+s8_float_t1_nokeyhere_a	Found valuables, but no key.	
+s8_float_t1_nokeyhere_b	Found valuables.	
+s8_float_t1_unlockdoor	UNLOCKED	
+s8_float_t3_cantlift	Lifting it would separate the party.	
+s8_float_t3_pickedupsupplies	Recovered supplies.	
+s8_float_t4_onlycass	Only Cassandra can do that.	
+	Custom World Map events	
+s8_wmev_firstcooldown	Precognition had exhausted Cassandra. To restore her power, rest or visit other locations.	
+s8_wmev_firstrest	Cassandra rested and could use precognition again.	
+s8_wmev_calacas	Cassandra found some Ancient Calacas.	
+s8_wmev_armyreq	Cassandra found an Army Requisiton Form.	
+s8_wmev_deed	Cassandra found a Silver Mine Deed.	
+s8_wmev_gem	Cassandra found a Gem Paperweight.	
+s8_wmev_laxative_get	Cassandra acquired Laxative Potion.	
+s8_wmev_laxative_spend	Cassandra used Laxative Potion.	
+	World map interactions	
+s8_loc_ferryman	Ferry	
+s8_loc_ferryman_desc	Hardin led Cassandra to the ferry that he and Paco had used to cross the river from the West. The stench of death was everywhere. The ferry itself was no more and neither was the ferryman. Someone had butchered him and strewn his body all across the riverbank. They wouldn’t be crossing here anytime soon.	
+s8_loc_ferryman_opt1	Cassandra examined the scene.	i
+s8_loc_ferryman_opt1_result	Somebody carved the word “arrepiéntete” into the ferryman’s chest. Cassandra knew this could only be the work of Joaquim Perez, the Inquisitor’s mad dog. Meanwhile, Hardin contemplated searching the man’s body. Or what was left of it.	
+s8_loc_ferryman_opt1_result_opt1	She told Hardin the corpse had suffered enough indignity. He should leave it alone.	g
+s8_loc_ferryman_opt1_result_opt2	She let Hardin take whatever he found on the body.	g
+s8_loc_ferryman_o1r1_opt1_result	Reluctantly, Hardin left the body and walked away from the bloody scene. He said they would need to ask after transport at the local inn.	
+s8_loc_ferryman_o1r1_opt2_result	Hardin pocketed some cash and the ferryman’s necklace. Then he suggested they might find transportation at the local inn and headed in that direction.	
+s8_loc_sonorainn	Sonora Inn	
+s8_loc_sonorainn_desc	The inn was a peaceful cantina and rest stop for weary travelers at the edge of the wilderness. Cassandra was filled with foreboding. She knew she would need to to scope out the area and weigh her choices before proceeding.	
+s8_loc_sonorainn_desc2	The inn was as bustling as ever.	
+s8_loc_sonorainn_desc3	After a narrow brush with Perez, Cassandra returned to the inn. Hardin didn't like the idea of coming here, but Cassandra called the shots.<br><br>The proprietor eyed her suspiciously, but stayed silent. The tension was electric. All Hardin could do, though, was keep his eyes open and watch for traps.	
+s8_loc_sonorainn_opt1	She asked about transport across the river.	g
+s8_loc_sonorainn_opt3	A local card sharp was dealing 3 card monte.	g
+s8_loc_sonorainn_opt4	She asked for a room ([%0])	p-10cash
+s8_loc_sonorainn_opt5	The innkeeper had some items available for barter.	b
+s8_loc_sonorainn_opt1_result	The locals told Cassandra the nearest official river crossing was in Yuma, Arizona. Unfortunately the weekly train to Yuma left earlier that day at 3:10. If she wanted to go earlier, she'd have to find someone with a boat willing to take her. They allowed as the best place to find someone with a boat would be down at the riverbank campsite.	
+s8_loc_sonorainn_opt3_result	Cassandra and Hardin observed the card sharp a while. He said people called him "Alonso the Lizard," and invited them to play a hand. Cassandra felt the familiar vibrations of a dawning premonition. Hardin was cracking his knuckles, smiling too widely at the shady dealer. Cassandra suspected he was up to no good, but wasn't sure she wanted trouble.	
+s8_loc_sonorainn_opt3_result_c	Cassandra and Hardin observed the card sharp a while. He said people called him "Alonso the Lizard," and invited them to play a hand. Hardin was cracking his knuckles, smiling too widely at the shady dealer. Cassandra suspected he was up to no good, but wasn't sure she wanted trouble.	
+s8_loc_sonorainn_opt3_result_b	Cassandra and Hardin observed the card sharp, who was all smiles until he caught sight of the ferryman's amulet. He quickly collected his cards and walked away. Cassandra would not be winning any cash tonight.	
+s8_loc_sonorainn_opt4_result	Even though the room was ridiculously expensive, it was nevertheless filthy. But a few hours' nap lifted Cassandra's spirit and allowed her to recuperate from the strains of clairvoyance.	
+s8_loc_sonorainn_opt4_result_b	Cassandra was exhausted and her head was throbbing. She desperately needed sleep and was unconscious as soon as she lay down.<br><br>She didn't know how long she'd been out when she woke with a start to a man on top of her. It was Hardin. He had his hand over her mouth. With his other hand he put a finger to his lips, telling her to remain quiet, then pointed toward the door.<br><br>Familiar voices from downstairs filled her with dread. It was Joaquim Perez, the Inquisitor's lieutenant, asking the locals about her. Hardin motioned to the window. It was their only way out.	
+s8_loc_sonorainn_opt4_result_b_opt1	She leapt to the sill and descended to the ground by rope.<br>The two bolted before anyone noticed them.	x
+s8_loc_sonorainn_opt4_result_c	Cassandra found it hard to fall asleep with the memory of Perez still vivid in her mind. But Hardin offered to keep watch, and finally exhaustion took its toll. She fell into a deep slumber filled with nightmares and apocalyptic visions.<br><br>On the next day, she was rested enough to travel again.	
+s8_loc_sonorainn_opt3o1	Cassandra joined the game, letting her premonition guide her.	g+
+s8_loc_sonorainn_opt3o2	Cassandra could see Hardin was itching to rough up the dealer. She let him do as he wanted.	g
+s8_loc_sonorainn_opt3o3	They left him alone.	x
+s8_loc_sonorainn_opt3o1_result	Cassandra made a show of her apparent distress and desperation, pretending to fret before betting all of her belongings. When her premonition guided her to the correct card, the dealer was so surprised, he didn't even protest. Cassandra walked away significantly richer.<br><br>Cassandra's premonition had cost her, however. She was exhausted  and would not be able to use her abilities until she had rested or at least taken a generous helping of fresh air.	
+s8_loc_sonorainn_opt3o2_result	Hardin bet some money, then while the dealer was shuffling the cards he stabbed the man's hand to the table. As Alsono screamed and bled, Hardin slowly picked through the cards one by one, until he got to the correct one. He then demanded his "winnings." Looking around and finding nothing but disdain from his fellow patrons, the card sharp handed over the money.<br><br>Cassandra was amused, but concerned that his actions would attract the attention of the authorities.	
+s8_loc_banksofcolorado	Riverbank	
+s8_loc_banksofcolorado_desc1	Cassandra and her companions spent hours walking the banks of the river, but found nothing.<br><br>Cassandra shed a few tears of hopelessness, which led her to another premonition.	
+s8_loc_banksofcolorado_desc2	Cassandra and her companions spent several hours walking the banks of the river but found nothing. She shed a few tears of hopelessness, then sat on a rock and held her aching head. She would have no visions of the future unless she rested.	
+s8_loc_banksofcolorado_opt1	She took a deep breath and explored the vision.	g+
+s8_loc_banksofcolorado_opt1_result	Images flashed before Cassandra's eyes. She saw a dark, unlit boat crossing the river in silence. She looked at the night sky above the boat and made out the North Star. Though the vision was over as soon as it appeared, Cassandra knew she could pinpoint the boat's location.	
+s8_loc_banksofcolorado_exit	She returned to the top of the cliff and left.	x-
+s8_loc_banksofcolorado_exit_norest	She returned to the top of the cliff and left.	x
+s8_loc_smugglerboat	Smuggler Boat	
+s8_loc_smugglerboat_desc	A clandestine, low-profile smuggler boat was beached on the shore. The smugglers had set up a camp in a nearby cave. Hardin said they should be careful not to leave any witnesses. Cassandra was worried that if they killed the smugglers, their bodies would attract the attention of the Inquisitor's chief manhunter, Joaquim Perez. Hardin said killing the smugglers before stealing their property was still safer.	
+s8_loc_smugglerboat_opt1	Cassandra decided to commandeer the boat without raising the alarm.	g-
+s8_loc_smugglerboat_opt2	Cassandra decided they should silently murder the smugglers, then steal their boat.	g-
+s8_loc_smugglerboat_opt3	Cassandra had a feeling that if they timed their moves correctly they could avoid the sentries.	g+
+s8_loc_smugglerboat_opt1_result	As the group were setting sail, a lone smuggler sentry ran out and started shooting. Hardin was wounded, but the party were soon rowing downstream towards his swamp hideout.	
+s8_loc_smugglerboat_opt2_result	Cassandra and her allies ambushed the smugglers in their sleep, slitting their throats quickly and quietly. The dead may not speak, but their bodies surely attracted attention. The team set out towards Hardin's swamp hideout.	
+s8_loc_smugglerboat_opt3_result	Cassandra led her new allies with precision and skill. She just knew when a guard would be looking the other way or had gone to smoke his pipe. After a few tense minutes, they were sailing safe and unseen towards Hardin's swamp hideout.	
+s8_loc_developingtown	Adelante	
+s8_loc_developingtown_hub1	Adelante Cantina	
+s8_loc_developingtown_hub2	Adelante Red Light Street	
+s8_loc_developingtown_desc1	The bustling town of Adelante was full of new buildings and prosperous people. The copious construction work in town was sponsored almost single-handedly by Mr. Lafórtuna. For the denizens of the Western Territory, Lafórtuna was the embodiment of prosperity and modernity.	
+s8_loc_developingtown_desc2	The team returned to the town of Adelante.	
+s8_loc_developingtown_opt1	Cassandra entered the cantina.	i
+s8_loc_developingtown_opt2	Cassandra visited the general store.	i
+s8_loc_developingtown_opt4	Though she felt awkward about making such a seemingly lowbrow request, Cassandra suggested that they find the local brothel.	g+
+s8_loc_developingtown_cantina	Cassandra was pleasantly surprised to find that the cantina appeared safe and well-run.	
+s8_loc_developingtown_cantina2	The bartender nodded to Cassandra and gestured toward the cantina's offerings.	
+s8_loc_developingtown_cantina_opt1	Cassandra asked for a room ([%0])	p-30cash
+s8_loc_developingtown_cantina_opt2	Cassandra reviewed the latest headlines in search of any mentions of her misadventures.	i
+s8_loc_developingtown_cantina_opt3	A drunken trapper was bragging about something. Cassandra listened in.	i+
+s8_loc_developingtown_cantina_opt4	Cassandra noticed Jim Vaughn sitting in one of the booths and decided to join him.	i
+s8_loc_developingtown_cantina_opt4b	Cassandra sat with Jim Vaughn once again.	i
+s8_loc_developingtown_cantina_opt5	One of Cassandra's companions was waiting around...	i
+s8_loc_developingtown_roster_paco	Paco returned to Adelante to wait patiently for Cassandra's return. He reaffirmed his willingness to accompany her in further travels and asked whether she required his assistance.	
+s8_loc_developingtown_roster_felicia	Felicia waited in Adelante, hoping she would be able to join Cassandra. She was ready to go anywhere with the clairvoyant, she said, if her assistance was requried.	
+s8_loc_developingtown_roster_jim	Jim returned to Adelante and waited patiently for Cassandra's return. He reminded her that he was still as willing as ever accompany her on further travels.	
+s8_loc_developingtown_roster_accept	Cassandra accepted the help.	g
+s8_loc_developingtown_roster_replacepaco	Cassandra acceded. She asked Paco to remain in Adelante to keep their numbers modest.	g
+s8_loc_developingtown_roster_replacefelicia	Cassandra acceded. She asked Felicia to remain in Adelante to keep their numbers modest.	g
+s8_loc_developingtown_roster_replacejim	Cassandra acceded. She asked Jim to remain in Adelante to keep their numbers modest.	g
+s8_loc_developingtown_roster_goback	Cassandra shook her head, saying it was not the right time.	x
+s8_loc_developingtown_roster_leave	Cassandra declined. She decided it was time to leave the cantina.	x
+s8_loc_developingtown_cantina_wrecks	The trapper was bragging about a map he had that purported to tell the way to the wreck of an old Spanish treasure ship. Hardin was dismissive, but Cassandra was interested.	
+s8_loc_developingtown_cantina_wrecks_opt1	Cassandra decided she would divine what the man's future held.	g+
+s8_loc_developingtown_cantina_wrecks_opt1_result1	Her initial probe suggested nothing. Cassandra worried she might be losing her lucky streak.	
+s8_loc_developingtown_cantina_wrecks_keepitup	She went on.	g+
+s8_loc_developingtown_cantina_wrecks_leave	She left his table and ordered a tall beer to clear her head.	x
+s8_loc_developingtown_cantina_wrecks_opt1_result2	Cassandra witnessed nothing except the man's violent death. It distressed her, but she obtained no useful information.	
+s8_loc_developingtown_cantina_wrecks_opt1_result3	After great effort, she divined that the man’s downfall was related to the large amount of gold he would find on an old shipwreck. She recognized a landmark in her vision. It narrowed the wreck's possible location to three possibilities. After this, she nearly collapsed from exhaustion.	
+s8_loc_developingtown_cantina_headlines_none	It seemed Cassandra had managed to keep a low profile so far. She found no mention of her adventures.	
+s8_loc_developingtown_cantina_headlines_small	Cassandra's brushes with the law had been minor it seemed. She found only a small note about one of the events she had been involved in.	
+s8_loc_developingtown_cantina_headlines_medium	The papers had begun to take notice of Cassandra's exploits. Worse still, local police forces and militias had some of her identifying details. If she wasn't careful, her talents could backfire.	
+s8_loc_developingtown_cantina_headlines_huge	The papers were full of stories about Cassandra's violent actions. The ruling powers of the territory knew her name, but what they thought they knew of her past was all fake. The paper was vague about Cassandra's physical description, but she resolved to take greater care when interacting with other people.	
+s8_loc_developingtown_cantina_headlines_won	There was a major article on Cassandra's victory in Lafórtuna's poker tournament.	
+s8_loc_developingtown_cantina_headlines_lost	There was a major article on Lafórtuna's poker tournament that listed the players who advanced to the finals, including her.	
+s8_loc_developingtown_cantina_sleep	Cassandra and her companions enjoyed a good night's sleep in a tidy room.	
+s8_loc_developingtown_cantina_return	Cassandra returned to the cantina.	x
+s8_loc_developingtown_cantina_leave	Cassandra went out to the town.	x
+s8_loc_developingtown_cantina_jim_nohire	Vaughn looked crestfallen. Before turning to leave, he told her if she changed her mind he'd be staying a few more days in Adelante. After that he'd be leaving forever.	
+s8_loc_developingtown_cantina_jim_return	Jim Vaughn tipped his hat and asked whether Cassandra had reconsidered traveling with him.	
+s8_loc_developingtown_cantina_jim_return_accept	Cassandra said she had and welcomed him to her team.	g
+s8_loc_developingtown_cantina_jim_return_dumppaco	Wishing to keep their numbers low, Cassandra told Paco to stay behind, replacing him with Jim.	g
+s8_loc_developingtown_cantina_jim_return_dumpfelicia	Cassandra accepted his offer, asking Felicia to stay behind to keep their numbers low and remain inconspicuous.	g
+s8_loc_developingtown_cantina_jim_return_refuse	Cassandra thanked him for the proposal, but said she had decided to stick with her existing team.	g
+s8_loc_developingtown_store	The general store in Adelante offered a modest, but adequate selection of goods.	
+s8_loc_developingtown_store_opt1	Cassandra browsed the wares.	b
+s8_loc_developingtown_store_opt2	Cassandra discreetly let it be known that she had a set of ancient Calacas for sale.	g
+s8_loc_developingtown_store_sellcalacas	The proprietor, a Mr. Eduardo Oxaby, looked right and left from his door before changing his sign "closed." Then he invited Cassandra into the back room, a grave expression on his face.<br><br>He told her that possession of these figurines was a vile crime and that as a lawful citizen he was obliged to take them from her and give them to their rightful owners.	
+s8_loc_developingtown_store_sellcalacas_opt1	Cassandra replied that now that Mr. Oxaby was the vile owner of these sacred figurines, he would have to pay for her silence. She valued that at $[%0].	g
+s8_loc_developingtown_store_sellcalacas_opt2	Cassandra had decided not to sell the Calacas. She concocted a lie to get away, then left, never to return again.	x
+s8_loc_developingtown_store_sellcalacas_opt1_result	Mr. Oxaby sighed. He lamented that today's world seemed ruled by corruption. Still, he noted, without such vice, these priceless artifacts from antiquity would be rotting in a damp cave, perhaps even lost for eternity.<br><br>He asked whether Cassandra required anything else.	
+s8_loc_developingtown_store_leave	Cassandra left the store.	x
+s8_loc_developingtown_brothel	When Cassandra told Hardin they should find the bordello, his eyes lit with an unsavory glow. She admonished him sternly, insisting this was strictly a business outing.<br><br>Her head was already starting to ache; it was only a matter of time, before it dulled with pain for hours or even days.<br><br>They arrived at the brothel in time to witness a violent quarrel: an older, flamboyantly dressed woman beating an Indian prostitute with a billyclub. Cassandra guessed the older woman was the bordello's madam.	
+s8_loc_developingtown_brothel_opt1	Hardin stared at the scene, frozen for a moment, agog.	i
+s8_loc_developingtown_brothel_opt1_result	An instant later Hardin rushed at the madam, landing a full-force punch in the middle of her face with a crunch. As she sprawled on the floor, dazed and screaming, Hardin rushed to the native woman, helping her up.<br><br>She hugged him as she cried, covering him with kisses in a way that suggested they had more than a passing familiarity with one another.	
+s8_loc_developingtown_brothel_opt1_result_opt1	Hardin motioned to Cassandra to get out of sight. She ducked into the nearest backstreet.	i
+s8_loc_developingtown_brothel_felicia	Hardin and his Native acquaintance joined Cassandra as soon as they could. She wasted no time reprimanding Hardin for attracting the attention of the entire town and doubtless the authorities.<br>Hardin explained that he had no choice. It was his duty to defend Felicia. Apparently, they had known each other for some time. Cassandra guessed Hardin was one of her regulars.<br><br>Felicia apologized for the trouble, but said that without her job she had nowhere to go. Hardin suggested she could join Cassandra's posse, as she was a good shot and good company.	
+s8_loc_developingtown_brothel_felicia_opt1	Cassandra knew accepting this woman into the team would attract unwanted attention, but decided to do it anyway.	g
+s8_loc_developingtown_brothel_felicia_opt2	Cassandra was worried that Felicia would attract undue attention. She refused to travel with her.	g
+s8_loc_developingtown_brothel_felicia_opt1_result	Felicia thanked Cassandra profusely and promised to be a valuable asset to the team.	
+s8_loc_developingtown_brothel_felicia_opt2_result	Felicia thanked her saviors just the same and said she should be getting on her way.	
+s8_loc_developingtown_brothel_felicia_exit	The group returned to the more savory parts of the town.	x
+s8_loc_developingtown_pinch2	As Cassandra and her companions walked away from the cantina, she could tell something was wrong. It was quiet, the usually bustling streets all but deserted, the usual hum of everyday activity replaced with dead silence. Something was up.<br><br>Before Cassandra could formulate a plan, a bunch of rurales emerged in their path, led by none other than Joaquim Perez.<br><br>Hardin pointed toward the nearby stables. Cassandra looked in the other direction, at the church.	
+s8_loc_developingtown_pinch2_opt1	She followed Hardin into the stables.	g
+s8_loc_developingtown_pinch2_opt2	She gave Hardin a strong tug in the direction of the church.	g
+s8_loc_developingtown_pinch2_opt1_result	Cassandra and her team made it to the stables, where Hardin commandeered a carriage and a pair of horses.<br><br>The commotion woke the stable boy who had been napping in the corner. When he raised a clamor, Hardin put him down with a single shot between the eyes. Cassandra cursed under her breath. A dead teenage body would certainly attract the attention of the authorities.	
+s8_loc_developingtown_pinch2_opt1_result_opt1	Cassandra's mind reeled as the carriage high-tailed it out of Adelante. How far would Perez go to find her?	x
+s8_loc_developingtown_pinch2_opt2_result	Hardin argued that the church was the worst place to hide. It had only one exit and was easy to surround. But Cassandra knew that as an ardent Christian, Perez would never dare fight in a place of worship.<br><br>Her assumptions proved right. Perez forbade his men from entering the church, yelling from the street that they would meet again when she least expected.	
+s8_loc_developingtown_pinch2_opt2_result_opt1	Cassandra felt she had pushed her luck too far with this gambit.<br>They left town with all haste.	x
+s8_loc_crashedcoach_earlytitle	Premonition	
+s8_loc_crashedcoach_earlytitle_desc	Upon leaving Adelante, Cassandra had an unnerving, but all too familiar feeling. A powerful premonition that made her head ache for days on end.	
+s8_loc_crashedcoach_earlytitle_opt1	Cassandra gritted her teeth and allowed the premonition to take her.	g+
+s8_loc_crashedcoach_earlytitle_opt2	Cassandra took a large swig of Hardin's rotgut liquor to keep the vision at bay.	g
+s8_loc_crashedcoach_earlytitle_opt1_result	Her skull blazed with pain as the vision took shape. Cassandra saw a stagecoach loaded with expensive luggage against a gorgeous mountain backdrop. Suddenly, a vulture's cry split the air. She looked up and saw several haggard birds circling overhead. As her premonition faded, she looked around for landmarks. She was positive she could pinpoint the location of the vultures' feast.	
+s8_loc_crashedcoach_earlytitle_opt2_result	The drink burned her throat and she nearly retched, but seconds later the ominous feeling was gone. She sighed with relief.	
+s8_loc_crashedcoach	Crashed Stagecoach	
+s8_loc_crashedcoach_desc1	Following Cassandra's directions, the party soon arrived at the location of a stagecoach crash. The putrid smell of decay indicated the accident took place several days ago. A flock of vultures feasted on the well-heeled passengers. One of the birds looked up from its feast, fixing the company with a rheumy glare before slowly flapping skyward.<br><br>Hardin began rummaging through the pockets of the dead, whistling casually, as though he were picking daisies. Cassandra, finding nothing of interest, was begging to regret coming, when she spied a thin leather suitcase sitting in the dust.	
+s8_loc_crashedcoach_desc2	Opening the case, she discovered a document written in dark blue ink on thick paper, adorned with official stamps and seals. It appeared to be the deed to a silver mine somewhere in the Rockies. Cassandra pocketed it while her companions rummaged through the rest of the spoils.	
+s8_loc_crashedcoach_exit	They left.	x-
+s8_loc_hospital	Hospital	
+s8_loc_hospital_desc	The only hospital in the region was housed in a Catholic mission and staffed by nuns. The Mother Superior greeted Cassandra and her companions warily, but told them she could tend to their wounds as required.	
+s8_loc_hospital_desc_return	Cassandra and her ragged crew returned to the hospital. The Mother Superior greeted them with a nod.	
+s8_loc_hospital_opt1	The party needed to heal one of their number.	i
+s8_loc_hospital_opt2	Cassandra asked whether the nuns had any medical supplies they could purchase.	i
+s8_loc_hospital_opt3	Cassandra wanted to have another look at the laxative potion.	i
+s8_loc_hospital_opt6	They left the hospital.	x
+s8_loc_hospital_healing	The Mother Superior apologized for the high prices for her medical services. She explained that obtaining medical supplies in this area was quite difficult as everything had to be imported from the US.	
+s8_loc_hospital_healing_cassandra	Cassandra required medical attention ([%0])	p50cash
+s8_loc_hospital_healing_rogue	Hardin was injured ([%0])	p50cash
+s8_loc_hospital_healing_paco	Paco wasn't feeling well ([%0])	p50cash
+s8_loc_hospital_healing_felicia	Felicia could use some care ([%0])	p50cash
+s8_loc_hospital_healing_jim	Jim Vaughn needed some healing ([%0])	p50cash
+s8_loc_hospital_healing_done_random1	The healing went well.	
+s8_loc_hospital_healing_done_random2	All injuries had been taken care of.	
+s8_loc_hospital_healing_done_random3	The patient was feeling much better.	
+s8_loc_hospital_healing_done_random4	All of their ailments were addressed.	
+s8_loc_hospital_healing_done_cassandra	Cassandra still required medical attention ([%0])	p50cash
+s8_loc_hospital_healing_done_rogue	Hardin was still injured ([%0])	p50cash
+s8_loc_hospital_healing_done_paco	Paco was still unwell ([%0])	p50cash
+s8_loc_hospital_healing_done_felicia	Felicia could still use medical attention ([%0])	p50cash
+s8_loc_hospital_healing_done_jim	Jim Vaughn still needed some healing ([%0])	p50cash
+s8_loc_hospital_healmore_temp	More party members required healing.	i
+s8_loc_hospital_laxative	The Mother Superior explained that the only medication she had in large supply was a powerful laxative potion. She handed over a tall, dark green bottle with a label that promised its contents induced "INSTANT INTESTINAL ALACRITY!!"	
+s8_loc_hospital_laxative2	The Mother Superior frowned as she presented the bottle. The label promised that its contents induced "INSTANT INTESTINAL ALACRITY!!"	
+s8_loc_hospital_laxative_opt1	Cassandra decided it could come in handy and purchased one bottle ([%0])	p20cash
+s8_loc_hospital_laxative_opt2	Cassandra decided she didn't need it after all.<br>But her party still requried healing.	i
+s8_loc_hospital_laxative_opt6	Cassandra thanked her and left the hospital.	x
+s8_loc_hospital_more	With a weary sigh, the Mother Superior asked whether they required anything else.	
+s8_loc_lakehideout	Isla Choloakoyan	
+s8_loc_lakehideout_desc	Hardin led Cassandra and the rest of the party into the thick swamps that lined the mouth of the river. Amidst the lush greenery was an artificial island. Hardin said it had been built long ago by a now-extinct native civilization, and that he had taken it over as a spot to stockpile supplies. Hardin moored their boat to the island and began filling the hold with useful items. He explained they could proceed to the Protector's island whenever Cassandra was ready.	
+s8_loc_lakehideout_desc_return	Cassandra and her team rowed back to Isla Choloakoyan. The smuggler cutter awaited Cassandra's orders.	
+s8_loc_lakehideout_opt1	Cassandra told Hardin she was ready.	t
+s8_loc_lakehideout_opt2	Cassandra still had some things to take care of.	x
+s8_loc_lakehideout_opt1_result	It the thin light of early dawn, a sudden explosion rocked the island. As pieces of the smuggler cutter rained down around them, Cassandra made out the silhouettes of several boats headed towards the island. The Inquisitor had found her.	
+s8_loc_lakehideout_opt1_result_opt1	The team grabbed their weapons and prepared for the fight.	t
+s8_loc_armyfort	Mexican Army Fort	
+s8_loc_armyfort_desc	The team arrived at a Mexican army stronghold in the Western Territory. The terrain was challenging and progress had been slow. They were grateful for the respite. Hardin offered to buddy up to the grunts. He said he'd see what they knew and maybe win some of their money.	
+s8_loc_armyfort_opt1	Cassandra nodded and said she would see what she could learn from the commander.	g
+s8_loc_armyfort_opt2	Cassandra said she'd prefer it if Hardin came with her.	g
+s8_loc_armyfort_solo	Commander Alberto J. Barbolla Barrueco greeted Cassandra gallantly and offered refreshments. He excused his humble surroundings, explaining that order was maintained in this region by the private militias of wealthy industrialists such as Ricardo Lafórtuna. Consequently, the Mexican military had only a minor presence in this area.	
+s8_loc_armyfort_solo_opt1	Cassandra asked how it was possible for someone like Lafórtuna to blockade his competitor's assets.	i
+s8_loc_armyfort_solo_opt2	Cassandra said she was looking for Joaquim Perez and asked whether the Commander knew anything about him.	i
+s8_loc_armyfort_solo_opt3	Rumbling noises and jeering voices from outside caught the commander's attention.	g
+s8_loc_armyfort_solo_opt1_result	The commander told Cassandra that Mr. Lafórtuna was a benefactor of the United Mexican States. The government trusted him and gave him many liberties. He explained that the blockade Cassandra had referred to was only a training exercise for his merchant fleet, put on in response to the rise of piracy in the Caribbean.	
+s8_loc_armyfort_solo_opt2_result	The commander was familiar with Perez. He said Perez had stopped in briefly to resupply and had made vague mention of a "failed arrest attempt." He was still in pursuit of the person who had eluded him, but had declined to give a description.<br><br>So far, the commander had no more news from him.	
+s8_loc_armyfort_solo_opt3_result	He got up from his desk and looked through the window, Cassandra joining him. Hardin was quarrelling with a soldier. The commander excused himself, leaving Cassandra in the room alone.	
+s8_loc_armyfort_solo_opt3_result_opt1	Cassandra searched the files, looking for information about her own exploits.	g
+s8_loc_armyfort_solo_opt3_result_opt2	Cassandra searched the commander's desk.	g
+s8_loc_armyfort_solo_files	It took Cassandra a good while to skim the files; there was nothing major yet, but she did find a few reports.	
+s8_loc_armyfort_solo_files_opt1	She stole the incriminating files.	g
+s8_loc_armyfort_solo_desk	Cassandra found a small key and used it to unlock the Commander's drawers. Along with a collection of letters, a standard issue gun and some ammunition, she found one truly interesting item, an army requisition form. It would almost certainly prove useful in the future. No one would miss it here.	
+s8_loc_armyfort_solo_desk_opt1	She stole the requisition form.	g
+s8_loc_armyfort_solo_end	Cassandra could hear the commander's steps in the corridor. She hastily closed everything and leapt back into her seat. The Commander walked in, visibly upset. He explained Hardin had got into trouble playing dice, but that he would overlook it as his soldiers shouldn't have engaged in gambling in the first place. Still, he said, Cassandra and her crew should leave immediately and not return.	
+s8_loc_armyfort_solo_end_opt1	Cassandra courtseyed gracefully and left.	x
+s8_loc_armyfort_solo_exit	Hardin's bruised countenance told the tale of his gambling adventure with the soldiers. As they left, he told her he had won some money, but more importantly, he'd acquired a pair of loaded dice. In Cassandra's skilled hands, any dice game would now be less of a gamble.	
+s8_loc_armyfort_duo	Commander Alberto J. Barbolla Barrueco greeted the pair with gusto. Hardin took care to carry himself with unusual dignity, and the Commander addressed most of his words to him. Barrueco excused the humble surroundings, explaining that the Mexican military only had a minor presence in the region. This area was effectively governed by industrialists, such as Mr. Ricardo Lafórtuna.	
+s8_loc_armyfort_duo_opt1	Hardin asked how it was possible for the military to condone private sea blockades.	i
+s8_loc_armyfort_duo_opt2	Hardin said they were looking for Joaquim Perez. He asked whether the commander knew anything about him.	i
+s8_loc_armyfort_duo_opt1_result	The military man hesitated, but went on to explain that Mr. Lafórtuna was a benefactor of the United Mexican States. Thus, the government afforded him many liberties. He said that what Hardin was referring to was not actually a blockade, but rather a training exercise for his merchant fleet, staged due to the rise of piracy in the Caribbean.	
+s8_loc_armyfort_duo_opt2_result	The commander visibly winced, but admitted he was familiar with the name. He said Perez reported in after what he described as a "failed arrest attempt" and then told him he would continue his pursuit.<br><br>So far, the commander had no more news from him.	
+s8_loc_armyfort_duo_distraction	Cassandra stood up, and to the Commander's surprise, began pacing, broodingly, around the room.	g
+s8_loc_armyfort_duo_distraction_result	The Commander asked Cassandra what was wrong. She replied by angrily asking whether he always divulged critical information to random travelers.<br><br>As the Commander struggled to collect his thoughts, Cassandra produced a piece of paper and shook it in the Commander's face, yelling that High Command had been right. They had sent her, their top secret operative, to perform a stealth inspection of this backwater garrison, but she'd seen enough already. She demanded Barrueco bring her his reports for the past 6 months.<br><br>The commander ran out hastily.	
+s8_loc_armyfort_duo_distraction_result_opt1	Cassandra rushed to search the commander's desk, while Hardin rifled through his files.	g
+s8_loc_armyfort_duo_distraction_loot1	Cassandra picked the locks on the drawers and found a military requisition form. Hardin said he'd found some evidence of Cassandra's exploits, but that they had yet to connect any names to them. He took the incriminating files with him.	
+s8_loc_armyfort_duo_distraction_loot2	When the commander returned, Hardin and Cassandra were waiting just as he had left them. He said the reports would take time to gather and tried to explain himself.  Cassandra said she would be back to check up on him and that he would be punished for his carelessness. With a final glare, she and Hardin made their exit.	
+s8_loc_gamblingden	Gambling Den	
+s8_loc_gamblingden_desc	Hardin led Cassandra to the notorious outlaw gambling den. The venue was set up in a cliffside cave, in an ancient Indian pueblo. There were no lights on the outside, but Hardin pointed out two guards concealed against the crumbled walls, next to a narrow entrance with a thick black curtain. Inside, they found a wide repertoire of gambling tables, an assorment of colorful, dangerous-looking characters, and an ample supply of liquor.	
+s8_loc_gamblingden_desc_return	Cassandra and her companions returned to the gambling den. The place was bustling as ever.	
+s8_loc_gamblingden_desc_inreturn	Cassandra and her companions stood in the lobby of the clandestine casino.	
+s8_loc_gamblingden_opt1	Cassandra sat within hearing range of a drunken prospector, and eavesdropped on his story.	i+
+s8_loc_gamblingden_opt2	Cassandra joined a dice game.	i
+s8_loc_gamblingden_opt3	Cassandra joined a high stakes poker table.	i
+s8_loc_gamblingden_opt1_result	The prospector claimed to own a map to the wreck of an old Spanish treasure ship. Hardin dismissed it as bragging, but Cassandra was interested.	
+s8_loc_gamblingden_gossip_opt1	Cassandra probed what the man's future held.	g+
+s8_loc_gamblingden_gossip_opt1_result1	Her initial attempts were inconclusive. Cassandra felt she was already losing her lucky streak.	
+s8_loc_gamblingden_gossip_opt1_keepitup	She went on.	g+
+s8_loc_gamblingden_gossip_opt1_leave	She left.	x
+s8_loc_gamblingden_gossip_opt1_result2	Cassandra saw the man suffer s violent death. It thoroughly distressed her, but she obtained no useful information.	
+s8_loc_gamblingden_gossip_opt1_result3	As the searing pain pierced her brain, she saw the prospector, lying dead in an old shipwreck, surrounded by piles of gold. As the vision faded, she managed to recognize a landmark that pinpointed three possible locations for the wreck. She came back to reality and nearly collapsed from exhaustion.	
+s8_loc_gamblingden_gossip_opt1_result3_opt1	Cassandra left the premises to try to recover her strength.	x
+s8_loc_gamblingden_opt2_result	Standing by the game table, Cassandra felt weight of the dice in her hand.	
+s8_loc_gamblingden_opt2_result_opt1	She rolled the dice.	g
+s8_loc_gamblingden_opt2_result_opt2	She decided to replace the dice with her gimmicked pair.	g
+s8_loc_gamblingden_opt2_result_opt3	She rolled the loaded dice without trickery.	g
+s8_loc_gamblingden_opt2_result_opt4	She tapped the loaded dice and rolled for the win.	g
+s8_loc_gamblingden_opt2_result_opt5	She rattled the dice and exerted her mind to predict the outcome.	g+
+s8_loc_gamblingden_opt2_result_opt6	She returned to the lobby.	x
+s8_loc_gamblingden_loadeddice_first	Cassandra gave a discreet nod to Hardin who loudly attracted the attention of a player sitting at another table. While all of the players' heads were turned, with a swift movement, Cassandra replaced the dice in her hand with the loaded pair. She easily won the round, earning [%0] pesos.	
+s8_loc_gamblingden_loadeddice_win1	Aided by her deception, Cassandra won [%0] pesos.	
+s8_loc_gamblingden_loadeddice_win2	Underhandedly, Cassandra won [%0] pesos.	
+s8_loc_gamblingden_loadeddice_suspicion	Cassandra won again, earning [%0] pesos. But she noticed one of the other players seemed upset. He wouldn't stop staring at her and grumbling.	
+s8_loc_gamblingden_loadeddice_detection	Cassandra won again, but as she reached out to pull in her chips, another player grabbed her hand, accusing Cassandra of cheating. Though she denied it and the casino had no proof, the guards escorted her from the premises and told her never to return again.	
+s8_loc_gamblingden_dice_win_1	Cassandra played well and luck was on her side. She won [%0] pesos.	
+s8_loc_gamblingden_dice_win_2	The female embodiment of favorable randomness was on Cassandra's side that night. She won [%0] pesos.	
+s8_loc_gamblingden_dice_win_3	With a steady hand and a lucky streak, Cassandra won [%0] pesos.	
+s8_loc_gamblingden_dice_lose_1	Despite Cassandra's best efforts, luck was against her that night. She lost [%0] pesos	
+s8_loc_gamblingden_dice_lose_2	Cassandra tried her best, but ultimately lost [%0] pesos.	
+s8_loc_gamblingden_dice_lose_3	The unruly dice caused Cassandra to lose [%0] pesos.	
+s8_loc_gamblingden_dice_precog_win_first	Cassandra found it hard to sense the outcome of dice rolls. There were so many changes for each movement of the hand. But she got something out of it. She won [%0] pesos.	
+s8_loc_gamblingden_dice_precog_win	Amplified with a dash of precognition, Cassandra won [%0] pesos.	
+s8_loc_gamblingden_dice_precog_lose	Despite Cassandra's efforts to predict the outcome of the dice, Cassandra lost [%0] pesos.	
+s8_loc_gamblingden_poker_hub	A group of four men were sat at a table, playing poker with a professional-like silence. Cassandra had a feeling they were practising ahead of the Lafórtuna soirée. Cassandra put on a heavy accent and introduced herself as Lidiya Morozov. The four men were: Noyan Tokgozoglu, a weapons manufacturer, Dr. Fabian Fay MD., Silvestre Alemán, a sawmill owner, and Pedro Ramius, an oil broker. Cassandra asked to join. The men said she was welcome if she had something to gamble.	
+s8_loc_gamblingden_poker_hub_opt1	Cassandra offered a substantial sum in cash to weaken their resolve ([%0])	p2000cash
+s8_loc_gamblingden_poker_hub_opt2	Cassandra offered a deed to a silver mine in the American Rockies.	p
+s8_loc_gamblingden_poker_hub_opt4	Cassandra joked about the pricelessness of her distinguished company, but promised to return with something of material value.	x
+s8_loc_gamblingden_poker_accepted	Cassandra's contribution was accepted with contented murmurs. They dealt her in.	
+s8_loc_gamblingden_poker_accepted_opt1	Cassandra struck up coquettish conversations while "accidentally" showing off her cards. Meanwhile, she keenly observed her adversaries.	g
+s8_loc_gamblingden_poker_accepted_opt2	Cassandra played to the best of her ability.	g
+s8_loc_gamblingden_poker_accepted_opt3	Cassandra decided to win at all costs, even if she had to resort to precognition.	g+
+s8_loc_gamblingden_poker_accepted_opt1_result	Cassandra lost what she had bet, but noted several tells for each of the four players. This knowledge could well come in handy during the big game.	
+s8_loc_gamblingden_poker_accepted_opt2_win	Cassandra managed to outsmart and outplay her adversaries. She won [%0] pesos.	
+s8_loc_gamblingden_poker_accepted_opt2_lose	The other players' skills were substantial. Despite her best efforts, Cassandra lost everything she had bet.	
+s8_loc_gamblingden_poker_accepted_opt3_result	Predicting the game's outcome put significant strain on Cassandra's mind, but she left richer by [%0] pesos.	
+s8_loc_gamblingden_poker_done	She returned to the lobby.	x
+s8_loc_shipwreck1	Moldy Shipwreck	
+s8_loc_shipwreck1_desc	The ancient wreck of a Spanish galleon sat in a small cove and looked harmless enough. The name on the bow read "Amaya Calvo". The air smelled of dried seaweed and mold.	
+s8_loc_shipwreck1_opt1	Cassandra motioned to her companions to follow her inside.	i
+s8_loc_shipwreck1_opt2	Wary of the wreck, Cassandra decided to approach it another time.	x
+s8_loc_shipwreck1_opt1_result1	Descending into the cargo hold, the team found crates filled with valuables and expensive materials. Much of the treasure had decayed with time. However, a good portion of the silver and gold objects could be salvaged with a significant amount of work. Cassandra decided they needed the money.	
+s8_loc_shipwreck1_opt1_result2	As the salvage continued, Hardin became wary. He told Cassandra that the longer they stayed there, the better chance someone would arrive, perhaps to lay in wait and attack them once they had retrieved all of the treasure.<br><br>He suggested retreating with what they had now, rather than hope they could get away with everything.	
+s8_loc_shipwreck1_o1r2_opt1	Cassandra dismissed Hardin's doubts, insisting they retrieve the treasure in its entirety.	g
+s8_loc_shipwreck1_o1r2_opt2	Cassandra agreed with Hardin and ordered the retreat.	g
+s8_loc_shipwreck1_o1r2_opt1_result_a	The attack came at dawn. Cassandra and her companions fought valiantly, but the bandits still managed to injure some of the party.	
+s8_loc_shipwreck1_o1r2_opt1_result_b	was hit in the arm. The wound bled prodigiously. Worse still, the shots could be heard for miles. Cassandra cursed at the thought that the authorities might become alarmed. Despite the injury, however, the team recovered all the loot on the ship. It totaled several thousand pesos at least.	
+s8_loc_shipwreck1_o1r2_opt2_result	Cassandra and her companions abandoned the scene, leaving the rest of the loot for others to plunder. What they recovered was only worth a couple thousand pesos, but it was a couple thousand pesos closer to their goal.	
+s8_loc_shipwreck2	Lonesome Shipwreck	
+s8_loc_shipwreck2_desc	On its side in the shallows, the shipwreck looked like a beached whale. When Cassandra's team headed inside they found it filled with the dead bodies of its crew and passengers, the air was heavy with the stench of the dead. Cassandra knew the dangers decomposing bodies presented.	
+s8_loc_shipwreck2_opt1	But she decided to search the cargo holds anyway.	g
+s8_loc_shipwreck2_opt2	But she chose to search the belongings of the victims anyway.	g
+s8_loc_shipwreck2_opt3	Therefore, she opted to give it a wide berth.	x
+s8_loc_shipwreck2_opt1_result	The cargo holds were filled with dark, scintillating rocks. They must have had some value if they were being hauled as cargo, but neither Cassandra, nor her companions recognized the variety of stone. Suddenly Cassandra felt sick and fainted.	
+s8_loc_shipwreck2_opt1_result_jim	The cargo holds were filled with dark, scintillating rocks. Felicia became agitated, saying it was pitchblende, the nausea-inducing, vitality-draining the natives called "curserock". She ran out, shouting for the others to do the same. Hardin shouted after Felicia that she was a superstitious coward. She shouted back that Hardin was an overbold fool.	
+s8_loc_shipwreck2_opt1_result_jim_opt1	Cassandra silenced them both. She opted to leave the ship.	g
+s8_loc_shipwreck2_opt1_result_jim_opt2	Cassandra ignored them, as she looked for actual valuables.	g
+s8_loc_shipwreck2_opt2_result	Searching the dead was slow and taxing. Cassandra managed to find the captain's personal luggage. Along with some ancient photographs, Cassandra found a broken watch engraved with the name Franco Morales. It might be worth a hundred pesos to a collector. She had resolved to look for more, but suddenly felt faint. After a brief moment of confusion, she fell to the ground, unconscious.	
+s8_loc_shipwreck2_fainted	Cassandra awoke several hours later, nauseated and weak. Unable to travel, the company was forced to camp on the beach that day.	
+s8_loc_shipwreck3	Ancient Shipwreck	
+s8_loc_shipwreck3_desc	On the sharp rocks of the bay sat the decomposing wreck of a caravel. Almost entirely disintegrated, they could barely make out the name on the side of the ship, Luis LXXXVII. Cassandra doubted it would yield much.	
+s8_loc_shipwreck3_opt1	She decided to search the wreck anyway.	i
+s8_loc_shipwreck3_opt2	Cassandra determined it would be a waste of time and ordered the team to move on.	x
+s8_loc_shipwreck3_opt1_result	As he descended into the wreck, Hardin stepped on a sea urchin, and had to be helped, limping onto the shore.<br><br>A closer inspection of the wreckage yielded an ivory comb and some golden teeth, worth a hundred pesos or so. Hardin suggested there might be more valuables at the bottom of the bay, but that obtaining them would mean contending with more dangerous sea fauna.	
+s8_loc_shipwreck3_o1r1_opt1	Cassandra was in no diving mood. She looked for other opportunities.	g
+s8_loc_shipwreck3_o1r1_opt2	Cassandra asked Paco to dive and look for more treasure.	g
+s8_loc_shipwreck3_o1r1_opt3	Cassandra asked Felicia to dive and look for more valuables.	g
+s8_loc_shipwreck3_o1r1_opt4	Cassandra asked Jim to dive and look for more treasure.	g
+s8_loc_shipwreck3_dive_positive	Cassandra's companion disappeared beneath the sparkling water. After a number of reconnaisance dives, the swimmer submerged for close to a minute before erupting to the surface holding a small, ornate chest. Inside, Cassandra found a collection of ivory pieces. They would be worth at least a thousand pesos to a collector.	
+s8_loc_shipwreck3_dive_negative	Cassandra's companion disappeared beneath the sparkling water. After a number of attempts, the swimmer finally gave up, wincing in pain as they emerged from the water. The sea urchins had been numerous, and they were badly stung.	
+s8_loc_shipwreck3_dive_opt1	It was time to move on.	x
+s8_loc_pilgrimage	Pilgrimage	
+s8_loc_pilgrimage_desc	Cassandra and her companions came across a group of people camping out in the wild. They had numerous tents set up, along with carts and horses. There were wooden crosses and ornate incense holders everywhere they looked.<br><br>A man wearing priest's attire greeted them on behalf of his "flock" and said his name was Kay Elspas. He explained that he was leading these people on pilgrimage, but that they were currently enjoying a much-needed rest.	
+s8_loc_pilgrimage_opt1	Cassandra remarked that the beaten paths around the camp suggested they'd been camping there for some time.	n
+s8_loc_pilgrimage_opt1_result	Elspas winced and admitted in low voice that Cassandra was right. They weren't resting at all, actually, they were lost. His map had turned out to be inaccurate.<br><br>He couldn't bring himself to dash the hopes of so many pilgrims by telling them they had to go back. Thus far he had been able to convince everyone that they were still on the Calaca Shrine trail, while he secretly tried to figure out where it was. Now he was losing hope of ever finding it.	
+s8_loc_pilgrimage_opt1_result_opt1	Cassandra never heard of the Calaca Shrine.	i
+s8_loc_pilgrimage_opt1_result_opt2	Cassandra said she might know where it was located. She mentioned that her memory might improve if Elspas "unburdened himself" by giving her some of his material possessions.	i
+s8_loc_pilgrimage_opt1_result_opt3	Cassandra said she had recently visited the shrine, but it had collapsed.	i
+s8_loc_pilgrimage_neverbeen	Kay Elspas explained that the Calaca Shrine was a pre-Columbian ritual site said to contain carved figurines of human skulls adorned with Christian symbols: crosses, three-cornered symbols and fish. According to Elspas, the existence of these symbols confirmed that Christianity was the world's sole true religion.<br><br>Unfortunately, however, the map he'd bought from a merchant in Adelante had proved false. Now he would need to admit his failure, and destroy the faith and resolve of his flock.	
+s8_loc_pilgrimage_neverbeen_opt1	Unless a true map were found, Cassandra finished for him.	
+s8_loc_pilgrimage_neverbeen_opt1_result	Elspas nodded fervently. He promised to share his supplies with Cassandra if she found a map.<br><br>He had heard that the Garcia-Pimentel family library might contain clues to the shrine's location.	
+s8_loc_pilgrimage_neverbeen_opt1_result_exit	Cassandra promised to take a look if time permitted.	x-
+s8_loc_pilgrimage_rubble	Kay Elspas was visibly shaken. He told of long days spent looking for the shrine and the sadness of his pilgrims. None of them would be able to admire the wondrous glory of the ancient calacas, proof of Christianity's supremacy over the religions of the world.	
+s8_loc_pilgrimage_rubble_opt1	Cassandra saw through his deception and chided him for wanting to steal the figures.	n
+s8_loc_pilgrimage_rubble_opt1_result	To Cassandra's surprise, Elspas instantly dropped his act and dried his tears. In hushed tones he admitted he'd scammed his followers into funding his expedition here. He said the calacas were worth a fortune, and he had a buyer lined up. If the calacas were lost, however, all of his effort would be for nothing.	
+s8_loc_pilgrimage_rubble_opt1_result_opt1	Cassandra mentioned the figures might have been spared from the catastrophe. She wanted to hear what he had to offer.	g
+s8_loc_pilgrimage_rubble_opt1_result_opt2	Cassandra told him to deal with it and left.	g
+s8_loc_pilgrimage_trade	He cast her a look of undertanding and smiled slightly. Then he resumed his act full force, falling to the ground praying, and loudly thanking the lord.<br><br>He offered $[%0] for the complete set of calacas.	
+s8_loc_pilgrimage_trade_opt1	Cassandra said she would only sell if he raised the price 25%.<br>Given her reputation, he knew she would not waver.	g
+s8_loc_pilgrimage_trade_opt2	Cassandra accepted.	g
+s8_loc_pilgrimage_trade_opt3	Cassandra declined, silently deciding to sell them herself.	g
+s8_loc_pilgrimage_trade_done	Kay Elspas handed her the agreed-upon sum and took the calacas in his own hands, a genuine tear of gratitude in his eye.<br><br>He walked away, announcing the miracle to his followers.	
+s8_loc_pilgrimage_trade_done_exit	Cassandra left in the opposite direction.	x
+s8_loc_pilgrimage_trade_opt3_result	He wished her a spurious good luck and walked away, furious.	
+s8_loc_pilgrimage_return	The pilgrims were just where Cassandra had originally found them. Kay Elspas greeted her amiably.<br><br>He asked whether she managed to find a map to the shrine.	
+s8_loc_pilgrimage_return_opt1	She asked bluntly how much he was willing to pay for the information.	g
+s8_loc_pilgrimage_return_opt2	She said yes, but that the shrine had collapsed.	g
+s8_loc_pilgrimage_return_opt3	She shook her head and admitted she was still looking for it.	x
+s8_loc_pilgrimage_sellmap	Elspas called Cassandra a false prophet and a fraud, and accused her of trying to profit from artifacts of the one true god. By her expression, however, it was clear she had seen right through him.<br><br>He instantly calmed down, admitting in a low voice that he had scammed the pilgrims into funding his expedition here. He offered $[%0] for the location of the shrine.	
+s8_loc_pilgrimage_sellmap_opt1	Cassandra said she would only sell if he raised the price by 25%.<br>Given her reputation, he knew she would not waver.	g
+s8_loc_pilgrimage_sellmap_opt2	Cassandra accepted.	g
+s8_loc_pilgrimage_sellmap_opt3	Cassandra refused to sell the information for such a small price.	g
+s8_loc_pilgrimage_sellmap_done	Kay Elspas handed her the agreed-upon sum and took the map in his hands, a genuine tear of gratitude in his eye.<br><br>He walked away, announcing the miracle to his followers.	
+s8_loc_pilgrimage_sellmap_done_exit	Cassandra left in the opposite direction.	x
+s8_loc_pilgrimage_sellmap_opt3_result	Elspas shrugged, boasting he would find it some other way. Then he turned and walked away, clearly furious.	
+s8_loc_calacashrine	Calaca Shrine	
+s8_loc_calacashrine_desc	Cassandra and her companions arrived at the fabled Calaca Shrine. Built into a cliffside, the pieces of masonry hanging from its entrance indicated that the river had been eating away at the land for some time and was now biting into actual construction. Getting inside would be quite dangerous.	
+s8_loc_calacashrine_desc2	Cassandra and her companions returned to Calaca Shrine. The river had worn away a portion of the cliff, which looked as though it had affected the integrity of the construction. Getting inside would be quite dangerous.	
+s8_loc_calacashrine_opt1	Cassandra was determined to do so.	g
+s8_loc_calacashrine_opt2	Cassandra decided to approach it at a different time.	x
+s8_loc_calacashrine_inside	After struggling with the ropes, the party entered the mouth of the moldy tunnel and complete darkness. The floor shuddered with constant vibration and there was a clattering sound that sounded like thousands of crustaceans skittering across stone.<br><br>They then emerged into a bigger room where two narrow rays of light sifted in from the surface. The shrine looked ancient and distinguished, apart from the skulls decorated with Christian symbols that lay everywhere. These must be the calacas.	
+s8_loc_calacashrine_inside_opt1	Cassandra asked Hardin to pack the calacas.	g
+s8_loc_calacashrine_inside_opt2	Cassandra couldn't bring herself to destroy this historical curiosity. She decided to go back.	g
+s8_loc_calacashrine_inside_opt1_result	Hardin squeezed past Cassandra into the small room and started carefully packing the calacas into his sack. All the while, Cassandra looked around for signs of danger.<br><br>She was almost disappointed not to find any poisoned darts, giant rolling stones, or rabid beasts to punish their crime.<br><br>Shortly, Hardin reported he was done.	
+s8_loc_calacashrine_inside_opt1_next	Cassandra shrugged at the anticlimactic shrine and decided to leave.	n
+s8_loc_calacashrine_inside_opt2_result	Hardin protested, but Cassandra was adamant - the shrine must be left intact. He rolled his eyes at the fickleness of women, but turned back.<br><br>As they retraced their steps up the narrow corridor, they felt as though they had done something good and righteous, which cheered the whole party.	
+s8_loc_calacashrine_inside_opt2_next	They emerged back to the surface of the cliff.	n
+s8_loc_calacashrine_rumble	They were barely out of the tunnel when the earth beneath their feet trembled and a large section of the cliff fell into the water.<br><br>The entrance to the Calaca Shrine had collapsed. It would take serious excavation to get back inside.	
+s8_loc_calacashrine_rumble_exit	They thanked heaven for sparing their lives and left.	x
+s8_loc_calacashrine_desc_locked	Cassandra and her companions arrived at the location of the fabled Calaca Shrine. The place had been ravaged by a recent landslide. In place of the entrance was a mess of crumbled rock and masonry. It would not be possible to visit this unique and mysterious place.	
+s8_loc_calacashrine_desc_locked_exit	They tried not to show their disappointment as they left the area.	x
+s8_loc_matronresidence	Garcia-Pimentel Residence	
+s8_loc_matronresidence_desc	Matron Pulqueria Adelmira Garcia-Pimentel was one of the last of the venerable Garcia-Pimentel clan, which had flourished in the New World for hundreds of years. Now, the family was a shadow of its former glory, but the Garcia-Pimentel library remained the greatest and most complete collection of works detailing the New World and the rise of Mexico.<br><br>Mme Garcia-Pimentel jovially greeted "Lidiya," as Cassandra had introduced herself, and guessed she was here to see the fabled library.	
+s8_loc_matronresidence_opt1	Cassandra confirmed that she was, though she had little idea of the contents or usefulness of the library.	i
+s8_loc_matronresidence_opt2	Cassandra nodded, hoping quietly she could find the location of the Calaca Shrine amid the books.	i
+s8_loc_matronresidence_opt3	Cassandra said she was only passing through, but would make sure to return and visit the library.	x
+s8_loc_matronresidence_desc_return	Cassandra and her companions returned to the Garcia-Pimentel residence. The hostess of the house, lady Pulqueria Adelmira Garcia-Pimentel greeted them again, inviting them to rest and visit the fabled library.	
+s8_loc_matronresidence_return_opt1	Cassandra had little idea about the contents or the usefulness of the library, but she still wished to see it.	i
+s8_loc_matronresidence_return_opt2	Cassandra accepted the invitation, hoping quietly she could find the location of the Calaca Shrine there.	i
+s8_loc_matronresidence_return_opt3	Cassandra thanked her but insisted the party had to be on its way again.	x
+s8_loc_matronresidence_desc2	The matron nodded and led them inside.<br><br>There they were joined by a scrawny figure in clothes that had once been very fine, but were clearly showing their wear. Matron Garcia-Pimentel said this was her son, Porfirio, and that he would be their guide to the library. Cassandra curtseyed, taking a closer look at the young man.<br><br>On top of a hunched, scrawny body, sat a large head, with a bulging lump in the middle of his forehead. His skin was mottled and unnatural-looking. He inclined his head slightly at all times.	
+s8_loc_matronresidence_desc2_opt1	She suppressed a shiver.	i
+s8_loc_matronresidence_desc3_precog	As they walked into the library, Porfirio told Cassandra about various landmarks in the area, spouting an endless stream of historical facts, interrupted only by his slight stutter.<br><br>Although at first he seemed consumed by his study of history, Cassandra soon realized his trembling hands, darting eyes and blush meant something completely different. He was attempting to court her. In another context it might have been endearing, but she was unsettled by the cold lump she felt in her stomach.<br><br>Porfirio broke her reflections asking whether there was anything in particular she would like to hear about.	
+s8_loc_matronresidence_desc3_cooldown	As they walked into the library, Porfirio told Cassandra about various landmarks in the area, spouting an endless stream of historical facts, interrupted only by his slight stutter.<br><br>Although at first he seemed consumed by his study of history, Cassandra soon realized his trembling hands, darting eyes and blush meant something completely different. He was attempting to court her. Though she didn't entertain the idea for a moment, she found it endearing.<br><br>Porfirio interrupted her reflections by asking if there was there was anything in particular she would like to hear about.	
+s8_loc_matronresidence_desc3_opt1	She pretended to be interested in whatever he deemed worthy of attention.	i
+s8_loc_matronresidence_desc3_opt2	She asked specifically about the famous, yet mysterious Calaca Shrine.	i
+s8_loc_matronresidence_desc4	According to Porfirio, the Calaca Shrine was the crown jewel of the area's historical attractions. Believed to have been built long before the first Europeans set foot in the New World, it contained several painted skull sculptures called calacas that inexplicably bore ancient Christian symbols: fish, crosses, and various three-cornered ornaments.<br><br>The shrine was considered by many as the ultimate confirmation that Christianity was the world's one true religion. There had been a minor military struggle over who controlled it, with the winner doing their utmost to camouflage its position. When they met their downfall, however, its precise location was lost to history.<br><br>At this last sentence, Porfirio's deformed lips twisted in what Cassandra interpreted as an approximation of a smile.	
+s8_loc_matronresidence_desc4_opt1	She guessed aloud that he knew so much, she was sure he must know the location.	i
+s8_loc_matronresidence_desc5	The young man looked away shyly. When Cassandra pressed, he nodded his deformed head in confirmation. He said he would tell Cassandra the location, in exchange for a kiss.	
+s8_loc_matronresidence_desc5_opt1	Fighting her revulsion, she brought herself to lay a gentle kiss, where a person's cheek would be.	g
+s8_loc_matronresidence_desc5_opt2	Caressing his cheek and fluttering her eyelashes, she promised she would do it, so long as he told her first.	g
+s8_loc_matronresidence_desc5_opt3	Offended, she refused in the bluntest of terms.	g
+s8_loc_matronresidence_kiss	At the last moment, Porfirio turned his head and Cassandra found herself kissing his lips. Then he grasped her head to his and forced his tongue into her mouth.	
+s8_loc_matronresidence_kiss_opt1	Cassandra jerked her head back, breaking the kiss, then backhanded him to the ground.	g
+s8_loc_matronresidence_kiss_opt2	Cassandra weathered the ordeal. She even managed to let out some falsely contented murmurs to cloud his judgement.	g
+s8_loc_matronresidence_kiss_opt1_result	He looked at her grimly and said he would tell her nothing, if she treated him like that. Cassandra protested, but he was unmoved.<br><br>He motioned back to the hall, where the rest of her companions were waiting.	
+s8_loc_matronresidence_kiss_opt1_result_opt1	She was happy to get out of this place as quickly as she could.	x
+s8_loc_matronresidence_kiss_opt2_result	He looked at her, enamored and awestruck, as Cassandra battled the urge to hold onto her breakfast.<br><br>He produced a detailed map of the area from a desk drawer and pointed out the exact location of the shrine. He then copied the major landmarks onto a piece of paper and gave it to her. It was more than she could have hoped for.	
+s8_loc_matronresidence_kiss_opt2_result_opt1	Cassandra took the paper and turned to leave.	x
+s8_loc_matronresidence_youfirst	Clearly not used to being treated this way, Porfirio blinked a couple times, then went to his desk and produced a detailed map of the area from one of its drawers. He then and pointed out the exact location of the shrine to Cassandra and copied the major landmarks on a piece of paper, which he gave to her.<br><br>Then he closed his eyes and presented his lips for a kiss.	
+s8_loc_matronresidence_youfirst_opt1	She pulled out a derringer and pointed it in his face instead.	g
+s8_loc_matronresidence_youfirst_opt2	She sighed and kissed him gently.	g
+s8_loc_matronresidence_youfirst_opt1_result	The young man's gaze turned from stupefaction to anger and spite.<br><br>He said Cassandra had worn out her welcome and motioned to the hall, where her companions were waiting.	
+s8_loc_matronresidence_youfirst_opt1_result_opt1	They walked out, Cassandra keeping her gun trained on his back.	x
+s8_loc_matronresidence_youfirst_opt2_result	As soon as her lips touched his, he grabbed her head and forced his tongue into her mouth.	
+s8_loc_matronresidence_youfirst_opt2_result_opt1	She jerked her head back breaking the kiss, and backhanded him to the floor.	g
+s8_loc_matronresidence_youfirst_o2r1_opt1_result	He smiled a sheepish, contented smile at her, then motioned back to the hall, where the rest of her companions were waiting.	
+s8_loc_matronresidence_youfirst_o2r1_opt1_result_opt1	She was happy to get out of this place as quickly as she could.	x
+s8_loc_matronresidence_noway	He looked at her grimly and said he would tell her nothing, if she treated him like that. Although Cassandra protested, he was unmoved.<br><br>He motioned back toward the hall, where her companions were waiting.	
+s8_loc_matronresidence_noway_opt1	She was happy to get out of this place as quickly as she could.	x
+s8_loc_matronresidence_hdrunk	Cassandra's heart sunk when she reached the foyer to find Hardin, unconscious on a chaise-longue. Lady Garcia-Pimentel explained that she had left the group alone with a bottle of brandy and returned to find him like this.<br><br>She suggested that Cassandra and her friends stay the night and leave the next morning.	
+s8_loc_matronresidence_hdrunk_opt1	Cassandra felt a dawning premonition and allowed herself to focus on it.	i+
+s8_loc_matronresidence_hdrunk_opt2	Unable to move on with Hardin incapacitated, she was forced to accept.	g
+s8_loc_matronresidence_hdrunk_opt3	Cassandra warily accepted Lady Garcia-Pimentel's invitation.	g
+s8_loc_matronresidence_hdrunk_opt4	Cassandra insisted they needed to leave immediately. Nobody stopped them.	x
+s8_loc_matronresidence_hdrunk_opt1_result	Cassandra felt a great danger emanating from the Garcia-Pimentel house that extended far beyond kissing disfigured men.<br><br>In a blink, she had a vision of herself in a bridal gown that was slick with blood.<br><br>She blinked and the feeling passed, leaving a painful throbbing in its place.	
+s8_loc_matronresidence_hdrunk_opt1_result_opt1	Unable to travel with Hardin incapacitated, she was forced to accept.	g
+s8_loc_matronresidence_hdrunk_opt1_result_opt2	Despite her vision, Cassandra accepted the invitation.	g
+s8_loc_matronresidence_hostage	Cassandra's plan to leave the Garcia-Pimentel residence hastily was confounded when she reached the foyer. Hardin lay unconscious on a chaise-longue, apparently inebriated on a great deal of brandy.<br><br>Lady Garcia-Pimentel opened her mouth to say something, but closed it again when her eyes met her son's.	
+s8_loc_matronresidence_hostage_opt1	Cassandra told her companions to carry Hardin out. They left immediately.	g
+s8_loc_matronresidence_hostage_opt2	Cassandra desperately tried to lift Hardin, but he was too heavy.	g
+s8_loc_matronresidence_hostage_opt1_result_paco	Porfirio shouted that they were forbidden to leave and pulled a gun from a drawer. But before he could train it on Cassandra, he and his mother were shot dead. Cassandra looked up to see smoke winding upward from Paco's guns.	
+s8_loc_matronresidence_hostage_opt1_result_jim	Porfirio shouted that they were forbidden to leave and pulled a gun from a drawer. But before he could train it on Cassandra, he and his mother were shot dead. Cassandra looked up to see smoke winding upward from Jim Vaughn's guns.	
+s8_loc_matronresidence_hostage_opt1_result_felicia	Porfirio shouted that they were forbidden to leave and pulled a gun from a drawer. But before he could train it on Cassandra, he and his mother were shot dead. Cassandra looked up to see smoke winding upward from Felicia's guns.	
+s8_loc_matronresidence_hostage_opt1_escape	They quickly left the scene of the carnage, knowing the authorities would hear about this and investigate.	x
+s8_loc_matronresidence_hostage_opt2_result	Porfirio shouted that they were forbidden to leave and pulled a gun out of a drawer. Before he could even aim it though, Cassandra felled him with a bullet to his brain. Before his mother could protest, she too was silenced forever by Cassandra's derringer.<br><br>Cassandra knew the authorities would hear about this, but felt she had no choice.	
+s8_loc_matronresidence_hostage_opt2_escape	With superhuman strain, Cassandra dragged Hardin to the horses and left the bloody scene.	x
+s8_loc_matronresidence_sleepover_a	They were shown to their rooms and Cassandra was given a basin of hot water.<br><br>Her premonition had put her on edge. She did not want to stay in this place any longer than she absolutely had to.<br><br>She put out the lights, but did not undress. She lay on the bed and pretended to fall asleep and waited until the house was silent.<br><br>From down the hall she heard a strange snuffling moan. When it recurred she deduced that it was Porfirio's snores. She waited a little longer to be sure, then decided it was time to make her move.	
+s8_loc_matronresidence_sleepover_a_opt1	She woke the now-sober Hardin and told him to remain silent. The two quietly made their escape.	x
+s8_loc_matronresidence_sleepover_b	They were shown to their rooms and Cassandra was given a basin of hot water. She put out the lights, changed into her night attire and went to bed with a heavy heart.<br><br>Soon she recognized the signs of an impending premonition.	
+s8_loc_matronresidence_sleepover_b_opt1	She gave into it.	g+
+s8_loc_matronresidence_sleepover_b_opt2	She tried thinking about everything but the future and soon fell asleep with exhaustion.	g-
+s8_loc_matronresidence_sleepover_c	They were shown to their rooms, and Cassandra was given a basin of hot water. She put out the lights, changed into her night attire and went to bed with a heavy heart.<br><br>She wished she wasn't dependent on these strange people, but felt her choices were limited.	
+s8_loc_matronresidence_sleepover_c_opt1	Exhausted, she soon fell asleep.	g-
+s8_loc_matronresidence_sleepover_b_opt1_result	On the brink of reality and dreaming, Cassandra saw a glimpse of herself in a bridal gown, covered in blood from her neck down.<br><br>She immediately sat up in bed, fully awake, her heart pounding.<br><br>She had to get out of there immediately.	
+s8_loc_matronresidence_sleepover_b_opt1_result_opt1	She changed back into her travelling attire and went to wake up the now-sober Hardin. The two quietly made their escape.	x
+s8_loc_matronresidence_wedding1	Cassandra dreamed that a great feast had been prepared in her honor. There were lavish decorations and guests in fine clothing and expensive perfume. To her horror, as she slowly awoke, she realized that there was an actual commotion going on in her room.<br><br>It was now decorated top to bottom with fresh-cut flowers. Her hosts, Lady Garcia-Pimentel and Porfirio, were in the midst of setting up a dressing table, makeup and perfume piled against the mirror.<br><br>Lady Garcia-Pimentel smiled, telling Cassandra how happy she was that her son had finally found a wife.	
+s8_loc_matronresidence_wedding1_opt1	Cassandra's eyes darted to a white gown hung from the window. She said she would rather die than go through with this sham of a wedding.	n
+s8_loc_matronresidence_wedding2	Cassandra was puzzled by the fine, red mist that suddenly appeared on the fresh linen on her bed. As time inched slowly forward, she heard the loud reports of gunshots and gazed placidly at Lady Garcia-Pimentel, wondering where she could have misplaced her head, being as it was no longer atop her shoulders. And who had taught Porfirio to fly? He sailed through the room with giant holes in his chest and face.<br><br>As Hardin entered the room holding a smoking gun, she realized this was no dream. He extended his hand courteously towards her and she accepted it, pretending not to notice the lustful glint in his eye as he appraised the form under her nightgown.	
+s8_loc_matronresidence_wedding2_opt1	She thanked him with a kiss on the cheek and told him to gather the rest.<br>She would be ready to leave in a minute.	x
+s8_loc_receptionhall	Reception Hall	
+s8_loc_receptionhall_2	Poker Tournament	
+s8_loc_receptionhall_desc	Cassandra and her companions arrived at the building where the poker soirée was to be held. The imposing building was made entirely out of cast iron and glass, a feat unparallelled in Mexico. They had some time to kill before the game started.	
+s8_loc_receptionhall_opt1	Cassandra wandered the floor and sized up the other players while she waited for the tournament to begin.	g
+s8_loc_receptionhall_opt2	Cassandra still needed to attend to other business.	x
+s8_loc_receptionhall_opt3	Cassandra needed to replenish her buy-in fund to at least 25000 pesos.	x
+s8_loc_receptionhall_stage0	The room was filled with players from all corners of the land, tense with anticipation of the conflict to come. Finally, the cashier booth opened and players began to fork over the cash necessary to register. There was still time for Cassandra to mingle with the guests.	
+s8_loc_receptionhall_stage0_opt1	Cassandra asked her companions to wait and proceeded into the crowd.	i
+s8_loc_receptionhall_stage0_opt2	Cassandra submitted her entry fee for the game ([%0])<br>She knew there was no turning back now.	p25000cash-
+s8_loc_receptionhall_mingle_stage0	The soirée was first and foremost a social pageant, where the rich and the famous could show off their opulence to their peers and rub their success in the faces of their competitors. Though everyone appeared friendly on the surface, the competitive tension in the hall was palpable.	
+s8_loc_receptionhall_mingle_stage0_return	Cassandra returned to enjoy the evening, taking note of everything and everyone she saw.	
+s8_loc_receptionhall_mingle_opt1	Cassandra eavesdropped on an argument between one of the contestants and a lady.	g
+s8_loc_receptionhall_mingle_opt2	One of Cassandra's competitors left his drink unattended while he showed off his new pocket watch.	i
+s8_loc_receptionhall_mingle_opt3	Cassandra caught a glimpse of a middle-aged gentleman gazing at her with a cryptic smile.	i
+s8_loc_receptionhall_mingle_opt4	Cassandra submitted her entry fee ([%0])<br>and waited for the game to start.	p25000cash-
+s8_loc_receptionhall_mingle_opt1_result	A corpulent, sweaty man in a tall hat was arguing with his wife. She said he would again lose their fortune. All the while he assured her that he had been working on his gambling skills. This seemed to enrage her further and she launched into a tally of his various tells, while he denied all.	
+s8_loc_receptionhall_mingle_opt1_exit	It seemed Cassandra now knew what to look for.	x
+s8_loc_receptionhall_mingle_opt2_result	Cassandra thought back to the bottle of laxative she had obtained earlier. While crude and unfair, it would most certainly eliminate a player from the game before it had even started.	
+s8_loc_receptionhall_mingle_opt2_laxative	Cassandra swiftly poured the contents of the bottle into the man's drink.	g
+s8_loc_receptionhall_mingle_opt2_exit	Cassandra muttered something about style and shook her head.	x
+s8_loc_receptionhall_mingle_opt2_laxative_result	The gentleman returned to his drink, downing it in a single swallow. His smile lasted a while, but ultimately faded to a terrified grimace. He excused himself and rushed away at a sprint.	
+s8_loc_receptionhall_mingle_opt2_laxative_exit	Cassandra smiled imperceptibly.	x
+s8_loc_receptionhall_mingle_jim	She returned the man's gaze and smiled back. A few minutes later, the man approached her, presenting himself as Jim Vaughn. He commended her on her "competitive attitude", alluding to her underhanded activities in the reception room.<br>Seeing her frown, he laughed and assured her he would not expose her. He said Cassandra reminded him of his younger self. He was looking forward to testing his skill against hers in the upcoming game.	
+s8_loc_receptionhall_mingle_jim_opt1	Cassandra thanked him with an expression of genuine camraderie.	x
+s8_loc_receptionhall_game	Cassandra has just submitted her 25,000 pesos when a slender Hispanic man in an impeccable tailcoat and top hat approached her with a grin.<br><br>Cassandra guessed this must be Ricardo Lafórtuna. As if reading her mind, he bowed and placed a gallant kiss on her gloved hand. Lafórtuna presented himself and asked for Cassandra's name.	
+s8_loc_receptionhall_game_opt1	She treated him to her Russian alias: Lidiya Morozov.	i
+s8_loc_receptionhall_game_opt1_result	Lafórtuna bowed lower still and wished "Lidiya" good luck in the upcoming game.	
+s8_loc_receptionhall_game_opt1_result_opt1	She curtseyed before proceeding to the gaming table.	i
+s8_loc_receptionhall_game_20contestants	The first round of the game had 20 contestants divided among 4 tables.	
+s8_loc_receptionhall_game_metnobody	Cassandra did not recognize anyone from her table.<br>	
+s8_loc_receptionhall_game_argument	Cassandra saw she had been placed with the corpulent man whom she has seen arguing with his wife.<br>	
+s8_loc_receptionhall_game_laxative	Cassandra realized her table only featured 4 persons, including herself. One of the contestants must be missing.<br>	
+s8_loc_receptionhall_game_argumentjim	Among them was Jim Vaughn. Cassandra also saw she'd been seated with the corpulent man whom she has seen arguing with his wife.<br>	
+s8_loc_receptionhall_game_laxativejim	Among them was Jim Vaughn. Cassandra realized her table only featured 4 persons, herself included. It seemed one of the contestants was missing.<br>	
+s8_loc_receptionhall_game_meteveryone	Among them was Jim Vaughn. Cassandra realized her table only had four players. One must have been missing. She also noted that she'd been placed with the corpulent man whom she has seen arguing with his wife earlier.<br>	
+s8_loc_receptionhall_game_rulesexplained	She was seated and the rules were explained: the two winners from each table would meet for the second round, which would determine the grand champion of the gala and the owner of a rare piece of jewelery being staked by Mr. Lafórtuna himself.	
+s8_loc_receptionhall_game_part1_opt1	The chips were distributed, the cards were dealt and the game started.	i
+s8_loc_receptionhall_game_part1_none	Initially, the game was casual and easy. Cassandra singled out two candidates for elimination and deftly defeated them using her acute gambling skills.<br>She was left with two more adversaries. The sweaty, corpulent man's funds were crumbling. He was the next natural choice.	
+s8_loc_receptionhall_game_part1_none_opt1	She made an aggressive bluff, hoping to intimidate the man.	g
+s8_loc_receptionhall_game_part1_argument	Initially, the game was casual and easy. Cassandra singled out two candidates for elimination and deftly defeated them using her acute gambling skills.<br>She was left with two adversaries. She knew one of their tells, having overheard his argument with his wife.	
+s8_loc_receptionhall_game_part1_argument_opt1	She read the man like an open book. Soon, he had been dispatched to his hectoring spouse.	g
+s8_loc_receptionhall_game_part1_laxative	Initially, the game was casual and easy. Cassandra singled out two candidates for elimination and deftly defeated them using her acute gambling skills.<br>Only one man was left at her table. The other had never appeared at all. Cassandra had a feeling it was due to an acute intestinal crisis.	
+s8_loc_receptionhall_game_part1_laxative_opt1	She focused on her final adversary. In an attempt to intimidate him, she made an aggressive bluff.	g
+s8_loc_receptionhall_game_part1_argumentlax	Initially, the game was casual and easy. Cassandra singled out two candidates for elimination and deftly defeated them using her acute gambling skills.<br>Only one man was left at her table, and she knew his tells, having overheard his argument with his wife.	
+s8_loc_receptionhall_game_part1_argumentlax_opt1	She read him like an open book. Soon, he was dispatched as well.	g
+s8_loc_receptionhall_game_part1_bluff	Cassandra knew she was pushing her luck, but the man backed off, giving Cassandra a key chip advantage. She used it to pummel him, defeating him without much trouble.<br>She was left with her final adversary in the first round. Cassandra played, looking for an opening, when her adversary made an unexpected move, significantly raising the ante. He was either bluffing, or had a great hand.	
+s8_loc_receptionhall_game_part1_tells	Cassandra was left with her final adversary for this round of the game. She played, looking for an opening, until her adversary made an unexpected move, significantly raising the ante. He was either bluffing, or had a great hand.	
+s8_loc_receptionhall_game_part1_win	The croupier congratulated Cassandra, telling her he'd transfer her chips to the main table for the final round. There was an hour break between rounds one and two.	
+s8_loc_receptionhall_game_part1_finaladv_opt1	She couldn't afford to lose now. Cassandra gave in to the tingling premonition.	g+
+s8_loc_receptionhall_game_part1_finaladv_result	The flash of a splitting headache was sweetened by the realization Cassandra would win this hand. She raised her adversary with confidence and grabbed the whole pot.<br>The croupier congratulated Cassandra and told her he would transfer the chips to the main table for the final round. There was an hour break between rounds one and two.	
+s8_loc_receptionhall_stage1	The tournament was in full swing. The losing tears were dried by cheerful señoritas and gallons of alcohol, while the winners gloated, prayed and luxuriated in the lobby. Cassandra looked around, sizing up her competition.	
+s8_loc_receptionhall_stage1_return	Cassandra returned to enjoy the evening, all the while looking around carefully.	
+s8_loc_receptionhall_stage1_rest	Cassandra felt exhausted after the first round and decided she should use this hour to rest as much as she could.	g-
+s8_loc_receptionhall_stage1_morphine	One of the finalists discreetly retreated to his room.<br>Intrigued, Cassandra followed him.	i
+s8_loc_receptionhall_stage1_jimvaughn_first	A middle-aged gentleman was gazing at her with a cryptic smile. She decided to approach him.	i
+s8_loc_receptionhall_stage1_jimvaughn_return	The middle-aged gentleman she had seen earlier was smiling at her again. This time, she decided she would approach him.	i
+s8_loc_receptionhall_stage1_carryon	Once the break was over, Cassandra proceeded to the table.	g
+s8_loc_receptionhall_stage1_jimvaughn	She returned the man's gaze and smiled back. He approached and presented himself as Jim Vaughn. He congratulated her on the victory. Seeing the question forming in her eyes, he laughed and confirmed her suspicion. He too was in the finals. He allowed that Cassandra reminded him of his own younger self, and that he would be delighted to test his skill against hers in the upcoming game.	
+s8_loc_receptionhall_stage1_jimvaughn_opt1	Cassandra thanked him with an expression of genuine bonhomie.	x
+s8_loc_receptionhall_stage1_morphine_desc	As they left the party atmosphere of the crowd, the gambler accelerated his pace, crossing the steel and glass corridors of the palace with unusual haste. Then, when he entered the hotel wing, he disappeared. Cassandra looked helplessly around the halls of the hotel. There were two rows of identical doors, one on each wall of the hall.<br>One, she noticed, had light sifting from underneath it. As she approached it, she saw that it had been left slightly ajar. She peered through the opening, and to her surprise, saw the man injecting himself something from a syringe.	
+s8_loc_receptionhall_stage1_morphine_opt1	Morphine.	i
+s8_loc_receptionhall_stage1_morphine_desc2	The gambler lay on the bed, oblivious to everything around him. He was in the full rapture of a morphine shot.	
+s8_loc_receptionhall_stage1_morphine_opt2	Cassandra slipped inside his room and gave him another injection of an even stronger dose.	g
+s8_loc_receptionhall_stage1_morphine_opt3	She closed the door and returned to the main lobby.	g
+s8_loc_receptionhall_stage1_morphine_opt2_result	Cassandra hesitated, wondering if her lack of experience administering drugs might spell this man's demise. I've come this far, she thought, emptying the syringe.<br><br>He certainly didn't protest. Rather, he closed his eyes and fell asleep with a blissful smile on his lips.	
+s8_loc_receptionhall_stage1_morphine_opt2_result_x	Cassandra left a gentle kiss on his sweaty forehead and left the room.	x
+s8_loc_receptionhall_stage1_rest_desc	Cassandra retired to her room.<br>She asked Hardin to wake her up in 30 minutes, then closed the door and lay on the bed.<br>She took a few of deep breaths as turbulent images flashed before her closed eyes. Gradually she calmed herself and dreamed of happier times.<br>Hardin's knocking came too soon, but Cassandra was amazed at how much her nap had revitalized her.	
+s8_loc_receptionhall_stage1_rest_cont	She touched up her makeup, then returned to the lobby.	n
+s8_loc_receptionhall_pinch3	Turning onto another of the palace's corridors, Cassandra was confronted by a tall man standing in her way, his gun trained at her heart. Cassandra knew in an instant it was Joaquim Perez, her pursuer, her tormentor, her personal agent of fate.<br><br>Perez called her a traitorous witch and exclaimed that he dearly wished to see her hang by her worthless neck. Still, he said, stalling any longer would put his holy mission in jeopardy.	
+s8_loc_receptionhall_pinch3_opt1	Cassandra said she never asked for her "gift," if that was what Perez thought made her a witch.	n
+s8_loc_receptionhall_pinch3_opt1_result	We are all born who we are, she continued, and impugning any one for being true to his or her self did as much good as pissing in the wind.<br><br>Perez laughed. Cassandra's crimes clearly showed her soul was evil, corrupted by Satan. A virtuous woman would not go around cheating people, telling lies, stealing property and butchering the innocent.<br><br>The Inquisitor had seen through her deceptions and justly ordered she be punished for her wicked deeds.	
+s8_loc_receptionhall_pinch3_opt1_result_opt1	Cassandra replied that either the Inquisitor was as guilty as she was, or she was a saint.	n
+s8_loc_receptionhall_pinch3_o1r1_o1_result	Perez blinked with surprise. It seemed Cassandra's words had, unexpectedly, rung true. Then he convulsed involuntarily, shedding sparks and white cracks of lightning before falling to the ground, unconscious.<br><br>A trio of neatly clad gentlemen led by Andrew Hardin emerged from the shadows. One of them was holding some sort of electric device that was emitting a waft of smoke.<br><br>Hardin said they were the Protector's men. They had been hunting for Perez ever since the fiasco on Isla Choloakoyan. The men tipped their hats to Cassandra, then carried the limp body away.	
+s8_loc_receptionhall_pinch3_o1r1_o1r1_opt1	Hardin escorted Cassandra back to the game.	n
+s8_loc_receptionhall_game_part2_var1	The players sat down to the final round of Lafórtuna's poker tournament. Along with Cassandra there were three other men. She only recognized one of them. He'd been watching Cassandra earlier in the lobby.	
+s8_loc_receptionhall_game_part2_var2	The players sat down to the final round of Lafórtuna's poker tournament. Along with Cassandra there were three other men, Jim Vaughn and two others she did not recognize.	
+s8_loc_receptionhall_game_part2_var3	The players sat down to the final round of Lafórtuna's poker tournament. Along with Cassandra there were three other men still in the competition, Jim Vaughn, Dr Fabian Fay, whom she knew from the Pueblo Casino, and another she did not recognize.	
+s8_loc_receptionhall_game_part2_var4	The players sat down to the final round of Lafórtuna's poker tournament. Along with Cassandra, there were three other men in the competition. Cassandra recognized Dr Fabian Fay, from her visit to the Pueblo Casino. She believed she'd seen another gentleman eyeing her in the lobby earlier. The final player was a mystery.	
+s8_loc_receptionhall_game_part2_var5	The players sat down to the final round of Lafórtuna's poker tournament. Along with Cassandra, three other men were still in the competition. One of them defaulted when he failed to arrive at the designated hour. Cassandra only recognized one gentleman, he had been watching Cassandra in the lobby earlier.	
+s8_loc_receptionhall_game_part2_var6	The players sat down to the final round of Lafórtuna's poker tournament. Along with Cassandra, three other men were still in the competition. One defaulted when he failed to arrive at the designated hour. Cassandra recognized Jim Vaughn from their conversation earlier in the lobby. The last man remained a mystery.	
+s8_loc_receptionhall_game_part2_var7	The players sat down to the final round of Lafórtuna's poker tournament. Along with Cassandra, three other men were still in the competition. One defaulted when he failed to arrive at the designated hour. The others were Jim Vaughn and Dr Fabian Fay, both of whom she'd met in the Pueblo Casino.	
+s8_loc_receptionhall_game_part2_var8	The players sat down to the final round of Lafórtuna's poker tournament. Along with Cassandra, three other men were still in the competition. One of them defaulted when he failed to arrive at the designated hour. Cassandra recognized Dr Fabian Fay, from her visit to the Pueblo Casino. She believed she had seen the remaining gentleman looking at her earlier in the lobby.	
+s8_loc_receptionhall_game_part2_start	Names were exchanged. Cards were dealt. The game began.	g
+s8_loc_receptionhall_game_part2_nodrug	The stakes in the final game were higher, as was the skill of the participants. As the game progressed, Cassandra's chip supply diminished, until she was on the brink insolvency.<br><br>Only a decisive move would improve her situation.<br><br>She could try to take out Dr. Fabian Fay, whose stash was smallest. Mr. Rossetti seemed stable. Jim Vaughn's skill seemed unmatched. He was doing exceedingly well thus far.	
+s8_loc_receptionhall_game_part2_drugused	The stakes in the final game were much higher, and so was the skill of the participants. But as the game progressed, Cassandra's chip supply diminished, until she was on the brink of bankruptcy.<br><br>She needed a decisive move to improve her situation.<br><br>She could target Dr. Fabian Fay, whose stash was the smallest, or Jim Vaughn who had been doing extremely well thus far. At thsi point, his skill seemed unmatched.	
+s8_loc_receptionhall_game_part2_opt1	She decided to strike against Mr. Rossetti.	g
+s8_loc_receptionhall_game_part2_opt2a	She decided to attack Dr Fay.	g
+s8_loc_receptionhall_game_part2_opt2b	Knowing his tells from the pueblo casino, she decided to attack Dr Fay.	g
+s8_loc_receptionhall_game_part2_opt3	She decided to tackle Jim Vaughn first.	g
+s8_loc_receptionhall_game_part2_opt3b	She decided to tackle Jim Vaughn next.	g
+s8_loc_receptionhall_game_part2_rosetti	Rossetti seemed apathetic, at least while he was playing. It was impossible to tell whether this was due to his skill as a poker player, or was a standard facet of his demeanor. Cassandra found him hard to read.	
+s8_loc_receptionhall_game_part2_rosetti_opt1	She tried to calm herself and look for clues as to how to proceed.	g+
+s8_loc_receptionhall_game_part2_rosetti_opt2	She decided to bluff.	g
+s8_loc_receptionhall_game_part2_rosetti_opt3	She played carefully, knowing full well she risked losing everything.	g
+s8_loc_receptionhall_game_part2_rosetti_opt1_result	As Cassandra was about to make her bet, the hint of a premonition came over her. She called Rossetti's bet, revealing that he'd been bluffing. She eliminated the man, securing enough chips to keep her alive for the time being.	
+s8_loc_receptionhall_game_part2_rosetti_opt2_result1	Rossetti did not bet against Cassandra, allowing her to get away with a massive bluff. After this moment of weakness, she dispatched the man in two rounds, securing enough chips to make a respectable showing.	
+s8_loc_receptionhall_game_part2_rosetti_opt2_result2	Rossetti didn't fall for Cassandra's bluff. He bet, destroying her. Within a couple more rounds she was finished. As she folded her final cards, the men congratulated her on the good showing.<br>Rossetti himself promised Cassandra she could pick something from his collection of vintage and unusual firearms, so long as she paid his family a visit in their hacienda.	
+s8_loc_receptionhall_game_part2_rosetti_opt3_result	As is typical, the game went to the strategically reckless. Before long, Cassandra had too few chips to hope to compete. She gracefully folded her cards as the other players congratulated her on a good game.<br>Rossetti himself promised that Cassandra could pick a prize from his collection of vintage and unusual firearms, provided she paid his family a visit in their hacienda.	
+s8_loc_receptionhall_game_part2_won_2left	To win the tournament Cassandra still needed to defeat two more opponents.	
+s8_loc_receptionhall_game_part2_won_1left	To win the tournament Cassandra still had one more opponent to defeat.	
+s8_loc_receptionhall_game_part2_lost	Cassandra returned to the lobby, to observe the rest of the game.	
+s8_loc_receptionhall_game_part2_fay	Dr Fabian Fay never fully held his cards; he lifted them slightly off the table and peeked at them. Every so often he would pick his fine mustache, but Cassandra quickly determined this was not a tell. He kept his composure admirably throughout the evening. It was clear this was not his first game.	
+s8_loc_receptionhall_game_part2_fay_opt1	Cassandra would not be able to defeat him without her prophetic premonitions.	g+
+s8_loc_receptionhall_game_part2_fay_opt2	Cassandra did her best to outplay the doctor, but he was a worthy opponent.	g
+s8_loc_receptionhall_game_part2_fay_tells	Dr Fabian Fay never fully held his cards; he lifted them slightly off the table and peeked at them. Every so often he would pick his fine mustache, but Cassandra quickly determined this was not a tell. Although the doctor kept his composure throughout the evening, Cassandra knew what she was looking for. If he held his breath, he was bluffing.	
+s8_loc_receptionhall_game_part2_fay_opt2b	From their earlier game in the Pueblo Casino, she knew just when to call, and when to bluff.	g
+s8_loc_receptionhall_game_part2_fay_win	Before long the doctor had no more chips left on the table. He stood up, bowed, complimented each of the players and thanked them for this worthy entertainment. He then strode off into the lobby to relax.	
+s8_loc_receptionhall_game_part2_fay_lose	Cassandra had apparently lost her lucky streak. She could do nothing but fold. Her adversary complimented her play and thanked her for the worthy entertainment. He expressed a hope they could meet later in the lobby for a chat.	
+s8_loc_receptionhall_game_part2_vaughn	Jim Vaughn was a true master of the gambling table. Smart, funny and corteous, he was impenetrable to conventional scrutiny. If Cassandra wanted to defeat him, she would need to use her unique ability.	
+s8_loc_receptionhall_game_part2_vaughn_opt1	Cassandra took a deep breath and tried something new: to smile and see the future at the same time.	g+
+s8_loc_receptionhall_game_part2_vaughn_opt2	Cassandra was too tired to be able to count on clairvoyance.	n
+s8_loc_receptionhall_game_part2_vaughn_win	Letting her instincts guide her cards and her chips, Cassandra managed to outplay and defeat Jim Vaughn. He looked at her with admiration, then laughed out loud and thanked her for an amazing game.	
+s8_loc_receptionhall_game_part2_vaughn_lose	Jim Vaughn played like a true ace, seeing through Cassandra's bluffs, reading her reactions with near-divine brilliance, and never making a betting mistake. When he took her last chip, she expressed her admiration, and he replied with a string of compliments. He promised they would talk after the game.	
+s8_loc_receptionhall_game_part2_grand_prix	Cassandra vanquished her final opponent. She had won the tournament.<br><br>Ricardo Lafórtuna presented Cassandra with the grand prize, a beautiful piece of jewelery that was rumored to be a lucky charm. Cassandra accepted the prize with grace and humility.<br><br>Lafórtuna told Cassandra she was welcome to visit him in his residence any time.	
+s8_loc_receptionhall_game_part2_grand_prix_opt1	Cassandra promised she would come, then departed into the crowd.	n
+s8_loc_receptionhall_game_part2_grand_echec	The tournament had finished, and though Cassandra did not win, Ricardo Lafórtuna congratulated on an excellent game, and the two chatted for a while. Though Lafórtuna had other business to attend to, he invited Cassandra to visit him at his residence whenever she liked.	
+s8_loc_receptionhall_game_part2_grand_echec_opt1	Cassandra promised she would come, then departed into the crowd.	n
+s8_loc_receptionhall_game_part2_grand_echec2	The tournament had finished, and though Cassandra did not win, Ricardo Lafórtuna congratulated on an excellent game, and the two chatted for a while. Though Lafórtuna had other business to attend to, he invited Cassandra to visit him at his residence whenever she liked.	
+s8_loc_receptionhall_jimoffer	As Cassandra made to leave, Jim Vaughn approached her and offered to buy her a glass of port.	
+s8_loc_receptionhall_jimoffer_opt1	She accepted.	g
+s8_loc_receptionhall_jimoffer_opt2	She thanked him, but insisted she must be on her way.	g
+s8_loc_receptionhall_jimoffer_accept	Mr. Vaughn was visibly delighted. He ordered drinks as he told Cassandra about his younger years with a refreshing bluntness.<br>Vaughn had run away from home at a young age and wandered the west, finding no shortage of trouble and becoming an infamous gambler and duelist. One fateful day, however, he played against a powerful man, taking a fortune from him. The man was furious, telling Vaughn to leave the country and renounce gambling, on pain of death. That's when Vaughn headed to Mexico. He had been miserable ever since.<br>But when he'd heard about the tournament, he'd decided he didn't care anymore. It was worth the risk to play again. What else was life for?	
+s8_loc_receptionhall_jimoffer_accept_opt1	Cassandra asked what all that had to do with her.	n
+s8_loc_receptionhall_jimoffer_accept2	He looked at her wistfully. He told her that he saw his younger self in Cassandra. She had inspired him to take his guns off the hook and go looking for trouble again. If there was one person he would love to ride with, it was her.	
+s8_loc_receptionhall_jimoffer_accept2_hire	Cassandra accepted his offer.	g
+s8_loc_receptionhall_jimoffer_accept2_dumppaco	Wishing to keep the numbers low, Cassandra asked Paco to stay behind and accepted Jim as his replacement.	g
+s8_loc_receptionhall_jimoffer_accept2_dumpfelicia	Cassandra accepted Vaughn's offer. To keep their numbers low, she asked Felicia to stay behind.	g
+s8_loc_receptionhall_jimoffer_accept2_refuse	Cassandra thanked him for the proposal, but said she liked her team the way it was .	g
+s8_loc_receptionhall_jimoffer_refuse	Vaughn looked crestfallen, but said his offer stood, should Cassandra ever come back to the Adelante Cantina.	
+s8_loc_protectormansion	Lafórtuna Residence	
+s8_loc_protectormansion_desc	Cassandra strolled over to Mr. Lafórtuna's home. In contrast with the reception hall, the hacienda was quite modest.<br>Cassandra and her companions were greeted politely by Mr. Lafórtuna who offered refreshments and small presents as a token of his appreciation. He and Cassandra had an amicable chat, discussing politics, art and fashion, as well as Mr. Lafórtuna's various undertakings.	
+s8_loc_protectormansion_opt1	Cassandra was curious about his competition with the Protector.	i
+s8_loc_protectormansion_opt1_result	Lafórtuna's expression became cautious as he explained that his relationship with the Protector had deteriorated over the past few months. He had finally resolved to help the Mexican navy chase this undesirable man from their country.	
+s8_loc_protectormansion_opt1_result_opt1	Cassandra suggested she could help, if Lafórtuna were interested. He asked what she had in mind.	i
+s8_loc_protectormansion_assassin	Cassandra said she had a talent for eliminating inconvenient characters from the earth. Lying brazenly, she revealed that she was a successful contract assassin with many hits on her résumé. If Mr. Lafórtuna was taken aback by this news, he did not show it.<br><br>He merely smiled and responded that Cassandra's help wouldn't be required. He had a train loaded with mercenaries that was heading towards the coast at that very moment. They would seize the island within hours.	
+s8_loc_protectormansion_assassin_opt1	Cassandra nodded and wished him a swift victory.	x
+s8_loc_protectormansion_desc_return	Cassandra returned to Ricardo Lafórtuna, who was visibly upset. He told Cassandra that his mercenaries had been victims of a vicious railway sabotage and that he would like to reconsider her proposal.<br><br>As the words left his mouth, he stared for a moment at Cassandra, as if suddenly wondering if this woman could be behind the train incident. Then he seemingly shook it off. A woman could never perpetrate something as dastardly as this.	
+s8_loc_protectormansion_desc_return_opt1	Cassandra accepted.	g
+s8_loc_protectormansion_desc_return_harbor	Lafórtuna explained how to get to the harbor. From there, his boat would take her and her companions to the island. He promised a significant reward if she dealt with his competitor successfully, including [%0] pesos in advance, for Cassandra to replenish her equipment and supplies.	
+s8_loc_protectormansion_desc_return_harbor_exit	Cassandra thanked him for the opportunity and left.	x-
+s8_loc_protectormansion_desc_return_hiruth	Cassandra returned to Ricardo Lafórtuna. He was visibly upset. He accused Cassandra of destroying his train to stop his invasion plans.<br><br>As a large contingent of guards stormed the reception room, he cited the many murders and acts of violence she had committed in the Western Territory.	
+s8_loc_protectormansion_desc_return_ruth_opt1	Cassandra pulled out her gun and took Lafórtuna hostage, keeping him between the guards and herself.	g
+s8_loc_protectormansion_desc_return_ruth_harbor	As they were made their way out, Hardin ventured that if they kept Lafórtuna with them, they could board a transport in the harbor and circumnavigate the blockade. They would need to hurry, though; there would be no time to make preparations.	
+s8_loc_protectormansion_desc_return_ruth_harbor_exit	Cassandra accepted the plan and the team left with Lafórtuna in tow.	x-
+s8_loc_machoranch	Hacienda Rossetti	
+s8_loc_machoranch_desc	The Rossetti hacienda was a lush residence with beautiful garden surrounding it. The highlight of the hacienda was an amazing collection of firearms. Mr. Rossetti said he was willing to part with some of his specimens for the right price. Some extra cash would help him acquire even more interesting objects.	
+s8_loc_machoranch_desc_invitation	The Rossetti hacienda was a lush residence with beautiful garden surrounding it. The highlight of the hacienda was an extensive collection of firearms. Mr. Rossetti invited Cassandra to pick an item from the collection as an expression of gratitude for Cassandra's excellent company during the tournament.	
+s8_loc_machoranch_desc_return	Cassandra and her companions returned to the Rossetti Hacienda and were greeted amicably by its owner.	
+s8_loc_machoranch_desc_ruthless	Cassandra intended to visit the Rossetti hacienda, but she was greeted by a steward, who apologized fervishly, but said he could not let Cassandra in. Mr. Rossetti was away on business.<br><br>Cassandra could tell the man was lying and wondered if Rossetti's sudden lack of hospitality was related to the many victims she had left in her wake.	
+s8_loc_machoranch_desc_ruthless_opt1	At any rate, she wouldn't be doing business with the Rossettis any more.	x
+s8_loc_machoranch_buy	Cassandra was potentially interested in buying some items.	b
+s8_loc_machoranch_exit	Cassandra thanked the host for the tour but said she needed to go.	x
+s8_loc_machoranch_gift_01	Cassandra picked an innovative revolving shotgun.	g
+s8_loc_machoranch_gift_02	Cassandra picked a scoped rifle.	g
+s8_loc_machoranch_gift_03	Cassandra chose a large pistol with no less than 18 barrels.	g
+s8_loc_machoranch_gift_done	Mr. Rossetti congratulated Cassandra on her excellent choice. He asserted that if she ever required more vintage firearms, a section of his collection was available for purchase. She was welcome to come back any time.	
+s8_loc_machoranch_gift_done_opt1	She was interested in potentially buying some more items right now.	b
+s8_loc_machoranch_gift_done_opt2	She thanked him and took her leave.	x
+s8_loc_miningsite	Mining Site	
+s8_loc_miningsite_desc	The coal mine operated day and night. With the constant excavation, dynamite was in frequent use and ample supply. Hardin suggested he steal some. Cassandra felt she might be able to persuade the miners to give her some.	
+s8_loc_miningsite_opt1	Fearful she might not convince the miners, she asked Hardin to steal the dynamite.	g
+s8_loc_miningsite_opt2	Cassandra decided to try to convince the foreman to give her some dynamite.	g
+s8_loc_miningsite_opt1_result	Hardin snuck into the mine and found the explosives. As he was coming out, however, he was discovered and had to shoot a miner to make his escape. Cassandra had a feeling the authorities would hear about this.	
+s8_loc_miningsite_opt2_result	Cassandra approached the foreman and pretended to be an inspection officer sent by the mining company. She would need to inspect a sample of their dynamite. The foreman was suspicious and demanded proof.	
+s8_loc_miningsite_o2_result_opt1	Cassandra used all her charisma and luck to convince the foreman.	g
+s8_loc_miningsite_o2_result_opt2	Cassandra said she would return with the papers the foreman required. When she rejoined her crew, she told Hardin to steal the dynamite.	g
+s8_loc_miningsite_o2_result_opt3	Cassandra showed him her army requisition form.	g
+s8_loc_miningsite_o2r1_opt1_result	Apologizing for the formality, the foreman handed over the explosives.	
+s8_loc_miningsite_o2r1_opt3_result	The foreman pored over the document suspiciously. Finally, he nodded his head and handed over the specified amount of explosives. Cassandra was triumphant.	
+s8_loc_trainyard	Trainyard	
+s8_loc_trainyard_desc	Cassandra and her companions arrived at the ambush site.	
+s8_loc_trainyard_opt1	They planted the dynamite and waited for the train	t
+s8_loc_trainyard_opt2	Cassandra's team still had some things to take care of before they set up the train accident.	x
+s8_loc_trainyard_opt1_result	The charge would be just enough to derail the train without causing further damage. There was still some time left. Planting more dynamite would cause more damage, but might destroy any valuables carried on the train. Fortifying the area would give them an advantage, but would cut off some escape routes.	
+s8_loc_trainyard_o1_result_opt1	They planted more dynamite.	g
+s8_loc_trainyard_o1_result_opt2	They fortified the area.	g
+s8_loc_trainyard_o1_result_opt3	They waited for the train to come.	t
+s8_loc_trainyard_moredynamite	The party planted more dynamite. There was no way the mercenaries could get out unscathed.	
+s8_loc_trainyard_fortification	The trainyard had been fortified. It gave give the party better positions and more cover.	
+s8_loc_trainyard_wait	Suddenly, they heard to train's whistle from beyond the bend.	
+s8_loc_harbor	Lafórtuna's Commercial Port	
+s8_loc_harbor_desc	Cassandra and her companions arrived at Lafórtuna's commercial harbor. Lafórtuna's letter would guarantee them safe passage to the Protector's base of operations, Isla Crisálida.	
+s8_loc_harbor_desc_hostage	The team arrived at Lafórtuna's commercial harbor. The millionaire was still their hostage. They had kept a low profile and hadn't been spotted by the guards.	
+s8_loc_harbor_opt1	Cassandra presented the letter to the captain.	t
+s8_loc_harbor_opt2	Cassandra decided she had some business to attend to before she left the western territory forever.	x
+s8_loc_harbor_hostage_opt1	Cassandra and her team infiltrated the harbor, subdued the captain and demanded transport.	t
+s8_loc_harbor_hostage_opt2	Cassandra decided the time wasn't right to leave the western territory forever. She ordered her team to retreat.	x
+s8_loc_harbor_departure	The captain greeted Cassandra politely. He read her letter, then commandeered a small steam boat to take her and her crew to the Protector's island. They departed immediately.	
+s8_loc_harbor_departure_hostage	Cassandra and Hardin successfully subdued the guards and forced the captain to give them a small steam boat. Soon, they were cruising downriver towards the Protector's base of operations, Isla Crisálida.	
+s8_loc_fatetrader	Fate Trader	
+s8_loc_fatetrader_desc	The team found a lone drifter's encampment. After a short conversation, he revealed that he dealt in unique trinkets, collected from all over the land.	
+s8_loc_fatetrader_desc2	The team returned to the trader's encampment.	
+s8_loc_fatetrader_opt1	Cassandra was interested in his wares.	b
+s8_loc_sanitarium	Isla Crisálida	
+s8_loc_sanitarium_desc	During the sea voyage, Cassandra felt feeble and anxious, a feeling she attributed to the excitement of meeting the Protector. Finally she could be rid of her curse of clairvoyance. Still, she was uneasy. She chased away these thoughts and did her best to enjoy the trip.	
+s8_loc_sanitarium_desc2	As soon as they stepped off the boat, Cassandra realized she should have trusted her uneasy feeling.<br><br>They were immediately apprehended by thugs. When the Protector arrived, he appraised Cassandra like a caged animal.<br><br>Then he made a show of presenting a bag full of gold pieces to Hardin. Cassandra never seen him so smug before, and he immediately departed for his return voyage.<br><br>	
+s8_loc_sanitarium_desc2_comps	Then the Protector had Cassandra and her companions locked up in the brig, promising to deal with each of them individually.	
+s8_loc_sanitarium_desc2_nocomps	The Protector locked Cassandra up in the brig, promising to deal with her shortly.	
+s8_loc_sanitarium_desc2_fortuna_comps	Lafórtuna was taken away for what the Protector called "direct experimentation," while Cassandra and her companions were locked in the brig. The Protector promised to deal with them shortly.	
+s8_loc_sanitarium_desc2_fortuna_nocomps	Lafórtuna was taken away for what the Protector called "direct experimentation," while Cassandra was locked in the brig. The Protector promised to deal with her shortly.	
+s8_loc_sanitarium_continue_tac	Continue	t

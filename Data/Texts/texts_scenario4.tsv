@@ -1,0 +1,470 @@
+text_id	en	format
+	Titles and loading screens	
+scen_04	On Earth, as it is in Hell	
+scen_04_name	It was time to bring Florence back.<br>Which meant you needed a posse hard enough to invade Purgatory.	
+4_1_Gravediggers_name	The cult decided the time for attack was nigh.<br>Your Father readied his weapons.	
+4_2_Brothel_name	If you wanted to save Florence, you needed an iron-clad posse.<br>Going up against the Wizard was just the price of doing business.	
+4_3_LookoutHill_name	You were told Persons would be here.<br>No one bothered to specify whether he'd be alive.	
+4_4_Purgatory_name	The fate of the world would be resolved here.<br>It was the final trial. The end of the line.	
+	Custom UI text	
+s4_uitxt_warhero_spec	Tactical: Support<br>World map: Military authority	
+s4_uitxt_mohican_spec	Tactical: Sniper<br>World map: Wilderness survival	
+s4_uitxt_inquisitor_spec	Tactical: Close Quarters<br>World map: Religious authority	
+s4_uitxt_deviant_spec	Tactical: General superiority<br>World map: Fringe connections	
+s4_uitxt_hooker_spec	Tactical: Close Quarters<br>World map: Charm	
+s4_uitxt_bountyhunter_spec	Tactical: General superiority<br>World map: Brute force	
+s4_uitxt_pinkerton_spec	Tactical: Support<br>World map: Weirdness	
+s4_uitxt_butcher_spec	Tactical: Close Quarters<br>World map: Bad reputation	
+	Floating text	
+s4_locked_door	LOCKED	
+s4_unlocked_door	UNLOCKED	
+	Strategic event popups	
+s4_meteor_collected	^Meteor pieces collected: [%0]	
+s4_meteor_absorbed	Meteor absorbed.	
+	Objective text	
+s4_obj_wm_gotoarmycamp	Go to the Army Camp and recruit Jefferson Burns	
+s4_obj_wm_posse_burns	Go to the Massacre Site and recruit Jefferson Burns	
+s4_obj_wm_posse_mohican	Go to the Sacred Grounds and recruit the Avenger	
+s4_obj_wm_killindians	Find and kill any survivors at the Indian Sacred Grounds	
+s4_obj_wm_talktowizard	Ask the Wizard about Hardin and Persons	
+s4_obj_wm_collectmeteor	Collect meteor pieces in nearby locations	
+s4_obj_wm_continuemeteor	Continue searching for meteor pieces to absorb (Optional)	
+s4_obj_wm_posse_deviant	Locate Randy Hardin	
+s4_obj_wm_attackbrothel	Attack the brothel to extract Randy Hardin	
+s4_obj_wm_attackhill	Attack Lookout Hill to extract Henry Persons	
+s4_obj_wm_confrontwizard	Go to Wizard and find out where the Grim Boatman is	
+s4_obj_wm_attackpurgatory	Take the boat from the Grim Boatman to Purgatory	
+s4_obj_wm_evangelists	Visit the Evangelists' tombs and read their story in order	
+s4_obj_wm_evangelist_loot	Recover the Evangelist Gang's stash	
+s4_obj_tac1_killcultists	Kill all cultists	
+s4_obj_tac1_stopdemon	Destroy the blood vials to banish the demon	
+s4_obj_tac1_killdemon	Kill the last incarnation of the demon	
+s4_obj_tac2_getdeviant	Reach Hardin	
+s4_obj_tac2_choose	Choose Hardin or Lulu. Kill the other	
+s4_obj_tac2_releasehardin	Kill Hardin’s guard to release him	
+s4_obj_tac2_killemall	Eliminate the opposition	
+s4_obj_tac2_subdueguard	Subdue the guard to open the Madam’s room for you (Optional)	
+s4_obj_tac2_cracksafe	Crack the Madam’s safe to steal cash (Optional)	
+s4_obj_tac3_c_findpersons	Go to the top of the tower to find Persons	
+s4_obj_tac3_c_killeveryone	Destroy the convicts	
+s4_obj_tac3_c_getstash	Claim the opium stashes (Optional)	
+s4_obj_tac3_bh_getpersons	Go to the top of the tower to release Persons	
+s4_obj_tac3_bh_kill	Kill the remaining mercenaries	
+s4_obj_tac4_w_killundertaker	Kill the Undertaker and his companions	
+s4_obj_tac4_w_destroypurgatory	Destroy the Purgatory (Optional)	
+s4_obj_tac4_w_commitsuicide	Commit suicide to undo the Devil's plan (Optional)	
+s4_obj_tac4_u_killwarren	Kill Warren and his posse	
+	Exploration prompts	
+s4_loc_newarmycamp	Approaching the Army Camp	
+s4_loc_newarmycamp2	Army Camp	
+s4_loc_newarmycamp_desc	The camp was nearly deserted. Only a couple sentries remained. Burns was nowhere to be seen.<br><br>As an outlaw, approaching openly would guarantee a hostile response. You could take the men out one by one, but it would likely yield less information about where Burns was.	
+s4_loc_newarmycamp_opt1	You decided to kill them all and search the remains for clues.	g
+s4_loc_newarmycamp_opt2	You snuck into the camp to eavesdrop on the men's conversations.	g
+s4_loc_newarmycamp_opt1_result	You worked quickly and methodically, then made a pile of bodies and burned them.<br><br>The documents you found in the commander's chest gave the location of a nearby Indian village along with orders addressed to Burns, ordering him to "pacify" it.	
+s4_loc_newarmycamp_exit	You salvaged some supplies and headed toward the village.	x
+s4_loc_newarmycamp_opt2_result	Sneaking past the guards was simple. You saw a sergeant talking with one of his subordinates and managed to eavesdrop on their conversation. It seemed Burns was leading an attack on a nearby Indian village.	
+s4_loc_newarmycamp_opt2_result_opt1	Though vulnerable, you continued listening, hoping to gain more insights.	g
+s4_loc_newarmycamp_opt2_result_opt2	You stole some provisions and snuck back out of their camp.	x
+s4_loc_newarmycamp_moreinfo	Apparently, commander Burns was a decorated war hero with a reputation for risky methods. His most notorious achievement had been to infect himself with smallpox, then intentionally be captured by the natives, infecting them in turn. The resulting plague decimated their population allowing the army to wipe out the survivors without sustaining a single casualty. Burns had survived, his facial scarring a testament to his bloodymindedness.<br><br>You thought about ways to use this information to your advantage.	
+s4_loc_newarmycamp_moreinfo_opt1	Armed with this knowledge, you were about to retreat from the camp...	x
+s4_loc_newarmycamp_moreinfo_opt1_result	You walked straight into a sentryman. You emerged from the resulting gunfight wounded, but victorious.	
+s4_loc_newarmycamp_moreinfo_exit	You limped away from the camp, taking some supplies with you.	x
+s4_loc_massacresite	Massacre Site	
+s4_loc_massacresite_desc	A plume of smoke visible from miles away guided you to the site of the "pacification". The village was in ruins, littered with body parts. The Army had not even spared the women and children.<br><br>The place was deserted, save for a single figure sitting on a rock, his head in his hands.	
+s4_loc_massacresite_desc2	A plume of smoke visible from miles away guided you to the site of the "pacification". The village was in ruins, littered with body parts. The Army had not even spared the women and children.<br><br>You noticed a lone, limp figure lying on a rock.	
+s4_loc_massacresite_opt1	You approached him. It was Jefferson Burns.	i
+s4_loc_massacresite_opt1b	You approached it. It was Jefferson Burns.	i
+s4_loc_massacresite_opt1b_result	Cervantes spat on the remains, saying the coward must have taken his own life out of grief over the massacre.<br><br>You picked up the gun lying by the body and motioned for the inquisitor to leave.	
+s4_loc_massacresite_opt1b_exit	You already had your first companion anyway.	x
+s4_loc_massacresite_opt1_result	Your mangled visage seemed to convince Burns that you were the devil incarnate. He said he was ready for his punishment.	
+s4_loc_massacresite_opt1_result_opt1	You asked him which crimes weighed heaviest on his soul.	i
+s4_loc_massacresite_opt1_result_opt2	You asked why he would start having second thoughts now, after a long, untroubled career of Indian killing.	i
+s4_loc_massacresite_opt1_result_opt3	You explained who you were and told him you needed help with a mission.	g
+s4_loc_massacresite_opt1_result_opt4	Posing as an army officer, you ordered him to join you on another mission.	g
+s4_loc_massacresite_opt1_result_opt5	You told him his punishment would be to do your bidding.	g
+s4_loc_massacresite_opt1_result_opt6	You told him he could redeem himself by freeing the souls trapped in Purgatory.	g
+s4_loc_massacresite_opt1_result_opt1_result	Burns said you couldn't be the devil if you didn't know his sins.<br><br>Still, he was compelled to tell you of the attack on the village. Everyone had been killed except for a small group of natives who had escaped to their holy grounds. He said the screams of his victims would haunt him until he died, and that he was filled with existential dread. His faith shattered, he said he was unable to continue.	
+s4_loc_massacresite_opt1_result_opt2_result	Burns gave a grim chuckle. He had always respected the natives. The story of him infecting himself to wipe out a village was a tall tale his superiors had concocted to inspire the grunts.<br><br>Burns had always respected the natives. But he had also believed in the power of American authority. Until now. Now he longed for a chance to redeem his sins before he exited this world.	
+s4_loc_massacresite_opt1_result_opt3_result	Burns would never accept another mission. He had dismissed his men and abandoned his command, a treasonous deed he would surely hang for. He said if you wanted help on your mission you should seek out the tribesmen who had escaped to their holy grounds. They would be hungry for revenge.	
+s4_loc_massacresite_opt1_result_opt3_result_opt1	Unable to convince him to join you, you headed toward the sacred grounds.	x
+s4_loc_massacresite_suicide	As you departed, you heard a single gunshot behind you.<br><br>Burns had joined his victims.	
+s4_loc_massacresite_suicide_exit	You left his pathetic remains without looking back.	x
+s4_loc_massacresite_opt1_result_opt4_result	Burns said he'd dismissed his soldiers, but didn't fear the hangman. He would never take another order in his life.<br><br>Before you could ask why, he put his gun in his mouth and pulled the trigger.	
+s4_loc_massacresite_opt1_result_opt4_result_opt1	As you picked up his gun, a new plan formed in your head.	g
+s4_loc_massacresite_deadtrail	Perhaps the natives who had escaped could be convinced to join you.<br><br>From the trail of blood and bodies leading from the field, you knew where to find them.	
+s4_loc_massacresite_deadtrail_opt1	You followed the trail, hoping at least one able-bodied native had survived the pursuit.	x
+s4_loc_massacresite_opt1_result_opt5_result_a	Burns nodded. He recognized you from your wanted poster. You were the one they called The Devil's Champion. The guy who killed the Masked Man and hundreds more. Burns said you were as good proof as any that hell existed. He figured if Satan had sent you to reap his soul, who was he to refuse? Resigned to his fate, he accepted your command.	
+s4_loc_massacresite_opt1_result_opt5_result_b	Burns fixed you with a hollow-eyed stare and said that nobody would want a man like him travelling with them. Before you could react, he put his gun in his mouth and pulled the trigger.	
+s4_loc_massacresite_opt1_result_opt6_result	He sat silent for several minutes, considering your words. Just as your patience was waning, he grabbed his bundle and his gun, saying a worthy goal like yours deserved a willing servant. He would follow you.	
+s4_loc_massacresite_opt1_result_opt6_exit	As you turned to leave, Burns spoke again.	g
+s4_loc_massacresite_killcheveyo	Burns said he had allowed a group of natives to escape. Though his men had tried to hunt them down, he was positive some of them had survived and would be coming for their revenge. Burns said that if you were looking for them, they'd be at their sacred grounds.	
+s4_loc_massacresite_killcheveyo_exit	You said you would think about it.	x
+s4_loc_sacredground	Indian Sacred Ground	
+s4_loc_sacredground_desc	You followed a trail of blood and bodies to a giant, twisted, red-leafed tree, surrounded by graves.<br><br>You navigated the tall grass carefully, looking for signs of the surviving natives.	
+s4_loc_sacredground_opt1	You inched forward, guns drawn.	i
+s4_loc_sacredground_opt2	You and Burns were on high alert as you inched your way forward, guns drawn.	i
+s4_loc_sacredground_alone	A whisper in a foreign tongue behind you gave you a start. You raised your hands and turned slowly.<br><br>Behind the barrel of a precision rifle was the painted face of a tribal warrior. He was wounded, but his hands were steady.<br><br>He gestured for you to leave this place. The only  English words you could make out were "dark demon".	
+s4_loc_sacredground_alone_opt1	You shook your head. You just needed warriors for a mission.	g
+s4_loc_sacredground_alone_opt2	You told him you were the spirit of vengeance, come to grant him an opportunity to set things right.	g
+s4_loc_sacredground_alone_opt1_result	The native did not seem to understand your explanation and was becoming visibly enraged.<br><br>You repeated the word "vengeance," pointing at him, then yourself. Finally, understanding lit his face, but he still seemed suspicious. He spoke a single word. "Why."	
+s4_loc_sacredground_alone_opt1_result_opt1	You told him your story as best you could, in pantomime.	g
+s4_loc_sacredground_alone_accepted	As you related your tale, he maintained a solemn expression and kept the gun's barrel aimed at your head. Still, with each part of the story you could see glints of understanding in his eyes, along with the fire of revenge.<br><br>When you finished, he raised his gun. He pointed at you, then at himself and said "Yes."	
+s4_loc_sacredground_alone_accepted_opt1	You left the sacred grounds behind.	x
+s4_loc_sacredground_burns	A faint glimpse of movement caught your eye. A muscular figure covered in war paint sat in the tall grass his precision rifle aimed at Burns' head.	
+s4_loc_sacredground_burns_opt1	You jumped forward, shoving Burns to the ground.	g
+s4_loc_sacredground_burns_opt2	The native saw that he'd been spotted. As your hand moved to your gun, he shook his head, without taking his eyes or gun off Burns. You stepped back, giving him a clear shot.	g
+s4_loc_sacredground_burns_opt1_result	The Indian's shot missed you by less than an inch.<br><br>You jumped to your feet and instinctively pumped three shots into the native.<br><br>Burns thanked you, both for saving his life and for eliminating his hunter.	
+s4_loc_sacredground_burns_opt1_result_exit	After searching the Indian's remains, you got back on the road.	x
+s4_loc_sacredground_burns_opt2_result	A sharp crack split Burns' head in a bloody shower of bone and brain.<br><br>The native warrior quickly swapped his rifle for a six-shooter, aiming it at you and barking something you could not understand.<br><br>When you showed incomprehension, he spat, pointed at you and said a single word. "Who."	
+s4_loc_sacredground_burns_opt2_result_opt1	You pantomimed an explanation. You had led Burns' here, so the tribe could be avenged.	i
+s4_loc_sacredground_cheveyo	He snorted, gestured at you again, and said "black demon." After a pause he added another single word. "Why." He wanted to know why a black demon like you would help a native warrior get revenge. It was a fair question.	
+s4_loc_sacredground_cheveyo_opt1	You told him you were the spirit of vengeance. Then you pantomimed your story to him.	g
+s4_loc_vaquero	The Vaquero	
+s4_loc_vaquero_desc	This had once been a thriving town, now it was reduced to a single bar, the Vaquero, run by the former mayor, Marshall Todd Mabie. It seemed liquor and tobacco were the only things that sold on this forsaken road.<br><br>You entered the bar's large courtyard.	
+s4_loc_vaquero_desc2	You returned to the Vaquero.	
+s4_loc_vaquero_opt1	You went into the bar.	i
+s4_loc_vaquero_opt2	You took a closer look at the elixir trader's booth.	i
+s4_loc_vaquero_opt6	You left.	x
+s4_loc_vaquero_opt3_result	As you approached, the elixir trader turned pale and hastily packed up his shop. He left, cart in tow, heedless of the bottles that fell to the ground as he fled.<br><br>After a moment, you remembered where you had seen him before. The two of you met when you were hunting the Masked Man. After you depopulated that area, it seems he moved to greener pastures. Now that you were here he needed a new pitch once again.	
+s4_loc_vaquero_opt3_result_opt1	One of the bottles remained intact. You picked it up and returned to the bar.	n
+s4_loc_vaquero_bar	The bar was populated by a seedy mix of farmers cowboys and lowlifes. In addition to drinks, the Vaquero also offered trade.	
+s4_loc_vaquero_bar_hardin	As you entered the bar, Hardin surveyed the crowd until his eyes landed on a woman in purple sitting at one of the tables. His eyes widened in shock before he grabbed your arm and whispered that he'd wait for you outside. He made a hasty exit.	
+s4_loc_vaquero_bar_inquisitor	As you entered the bar, Cervantes surveyed the room, then grabbed your and gestured toward a woman in purple sitting at one of the tables. She was dangerous, he said, and should be eliminated.	
+s4_loc_vaquero_bar_opt1	You browsed the shop.	b
+s4_loc_vaquero_bar_opt2a	You noticed an elegant woman in a purple dress looking at you. Intrigued, you approached.	g
+s4_loc_vaquero_bar_opt2b	You told him to stay back. The woman turned to look at you as you approached.	g
+s4_loc_vaquero_bar_opt2c	You pulled out your gun and pointed it at her.	g
+s4_loc_vaquero_bar_opt4	You reviewed the tab list.	i
+s4_loc_vaquero_bar_opt5	You turned back to peruse the Elixir Trader's stand.	g
+s4_loc_vaquero_bar_opt6	You left.	x
+s4_loc_vaquero_bar_cass	The woman apologized for staring at you. She said her name was Lidiya Morozov and confessed that while she frequently experienced deja vu, the one caused by your arrival had been especially powerful.<br><br>You noticed her pendant had a piece of the meteor embedded in it. Noticing your gaze, she took off the pendant and gave it to you as "an apology for this awkward encounter." Then she planted a passionate kiss on your forehead and left.	
+s4_loc_vaquero_bar_cass_opt1	The bar was suddenly silent with all eyes on you. You stood, immobilized while the others stared at you with a mix of pity and jealousy.	g
+s4_loc_vaquero_bar_cass_opt1_result	A moment later you realized your guns were missing from their holsters.<br><br>You rushed after her, but she had vanished.	
+s4_loc_vaquero_bar_cass_chase	Noticing your party's interest, the woman sprang to her feet, pulled a tiny gun from her garters and managed to put two bullets into Cervantes before sprinting toward the stables.	
+s4_loc_vaquero_bar_cass_chase_opt1	You gave chase, but she was too fast. The only evidence she'd been there was a pendant with a piece of the meteor in it.	n
+s4_loc_vaquero_bar_tablist	The following barflies owed money to the bar. These couldn't be real names, could they?<br>- Yuusou Amazing<br>- Zim Jack James<br>- Spindoctor Mario<br>- Sup Ertekkop<br>- Richie Chojnowski<br>- Adam "Viper" Plissken<br>- Cthulhuhedron<br>- Eric Doidle<br>- Satteesh Sharma	
+s4_loc_armymen	Disbanded Armymen	
+s4_loc_armymen_desc	A rowdy and unruly group of men in worn out uniforms were camped on the tract. Recognizing Burns, they greeted him like a brother.<br><br>Their leader, Lieutenant Michael Scott had been trying to arrange liquor, tobacco and opium for his companions without attracting the attention of the authorities in town.	
+s4_loc_armymen_desc2	The soldiers didn't move from their camping spot. They asked whether you had anything for them.	
+s4_loc_armymen_opt1	You offered some liquor ([%0])	p3liquoir
+s4_loc_armymen_opt2	You shared your tobacco reserves ([%0])	p3tobacco
+s4_loc_armymen_opt3	You gave them opium ([%0])	p2opium
+s4_loc_armymen_opt4	You promised to return with supplies.	x
+s4_loc_armymen_feast	Grateful for your gift, the soldiers invited you to camp with them that evening. Burns seemed at ease for the first time since you'd met. Ultimately, their good mood and high spirits cheered even you. You woke happy, if a little hungover.	
+s4_loc_armymen_feast_exit	You left.	x
+s4_loc_nomadshaman	Nomad Shaman	
+s4_loc_nomadshaman_desc	Cheveyo told you of a wandering healer with unique skills who could help him. He said it was your choice. The wound was not critical and healing would not be free.	
+s4_loc_nomadshaman_opt1	You asked what the healing involved exactly.	i
+s4_loc_nomadshaman_opt2	You gave Cheveyo the healing money ([%0])	p15cash
+s4_loc_nomadshaman_opt3	You told Cheveyo there was no time for distractions. He understood, but warned that the shaman would soon leave the area for good.	x
+s4_loc_nomadshaman_opt1_result	Cheveyo described the ritual: the shaman made a preparation from a rare cactus that induced a trance state. During the ceremony, he then banished evil spirits from the bodies of the initiates, improving their health.<br><br>Cheveyo said you probably had some demons of your own and proposed you join the ritual as well.	
+s4_loc_nomadshaman_opt1_result_opt1	You accepted, forking over the necessary payment ([%0])	p30cash
+s4_loc_nomadshaman_opt1_result_opt2	You told Cheveyo your demons were none of his business, then gave him the amount required for the healing ([%0])	p15cash
+s4_loc_nomadshaman_opt1_result_opt3	You told Cheveyo the shaman's rituals were superstitious hokum. They weren't worth your money or your time.	x
+s4_loc_nomadshaman_opt2_result	Cheveyo thanked you, then asked timidly whether you too had any demons you wanted to be rid of. It would cost extra, but he said it might give you an edge in the upcoming fight.	
+s4_loc_nomadshaman_opt2_result_opt1	You accepted ([%0])	p15cash
+s4_loc_nomadshaman_opt2_result_opt2	You told him to get on with it.	n
+s4_loc_nomadshaman_one	You sat to the side, as the shaman and Cheveyo began their strange ritual. It took an hour for them to be completely lost in the trance. You tried to get Cheveyo's attention, but he was elsewhere.	
+s4_loc_nomadshaman_one_opt1	You rummaged through the shaman's belongings in search of anything useful.	g
+s4_loc_nomadshaman_one_opt1_result	You found a few valuable trinkets amid the shaman's pile of junk. This trip just got a lot more sensible.<br><br>A few hours later, Cheveyo was back on this plane of existence and you continued your journey.	
+s4_loc_nomadshaman_one_leave	You left the shaman behind.	x
+s4_loc_nomadshaman_both	The healer solemnly handed you several dark green cactus buttons and told you to eat them. They were bitter, but you managed to choke them down. Then he began chanting and rhythmic humming, which soon put you in a trance.<br><br>When you opened your eyes, you saw evil eyes staring at you from every stone and every star. The moon was one gigantic evil eye dominating the night sky. The shaman danced frantically,  pounding the dirt with his cane and cursing the evil spirits. Gradually, the eyes gave way to vibrant colors and shapes. A feeling of peace washed over you.	
+s4_loc_nomadshaman_both_opt1	You fell asleep with a blissful smile on your disfigured face.	n
+s4_loc_nomadshaman_both_opt1_result	You woke up the next day, the sun already high in the sky. The shaman was gone, but your sense of inner peace was intact.	
+s4_loc_nomadshaman_both_leave	You packed your bags and departed before midday.	x
+s4_loc_wizard	The Dazzling House of Peculiar and Strange	
+s4_loc_wizard_desc	Your party came upon a circus tent set up, incongruously, in the middle of the badlands. As you neared, you saw it was surrounded by armed men wearing clown makeup. A sign read "The Dazzling House of Peculiar and Strange." <br><br>Your previous travels told you this was the Algretto Mystics gang. Their leader, Wizard Algretto, had a reputation for making things and people disappear without a trace.<br><br>The House offered all sorts of cheap entertainment.	
+s4_loc_wizard_desc2	You returned to the Wizard's House. The place looked creepy as ever.	
+s4_loc_wizard_opt1	You stopped a while to watch the show ([%0])	p5cash
+s4_loc_wizard_opt2	You asked to see the Wizard.	g
+s4_loc_wizard_opt3	You left the circus.	x
+s4_loc_wizard_opt1_result_a	A Gypsy fortune teller was reading palms for the patrons. According to her sign, she was "Daciana Vaduva, Mystic Seer."<br><br>As you approached, she became fixated on you, her horrified mouth agape. Finally she screamed "Foul hellion! I never laid a hand on those puppies!" then slammed her kiosk shut and ran away.	
+s4_loc_wizard_opt1_result_b	You watched a quartet of trapeze artists known as the Biscoito Brothers high up near the ceiling of the tent. Victor, Paulo, Alex and Rafael performed amazing feats of human agility.<br><br>You knew a fall from that height would kill anyone. But the show ended safely with a shocking salto mortale that garnered a standing ovation from the crowd.	
+s4_loc_wizard_opt1_result_c	The show advertised "Grunkzzz, a wild beast of uncanny strength." But while Grunkzzz was very hairy, he was definitely human. His act consisted of lifting increasingly heavy objects.<br><br>After every feat, the audience demanded more and Grunkzzz obliged. Until, on lifting the heaviest object on stage, a loud crack resounded across the tent, and mighty Grunkzzz fell to the ground and was carried away by other strongmen.	
+s4_loc_wizard_opt1_result_d	Falgrim the Technomage was a gentleman in a top hat presenting his perpetual motion device. In it, a ball travelled endlessly through a looping maze of funnels, drains, wheels and cogs, apparently propelled by the power it generated. The technomage offered to sell it to anyone willing to pay his astronomical fee.<br><br>You didn't feel compelled to jump at this generous offer.	
+s4_loc_wizard_opt1_result_e	Ixnay Josh and Jamie Harris were a knife-throwing act. The woman bore numerous scars and Ixnay Josh was missing a couple of fingers. Still, his aim was unerring, despite his obvious affinity for strong liquor.	
+s4_loc_wizard_opt1_result_f	Phoenix Jarikith was a fire dancer who leapt through blazing loops, hopped over burning poles and blew giant plumes of fire from her mouth.<br><br>She crowned her act by taking a cigar from one of the gawking spectators with her foot, then lighting it with a fiery plume and returning it to the patron's mouth. As she bowed, the people showered her with dimes.	
+s4_loc_wizard_opt1_result_opt1	You watched another show ([%0])	p5cash
+s4_loc_wizard_opt1_result_opt2	You went to see the Wizard instead.	g
+s4_loc_wizard_opt1_result_opt3	You left the tent and its weirdness behind.	x
+s4_loc_wizard_opt1_result_inspiration	For a moment, these displays of human talent provided welcome distraction. For a moment, at least, you felt relaxed and inspired.	
+s4_loc_wizard_bigtalk1_drinknow	A tall, gaunt man introduced himself as Sean Vermillion.<br><br>He said the Wizard was waiting for you and offered you a complimentary drink.<br><br>A single shot glass filled with a cold yellowish liquid sat on a tray. Vermillion looked at you expectantly.	
+s4_loc_wizard_bigtalk1_drinknow_opt1	After a moment's hesitation, you downed the glass.	g
+s4_loc_wizard_bigtalk1_drinknow_opt2	You pushed the tray back, telling him you'd rather save drinking for after business was done.	g
+s4_loc_wizard_bigtalk1_desc	Vermillion led you through dark corridors lined with colorful circus posters. Finally you passed through a flap door and into complete darkness. Vermillion was nowhere to be seen. <br><br>You were trying to make out what might be in the dark room when, with a heavy thunk of machinery, a single spotlight appeared. A tall figure stood in it, wearing some sort of cloak.	
+s4_loc_wizard_bigtalk1_desc_opt1	You wanted to walk toward the figure, but your legs didn't react. You just stood there, watching.	i
+s4_loc_wizard_bigtalk1_desc_opt2	You marched towards the figure, hand on the butt of your holstered gun.	i
+s4_loc_wizard_bigtalk1_desc_drank	A sudden flash of light blinded you, the shock making you fall to the ground. When you opened your eyes, the room was brightly lit by floating orbs of cold, blue light. A short, bald man wearing a long robe and strange eyeglasses stood above you. Sean Vermillion stood behind him.<br><br>The small man presented himself as Wizard Algretto, and claimed he had business with you. He told you to nod your head if you wanted a lengthy explanation, or shake it if you wanted him to cut to the chase.	
+s4_loc_wizard_bigtalk1_desc_drank_opt1	You nodded, doing your damndest to stare him to death.	g
+s4_loc_wizard_bigtalk1_desc_drank_opt2	You shook your head with all the attitude you could muster. He didn't seem impressed.	g
+s4_loc_wizard_bigtalk1_desc_refused	A sudden flash of light blinded you. You tripped over something and felt a hard object slam into the back of your head. Everything went black.	
+s4_loc_wizard_bigtalk1_desc_refused2	You were awakened by a bucket of cold water in your face. You were tied up on the floor of a large room lit with floating orbs of cold, blue light. A short, bald man wearing a long robe and strange eyeglasses stood above you. Behind him was Sean Vermillion.<br><br>He presented himself as Wizard Algretto and said he had business with you. He asked if you wanted a lengthy explanation, or just the basics.	
+s4_loc_wizard_bigtalk1_desc_refused_opt1	You said a longer story would give you more time to choose the right way to murder him.	g
+s4_loc_wizard_bigtalk1_desc_refused_opt2	You told him that, while it might be anatomically improbable, he should engage in a sex act with himself.	g
+s4_loc_wizard_quest_long_1a	The Wizard smiled and commended you on your choice to accept the drink. It meant he didn't have to resort to violence to make you listen to him.<br><br>He said he knew who you were. And who you were looking for. And that you should give up now. The Wizard considered Hardin his property and said the man was currently detained where he belonged.<br><br>Persons, though, was a different matter.	
+s4_loc_wizard_quest_long_1b	The Wizard smiled and assured you he wouldn't have had to resort to violence, had you simply accepted his kind offer of a drink.<br><br>He knew who you were. And who you were looking for. And that you should give up now. The Wizard considered Hardin his property and said the man was currently detained where he belonged.<br><br>Persons, though, was a different matter.	
+s4_loc_wizard_quest_long_2	Henry Howard Persons used to work in the Pinkerton's special division, but several years of his service were blank.<br><br>The Wizard assured you Persons was quite insane, but that he found the man fascinating, especially his obsessive search for pieces of a specific meteorite. Apparently, no law of property or human decency could stop him in his quest to acquire these pieces. He was the ultimate collector.	
+s4_loc_wizard_quest_long_3	Therefore, the Wizard continued, if you wanted to make contact with Persons, you needed to find pieces of the meteorite. And you were in luck. When the meteor travelled through earth's skies, it left a trail of debris in this very area.<br><br>All you had to do was to obtain some of these pieces in whatever way you deemed acceptable. Four pieces would be enough to attract the strange man's attention and make him emerge from hiding, the Wizard said.	
+s4_loc_wizard_quest_long_end	With these words, the Wizard nodded to his men to take you away.	x
+s4_loc_wizard_quest_short	The Wizard gave you a half-smile, and said he knew who you were. And who you were looking for. And that you should give up now. The Wizard considered Hardin his property and said the man was currently detained where he belonged.<br><br>Persons, on the other hand, the insane former Pinkerton, was yours for the taking. However, in order to make him emerge from hiding, you would need to collect at least 4 pieces of a strange meteorite Persons was obsessed with.	
+s4_loc_wizard_quest_short_end	The Wizard's goons took you away.	x
+s4_loc_brothel	Madame Bai-Bai's	
+s4_loc_brothel_desc	You arrived at a well-maintained farm composed of several large bungalows all with extensive red lighting.<br><br>Emma Bai-Bai's debaucherous establishment was known for its security. The place was guarded by the same women who worked the clients. Only a fool would cross them.	
+s4_loc_brothel_desc2	You returned to Madame Bai-Bai's pleasure den.	
+s4_loc_brothel_opt1	You went to the main lobby.	i
+s4_loc_brothel_opt2	You went to the bar.	i
+s4_loc_brothel_opt3	It was time to get Hardin out of here - no matter what the Wizard wanted.	t
+s4_loc_brothel_opt4	You left.	x
+s4_loc_brothel_opt1_result	The brothel was a large complex. A gaggle of gunslingers hung around in its bar. The kitchen behind the counter led to an open courtyard, but you were forbidden from going there.<br><br>You were allowed in the lobby, where the women watched you with distrust, while doing their best to look seductive.<br><br>Emma Bai-Bai, the establishment's madam remained in her office.	
+s4_loc_brothel_opt1_result_opt1	You asked to talk to the madam.	g
+s4_loc_brothel_opt1_result_opt2	You returned to the bar.	i
+s4_loc_brothel_opt1_result_opt3	You left.	x
+s4_loc_brothel_baibai	James Rusk, Emma Bai-Bai's assistant, let you through the door and followed close behind you.<br><br>The room was adorned with paper-mache decorations and china. In the center of the room, like a dare, stood a massive safe cabinet.<br><br>You heard someone clear her throat and turned to see Emma Bai-Bai looking at you disapprovingly.	
+s4_loc_brothel_baibai_opt1	You asked the price of Hardin's freedom.	i
+s4_loc_brothel_baibai_beat2	Emma Bai-Bai looked at her assistant and the two started giggling, then burst out into laughter.<br><br>You were tempted to shut their mouths with a gun. Seeing your consternation, Bai-Bai explained. She only did business with important people.	
+s4_loc_brothel_baibai_beat2_opt1	You mentioned your role in the Masked Man's untimely death.	i
+s4_loc_brothel_baibai_beat3	The madam said that hardly compared to being a trusted ally of the Wizard, and the leader of a feared and respected organization.	
+s4_loc_brothel_baibai_beat3_opt1	You wondered aloud whether she was confusing the word "ally" with "henchman."	i
+s4_loc_brothel_baibai_beat4	She looked at you dispassionately as she lit a cigarette on a long slender filter.<br><br>She asked why you were interested in a worthless son of a motherless goat like Hardin. She inquired as to whether you ran a charity for cripples and hobos.	
+s4_loc_brothel_baibai_beat4_opt1	With lightning swiftness, you pulled the assistant's gun from his holster and shot him in the stomach.	t
+s4_loc_brothel_baibai_beat4_opt2	Struggling with your temper, you only managed a "no."	g
+s4_loc_brothel_baibai_beat5	Emma Bai-Bai laughed disdainfully. She asked her assistant to buy you a drink then escort you from the premises.	
+s4_loc_brothel_baibai_beat5_opt1	With lightning swiftness, you pulled the assistant's gun from his holster and shot him in the stomach.	t
+s4_loc_brothel_baibai_beat5_opt2	You refused the drink and left the office. They would live to regret this.	x
+s4_loc_brothel_lobby	You were back in the brothel's lobby.	
+s4_loc_brothel_lobby_opt1	It was time to get Hardin out of here - no matter what the Wizard or the madam had to say about it.	t
+s4_loc_brothel_bar	The bar was about as busy as the private rooms, with the women working both as bouncers and waitresses.<br><br>You noticed some vaqueros sitting around a table. If you were picking fights, them fellas could be a heap of trouble.<br><br>Apart from them, though, it was mainly old ranchers gambling and sipping their booze.	
+s4_loc_brothel_bar_return	You were back in the bar. The vaqueros and the other patrons gave you a look, then returned to their cards and their glasses.	
+s4_loc_brothel_bar_return_round	You were back in the bar. The vaqueros toasted you cheerfully, then returned to their drinks.	
+s4_loc_brothel_bar_opt1	You bought a round of drinks for everyone in the bar to lighten the mood and keep them out of the fight ([%0])	p30cash
+s4_loc_brothel_bar_opt2	You asked the barmaid if the name Randy Hardin rang any bells.	i
+s4_loc_brothel_bar_opt3	You asked what they had on tap.	b
+s4_loc_brothel_bar_opt4	You went out to the lobby,	x
+s4_loc_brothel_bar_opt5	You left the establishment altogether.	x
+s4_loc_brothel_bar_opt1_result	Your generous offer met with cheering and murmurs. The vaqueros particularly appreciated the gesture and went about rehydrating themselves with tequila.	
+s4_loc_brothel_bar_opt2_result	When the girl made a face you knew you'd hit the jackpot. She pointed to a building across the farm. Hardin was there, she said, detained on orders from the Wizard himself. Which no one could figure, since Hardin had been the Wizard's lieutenant for years.<br><br>She pulled you in close and said she thought it was because Hardin was a diseased husk of a man, no longer fit for any real job. She said if you wanted to see him, you should talk to Madame Bai-Bai.<br><br>Her breath hot on your neck, she asked whether you wanted anything else.	
+s4_loc_quack	Quack Wagon	
+s4_loc_quack_desc	A lonely, dilapidated wagon was parked beside a popular resting ground.<br><br>Dr Mason Von Warner's wagon smelled very strongly of... liquor? No, it must have been antiseptic. The doctor looked at you absent-mindedly through his greasy glasses.<br><br>He may have been drunk and  high on opium, but he was the only medic in the area.	
+s4_loc_quack_desc2	Dr Mason Von Warner stared at you questioningly, as though he was seeing you for the first time in his life.	
+s4_loc_quack_opt1	You came for healing.	i
+s4_loc_quack_opt2	You required healing supplies.	b
+s4_loc_quack_opt3	You asked whether he could help with Hardin's embarassing problem.	i
+s4_loc_quack_opt4	You decided to get Hardin the mercury treatment ([%0])	p50cash
+s4_loc_quack_opt6	You left.	x
+s4_loc_quack_healing	The Doctor assured you he was an expert on human anatomy. He performed the most amputations during the battle of Sabine Pass, if you counted fatalities.<br><br>His expertise wasn't cheap, but he was confident he could help you, especially if it involved amputations.	
+s4_loc_quack_healing2	The Doctor rubbed his greasy glasses on his greasier vest and held up an oil lamp to see his next patient better.	
+s4_loc_quack_healing_opt1	You needed some patching up ([%0])	p50cash
+s4_loc_quack_healing_opt2	Burns was hurt ([%0])	p50cash
+s4_loc_quack_healing_opt3	Cheveyo was hurt ([%0])	p50cash
+s4_loc_quack_healing_opt4	Cervantes was hurt ([%0])	p50cash
+s4_loc_quack_healing_opt5	Hardin suffered more than usual ([%0])	p50cash
+s4_loc_quack_healing_opt6	Lulu could use some healing ([%0])	p50cash
+s4_loc_quack_healing_opt7	El Hermoso required assistance ([%0])	p50cash
+s4_loc_quack_healing_opt8	Persons required assistance ([%0])	p50cash
+s4_loc_quack_healing_opt9	The Childeater wasn't feeling so well ([%0])	p50cash
+s4_loc_quack_healing_goback	You decided you didn't need healing after all.	x
+s4_loc_quack_healing_quit	You left the medic's wagon.	x
+s4_loc_quack_posthealing_random1	To your surprise, the healing went well.	
+s4_loc_quack_posthealing_random2	All injuries have been taken care of - and with very little other damage done.	
+s4_loc_quack_posthealing_random3	The patient was feeling much better now; a truly commendable feat.	
+s4_loc_quack_posthealing_goback	There were other matters you needed attended to.	x
+s4_loc_quack_opt3_result	The quack admitted he had a single dose of mercury stashed for emergencies. It would temporarily relieve Hardin's ailment, but the effect would vanish after a while.<br><br>He named his price and asked whether you wanted him to administer it now.	
+s4_loc_quack_opt3_result_opt1	You decided to give him medication now ([%0])	p50cash
+s4_loc_quack_opt3_result_opt2	You preferred to save that option for later.	x
+s4_loc_quack_opt4_result	The doctor told Hardin to undress. Having no desire to watch what came next, you left the wagon. Half an hour later, Hardin emerged from the wagon looking confused, but stronger.	
+s4_loc_cougartrail	Cougar Trails	
+s4_loc_cougartrail_desc	This wild land was Indian property. If the rumors were true, a powerful native mystic lived here who could take the form of a cougar. It was said he possessed another piece of the meteor.	
+s4_loc_cougartrail_opt1	You looked for tracks.	g
+s4_loc_cougartrail_opt2	You asked Cheveyo to help you track the cougar.	g
+s4_loc_cougartrail_opt3	You decided to return here later.	x
+s4_loc_cougartrail_opt1_result	Many hours later, as you were about to give up, you spotted the cougar. It looked ordinary, except for an unusual pattern on its face and a necklace with a piece of rock tied to it.	
+s4_loc_cougartrail_opt1_result_opt2	You laid down your amulet in front of you, offering in trade for the meteor shard.	g
+s4_loc_cougartrail_opt1_result_opt3	You shot it between the eyes.	g
+s4_loc_cougartrail_opt1_result_opt4	You decided the rock wasn't worth it and left.	g
+s4_loc_cougartrail_opt2_result	Cheveyo quickly found the trail. A couple hours later, you had found the cougar. It looked ordinary, except for an unusual pattern on its face and a necklace with a piece of rock tied to it.	
+s4_loc_cougartrail_opt2_result_opt1	You let Cheveyo do the talking.	g
+s4_loc_cougartrail_cheveyo	The native warrior slowly approached the cougar, chanting a song in their language. It was a tense scene. You expected Cheveyo to be ripped apart any second.<br><br>Slowly but surely, however, Cheveyo approached and held his hand out to the cougar, who relinquished the stone without objection.	
+s4_loc_cougartrail_trade	You backed away from your offering and waited. The cougar circled you slowly for an hour as you stood, motionless. Finally it trotted straight towards the amulet, sniffed it thoroughly, then shook the string from its neck, taking your offering in its jaws and vanishing.	
+s4_loc_cougartrail_kill	The cougar dodged the bullet and leapt at you, knocking you to the ground. The two of you rolled around the hillside, as you desperately reached for your boot knife.<br><br>Finally you got it loose and slid it between two of the beast's ribs. You sustained grave wounds in the struggle, but the meteor piece was yours.	
+s4_loc_church	Church	
+s4_loc_church_desc	A local chapel used a piece of the meteor as the main jewel adorning its communion chalice. Vicar Simon Sams, who the locals respectfully called "Bishop," refused to surrender the stone.	
+s4_loc_church_opt1	Cervantes took Sams aside and explained that he needed to commandeer the chalice for a greater cause.	g
+s4_loc_church_opt2	Your only option was to shoot him and face whatever consequences there were for killing a man of god on consecrated soil.	g
+s4_loc_church_opt3	You decided to return later.	x
+s4_loc_church_opt1_result	The vicar squirmed, but gave up the chalice without further objection.	
+s4_loc_church_opt2_result	The vicar never stood a chance. You claimed the piece of the meteor, but as you touched it, you began coughing badly.	
+s4_loc_illegalmine	Illegal Mines	
+s4_loc_illegalmine_desc	You came across a prospecting site where a group of slaves toiled in narrow, coffin-sized holes in the ground, hauling silver from beneath the earth. It was doubtful these mines were sanctioned by the authorities.<br><br>Rumor had it Mr. Brekke, one of the proprietors, had a collection of precious stones. A piece of the meteor was his most prized piece.	
+s4_loc_illegalmine_opt1	You told Burns that he should handle this one.	g
+s4_loc_illegalmine_opt2	^You offered the prospectors $[%0] for the meteor.	g
+s4_loc_illegalmine_opt3	You threatened the prospectors with violence.	g
+s4_loc_illegalmine_opt4	You left. For now.	x
+s4_loc_illegalmine_opt1_result	Burns was accustomed to giving orders and the appearance of authority. He presented himself and his "deputies" as a special taskforce that regulated mining operations in the area.<br><br>Mr. Brekke and Mr. Guelfee immediately became meek, and made overtures toward a bribe. After some more stern negotiating, Burns was able to extract the meteor from them without resorting to violence. As the two of you walked away, Burns smiled for the first time since you'd met him.	
+s4_loc_illegalmine_opt2_result	^The collection owner was reluctant to part with it, but nervous that if he refused you'd take it by force. He offered you $[%0] to let him keep the stone.	
+s4_loc_illegalmine_opt2_result_opt1	You accepted. Then you left them alone.	g
+s4_loc_illegalmine_opt2_result_opt2	You threatened them with violence if they did not comply.	g
+s4_loc_illegalmine_opt3_result	Your threats fell on deaf ears. You had to kill them. They put up a fight, and wounded one of your companions, but in the end you retrieved the stone.	
+s4_loc_tarpit	Tar Pit Necropolis	
+s4_loc_tarpit_desc	You arrived in an area dominated by sinkholes and mud pits. It served as a graveyard of sorts. Allowing coffins to simply sink into the bog was highly economical.<br><br>Your reflections were interrupted by the sight of a tall figure pacing back and forth across the necropolis. In the morning mist of the surreal landscape, he looked like an apparition. Dressed all in black and carrying a shovel he looked as though he must be an undertaker.<br><br>If the rumors about like that hunting for you were true, this man could be dangerous.	
+s4_loc_tarpit_desc2	The necropolis was as muddy and gloomy as you remembered it.	
+s4_loc_tarpit_opt1	You decided to snipe him from afar.	g
+s4_loc_tarpit_opt2	You tried to find out his identity.	g
+s4_loc_tarpit_opt1_result	Your well-placed headshot killed him instantly, and the man fell into a mud pit. Before you managed to reach him, the body had already disappeared, leaving only his tophat, with a piece of the meteor tucked into its band.	
+s4_loc_tarpit_opt2_result	The man's polite greeting turned to excitement as he realized who you were. His name was Shane Carter Holmes and he recognized you from your hunt for the Masked Man. Between coffins and funeral services, your "one man slaughterhouse routine," as he called it had made him a pretty penny. He'd been looking for you for weeks to express his thanks.	
+s4_loc_tarpit_opt2_result_end	He handed you a stack of useful items, including some cash and a piece of the meteor.	x
+s4_loc_tarpit_opt3	You took a look at the memorial board.	i
+s4_loc_tarpit_opt3_result	A memorial board listing the souls that had been sunk into the bog was slowly rotting in the damp air. The only names you could make out were:<br>- John Doe<br>- Janson Rush<br>- Nick Rogers<br>- Andrew the Drifter, born 1883	
+s4_loc_tarpit_opt3_result_paco	A memorial board listing the souls that went down the bog was slowly rotting in the damp air. You managed to make out:<br>- Paco Jontas<br>- John Doe<br>- Janson Rush<br>- Nick Rogers<br>- Andrew the Drifter, born 1883	
+s4_loc_tarpit_leave	You left.	x
+s4_loc_tannery	Rojas Tannery	
+s4_loc_tannery_desc	The stench of tanning liquids was smothering. But the tanner was rumored to possess a piece of the meteor, so you pressed on.<br><br>When you told him what you were looking for, he shrugged. He had once used the piece in the tanning vat to speed up the reaction. Now, though, he'd found a reliable source of the tanning catalyst and didn't need the meteor any more. Unfortunately for you, however, it lay at the bottom of a vat full of toxic material. If you were desperate enough, you could simply reach for it.	
+s4_loc_tannery_opt1	You offered the tanner private time with Lulu if he did it himself.	g
+s4_loc_tannery_opt2	You cursed and gave it a shot.	g
+s4_loc_tannery_opt3	You asked Burns to do it.	g
+s4_loc_tannery_opt4	You asked Cheveyo to do it.	g
+s4_loc_tannery_opt5	You asked Hardin to do it.	g
+s4_loc_tannery_opt6	You asked Lulu to do it.	g
+s4_loc_tannery_opt8	You told Cervantes to do it.	g
+s4_loc_tannery_opt9	You asked Ochoa to do it.	g
+s4_loc_tannery_opt10	You asked Persons to do it.	g
+s4_loc_tannery_opt11	You told Childeater to do it.	g
+s4_loc_tannery_opt7	You wanted to think this through first.	x
+s4_loc_tannery_opt1_result	He appraised Lulu like a slab of meat and finally agreed.<br><br>You sat in the yard, inspecting the meteor, as grunting noises came from the house. Persons would need to work hard to earn this one.	
+s4_loc_tannery_opt2_result	You put your hand in the vat, feeling the bottom for the stone. Your hand only felt a little warm, but when you finally found the meteor shard and withdrew it, you were severely burned.	
+s4_loc_tannery_opt3_result	Your companion searched for the meteor inside the vat. It took a while and when the stone was finally retrieved, your companion's hand was badly burned. It would require medical attention.	
+s4_loc_orchidhouse	The Orchid House	
+s4_loc_orchidhouse_desc	This inconspicuous ranch away from the main road housed a black market which dealt in contraband of all kinds.	
+s4_loc_orchidhouse_opt1	You wanted to barter.	b
+s4_loc_orchidhouse_opt2	You asked if they knew anything about a meteor piece.	i
+s4_loc_orchidhouse_opt6	You left.	x
+s4_loc_orchidhouse_meteor	When you made your unusual demand, Juha Åkerman, the merchant, looked agitated. He considered the rock a lucky charm and was unwilling to give it up. If he did, he would charge you more for the rest of his goods to make up for his loss.	
+s4_loc_orchidhouse_meteor_opt1	You agreed to Åkerman's arrangement.	g
+s4_loc_orchidhouse_meteor_opt2	To keep prices low, Hardin offered to share his business contacts with the merchant.	g
+s4_loc_orchidhouse_meteor_opt3	You considered the offer, taking the opportunity to barter for the old prices one last time.	b
+s4_loc_orchidhouse_meteor_opt4	You decided to come back later.	x
+s4_loc_orchidhouse_meteor_opt1_result	Juha Åkerman handed you the meteor and reminded you that he would mark up his prices from this point forward.	
+s4_loc_orchidhouse_meteor_opt2_result	The merchant agreed, handing you the meteor and wishing you luck.	
+s4_meteors	Meteor Collection	
+s4_meteor_collection	The piece of the meteor in your hand heated up, melted and sank into your skin.<br><br>You felt empowered, but if you wanted to collect these pieces to drive Persons out of hiding, you had to avoid burning them up.	
+s4_meteor_collection_2	You collected another piece of the meteor. Burning it up would give you extra power, but keeping them would help you recruit another companion.	
+s4_meteor_collection_2_opt1	You decided to keep it.	g
+s4_meteor_collection_2_opt2	You decided to absorb it.	g
+s4_ochoa_encounter	Westbound Road	
+s4_ochoa_collects	You had all the meteor pieces you needed. As you returned to the main road, you saw one of the Wizard's operatives approaching from the opposite direction.<br><br>It was Miguel "El Hermoso" Ochoa, a fierce bounty hunter. He said that if you had enough meteor pieces he would lead you to Persons.	
+s4_ochoa_collects_opt1	You gave him the pieces.	n
+s4_ochoa_collects_opt2	You explained to him what happened with the pieces.	n
+s4_ochoa_collects_opt1_result	Ochoa counted the meteor pieces and seemed satisfied. <br><br>He explained that Persons had already come out of hiding to search for you, but had been captured by a group of convicts who had been stealing from the Wizard. The Wizard had wanted the convicts dead, anyway, so your interests were aligned. As a gesture of good faith he had sent Ochoa to lend a hand in the upcoming battle. The Wizard said that once the convicts were dead, you would recieve Persons in return.	
+s4_ochoa_collects_opt1_result_opt1	You cursed him for not giving you a second option and reluctantly accepted.	g
+s4_ochoa_collects_opt2_result	Ochoa was furious. The Wizard had told you to get the pieces intact. He drew on you, but your companions were alert and on guard. Ochoa fell dead, riddled with bullets.	
+s4_ochoa_collects_opt2_result_opt1	You found instructions in Ochoa's pocket from the Wizard. They told the exact location of Persons.	g
+s4_ochoa_courier	You had all the meteor pieces you wanted. When you returned to the main road, a messenger handed you a letter from the Wizard.<br><br>The man wasn't happy with your stunt at the brothel, but he provided the location of Persons, as per your agreement.<br><br>It was a trap, but it wasn't the first you were willingly walking into.	
+s4_loc_lookouthill	Lookout Hill	
+s4_loc_lookouthill_desc_convicts	The old fort offered strong defensive positions to whoever managed to get there first. Though the convicts were now well-fortified, it was clear from their buffoonish actions that they were not well-organized. You could attack them now or come back for them later. They weren't going to stop being idiots.	
+s4_loc_lookouthill_desc_wizard	The old fort offered strong defensive positions to whoever managed to get there first. Knowing you'd come for Persons, the Wizard had set up an ambush with his best men. You had deduced his scheme, however. Now you just had to decide if you wanted to attack now or let them stew a while.	g
+s4_loc_lookouthill_opt1	You decided to attack.	t
+s4_loc_lookouthill_opt2	You decided to make a few more preparations before attacking.	x
+s4_devil	The Stranger	
+s4_devil_desc	When the dust settled after the battle, he was there. The stranger who had halted your death. The man who'd told you to kill and burn. You knew now, from the cold feeling in your bones, who he must be.<br><br>He applauded your efforts in bringing together this posse and said you had only one more task ahead of you before you could invade Purgatory: confront the Wizard and force him to reveal how to get there.	
+s4_devil_desc_opt1	You said that first you had a question for him. With a wry grin he replied, "Shoot."	n
+s4_devil_desc_opt1_result	You said you had a good reason to invade Purgatory, true love. He snorted at this.<br><br>But, you continued, you couldn't figure his angle for the life of you. And you knew he always had an angle.	
+s4_devil_desc2	It was simple, he replied. He said the natural order of things was the most vicious crime ever perpetrated on mankind. It turned men into slaves who crawled from cradle to grave in servitude, their pathetic existences hardly qualifying as life at all.<br><br>Chaos, on the other hand, revealed mankind's full potential: where there were madmen, there were geniuses; where there were the most depraved villains, the greatest heroes rose.<br><br>To upset the status quo was mankind's highest calling. And there was no greater bastion of the status quo than Purgatory.	
+s4_devil_desc3	He had been grooming you as his champion all this time, he said. And now the end was in sight. Once you forced the Wizard to show you the way to Purgatory, you could end mankind's servitude forever.<br><br>It was your final test.	
+s4_devil_desc3_opt1	You left.	x
+s4_wizardshowdown	Wizard's	
+s4_wizardshowdown_desc	You returned to the circus tent to find it deserted. With the crowd missing, the dark rooms looked completely unfamiliar. You could start searching for the Wizard in the performance tent, or backstage.	
+s4_wizardshowdown_opt1	You went into the main tent.	g
+s4_wizardshowdown_opt2	You accessed the backstage.	g
+s4_wizardshowdown_maintent	Red and blue lights illuminated a host of wax figures. Some of them looked oddly similar to you.<br><br>	
+s4_wizardshowdown_maintent_trap	One of your wax doppelgangers held two guns, one pointed at its own head, the other pointed at you. The guns clicked.<br><br>	
+s4_wizardshowdown_maintent_trap_save	As it dawned on you what was happening, Persons pulled out his gun and shot off the automaton's hand.	
+s4_wizardshowdown_maintent_trap_doom	You realized too late that this was an automaton gambling with your life. Its gun fired and you were severely wounded.	
+s4_wizardshowdown_maintent_trap_opt1	Risking further injury, you grabbed the automaton's other gun and proceeded backstage.	g
+s4_wizardshowdown_maintent_trap_opt2	You continued your pursuit of the Wizard backstage.	g
+s4_wizardshowdown_maintent_confrontation	The rest of the automatons were representations of the Wizard. All of them repeated the same movement again and again. You sensed a foul presence though. Your gut told you the Wizard was here too.<br><br>	
+s4_wizardshowdown_maintent_confrontation_save	Persons shouted, pointing at the automaton holding a gatling gun. It had broken from the movement of the others and was turning toward you. As you ducked, the Wizard unleashed a hail of bullets that ripped the place apart.<br><br>You crawled into a stable shooting position and managed to incapacitate him with a shot in the arm.	
+s4_wizardshowdown_maintent_confrontation_doom	You recognized the wizard too late. He unleashed a hail of bullets from his gatling gun that wounded you badly and ripped the place apart.<br><br>You ducked, then crawled into a stable shooting position, incapacitating him with a shot in the arm.	
+s4_wizardshowdown_backstage	For a travelling circus, the backstage was strangely luxurious, furnished with mirrors, lavish rugs and china.<br><br>	
+s4_wizardshowdown_backstage_trap	In an instant, the china exploded in a flash of blinding light, spraying you with fine dust. You managed to rub the irritants from your eyes just in time to see a roof beam plunging toward you.<br><br>	
+s4_wizardshowdown_backstage_trap_save	Ochoa knocked you out of harm's way.	
+s4_wizardshowdown_backstage_trap_doom	The beam hit you forcefully inflicting serious injury.	
+s4_wizardshowdown_backstage_trap_opt1	Despite the explosion risk, you grabbed the china and proceeded to main tent.	g
+s4_wizardshowdown_backstage_trap_opt2	You continued your pursuit of the Wizard into the main tent.	g
+s4_wizardshowdown_backstage_confrontation	Before you stood half a dozen Wizards, each moving in the same way. Your eyes were playing tricks on you. You were unable to distinguish the real Wizard from the illusions.<br><br>	
+s4_wizardshowdown_backstage_confrontation_save	Ochoa intervened, shooting his scattergun at the entire display. Mirrors shattered, and the real Wizard fell to the ground, wounded.	
+s4_wizardshowdown_backstage_confrontation_doom	A gun sprang into the Wizard's hand and he shot at you, sending incendiary sparks across the room. You managed to return fire, wounding him in the leg.	
+s4_wizardshowdown_continue	You demanded to know where the Grim Boatman was.	n
+s4_wizardshowdown_confrontation	The Wizard smiled. He had had no quarrel with you until he was told to. He was like you, he said, a puppet to a greater mastermind. He had traded his soul for his magical abilities.	
+s4_wizardshowdown_confrontation_opt1	You wanted to know what he meant by "he was told to".	i
+s4_wizardshowdown_confrontation_opt2	You repeated your question about the Grim Boatman.	g
+s4_wizardshowdown_confrontation_opt1_result	Weeks ago, the Stranger who given him his talents had returned to tell the Wizard you were coming. The Stranger had offered new promises. He would bring the Wizard international renown if he tested your mettle. The Wizard was to devise a series of challenges and obstacles for you to surmount.<br><br>He didn't realize he was never supposed to succeed.	
+s4_wizardshowdown_confrontation_opt1_result_opt1	This brought him to his final words, he was now straining to speak.	g
+s4_wizardshowdown_confrontation_opt2_result	It was all very simple, he said, with a grim chuckle. You would find the Grim Boatman down the road, by the riverbank.<br><br>Then, having spilled his final secret, the grand Wizard Algretto died. Out of the corner of your eye, you could see your shootout had caused a fire, which was now spreading across the compound.	
+s4_wizardshowdown_confrontation_moar	There was one more unexplored area. Despite the fire, you decided to go there.	g
+s4_wizardshowdown_confrontation_exit	You left.	x
+s4_wizardshowdown_grandloot	Falling debris and intense heat cost several of your companions injuries, but you made your way to the Wizard's trophy room. As your companions collected the wealth, you picked up an inconspicuous trinket lying in a glass cabinet.	
+s4_wizardshowdown_grandloot_exit	It was time to leave.	x
+s4_loc_grimboatman	Grim Boatman	
+s4_loc_grimboatman_desc	As it turned out, the Grim Boatman wasn't a person after all. It was a disused marina, named after a fire that took the lives of almost 100 people, including Governor Shawn Milton Greenhalf and Dave Gise the railroad builder.<br><br>A lone boat sat waiting.	
+s4_loc_grimboatman_desc2	You looked at the burnt out husk of a port.	
+s4_loc_grimboatman_opt1	A familiar figure was waiting for you.	i
+s4_loc_grimboatman_opt2	You took the boat across the river.	g
+s4_loc_grimboatman_opt3	You still had some things to take care of.	x
+s4_loc_grimboatman_opt1_result	The Childeater had heard you needed assistance. He wouldn't take no for an answer.	
+s4_loc_grimboatman_opt1_result_opt1	You accepted.	g
+s4_loc_grimboatman_opt1_result_opt2	You told him to get lost. He shrugged and left.	g
+s4_loc_grimboatman_opt2_result	As you rowed across the river, the landscape started to change. What had at first been a grassy shoreline had turned into a nightmarish wasteland.<br><br>Gradually, the current got stronger and, to your horror, a massive waterfall appeared in front of you.	
+s4_loc_grimboatman_opt2_end	You tried to resist, but the rushing water was too strong, you plunged over the waterfall, into the unknown.	n
+s4_loc_purgatory	Purgatory	
+s4_loc_purgatory_desc	You woke up in a strange place that you found oddly familiar. It looked as though it had been built by humans.<br><br>You had arrived in Purgatory.	
+s4_loc_purgatory_opt1	Finally, you were moments away from saving Florence.	n
+s4_loc_purgatory_choice	Do you wish to play the rest of the story from Warren's perspective, or the Undertaker's?<br><br>If you choose Warren, you will play with your current posse.<br><br>If you choose the Undertaker, you will play a posse made up of him and various surviving characters from previous Scenarios.	
+s4_loc_purgatory_choice_warren	Warren.	t
+s4_loc_purgatory_choice_undertaker	Undertaker.	t
+	Side quests, optional interactions, conditional encounters etc.	
+s4_loc_tomb_matt	Tomb of Matthew the Evangelist	
+s4_loc_tomb_matt_return	You were looking at Matthew's tomb.	
+s4_loc_tomb_matt_desc1	You arrived at a burial place. It was reputed to belong to one of the "Four Evangelists." A gang of four brothers named Mark, Matt, Luke and John.<br><br>	
+s4_loc_tomb_matt_desc2a	A tall, red-clad figure sat on the tomb. He presented himself as Grand Inquisitor Cervantes.<br><br>	
+s4_loc_tomb_matt_desc2b	A disfigured vagrant sat on the tomb. He presented himself as Nekator, a seer.<br><br>	
+s4_loc_tomb_matt_desc3	He told you that, each of the brothers' tombs contained an inscription that told part of their story. If somebody read the story in correct order, it would reveal the location of the gang's stash.	
+s4_loc_tomb_matt_opt1	You asked Cervantes' his business here.	i
+s4_loc_tomb_matt_opt1_result	He said he had been sent by a mutual acquaintance to help with your perilous endeavor.<br><br>Cervantes claimed to be good with a gun and have a way with words. His services were at your disposal if you wanted them, but you had to make your choice now.	
+s4_loc_tomb_matt_opt1_result_opt1	You accepted him onto the team.	g
+s4_loc_tomb_matt_opt1_result_opt2	You declined his offer.	g
+s4_loc_tomb_matt_inscription	Mark was the eldest and the others had always followed his orders. But John harbored a secret bitterness. When they finally tracked down the Masked Doctors responsible for the atrocities, he disobeyed his eldest's command to provide cover.<br>Without his brother's protection, Matthew was riddled by bullets. They buried him here.	
+s4_loc_tomb_mark	Tomb of Mark the Evangelist	
+s4_loc_tomb_mark_desc	Mark's tomb has almost succumbed to the elements, but the inscription was still in good condition.	
+s4_loc_tomb_mark_inscription	The hearse was not carrying the worldly remnants of the departed to distant soil; instead, it contained living human parts, kept alive in jars by electricity and eldritch balms.<br>Mark was resolute, whoever did this must pay. John and Matt disagreed. For the first time, the brothers were divided.	
+s4_loc_tomb_luke	Tomb of Luke the Evangelist	
+s4_loc_tomb_luke_desc	Luke's tomb was adorned with a caduceus - the symbol of medicine.	
+s4_loc_tomb_luke_inscription	John drifted alone, rootless and without purpose. Finally, tired of being outgunned and outnumbered, he decided he could not continue. He was on preparing to take his own miserable life, when Luke returned, bent on reconciliation.<br>He had found some leads on the Masked Doctors and the time to strike was now.	
+s4_loc_tomb_john	Tomb of John the Evangelist	
+s4_loc_tomb_john_desc	The only mark of burial on this pile of red sandstone was the heavy inscription plate.	
+s4_loc_tomb_john_inscription	The brothers fell into disarray. Mark blamed John. John blamed Mark, and Luke, who had always brokered their peace, was powerless to reconcile them. Tempers escalated until John drew on Mark and another brother fell. This time by the hand of his own kin.<br>It was the end of the Evangelists.	
+s4_loc_unmarkedgrave	Unmarked Grave	
+s4_loc_unmarkedgrave_desc	A bland, unmarked grave matched the directions decrypted from the Evangelist tombs inscriptions.<br><br>Your long digging effort was rewarded with findings of substantial material value.	
+s4_tomb_general_opt1	You read the inscription.	i
+s4_tomb_general_opt2	You were ready to read the whole story.	i
+s4_tomb_general_opt3	You left.	x
+s4_tomb_general_title	The Story of the Four Evangelists	
+s4_tomb_general_story_desc1	The beginning of the story was:	
+s4_tomb_general_story_desc2	The second part of the story was:	
+s4_tomb_general_story_desc3	The third part of the story was:	
+s4_tomb_general_story_desc4	The finale of the story was:	
+s4_tomb_general_story_opt1	Matt's story (the test of agility)	g
+s4_tomb_general_story_opt2	John's story (the test of emotion)	g
+s4_tomb_general_story_opt3	Luke's story (the test of recovery)	g
+s4_tomb_general_story_opt4	Mark's story (the test of reaction)	g
+s4_tomb_general_story_success	The letters formed words, and the words formed sentences. They spelled out the location of the Four Evangelists' secret stash.	
+s4_tomb_general_story_failed	Some of the decrypted words made sense, but not enough to decode the location of the stash.	
+s4_tomb_general_story_failed_opt1	You tried again.	g
+s4_loc_fatetrader	Fate Trader	
+s4_loc_fatetrader_desc	You came across a puny dwarf with a battered cart.<br><br>He flashed his toothless smile at you, encouraging you to take a look at his unique wares.	
+s4_loc_fatetrader_desc2	You returned to the dwarf trader.	
+s4_loc_fatetrader_opt1	You browsed his shop.	b
+s4_loc_fatetrader_opt2	You decided to pass this time.	x
+s4_cannibal_encounter	Queer Fellow	
+s4_cannibal_encounter_desc	On your way out, a queer fellow tapped you on the shoulder. He said something about recognizing a fellow connoisseur, then bit hard into your flesh.<br><br>You pushed him away, and he quickly retreated, tipping his hat. For the rest of the day, you had a strange aftertaste in your mouth.	
+s4_native_ambush	Ambush!	
+s4_native_ambush_desc	As you left the area, a sudden shot severely wounded Burns. The sniper was nowhere in sight.<br><br>Another shot missed you by a hair's breadth. This time you spied him and returned fire with dead aim.<br><br>As you approached the sniper's corpse, you saw it was one of the natives from the tribe Burns had massacred. They were now extinct. Wiped from the planet by the twin hand of fate and mankind's wickedness.	
+Wizard's	The Dazzling House of Peculiar and Strange	

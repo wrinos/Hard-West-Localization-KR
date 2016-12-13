@@ -1,0 +1,254 @@
+text_id	en	format
+	scenario 1	
+s1_strl_farm	Cannibal Farm	
+s1_strl_hospital	Hospital	
+s1_strl_ghost_town	Hope	
+s1_strl_grave01	Abandoned Grave	
+s1_strl_grave02	Mossy Grave	
+s1_strl_grave03	Cracked Grave	
+s1_strl_grave04	Lonely Grave	
+s1_strl_grave05	Poor Grave	
+s1_strl_grave06	Grimy Grave	
+s1_strl_grave07	Mucky Grave	
+s1_strl_grave_pinkertons	Pinkerton Grave	
+s1_strl_gunsmith_shop	Gunsmith Shoppe	
+s1_strl_hanged_slave	Hanged Slave	
+s1_strl_hermit_hut	Hermit's Hut	
+s1_strl_indian_tent	Indian Camp	
+s1_strl_indian_totem	Indian Totem	
+s1_strl_miners_house	Excavation Site	
+s1_strl_hidden_manor	Hidden Manor	
+s1_strl_big_tree	Big Tree	
+s1_strl_elixir_trader	Elixir Trader	
+s1_strl_judge_homestead	Homestead	
+s1_strl_grasskand_pasture	Pastures	
+s1_strl_water_tower	Water Tower	
+s1_strl_town	Aspirton	
+s1_strl_outlaw_joint	Kraimer's Inn	
+s1_strl_x_spot	X Mark	
+s1_strl_old_sawmill	Old Sawmill	
+s1_strl_gin_mill	Gin Mill	
+s1_strl_poaching_grounds	Poaching Grounds	
+s1_strl_demons_hideout	Demon's Hideout	
+	scenario 2	
+s2_strl_town	Cooperton	
+s2_strl_gunsmith	Gunsmith	
+s2_strl_opium_den	Opium Den	
+s2_strl_church	Church	
+s2_strl_cave	Cave	
+s2_strl_chinese_trader	Chinese Trader	
+s2_strl_judge_manor	Sanctuary	
+s2_strl_river_town	Wretchport	
+s2_strl_harbor	Harbor	
+s2_strl_trappers_cabin	Trapper Camp	
+s2_strl_indian_village	Indian Village	
+s2_strl_indian_scout	Indian Tent	
+s2_strl_shaman	Shaman Hut	
+s2_strl_trappers_camp	Trappers	
+s2_strl_trade_outpost	Trading Post	
+s2_strl_mine	Devil Banner's Mine	
+s2_strl_Solomons_hideout	Hideout	
+s2_strl_elixir_trader	Gypsies	
+s2_strl_burial_grounds	Burial Grounds	
+s2_strl_altar	Altar	
+s2_strl_outlaw_joint	Outlaw Joint	
+s2_strl_farm	Farm	
+s2_strl_doctor	Doctor	
+s2_strl_brothel	Brothel	
+s2_strl_distillery	Distillery	
+s2_strl_abandoned_mine	Abandoned Mine	
+s2_strl_fort	Fort	
+	scenario 3	
+s3_strl_town1	Town	
+s3_strl_distillery	Distillery	
+s3_strl_plantation	Plantation	
+s3_strl_opiumshop	Opium Den	
+s3_strl_caravan	Caravan	
+s3_strl_sawmill	Sawmill	
+s3_strl_hideout	Swamp Hideout	
+s3_strl_ghosttown	Ghost Town	
+s3_strl_post	Decaying Post	
+s3_strl_guns	Gunsmith	
+s3_strl_hermit	Hermit's Hut	
+s3_strl_station3	Railroad Station	
+s3_strl_gambden	Gambling Den	
+s3_strl_crossroads	Crossroads	
+s3_strl_safeinwood	Safe Location	
+s3_strl_bridge	Bridge	
+s3_strl_fanatics	Hideout	
+s3_strl_coyote	Red Coyote's	
+s3_strl_seamstress	Seamstress' Hut	
+s3_strl_mountain25	Mountains	
+s3_strl_mountain26	Mountains	
+s3_strl_mountain27	Mountains	
+s3_strl_leftwagon	Abandoned Wagon	
+	scenario 4	
+s4_strl_armycamp	Army Camp	
+s4_strl_massacresite	Massacre Site	
+s4_strl_indianvillage	Sacred Grounds	
+s4_strl_wizard	The Wizard	
+s4_strl_vaquero	The Vaquero	
+s4_strl_quack	Quack Wagon	
+s4_strl_brothel	Brothel	
+s4_strl_armymen	Disbanded Armymen	
+s4_strl_nomadshaman	Nomad Shaman	
+s4_strl_church	Church	
+s4_strl_necropolis	Necropolis	
+s4_strl_illegalmines	Illegal Mines	
+s4_strl_orchidhouse	Orchid House	
+s4_strl_tannery	Rojas Tannery	
+s4_strl_cougartrails	Cougar Trails	
+s4_strl_lookouthill	Lookout Hill	
+s4_strl_chapel_mark	Mark's Tomb	
+s4_strl_chapel_matt	Matthew's Tomb	
+s4_strl_chapel_luke	Luke's Tomb	
+s4_strl_chapel_john	John's Tomb	
+s4_strl_evangelist_stash	Evangelists' Stash	
+s4_strl_grimboatman	Grim Boatman	
+s4_strl_deatharchive	Purgatory	
+	scenario 5	
+s5_strl_l1_lab	Laboratory	
+s5_strl_l2_workshop	Workshop	
+s5_strl_l3_asylum	Asylum	
+s5_strl_cp5_station1	Railroad Station	
+s5_strl_cp6_crater	Crater	
+s5_strl_l6_ghosttown	Ghost Town	
+s5_strl_l7_gunsmith	Gunsmith	
+s5_strl_l8_mine	Mine	
+s5_strl_l9_ruinedmansion	Ruined Mansion	
+s5_strl_l10_indian	Indian Village	
+s5_strl_l11_trapper	Traveller	
+s5_strl_l12_house_of_mad	Inhabited House	
+s5_strl_l13_battleground	Battleground	
+s5_strl_l14_ranch	Ranch	
+s5_strl_l15_circus	Circus	
+s5_strl_l16_artist	Reeked House	
+s5_strl_l17_camp	Old Camp	
+s5_strl_l18_pharmacy	Pharmacy	
+s5_strl_l19_clock	Giant Clock	
+s5_strl_l20_swamp	Swamp	
+s5_strl_l21_seer	Seer Hut	
+s5_strl_l22_nitro_factory	Factory	
+s5_strl_l23_trading_post	Trading Post	
+s5_strl_l24_burned_fort	Burned Fort	
+s5_strl_l25_dried_swamp	Dried Swamp	
+s5_strl_l26_dame	Dam	
+s5_strl_l27_derailed	Derailed Train	
+s5_strl_l28_shaft1	Heldelanse Shaft	
+s5_strl_l28_shaft3	Eriksson Shaft	
+s5_strl_fatetrader	Fate Trader	
+s5_strl_l32_orchard	Arcadian Orchard	
+	scenario 6	
+s6_strl_hunting_grounds	Hunting Grounds	
+s6_strl_old_sawmil	Old Sawmill	
+s6_strl_farmhouse	Farm House	
+s6_strl_crossing	Old Docks	
+s6_strl_toolshop	Trapper Shop	
+s6_strl_wreckage	Wreckage	
+s6_strl_camp	Camp	
+s6_strl_border_village	Village	
+s6_strl_gunshop	Gunsmith	
+s6_strl_damaged_dam	Dam	
+s6_strl_old_bones	Massacre Site	
+s6_strl_abandoned_settlement	Settlement	
+s6_strl_hideout	Village	
+s6_strl_mansion	Mansion	
+s6_strl_outpots	Outpost	
+s6_strl_abandoned_mine	Mine	
+s6_strl_bandits_fort	Fort	
+s6_strl_burried_wagon	Abandoned Wagon	
+s6_strl_excavation_site	Excavation Site	
+s6_strl_mission_ruins	Mission Ruins	
+s6_strl_old_cementery	Old Cemetery	
+s6_strl_chapel	Chapel	
+s6_strl_barrow1	Eastern Barrow	
+s6_strl_barrow2	Southern Barrow	
+s6_strl_barrow3	Western Barrow	
+s6_strl_blocked_passage	Passage	
+s6_strl_ballcourt	Ballcourt	
+s6_strl_last_camp	Camp	
+s6_strl_huts	Huts	
+s6_strl_tomb	Tomb	
+s6_strl_tomb1	Tomb of Nature	
+s6_strl_tomb2	Tomb of Creation	
+s6_strl_tomb3	Tomb of Man	
+s6_strl_tzompantli	Tzompantli	
+s6_strl_temple	Temple	
+s6_strl_fatetrader	Fate Trader	
+s6_strl_riverbank_west	Western Riverbank	
+s6_strl_riverbank_east	Eastern Riverbank	
+s6_strl_riverbank_north	Riverbank	
+s6_strl_western_pass	Western Pass	
+s6_strl_eastern_pass	Eastern Pass	
+s6_strl_wellspring	Wellspring	
+	scenario 7	
+s7_strl_well	Well	
+s7_strl_trade_outpost	Trade Outpost	
+s7_strl_crossroads	Crossroads	
+s7_strl_watermill	Watermill	
+s7_strl_orchard	Orchard	
+s7_strl_town	Town	
+s7_strl_shady_joint	Shady Joint	
+s7_strl_forest_entrance	Forest Entrance	
+s7_strl_slave_fugitive	Slave Fugitive	
+s7_strl_barn	Barn	
+s7_strl_silo	Silo	
+s7_strl_railroad_builders_town	Railroad Builders	
+s7_strl_stud	Stud	
+s7_strl_large_farm	Large Farm	
+s7_strl_fur_trader	Fur Trader	
+s7_strl_meadow	Meadow	
+s7_strl_mexican_town	Mexican Town	
+s7_strl_fortune_teller	Fortune Teller	
+s7_strl_homestead	Homestead	
+s7_strl_church	Church	
+s7_strl_tannery	Tannery	
+s7_strl_neighbours_house	Neighbors' House	
+s7_strl_workshop	Workshop	
+s7_strl_toolshed	Toolshed	
+s7_strl_crevice	Crevice	
+s7_strl_collapsedmine	Collapsed Mine	
+s7_strl_smallbridge	Smallbridge house	
+s7_strl_mine1	Ugly Ditch	
+s7_strl_mine2	Ford's Shaft	
+s7_strl_mine3	Damp Mine	
+s7_strl_mine4	Excavation Field	
+s7_strl_mine5	Dalton's Site	
+s7_strl_mine6	Shovel Pit	
+s7_strl_mine7	Treasure Trove	
+s7_strl_mine8	The Bonanza	
+s7_strl_mine9	The Dig	
+s7_strl_mine10	Carter's Mining Op.	
+s7_strl_mineoffice1	Prospectors' Camp	
+s7_strl_mineoffice2	Excavation Company	
+s7_strl_mineoffice3	Gold Mine Office	
+s7_strl_mineoffice4	Hydraulic Mining	
+s7_strl_mineoffice5	Pharmaceuticals Shop	
+s7_strl_mineoffice6	Dilapidated Mining Company	
+s7_strl_mineoffice7	Mining Partnership	
+	scenario 8	
+s8_strl_ferryman	Ferry	
+s8_strl_sonorainn	Sonora Inn	
+s8_strl_banksofcolorado	Riverbank	
+s8_strl_smugglerboat	Smuggler Boat	
+s8_strl_developingtown	Adelante	
+s8_strl_crashedcoach	Crashed Stagecoach	
+s8_strl_hospital	Hospital	
+s8_strl_armyfort	Mexican Army Fort	
+s8_strl_gamblingden	Gambling Den	
+s8_strl_shipwreck1	Moldy Shipwreck	
+s8_strl_shipwreck2	Lonesome Shipwreck	
+s8_strl_shipwreck3	Derelict Shipwreck	
+s8_strl_miningsite	Mining Site	
+s8_strl_pilgrim	Pilgrimage	
+s8_strl_calacashrine	Calaca Shrine	
+s8_strl_trainyard	Trainyard	
+s8_strl_receptionhall	Reception Hall	
+s8_strl_matronresidence	Hacienda Garcia-Pimentel	
+s8_strl_protectormansion	Lafortuna Residence	
+s8_strl_harbor	Harbor	
+s8_strl_machoranch	Hacienda Rossetti	
+s8_strl_lakehideout	Hardin's Hideout	
+s8_strl_sanitarium	Protector's Island	
+	demo	
+s0_strl_tempname	Location	

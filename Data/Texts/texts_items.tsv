@@ -1,0 +1,182 @@
+text_id	en	format
+	Final list of items	
+snuff	Snuff	
+snuff_name	Snuff	
+snuff_desc	A mix of powdered tobacco and spices. Revitalizing.<br>Improves Movement.	
+tobacco	Tobacco	
+tobacco_name	Tobacco	
+tobacco_desc	One of the many riches of the New World, boasting calming effect on body and mind.<br>Improves Aim.	
+ginseng	Ginseng	
+ginseng_name	Ginseng	
+ginseng_desc	An import from the mountains of Asia with incredible medicinal properties.<br>Improves Sight.	
+dexterity_elixir	Dexterity Elixir	
+dexterity_elixir_name	Dexterity Elixir	
+dexterity_elixir_desc	A blackish, viscuous liquid with a horrid aftertaste.<br>Improves Defense.	
+liquoir	Bottle of Liquor	
+liquoir_name	Bottle of Liquor	
+liquoir_desc	Ethanol has countless applications, including anesthetic.<br>Increases Maximum HP.	
+shaman_pipe	Shaman's Pipe	
+shaman_pipe_name	Shaman's Pipe	
+shaman_pipe_desc	A wooden pipe filled with an unusual mix of herbs and spices.<br>Increases Maximum Luck.	
+vitality_elixir	Vitality Elixir	
+vitality_elixir_name	Vitality Elixir	
+vitality_elixir_desc	The list of ingredients contains mostly incomprehensible (or nonexistent) Latin words.<br>Grants healing over time.	
+healing_elixir_name	Healing Elixir	
+healing_elixir_desc	Either a healing tonic, or a bottle of horse piss.<br>Restores full Health.	
+eagle_elixir	Eagle Elixir	
+eagle_elixir_name	Eagle Elixir	
+eagle_elixir_desc	A mysterious concoction that everyone uses, but no one asks what it is.<br>Grants superior Aim for a short time.	
+healing_root_name	Mandrake Root	
+healing_root_desc	The root of a medicinal plant.<br>Provides an immediate Luck boost.	
+blood_berry	Blood Berry	
+blood_berry_name	Blood Berry	
+blood_berry_desc	Berries known to be eaten by wolves and other predators.<br>Improve Luck and Defense.	
+stimulant	Stimulant	
+stimulant_name	Stimulant	
+stimulant_desc	Experimental pharmaceuticals developed for in-field emergencies.<br>Improves Movement at the cost of Maximum HP.	
+opium	Dose of Opium	
+opium_name	Dose of Opium	
+opium_desc	A powerful narcotic made from poppy head latex.<br>Debilitates Movement, but improves HP and Luck.	
+coca_leaves	Coca Leaves	
+coca_leaves_name	Coca Leaves	
+coca_leaves_desc	Southern American plant known for its stimulating properties.<br>Greatly improves Movement.	
+poison_vial	Poison Vial	
+poison_vial_name	Poison Vial	
+poison_vial_desc	A vial of vile poison.<br>Causes damage over time, but improves Aim.	
+healing_powder	Mandrake Powder	
+healing_powder_name	Mandrake Powder	
+healing_powder_desc	A portion of powdered ingredients of dubious origin.<br>Restores Luck over time.	
+dried_meat	Dried Meat	
+dried_meat_name	Dried Meat	
+dried_meat_desc	A generous portion of traditional beef jerky.<br>Increases Maximum HP.	
+doctor_bag_name	Medical Bag	
+doctor_bag_desc	A set of state of the art medical equipment for treating injuries.<br>Provides an immediate Health boost.	
+revealer	Revealer	
+revealer_name	Revealer	
+revealer_desc	A foul-smelling mixture of toxic chemicals. Do not swallow.<br>Improves Sight at the cost of Maximum HP.	
+dried_healing_herbs	Dried Healing Herbs	
+dried_healing_herbs_name	Dried Healing Herbs	
+dried_healing_herbs_desc	Bunches of medicinal plants, dried in hot air.<br>Grant healing over time.	
+ghost_town_fruits	Ghost Town Fruit	
+ghost_town_fruits_name	Ghost Town Fruit	
+ghost_town_fruits_desc	These fruit that are either an unknown plant species, or a gift from heavens.<br>Regenerate Luck in combat.	
+gas_bomb	Gas Bomb	
+gas_bomb_name	Gas Bomb	
+gas_bomb_desc	A canister of noxious gas, employed for pacification purposes.<br>Causes damage over time in all caught in the blast.	
+angelic_sphere_name	Angelic Sphere	
+angelic_sphere_desc	Little is known about the contents or the makers of these carved glass containers.<br>Restores HP to allies in radius.	
+noise_bomb	Noise Bomb	
+noise_bomb_name	Noise Bomb	
+noise_bomb_desc	The loud BANG! is virtually the only thing the enemy can focus on.<br>Decreases Aim and Defense for everyone in radius.	
+relic	Relic	
+relic_name	Relic	
+relic_desc	Priceless relics have a soothing effect on all witnessing their mindless destruction.<br>Grants healing over time to allies in radius.	
+petrified_bolt	Petrification Bolt	
+petrified_bolt_name	Petrification Bolt	
+petrified_bolt_desc	A dart of some sort containing a strong sedative.<br>Deals minor damage and debilitates enemy Movement.	
+nail_bomb_name	Nail Bomb	
+nail_bomb_desc	A stick of dynamite refitted with nine inch nails for extra damage.<br>Deals damage to everyone in radius.	
+stun_bomb	Stun Bomb	
+stun_bomb_name	Stun Bomb	
+stun_bomb_desc	The explosion is loud and flashy, and throws enemies off-balance.<br>Debilitates enemy Movement and Aim.	
+meteor_dust_bomb	Meteor Dust Bomb	
+meteor_dust_bomb_name	Meteor Dust Bomb	
+meteor_dust_bomb_desc	In addition to a loud, flashy explosion, meteor dust exudes its aura to stun enemies.<br>Debilitates enemy Movement, Aim and Sight.	
+sturdy_shoes_name	Sturdy Shoes	
+sturdy_shoes_desc	Boots of thick leather crafted by a talented shoemaker.	
+bone_amulet_name	Bone Amulet	
+bone_amulet_desc	Random bones on a string that somebody put too much faith in.	
+weird_monocle_name	Weird Monocle	
+weird_monocle_desc	A state-of-the-art optical device. Elite marksmanship had never been so accessible.	
+piercing_ammo_name	Piercing Ammo	
+piercing_ammo_desc	Experimental ammunition developed during pioneer ballistic tests.	
+old_indian_cloth_name	Old Indian Cloth	
+old_indian_cloth_desc	A worn & torn piece of cloth of dubious artistic value.	
+blood_talisman_name	Blood Talisman	
+blood_talisman_desc	A big, blood red crystal. It seems to have pulse.	
+lucky_horseshoe_name	Lucky Horseshoe	
+lucky_horseshoe_desc	This Lucky Horseshoe grants 20% more luck than regular horseshoes.	
+voodoo_talisman1_name	Ojo del Muerto	
+voodoo_talisman1_desc	A talisman with a fallen gunslinger's eye embedded in it.	
+voodoo_talisman2_name	Spirit Head	
+voodoo_talisman2_desc	Home to a particularly talkative spirit of an old witch doctor.	
+voodoo_talisman3_name	Oxen Skull	
+voodoo_talisman3_desc	Oxen skull on a string of obsidians. It looks magical.	
+lucky_coin_name	Lucky Coin	
+lucky_coin_desc	Surviving several hundred years is lucky, even by coin standards.	
+coyote_mark_name	Coyote Mark	
+coyote_mark_desc	Highly stylized piece of tribal art with spiritual significance of some sort.	
+blood_stained_shirt_name	Blood-Stained Shirt	
+blood_stained_shirt_desc	Almost new, just stained with blood a little here and there.<br>Protects from crippling injuries.	
+snake_leather_boots_name	Snake Leather Boots	
+snake_leather_boots_desc	Boots can hardly get any more stylish.	
+holy_amulet_name	Holy Amulet	
+holy_amulet_desc	A golden crucifix from an exquisite craftsman.	
+ear_necklace_name	Ear Necklace	
+ear_necklace_desc	The dead lend their ears. Hear your enemies.	
+bulletproof_vest_name	Bulletproof Vest	
+bulletproof_vest_desc	Modern-day armor made of layers of skin and iron.	
+ocular_name	Ocular	
+ocular_desc	An experimental aiming aid, if you know how to squint.	
+dreamcatcher_name	Dreamcatcher	
+dreamcatcher_desc	An amulet inspired by tribal handicraft.<br>Protects from negative bomb effects.	
+skin_vest_name	Skin Vest	
+skin_vest_desc	The vest is thick and durable, and made of human skin.	
+candle_of_dead_name	Candle of the Dead	
+candle_of_dead_desc	This ordinary wax candle doesn't seem to melt or go out.	
+doomsday_watch_name	Doomsday Watch	
+doomsday_watch_desc	A miniature device counting time towards judgment day.	
+rabbit_foot_name	Rabbit Foot	
+rabbit_foot_desc	A rabbit limb used as a lucky charm.	
+eagle_figurine_name	Eagle Figurine	
+eagle_figurine_desc	A wooden figurine of an eagle symbolizing superior aim.	
+coyote_figurine_name	Coyote Figurine	
+coyote_figurine_desc	A wooden figurine of a coyote symbolizing superior speed.	
+bear_figurine_name	Bear Figurine	
+bear_figurine_desc	A wooden figurine of a bear - symbolizing superior endurance.	
+vulture_figurine_name	Vulture Figurine	
+vulture_figurine_desc	A wooden figurine of a vulture - symbolizing superior eyesight.	
+cassandras_talisman	Tournament Trophy	
+cassandras_talisman_name	Tournament Trophy	
+cassandras_talisman_desc	This beautiful piece of jewellery is Cassandra's lucky charm.<br>Regenerates luck in combat.	
+loaded_dice_name	Loaded Dice	
+loaded_dice_desc	A lucky charm and gambling aid in one.	
+cursed_ammo_name	Cursed Ammo	
+cursed_ammo_desc	Allegedly, Horsemen of the Apocalypse standard issue.	
+cursed_serpent_name	Serpent Amulet	
+cursed_serpent_desc	When holding this amulet, you can hear faint hissing in the background.	
+cash_name	Cash	
+cash_desc	The legal tender of the Old West.	
+gold_name	Gold Nuggets	
+gold_desc	Pieces of pure gold.	
+food_portion_name	Food Portion	
+food_portion_desc	Beff jerky, beans and corn. A day's meal for one man.	
+wood_name	Bale of Wood	
+wood_desc	Just what it says on the tin.	
+tools_name	Tools	
+tools_desc	A set of mining tools.	
+blueprint_name	Blueprint	
+blueprint_desc	A set of schematics for new technology.	
+mechanical_parts_name	Assorted Parts	
+mechanical_parts_desc	Assorted machine parts for versatile repairs.	
+plans_name	Plans	
+plans_desc	Detailed architectural drawings of a monumental construction.	
+trumercliff_notes_name	Trumercliff's Notes	
+trumercliff_notes_desc	A set of seemingly random, meaningless notes.	
+	shootable objects	
+shootable_s8_pigeon_cage	Pigeon Cage	
+shootable_bottle	Blood Vial	
+	ricochet objects	
+ricochet_object_anvil	Anvil	
+ricochet_object_aztecvase	Native Vase	
+ricochet_object_bucket	Bucket	
+ricochet_object_cauldron	Cauldron	
+ricochet_object_milkcan	Milk Can	
+ricochet_object_grinder	Grinder	
+ricochet_object_stove	Stove	
+ricochet_object_washtub	Wash Tub	
+ricochet_object_bell	Bell	
+ricochet_object_crucible	Crucible	
+ricochet_object_urn	Urn	
+ricochet_object_washboard	Washboard	
+ricochet_object_waterpump	Water Pump	

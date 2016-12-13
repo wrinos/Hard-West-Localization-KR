@@ -1,0 +1,433 @@
+text_id	en	format
+	Global	
+scen_06	In Gold We Trust	
+scen_06_name	Alvaro Vasquez went on an adventure that had consequences no one could have forseen.	
+6_1_FarmCamp_name	Having evaded capture it was up to Alvaro Vasquez to save his companions.	
+6_2_LandingSite_name	Vasquez needed to hold Lafórtuna's men at bay until the rafts were loaded.	
+6_3_BanditsFort_name	The men snuck toward the fort and prepared for their strike.	
+6_4_NightmareRuins_name	Diego would pay for his treachery in blood.	
+6_5_NightmareEldoradoGates_name	As they walked up the incredibly long stairs, Vasquez wondered what reward awaited him.	
+	Objectives	
+	Counters	
+s6_bracket_left	(	
+s6_of_tools_delivered	of 5 delivered)	
+s6_of_wood_delivered	of 40 delivered)	
+	Objectives Tactical 1	
+s6_t1_freeposse	Open the door to Diego's cell to free him	
+s6_t1_freetutor	Kill or subdue the guard to free Zacarías	
+s6_t1_ free_inquisitor	Kill or subdue Cervantes's guards	
+s6_t1_getbetterweapons	Procure better weapons (Optional)	
+s6_t1_clearcamp	Clear the camp of bandits	
+	Strategic objectives before crossing river	
+s6_getsupplies	Acquire provisions	
+s6_getmanpower	Hire manpower	
+s6_camp_briefing	Assemble at the camp	
+s6_crossing	Use scouts to find a way to cross the river	
+s6_get_wood	Obtain 40 pieces of wood (	
+s6_get_wood_p2	of 40 collected)	
+s6_cross_river	Cross the river	
+s6_send_cervantes	Send the Inquisitor to safety	
+s6_heal_cervantes	Tend to the Inqusitor's wounds	
+	Objectives Tactical 2	
+s6_t2_holdoff	Hold off bandits until basic provisions are loaded	
+s6_t2_holdoff_bonus	Hold off bandits until additional provisions are loaded	
+s6_t2_supplies	Heal yourself using medical supplies	
+s6_t2_flee	Escape	
+	Strategic objectives after crossing river	
+s6_findvalleypass	Send scouts from your camp to find a passage through the valley	
+s6_inspect_outpost	Inspect the outpost	
+s6_take_outpost	Take the outpost by force	
+s6_attackbanditcamp	Take the fort to the North	
+s6_deploy_west	Deploy peons at the Western mountain pass	
+s6_deploy_east	Deploy peons at the Eastern mountain pass	
+	Objectives Tactical 3	
+s6_t3_kill_all	Defeat all the natives	
+s6_t3_kill_guards_quickly	Dispose of the guards before reinforcements arrive	
+s6_t3_reinforcements_west	Time until reinforcements arrive from the West:	
+s6_t3_reinforcements_east	Time until reinforcements arrive from the East:	
+s6_t3_turns	turns	
+	Strategic objectives in olmec turf	
+s6_assemble_at_mission	Set up camp at the mission ruins	
+s6_excavate	Finish the excavation	
+s6_exterminate	Slaughter the natives in the barrows	
+s6_chapel	Inspect the chapel revealed to the East	
+s6_return_to_mission	Punish the traitor	
+	Objectives Tactical 4	
+s6_t4_freeman	Reach O'Connell before he bleeds out	
+s6_t4_findfriend	Find Diego	
+s6_t4_killfriend	Kill Diego	
+s6_t4_killrebels	Finish off the marauders	
+s6_t4_killattackers	Kill the attackers	
+	Strategic objectives in final valley	
+s6_pursue_peons	Pursue the cowards	
+s6_cross_passage	Cross the blocked passage	
+s6_clues	Gain information about reaching the temple	
+s6_tzompantli	Solve the riddle of the tzompantli	
+s6_enter_temple	Enter the temple	
+	Objectives Tactical 5	
+s6_t5_killtutor	Kill Zacarías	
+s6_t5_entereldorado	Vasquez must enter the City	
+s6_checkchapel	Inspect the chapel	
+s6_getthroughmountains	Clear the mountain passage to get through	
+	Exploration prompts	
+	Frequent location texts and elements	
+s6_provisions	Provisions	
+s6_noresources	None	
+s6_peons	Peons	
+s6_peonslost	were lost	
+s6_peonsinjured	were injured	
+s6_peonssick	were sick	
+s6_injured	injured	
+s6_hunt_desc	Vasquez decided that there was need for provisions	
+s6_heal_desc	Vasquez checked everyone for injuries	
+s6_noman	Not enough manpower	
+s6_noman_desc	It seemed Vasquez didn't have enough Peons at his disposal.	
+s6_noprovisions	Not enough provisions	
+s6_noprovisions_desc	With insufficient provisions, Vasquez risked exhausting the Peons.	
+s6_sick	Sick Peons	
+s6_sick_desc	During work	
+s6_sick_desc2	The Peons were sick from exhaustion	
+s6_hunt_success	The hunt was a success and the men returned with food.	
+s6_hunt_fail	The hunt ended in a failure and the men returned empty-handed.	
+s6_scout_fail	The men failed to discover anything useful.	
+s6_insufficient_provisions	The expedition lacked the provisions required for such an action. Vasquez could force the peons to proceed anyway but it would increase the risk.	
+s6_healing_title	Lazaret	
+s6_healing_desc_posse	Some members of the posse had suffered major injuries which required treatment.	
+s6_healing_desc_posse_all_good	None of the posse had any major ailments.	
+s6_healing_desc_peons	Sick or injured peons at the camp were not able to perform any tasks unless given medical treatment and extra rations. [%0] of the camp was currently sick or injured.	
+s6_healing_all_good	All the peons were in good health and did not require any medical attention.	
+s6_peons_injured	peons suffered a major injury or illness.	
+s6_peons_died	peons died or abandoned the expedition.	
+s6_hero_injured	suffered a major injury.	
+s6_enough_cash	Zacarías recommended focusing on other tasks now. The expedition's gold reserves were large enough.	
+s6_enough_food	Zacarías said acquiring more food was a waste of time. There was more food at the camp than they could  consume before it spoiled.	
+s6_enough_peons	Zacarías recommended not hiring any more peons for now. The camp could barely sustain the current number.	
+	Locations before crossing river	
+s6_fatetrader_first_title	Fate Trader	
+s6_fatetrader_first_desc	Far from civilization they stumbled on an odd but inviting stand manned by an ancient, toothless dwarf. He invited them to peruse his eclectic assortment of wares.	
+s6_fatetrader_first_desc_alcohol	The dwarf's gnarled hands revealed several bottles of whiskey, which he handed to Vasquez. He refused all payment for them, insisting that "fate has to take its course. Though we do get our share of freedom." The men were confused but accepted graciously.	
+s6_village_title	Border Village	
+s6_village_desc	This small village was plagued by poverty. Its desperate inhabitants welcomed any opportunity to earn a little cash.	
+s6_village_desc_hire_first_peons	The poverty-stricken village seemed like a good place to acquire manpower. 50 men expressed willingness to join the expedition and serve as Vasquez's peons. They asked for $500 in return. It was a princely sum, but they knew the expedition did not have a choice.	
+s6_village_desc_peons_leader_intro_p1	After the transaction, a man who had been watching from afar approached the posse and offered his gun and his leadership. Said his name was David O'Connell and that he knew the locals well.	
+s6_village_desc_peons_leader_intro_p2	He replied that adventure was its own reward, but that he wouldn't say no to a piece of whatever wealth the expedition turned up. When Vasquez asked how he could be sure O'Connell wasn't one of Lafortuna's hired guns, the stranger replied, "They'll vouch for me," pointing to several of Lafortuna's men hanging from a tree.	
+s6_village_desc_peons_leader_intro_p3	Zacarías thought it was risky. Diego just shrugged and said they were doomed either way. Vasquez agreed to let O'Connell join, not hiding his enthusiasm. O'Connell assured them they would be glad of his company.	
+s6_village_desc_hire_extra_peons	There were ten more men willing to join Vasquez for an additional $100.	
+s6_village_desc_extra_peons_hired	They accepted the money and joined Vasquez' quest.	
+s6_farmhouse_title	Local farmhouse	
+s6_farmhouse_desc	In the wilderness they found a run-down but still operational farm. When they approached, the farmers leveled guns at the group, but Diego found the right words to allay their fears. Still, the farmers were anything but hospitable.	
+s6_farmhouse_desc_buy_first_provisions	The owner's son made a single offer and did not tolerate any attempts to haggle. $300 for a pile of food he specified by pointing his gun at it.	
+s6_farmhouse_desc_first_provisions_bought	The man accepted the money and walked off, saying they could come back later if they needed more.	
+s6_farmhouse_desc_buy_exra_provisions	The unfriendly man from before greeted them with a gun resting on his shoulder. $100 for the whole stack (worth 10 provisions).	
+s6_farmhouse_desc_extra_provisions_bought	Vasquez paid up and the peons brought the food back to camp.	
+s6_camp1_title	Camp	
+s6_camp1_intro	Vasquez told his men to set up camp in the ruins. The group's new goal was to find a way to cross the river. Meanwhile, the Inquisitor's state was worsening. They would need to patch him up and send him back before moving on.	
+s6_camp1_desc	The expedition's current main camp, where all the supplies and peons were located, along with any injured men.	
+s6_camp1_desc_scout	Scouts could be sent to explore the area.	
+s6_camp1_desc_hunt	Vasquez considered send some of the peons to hunt in the area around the camp. While the area was relatively safe, animals were not very plentiful.	
+s6_camp1_desc_cervantes_not_healed	Feverish and riddled with open wounds, Cervantes muttered darkly about angels and demons as he twisted in a puddle of blood and sweat. They could have sent him off in this state, but having Zacarías patch him up first would be the smarter option.	
+s6_camp1_desc_cervantes_healed	Cervantes was resting now. His condition was better now that Zacarías had done some work on him, but he was still in no state to continue the journey.	
+s6_toolshop_title	Trapper shop	
+s6_toolshop_desc	The shop offered a variety of weapons and equipment.	
+s6_shipwreck_title	Wrecked Steamboat	
+s6_shipwreck_desc	A wrecked steamboat could be found on the riverbank. It looked to have been there several years. Though it had long since been looted, it could be dismantled for raft wood.	
+s6_shipwreck_desc_disassemble_success	Within hours, every usable piece of wood had been removed from the shipwreck.	
+s6_shipwreck_desc_disassemble_fail	As the men were taking the boat apart, it became unstable and collapsed. The peons panicked and fled the scene.	
+s6_sawmill_title	Old Sawmill	
+s6_sawmill_desc	The group found an old abandoned sawmill near the woods. Though it had not been used in years, it could still be of use to Vasquez's expedition.	
+s6_sawmill_desc_sawmill_searched	While most of what they found in the building was useless, they did find a few tools that would help them build rafts.	
+s6_sawmill_desc_search_woods	Vasquez considered sending men to search the nearby woods for anything useful (other than food). Six men were required for an effective search party. Odds were that all of them would make it home safe.	
+s6_sawmill_desc_search_woods_success	During their search the men found a weapon left behind by either a careless hunter or a bandit. It wasn't the best weapon they'd seen, but a useful find nonetheless.	
+s6_sawmill_desc_search_woods_fail	The men returned empty-handed.	
+s6_sawmill_desc_cut_wood	Vasquez considered sending men to cut wood for the rafts. It would require ten men and there was risk of serious injury as the men had little experience as lumber jacks.	
+s6_sawmill_desc_cut_wood_success	The men returned with a decent amount of wood.	
+s6_sawmill_desc_cut_wood_fail	The operation was an utter failure. The men failed to bring back any wood.	
+s6_sawmill_desc_hunt	The nearby woods sheltered a decent amount of wildlife as well as some wild berries. Eight men would be needed to forage for food, but they would probably make it home safely.	
+s6_docks_title	Old Docks	
+s6_docks_desc	The party found a set of old docks in a perfect location. Here they could construct their rafts and launch them to get to the other side. First the necessary supplies needed to be brought here, however.	
+s6_docks_desc_ready	Everything was in place. They could start the operation soon. Constructing the rafts and loading the men and supplies onto them would take time, however. And Vasquez had a feeling that they had been noticed. He and his posse prepared to stand guard while the peons built and loaded the rafts. O'Connell suggested that he could supervise the peons instead of standing guard.	
+s6_docks_desc_cervantes	All preparations for crossing the river had been made, but Cervantes was still lying half-dead back at the camp. Vasquez refused to cross the river before making sure that the suffering Inquisitor made it safely out of these forsaken lands.	
+s6_river_bank_title	River Bank	
+s6_river_bank_desc	This spot looked suitable for mining gold from the river.	
+s6_river_bank_peons_mined_success	The peons successfully mined some gold.	
+s6_river_bank_peons_mined_failure	After several hours of trying the peons ended up empty-handed.	
+s6_river_bank_heroes_mined_success	Vasquez and his men successfully mined some gold.	
+s6_river_bank_heroes_mined_failure	The posse had to stop their mining attempts when one of them was injured.	
+s6_river_bank_west_desc	This desolate spot looked suitable for gold mining but the waters were infested with alligators. Mine here might be worth the risk, however.	
+s6_river_bank_west_peons_mined_success	The peons successfully mined some gold.	
+s6_river_bank_west_peons_mined_failure	Alligators attacked the peons, forcing them to flee.	
+s6_river_bank_west_heroes_mined_success	Vasquez and his men successfully mined some gold.	
+s6_river_bank_west_heroes_mined_failure	Alligators attacked Vasquez and his men, who barely got away with their lives.	
+	Locations after crossing river	
+s6_fatetrader_second_title	Fate Trader	
+s6_fatetrader_second_desc	How this strange creature managed to move its stand across the river or why it thought that manning a shop  in the desert was a good idea was anyone's guess. All they knew was that the tiny madman was again inviting them to shop from his wares.	
+s6_remains_title	Scattered Remains	
+s6_remains_desc	The site was covered with hundreds of dead bodies. Judging by their state, the bodies had been there for decades. Vasquez had no idea what caused their demise and felt uneasy disturbing the remains.	
+s6_remains_buried	After many grim hours, all the bodies were buried. The men stood in silence looking at the hastily-made graves. Vasquez felt a certain satisfaction knowing he had treated the dead with the respect they deserved. A pleasant breeze came from the North. Absurd though it might seem, he firmly believed  it was a reward for his good deed.	
+s6_remains_searched	The men quickly but thoroughly checked the entire site, finding a fair amount of valuables among the bodies. Suddenly they heard a single thunderclap from the North that sounded like a monstrous growl. Vasquez assured the men it was nothing, but in truth he was uneasy with his decision. Suddenly he was overcome with weakness.	
+s6_dam_title	Damaged Dam	
+s6_dam_desc	The dam had been constructed during more prosperous days, but now was in a terrible state and barely did its job. Someone had left a few buckets here.	
+s6_dam_desc_water_taken	The peons filled the buckets with water. This was no easy feat, as the buckets were in almost as bad a state as the dam. That explained why the former owners had left them behind. The peons procured a decent amount of water, but a second run was out of the question.	
+s6_outpost_title	Old Outpost	
+s6_outpost_desc_first	The old military outpost appeared abandoned from the outside.	
+s6_outpost_desc	The old military outpost had been taken over by bandits. It was heavily defended and would need to be taken by force.	
+s6_outpost_desc_take_success	Inside, the peons took a group of armed men by surprise. The peons easily overpowered them. forcing them into surrender. Vasquez followed his men into the building and asked for their leader.	
+s6_outpost_desc_take_fail	As the peons approached the outpost, guns blazed at them from the windows. Sitting ducks, they fled in horror.	
+s6_outpost_desc_attack_success	At the price of several more peon lives, the bandits were finally overpowered. Vasquez followed his men into the building and asked to see their leader.	
+s6_outpost_desc_attack_fail	The attempted attack ended in a massacre. The peons didn't even come close to the outpost before they were cut down like wheat, the few survivors fleeing in horror.	
+s6_outpost_aftermath	A handsome, well-dressed man revealed himself to Vasquez, laughing at the "misunderstanding" that had just taken place. He introduced himself as famous adventurer Victor Suncove. He said his expedition had been attacked by a strange people with a native complexion but European dress. He had been holed up here ever since.	
+s6_outpost_aftermath_p3	Suncove proposed that he and his remaining men join Vasquez. He knew that their way led through an old fort held by natives and had developed a plan for getting past it. He knew when the fewest guards would be there as well as how to cripple the reinforcements. Vasquez accepted his offer.	
+s6_mansion_title	Old Mansion	
+s6_mansion_desc	The mansion had once been magnificent, but now its interior was ruined and caked in dust. The men couldn't think who might have built it in such a place. There might be useful items inside, but inspecting it posed a risk.	
+s6_mansion_search_success	The men successfully searched the building. They found a decent weapon alongside some valuable items.	
+s6_mansion_search_fail	As the men were searching the building, a large chunk of the ceiling collapsed under its own weight, sending everyone running for their lives.	
+s6_mine_title	Abandoned Mine	
+s6_mine_desc	Beneath the mountain ridge they stumbled upon an abandoned gold mine. It seemed the miners had left in a hurry, as much of their equipment remained. Vasquez considering ordering the peons to mine for gold so he could recruit more men, but realized it would be risky.	
+s6_mine_desc_success	The mining operation was a success. The men came back with a fair amount of gold.	
+s6_mine_desc_fail	As the men worked, a section of the mine collapsed. Those that survived left everyhing behind and ran.	
+s6_fort_title	Old Fort	
+s6_fort_desc	Ahead of them lay an old fort, now being used by the hostile natives. If Suncove's observations were correct, there were few guards stationed at the complex now, but reinforcements would arrive quickly if any combat started. If he could make a small but decisive strike, Vasquez and his companions could take the fort, but it would require wits and precision. They all knew that maximum preparation before attacking would serve them well.	
+s6_western_mountain_pass_title	Western Mountain Pass	
+s6_western_mountain_pass_desc	The western mountain pass led to the western guard post, closer to the fort. By deploying peons here, a parallel strike could be launched alongside the main assault.	
+s6_western_mountain_pass_desc_men_positioned	Twenty men were sent to take positions behind some rocks near the western guard post.	
+s6_eastern_mountain_pass_title	Eastern Mountain Pass	
+s6_eastern_mountain_pass_desc	The eastern mountain pass led to the eastern guard post, which was somewhat further away from the fort. By deploying peons here, a parallel attack could be launched alongside the main assault.	
+s6_eastern_mountain_pass_desc_men_positioned	Twenty men were sent to take positions on the mountain pass above the eastern guard post.	
+s6_riverside_title	River Bank	
+s6_riverside_desc	This stretch of river looked suitable for fishing and gold mining. It was also relatively safe.	
+s6_riverside_desc_peons	The panicked peons rushed back to the rafts and tried to get back across the river. When Vasquez arrived they paid him no mind.	
+s6_riverside_desc_kill	Vasquez opened fire, killing those who were already on the water. The others stopped, horrified. He lowered his gun, promising them that they would only find death if they continued their escape. Defeated, they began heading back to camp.	
+s6_riverside_desc_letgo	Vasquez turned away without a word. Zacarías was relieved too see that Vasquez was still capable of showing mercy. But Zacarías was mistaken. Vasquez had simply come to the conclusion that weak-minded individuals had no place in his militia.	
+s6_northern_village_title	Village	
+s6_northern_village_desc	This peculiar village was inhabited by curious folk who had dark complexions but dressed like Europeans. They never spoke, but at the sight of gold, they made it plain they werewilling to join Vasquez. Ten men could be had for $100.	
+	Locations after Fort	
+s6_camp3_title	Old Mission	
+s6_camp3_intro	They made camp in the ruins of an old Christian mission. Among the many items left by the previous occupants was an old notebook, apparently written by a monk who had come here with the conquistadors. It spoke of a place of worship not far away, which was once inhabited by an enlightened man. Perhaps excavating the church could bring some answers. Unfortunately it was currently occupied by natives. Their blood was the price of admission.	
+s6_camp3_intro_p2	Diego said he had no interest in slaughtering more natives or venturing deeper into their lands. He would stay at the camp and do what he could from there.	
+s6_camp3_intro_peon_leader	O'Connell said he would also stay back in camp. Someone had to look after the peons and take charge if the natives attacked. It was obvious to him that Diego could be trusted neither with the former nor the latter.	
+s6_camp3_desc	At the camp in the old mission ruins everything seemed to be in order. For some reason, though, the peons were nervous.	
+s3_camp3_desc_treason	From the hill, the masked Vasquez watched the camp. He felt that something must be wrong. Things were too quiet.	
+s3_camp3_desc_treason_before	As Vasquez and Zacarías neared the camp they saw the bodies of dead peons strewn everywhere. Natives roamed the camp as if it were their own, and Diego stood among them. He had betrayed both the expedition and his best friend.	
+s3_camp3_desc_after_treason	When the treacherous Diego and his native soldiers were dead, Vasquez showed no signts of regret. Zacarías hid his worries over what Vasquez had become. Meanwhile the red star glowed brighter than ever, clearly showing their destination. Vasquez ordered the remaining men to move out to the East.	
+s3_camp3_desc_after_treason_p2	Before heading out, Zacarías spotted a trail of food leading South, clearly dropped by peons fleeing before the attack. If they went after them right away they could probably still catch them.	
+s6_barrow_east_title	Eastern Barrow	
+s6_barrow_east_desc	This barrow served as both a home and a fortress for the natives. Slaughtering its inhabitants would reduce their resistance or even stop their attacks altogether.	
+s6_barrow_east_desc_success	Every barrow inhabitant, regardless of gender or age, was slaughtered. The peons brought back anything that appeared useful.	
+s6_barrow_east_desc_fail	It did not take long for the peons to be overpowered. Panicking, they streamed from the tunnels in terror. Many did not make it out alive.	
+s6_barrow_south_title	Southern Barrow	
+s6_barrow_west_title	Western Barrow	
+s6_cemetary_title	Old Cemetery	
+s6_cemetary_desc	An old Christian cemetery, located deep in Olmec territory, this place had surely been set up by the conquistadors. The graves probably held some valuables.	
+s6_cemetary_desc_hard	Digging up graves was extremely risky thanks to the inevitable attacks the natives would launch. Getting rid of the natives first would greatly reduce the risks.	
+s6_cemetary_desc_medium	The odds were good that the natives would interrupt any attempts to dig up the graves. Striking at the natives first would have been wise.	
+s6_cemetary_desc_low	It would take a while, but the graves could be dug up. The natives might attack, but that was a risk that could be handled.	
+s6_cemetary_desc_none	All the natives had been slaughtered. Digging up the graves was essentially risk-free.	
+s6_cemetary_desc_success	After hours of digging all the graves lay open. Most were unremarkable, but one grave's contents made all the  effort. Held tight in the cold dead hands of a uniformed skeleton they discovered a masterfully crafted musket that emanated an overwhelming sense of power.	
+s6_cemetary_desc_fail	The natives descended out of nowhere, forcing the peons from the graveyard long before they could finish digging.	
+s6_excavation_title	Excavation Site	
+s6_excavation_desc	This was the site Suncove had been excavating before the natives decimated his expedition and forced them back to the outpost.	
+s6_excavation_desc_hard	Digging was extremely risky. The natives were bound to attack soon, and in huge numbers.	
+s6_excavation_desc_medium	Even with one barrow cleared there was still a high risk	
+s6_excavation_desc_low	Only one barrow was left. Digging would be relatively safe now.	
+s6_excavation_desc_none	With all the natives dispatched, there was no risk to finishing the excavation.	
+s6_excavation_desc_success	After hours of digging they discovered a chest. The items it held were as mysterious as the origins of the building. A black robe covered in blood, an amulet covered in disturbing carvings, and an old notebook that had clearly been written by a madman. It spoke of a chapel on a high rock, a face of dead gods, and a red star. Vasquez pocketed the amulet and joked that their next task should be to find that chapel and burn it to the ground to spite the dead gods, their face and their star.	
+s6_excavation_desc_fail	Repeated attacks by the natives forced the peons into retreat. Vasquez tried to maintain order, but finally had to make a run for it himself.	
+s6_chapel_title	Old Chapel	
+s6_desc_chapel_enter	After the long and dangerous journey to the top of the cliff they discovered an old chapel. Instinctively, Zacarías thrust his hand into a stoup located by the entrance and crossed himself.	
+s6_desc_chapel_cross	Vasquez stared at the liquid in the stoup. He had no idea how long this supposed holy water had been in there. After long consideration he dipped his hand in the stoup and crossed himself.	
+s6_desc_chapel_altar	Initially, the interior of the chapel looked like any other. But as they examined it more closely, they saw it was covered in pictures and carvings of the natives' pagan religion.	
+s6_desc_chapel_mask	The centerpiece of the chapel sat where the altar should have been. It was an ornate pedestal with a jade mask resting on top of it. Vasquez seemed mesmerized by the mask's presence. He slowly approached it, then grabbed it with both his hands and thrust his face into its dead eyes.	
+s6_desc_chapel_mask_taken	The mask embraced Vasquez' face like a long lost lover. In that blinding, all-seeing moment he felt he perceived all things. A feeling of absolute security and power overcame him. When he was able to look around again, he noticed that the texts on the walls, previously incomprehensible, were now perfectly legible to him.	
+s6_desc_chapel_mask_taken_continued	Zacarías watched in awe as Vasquez approached the tablets and read them aloud. They spoke of a temple beyond the mountains that held immense wealth and infinite power. Suddenly Vasquez went silent. He read on silently, for himself. Sacrifice was required, the tablets said. To gain access to the hidden city, the mask's wearer must kill his dearest friend. Vasquez told Zacarías he knew what must be done.	
+s6_desc_poisoned_both	Midway in their descent, Zacarías began coughing and said he felt ill. The same feeling overwhelmed Vasquez. It seemed the holy water had not been holy water after all. Luckily it seemed the poison had been there a long time, and had lost much of its potency.	
+s6_desc_poisoned_zacarias	Midway in their descent, Zacarías began coughing and said he felt ill. The same feeling overwhelmed Vasquez. It seemed the holy water had not been holy water after all. Luckily it seemed the poison had been there a long time, and had lost much of its potency.	
+s6_hunting_grounds_title	Hunting Grounds	
+s6_hunting_grounds_desc	This area was well-suited for hunting. The animals here were clearly the main source of food for the natives. Vasquez pondered whether to use the woods to hunt for sustenance, or to burn them down and cut off the natives' food supply.	
+s6_hunting_grounds_desc_post	This area was peaceful and sheltered much wildlife, which made it well-suited for hunting. With the natives gone, the only risks were attacks by wild animals.	
+s6_hunting_grounds_desc_posse_success	The posse hunted down several large animals and returned with a large amount of food.	
+s6_hunting_grounds_desc_posse_fail	The hunting trip was cut short when the posse stumbled on a group of natives. Vasquez's group quickly disposed of the tribesmen but one of his men was injured.	
+s6_hunting_grounds_desc_posse_fail_post_unused	Suddenly, out of the trees, a jaguar pounced on a member of the posse, killing him. The men abandoned the hunt, barely making it out alive.	
+s6_hunting_grounds_desc_peons_success	The peons hunted down several large animals and brought back a large amount of food.	
+s6_hunting_grounds_desc_peons_fail	As they hunted, the peons were ambushed and slaughtered by the natives.	
+s6_hunting_grounds_desc_peons_fail_post	As they hunted, the peons were attacked by a jaguar. Several were killed. The rest dispersed.	
+s6_hunting_grounds_desc_burned	Vasquez's men built a large bonfire, soaked it in alcohol and lit it. It did not take long for the flames to spread. Soon the entire forest was being devoured.	
+s6_broken_wagon_title	Abandoned Wagon	
+s6_broken_wagon_desc	The company came upon an abandoned wagon lying out in the open, left behind by an earlier group of explorers. There were no bodies, but plenty of supplies. Zacarías warned Vasquez it could be a trap.	
+s6_broken_wagon_desc_post	With the nearby barrow cleared, the group could safely retrieve the supplies left in and around the wagon.	
+s6_broken_wagon_desc_success	With the posse standing guard, the peons managed to bring back everything that had been left in the wagon, including medical supplies and several bottles of whiskey.	
+s6_broken_wagon_desc_fail	As the men approached the wagon, the natives opened fire, shredded them to pieces. Vasquez retaliated, but was too late to save them. The supplies remained where they lay.	
+	Locations in last valley	
+s6_passage_title	Mountain Passage	
+s6_passage_desc	The old road led into a massive pile of rocks. Vasquez was convinced the golden city was somewhere beyond it. But moving these rocks would take large amounts of either manpower or gunpowder.	
+s6_passage_desc_dug	After two days of hard labor the peons finally managed to move the rocks.	
+s6_passage_desc_blown	Vasquez's men dug out the bottom of the rock pile and placed several barrels of gunpowder beneath them. They traced a long fuse to a sheltered area and lit it.<br>There was a deafening boom as the barrels ignited and rocks rained from above. When the dust cleared the men found a narrow passageway through to the other side.	
+s6_ruins_title	Ruins	
+s6_ruins_desc	Hidden in the rubble of the ancient ruined village, they discovered a container made of solid rock. With great effort they managed to pry it open. Inside they found strange scriptures covered in what looked like gibberish. Vasquez found he could read them effortlessly.	
+s6_ruins_desc_tzompantli	The scripture described a wall of skulls that barred access to the most sacred place. Its creators had deliverately left it incomplete. Only by completing it could it be brought down. And completing it meant sacrifice.	
+s6_ruins_desc_rituals	The text described numerous rituals in great detail. Among them was an ancient ball game that had been used to determine whether one team or another would be sacrificed.	
+s6_ruins_desc_nature	The text described the gods of nature:<br>Metztli - The god of the Moon<br>Tlaltecuhtli - The goddess of the Earth<br>Chalchiuhtlicue - The goddess of springs<br>Centzon Huitznahua - The god of the stars<br>Ehecatl - The god of the wind	
+s6_ruins_desc_creation	The text described the gods of creation:<br>Ometeotl - The great creator<br>Huehueteotl - The god of time<br>Coatlicue - The mother of all women	
+s6_ruins_desc_culture	The text described the gods of man:<br>Tezcatlipoca - The universal power<br>Quetzalcoatl - The god of life<br>Tlaloc - The god of storms<br>Mixcoatl - The god of war<br>Huitzilopochtli - The god of the sun	
+s6_ballcourt_title	Ball Court	
+s6_ballcourt_desc	An ancient court, used to play a game to please the gods. A ball and a ceremonial dagger sat next to the field of play.	
+s6_ballcourt_game	Twenty peons were stripped to the waist and lined up in two groups. Vasquez quickly explained the rules to them. The team with the most goals would sacrifice the other for the glory of the gods. The peons immediately leapt into action, playing for their lives. Finally, one team emerged victorious. The losers knelt to meet their fate. As their throats were slit one by one, their blood filled a previously invisible pattern in the floor,  revealing an inscription only Vasquez could read.	
+s6_ballcourt_inscription_a	The inscription read:<br><br>"The Earth creates life."	
+s6_ballcourt_inscription_b	The inscription read:<br><br>"The Moon is the mother of all power."	
+s6_ballcourt_inscription_c	The inscription read:<br><br>"When the stars can be seen it is the time of war."	
+s6_tomb_title	Ancient Tomb	
+s6_tomb_desc	One of the last structures in the area was a tomb. It probably held little more than rotting bodies, but right now the party was after skulls to complete the Tzompantli.	
+s6_tomb_tear_down	The men cleared the tomb's entrance and ventured inside. In the dark interior lay huge piles of human skulls, along with several large metallic chests.	
+s6_tomb_desc_peons_entered	Soon after entering the tomb the peons began to cough, several dropping dead almost instantly. With their last breath they managed to remove the chests from the tomb. Inside them, Vasquez found skulls with the names of different gods engraved in their foreheads.	
+s6_tomb_desc_vasquez_entered	Vasquez entered the tomb, and walked across the carpet of skulls, feeling them crush beneath his feet. The air felt thick and he began to cough, but was too driven to care. The metallic chests contained skulls with the names of different gods engraved in their foreheads.	
+s6_tzompantli_title	Tzompantli	
+s6_tzompantli_desc	The tzompantli, a gigantic wall of skulls, blocked the passage to the North. There were several empty spaces, enough room for three more skulls. But which ones to insert.	
+s6_tzompantli_first	The first skull Vasquez inserted bore the name of...	
+s6_tzompantli_second	The next skull Vasquez inserted bore the name of...	
+s6_tzompantli_third	The final skull Vasquez inserted bore the name of...	
+s6_tzompantli_failed	The skulls were in place. The men watched the wall expectantly, but after a long silence it became obvious nothing was going to happen.	
+s6_tzompantli_success	As the final skull was inserted, the entire structure began to tremble. Seconds later it collapsed to dust and rubble. The path to the temple lay open.	
+s6_temple_title	Temple	
+s6_temple_desc	They arrived at a massive ancient structure. If the stories were to be believed, this magnificent temple was the gateway to untold wealth and power.	
+s6_resting_place_title	Wellspring	
+s6_resting_place_desc	The men came upon a small lake filled with crystalline water that sprang from the mountains. After the preceding horrors, a place like this seemed miraculous. The peons ran to it and drank deeply. They were instantly refreshed and felt as if all they had seen until now had been nothing more than a bad dream.	
+s6_resting_place_drinking_1	Vasquez drank the water through the opening of his mask. The few drops that made it to his mouth made him forget any pains he had. Zacarías sat on a rock behind Vasquez, who stood staring at the temple in the distance. Eventually Zacarías spoke.	
+s6_resting_place_drinking_2	Zacarías recalled the tragedy of Diego's treachery, and said he hoped Vasquez knew that he would never betray him. Vasquez turned to his old companion and told him that their friendship was the one thing he was absolutely sure of.	
+s6_fatetrader_third_title	Fate Trader	
+s6_fatetrader_third_desc	Somehow, here, in the middle of nowhere, it was the dwarf and his shop again. The mysterious merchant greeted them as though his presence here were utterly routine.	
+	Actions	
+	Frequent	
+s6_shop	Vasquez looked at the wares.	b
+s6_buy_manpower	Vasquez tried to acquire manpower.	n
+s6_buy_provisions	Vasquez tried to acquire provisions.	n
+s6_hunt_peons	Peons were sent to gather food.	g
+s6_hunt_posse	The posse went hunting.	g
+s6_heal	They checked on the health of the men.	g
+s6_peonheal	Heal peons.	g
+s6_peonheal_desc	Vasquez checked to see how many Peons needed help.	g
+s6_peonheal_none	There were no sick Peons.	g
+s6_posseheal	Heal posse members.	g
+s6_hunt	They considered organizing a hunt.	g
+s6_use_heal	Vasquez gave them medical supplies.	g
+s6_no_heal	Vasquez needed a doctor bag to heal them.	g
+s6_craft	They considered manufacturing important items.	g
+s6_scout	They decided to send scouts.	g
+s6_noprovisions_yes	He ordered them to continue anyway.	g
+s6_noprovisions_no	He ordered them to stop.	g
+s6_proceed	Vasquez sent the men anyway, knowing the risks.	g
+s6_refuse	Vasquez decided not to send the men.	g
+s6_heal_posse	They healed the posse (	g
+s6_heal_posee_prov_amount	x provisions required)	g
+s6_heal_1_peon	1 peon was healed (2 x provisions required)	v2provisions
+s6_heal_5_peon	5 peons were healed (10 x provisions required)	v10provisions
+s6_heal_10_peon	10 peons were healed (20 x provisions required)	v20provisions
+s6_heal_20_peon	20 peons were healed (40 x provisions required)	v40provisions
+s6_scout_along_river	Scouts were sent to inspect the riverbank (6 x provisions required)	v6manpower
+s6_scout_north	Scouts were sent North (6 x provisions required)	v6manpower
+s6_scout_west	Scouts were sent West (6 x provisions required)	v6manpower
+s6_scout_east	Scouts were sent East (6 x provisions required)	v6manpower
+	Scouting results	
+s6_scout_result_before_west	The scouts discovered a location downriver that seemed perfect for fishing or mining gold.<br>They also spotted an old sawmill. Wood could be procured there. It also seemed like a good spot for hunting.	
+s6_scout_result_before_along_river	Nearby they discovered a wrecked steamboat. More importantly, downriver the peons discovered some old docks. It seemed like an ideal spot for crossing the river on a raft.	
+s6_scout_result_after_west	To the West the scouts discovered a peculiar village, inhabited by curious people. They did not seem hostile and were open to joining Vasquez's workforce, for a price.	
+s6_scout_result_after_east	The scouts discovered a number of interesting locations to the East, among them an abandoned mine, an old mansion and a dam.	
+s6_scout_result_after_north	To the North the scouts discovered an old military outpost which appeared abandoned. It was a perfect lookout across the region.	
+s6_scout_result_turf_west	Far to the West, beyond the burrows, the peons discovered an area that seemed like an excellent hunting spot.	
+s6_scout_result_turf_north	To the far North the scouts discovered an old Christian cemetary. The graves might hold valuables.	
+	Actions before river	
+s6_village_hire_first_peons	Vasquez asked around for potential workers.	n
+s6_village_hire_first_peons_confirm	Vasquez had no other choice. He agreed to these terms ([%0])	p500cash
+s6_village_extra_peons	Vasquez asked around for additional peons.	n
+s6_village_extra_peons_confirm	Vasquez hired the additional men ([%0])	p100cash
+s6_farmhouse_buy_first_provisions	Vasquez negotiated with the villagers.	n
+s6_farmhouse_buy_first_provisions_confirm	Vasquez agreed ([%0])	p300cash
+s6_farmhouse_buy_extra_provisions	Vasquez returned to the farm to buy more provisions.	n
+s6_farmhouse_buy_extra_provisions_confirm	Vasquez bought more provisions ([%0])	p100cash
+s6_camp1_scout_river	Men were sent to scout the riverside.	g
+s6_camp1_hunt_peons	Six peons were sent on a hunt.	v6manpower
+s6_camp1_check_cervantes	They checked on Cervantes, the Inquisitor.	n
+s6_camp1_heal_cervantes	Zacarías treated the Inquisitor ([%0])	p2liquoir
+s6_camp1_send_cervantes_away	They had two peons carry Cervantes to the next town.	v2manpower
+s6_sawmill_search_sawmill	Vasquez and his men inspected the building.	g
+s6_sawmill_search_woods	Vasquez considered searching the woods.	g
+s6_sawmill_cut_wood	Vasquez considered having his men cut trees.	g
+s6_sawmill_hunt	Vasquez considered organizing a hunt.	g
+s6_sawmill_search_woods_confirm	Six men went to search the nearby woods.	v6manpower
+s6_sawmill_cut_wood_confirm	Ten men were sent to cut wood.	v10manpower
+s6_sawmill_hunt_confirm	Eight men were sent to hunt in the woods.	v8manpower
+s6_shipwreck_disassemble	Twelve men were ordered to disassemble the wreck.	v12manpower
+s6_docks_drop_tools	They dropped the tools they were carrying.	p1tools
+s6_docks_drop_wood	They dropped the wood they were carrying.	p1wood
+s6_docks_launch	They started the operation.	t
+s6_docks_delay	They decided to make some other preparations first.	x
+s6_river_bank_peon_collect	Eight peons were ordered to mine gold in the river.	v8manpower
+s6_river_bank_posse_collect	The posse decided to mine for gold itself, risking injuries.	g
+s6_fatetrader_first_ask	They asked the midget if he could sell them any alcohol.	g
+	Actions after river	
+s6_remains_burial	Vasquez ordered ten peons to give the dead a proper burial.	v10manpower
+s6_remains_scavenge	Vasquez ordered six peons to search the site for anything useful and let the bodies rot.	v6manpower
+s6_remains_leave	He decided to leave them alone. For now.	x
+s6_dam_take_water	Vasquez had his men fill the buckets with water and take them to the camp.	g
+s6_mansion_search_building	Vasquez sent four men into the building to search it for anything valuable.	v4manpower
+s6_outpost_take	Twelve men were sent into the building.	v12manpower
+s6_outpost_attack	Twenty men were sent to attack the outpost.	v20manpower
+s6_mine_mine	Vasquez ordered ten men to mine gold.	v10manpower
+s6_fort_attack	Vasquez and his men launched the attack.	t
+s6_northern_village_peons_buy	Vasquez paid them ([%0])	p100cash
+s6_deploy_20_peons	Vasquez deployed some men (20 peons required)	v20manpower
+s6_camp3_pursue	Vasquez decided to pursue them.	g
+s6_camp3_letgo	Vasquez said he could not be bothered with a few cowards.	g
+s6_riverside_kill	He fired at the peons.	g
+s6_riverside_letgo	He let them go.	g
+s6_riverside_peonfish	Vasquez told the peons to fish in the river (8 peons required)	v8manpower
+s6_riverside_possefish	The posse tried catching fish itself.	g
+	Actions in olmec turf	
+s6_barrow_attack	Peons were sent into the barrow to slaughter the inhabitants (18 peons required)	v18manpower
+s6_excavation_excavate	Peons were ordered to finish the excavation (16 peons required)	v16manpower
+s6_cemetary_dig	Vasquez ordered sixteen men to dig up the graves.	v16manpower
+s6_chapel_take_mask	Vasquez put on the mask.	g
+s6_camp3_attack	The Masked Man attacked the camp.	t
+s6_camp3_delay	They decided not to attack just yet.	x
+s6_burn_forest	They burned the forest to the ground ([%0])	p4liquoir
+s6_raid_wagon	Peons were sent to raid the wagon.	v10manpower
+	Actions in valley	
+s6_passage_dig	Peons were ordered to dig their way through the boulders (40 peons required)	v40manpower
+s6_ballcourt_play	Vasquez ordered peons to play the game (20 peons required)	v20manpower
+s6_tomb_tear_down_unused	Peons were ordered to tear down a wall.	g
+s6_tomb_peons_send	Peons were sent into the tomb (8 peons required)	v8manpower
+s6_tomb_vasquez_enter	Vasquez decided to enter the tomb himself.	g
+s6_read_tzompantli	About the tzompantli...	i
+s6_read_rituals	About rituals...	i
+s6_read_nature	About the gods of nature...	i
+s6_read_creation	About the gods of creation...	i
+s6_read_culture	About the gods of man...	i
+s6_tomb_exhume	Vasquez ordered the peons to break into the tomb.	g
+s6_tzompantli_skulls_insert	Vasquez tried to insert the skulls.	n
+s6_tzompantli_skulls_again	Vasquez tried again with a different combination.	n
+s6_tzompantli_skull_1_1	Metztli	g
+s6_tzompantli_skull_1_2	Tlaltecuhtli	g
+s6_tzompantli_skull_1_3	Chalchiuhtlicue	g
+s6_tzompantli_skull_1_4	Centzon Huitznahua	g
+s6_tzompantli_skull_1_5	Ehecatl	g
+s6_tzompantli_skull_2_1	Ometeotl	g
+s6_tzompantli_skull_2_2	Huehueteotl	g
+s6_tzompantli_skull_2_3	Coatlicue	g
+s6_tzompantli_skull_3_1	Tezcatlipoca	g
+s6_tzompantli_skull_3_2	Quetzalcoatl	g
+s6_tzompantli_skull_3_3	Tlaloc	g
+s6_tzompantli_skull_3_4	Mixcoatl	g
+s6_tzompantli_skull_3_5	Huitzilopochtli	g
+s6_temple_enter	They entered the temple.	t
+s6_resting_place_drink_water	Vasquez decided to drink the water.	g
+	S6 additional texts	
+s6_heal_heroes	They checked on the health of the posse.	g
+s6_heal_vasquez	Vasquez was healed ([%0] provisions required)	v25provisions
+s6_heal_tutor	Zacarías was healed ([%0] provisions required)	v25provisions
+s6_heal_oldfriend	Diego was healed ([%0] provisions required)	v25provisions
+s6_heal_peonsleader	O'Connell was healed ([%0] provisions required)	v25provisions
+s6_heal_adventurer	Suncove was healed ([%0] provisions required)	v25provisions
+s6_t3_acquire_weapons	Search the camp for weapons.	g
+s6_camp2_desc	A camp in the middle of nowhere. It was a mystery who the previous owners had been.	
+s6_docks_launch_no_peonsleader	They sent O'Connell off with the peons before launching the operation.	t
+s6_chapel_use_stoup	Vasquez crossed himself.	g
+s6_chapel_ignore_stoup	Vasquez did not feel very religious at the moment.	g
+s6_pursue_cowards	Pursue the cowards	

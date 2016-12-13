@@ -1,0 +1,596 @@
+dialog_id	en	filename	duration	postpause	speaker_id
+	Scenario 1: As Good as Dead				
+s1_intro	Every way out was barred or blocked.	s1_intro_00	3	1	death
+s1_intro	Enemies positioned themselves outside the windows.	s1_intro_01	3	1	death
+s1_intro	You were as good as dead.	s1_intro_02	3	1	death
+s1_warrendies	Bleeding out on the floor, helpless to protect Florence, you felt your life ebbing away.	s1_warrendies	3	1	death
+s1_florencedies	Florence was dying, her eyes growing glassy as her soul slipped away.	s1_florencedies	3	1	death
+s1_death	You gave your last breath.	s1_death	3	1	death
+s1_death_fade	But on that breath, you pledged to him.	s1_death_fade_00	3	1	death
+s1_death_fade	You gave your soul for a shot at revenge.	s1_death_fade_01	3	1	death
+s1_resurrection	Trapped betwixt life and death, you now belonged to neither realm.	s1_resurrection	3	1	death
+s1_resurrection_dig	The coffin nails didn't hold fast.	s1_resurrection_dig_00	3	1	death
+s1_resurrection_dig	You were supposed to be dead, so no one took notice right away.	s1_resurrection_dig_01	3	1	death
+s1_resurrection_optional	You considered raising the alarm to bring in more enemies. Just to satisy your blood lust.	s1_resurrection_optional	3	1	death
+s1_t0_reinforcements	You telegraphed the enemy to send more men. You weren't done dispensing justice.	s1_t0_reinforcements	3	1	death
+s1_t0_end	Every living soul there was dead. But you? You were just getting started.	s1_t0_end	3	1	death
+s1_str_intro	The stranger somehow stopped you halfway to death.	s1_str_intro_00	3	0	death
+s1_str_intro	After that fateful night, the news spread quickly.	s1_str_intro_01	3	0	death
+s1_str_intro	Masked Man, your nemesis, went into hiding.	s1_str_intro_02	3	0	death
+s1_str_thefarm	Old Man Murray was taken to cannibal farm.	s1_str_thefarm_00	5	1	death
+s1_str_thefarm	If you could save him, maybe that tough old bird could prove to be useful.	s1_str_thefarm_01	5	1	death
+s1_str_thefarm	And even if you failed, you’d still put a dent in the Masked Man's business.	s1_str_thefarm_02	5	1	death
+s1_farm_intro	Time was of the essence.	s1_farm_intro_00	5	0	death
+s1_farm_intro	Murray was bleeding, and would be served for dinner by sundown.	s1_farm_intro_01	5	1	death
+s1_farm_intro	You could either kill the cannibals before he died,	s1_farm_intro_02	5	0	death
+s1_farm_intro	or free him and patch him up enough to survive the fight.	s1_farm_intro_03	5	1	death
+s1_farm_intro	Also, a part of you was curious what the fuss about human flesh was anyway.	s1_farm_intro_04	5	1	death
+s1_farm_murrayreleased	The woodshed smelled of garlic and rosemary.	s1_farm_murrayreleased_00	5	1	death
+s1_farm_murrayreleased	“Seasoned gunslinger” just got a whole new meaning.	s1_farm_murrayreleased_01	5	1	death
+s1_farm_alldeadmurrayok	Your swiftness would be the tale of the country.	s1_farm_alldeadmurrayok_00	5	1	death
+s1_farm_alldeadmurrayok	The cannibals bit the dust,	s1_farm_alldeadmurrayok_01	5	0	death
+s1_farm_alldeadmurrayok	and Murray’s knowledge of the Masked Man was yours.	s1_farm_alldeadmurrayok_02	5	1	death
+s1_farm_murraybledout	You took too long and Murray bled out.	s1_farm_murraybledout_00	5	1	death
+s1_farm_murraybledout	The demise of this place would sweeten the loss however.	s1_farm_murraybledout_01	5	1	death
+s1_farm_murrayshot	Just when you thought Murray’s rescue was in the bag--	s1_farm_murrayshot_00	5	0	death
+s1_farm_murrayshot	He was shot dead, taking his knowledge to the grave.	s1_farm_murrayshot_01	5	1	death
+s1_farm_alldeadmurraytoo	The cannibals bit the dust.	s1_farm_alldeadmurraytoo_00	5	1	death
+s1_farm_alldeadmurraytoo	A pity you couldn’t save Murray.	s1_farm_alldeadmurraytoo_01	5	1	death
+s1_farm_alldeadmurraytoo	But the Masked Man’s business had been badly damaged.	s1_farm_alldeadmurraytoo_02	5	1	death
+s1_farm_alldeadmurraytoo	And in time, you would claim him as well.	s1_farm_alldeadmurraytoo_03	5	1	death
+s1_farm_humanflesh	Human flesh tasted a bit like buffalo jerky. Not half bad.	s1_farm_humanflesh_00	5	1	death
+s1_farm_humanflesh	Strangely, you felt empowered by this casually heinous act.	s1_farm_humanflesh_01	5	1	death
+s1_farm_humanflesh	But no sense letting good meat go to waste.	s1_farm_humanflesh_02	5	1	death
+s1_robbery_opening	Deputies were going about their business.	s1_robbery_opening_02	5	1	death
+s1_robbery_opening	They weren't expecting you.	s1_robbery_opening_01	5	1	death
+s1_robbery_telegraphused	With the device violently dismantled, the demon troop was delayed.	s1_robbery_telegraphused_01	5	1	death
+s1_robbery_alarm	Inevitably, the bell rang.	s1_robbery_alarm_01	5	1	death
+s1_robbery_alarm	The first note of the signal that would summon the demons has been struck.	s1_robbery_alarm_02	5	1	death
+s1_robbery_demonsnextturn	A distant shriek heralded the demons' arrival.	s1_robbery_demonsnextturn_01	5	1	death
+s1_robbery_demonarrival	Upon mere sight of the fiends, even the sun averted its gaze.	s1_robbery_demonarrival_01	5	1	death
+s1_robbery_meetprisoner	The burly man they call the Childeater greeted you with a nod. He had heard of you.	s1_robbery_meetprisoner_01	5	1	death
+s1_robbery_freeprisoner	An honorable man in his own way, he resolved to return the favor.	s1_robbery_freeprisoner_01	5	1	death
+s1_robbery_managersubdued	At gunpoint, the bank manager surrendered the safe key.	s1_robbery_managersubdued_01	5	1	death
+s1_robbery_safeused	Your pockets brimming with wealth, you set out to leave.	s1_robbery_safeused_01	5	1	death
+s1_robbery_success	With all adversaries dead at your feet, you left.	s1_robbery_success_01	5	1	death
+s1_t4_opening	This was the place where the demon and his troop were residing.	s1_t4_opening	5	1	death
+s1_t4_demonpower	The demon was potent in the art of unholy power.	s1_t4_demonpower	5	1	death
+s1_t4_killdemon	The demon was now dead, his soul headed to... who knows where.	s1_t4_killdemon	5	1	death
+s1_t4_end	With the demon and his henchwomen eliminated, you could now help yourself to their treasure.	s1_t4_end	5	1	death
+s1_fearlevel2	You began to make quite a name for yourself.	s1_fearlevel2	5	1	death
+s1_fearlevel3	Eventually, people fled in abject fear, simply upon hearing your name.	s1_fearlevel3	5	1	death
+s1_hideoutrevealed	Finally, you heard where the Masked Man was hiding.	s1_hideoutrevealed_00	5	1	death
+s1_hideoutrevealed	Clearly, it was a trap.	s1_hideoutrevealed_01	5	1	death
+s1_hideoutrevealed	Clearly, you didn't care.	s1_hideoutrevealed_02	5	1	death
+s1_t5_opening	There were some armed oil workers on your way, but your eyes kept scouting for the Masked Man.	s1_t5_opening	5	1	death
+s1_t5_killworkers	The doors of the house flew open. The Masked Man’s best gun hands showed up.	s1_t5_killworkers	5	1	death
+s1_t5_killguards	Finally, Masked Man appeared. As good as dead.	s1_t5_killguards	5	1	death
+s1_t5_killvasquez	In the end, the man who sported the mask, now sported a big bloody hole in his forehead instead.	s1_t5_killvasquez	5	1	death
+s1_t5_end	That's when you heard the familiar voice in your ear:	s1_t5_end_00	5	1	death
+s1_t5_end	It wasn’t over yet. Florence’s soul wasn’t yet gone.	s1_t5_end_01	5	1	death
+s1_t5_end	She was trapped in Purgatory and could still be saved.	s1_t5_end_02	5	1	death
+	Scenario 2: Law & Order				
+s2_hideout_start	Grand Inquisitor Cervantes and his trusted Lieutenant, Joaquim Perez, saw the armed guards and knew this was no simple farm.	s2_hideout_start_00	5	1	death
+s2_hideout_start	This clearly was the location of Solomon DeLear's stronghold.	s2_hideout_start_01	5	1	death
+s2_hideout_stealth_lost	The guards grew suspicious of the two strangers.	s2_hideout_stealth_lost_00	5	1	death
+s2_hideout_stealth_lost	And without warning, they opened fire.	s2_hideout_stealth_lost_01	5	1	death
+s2_hideout_solomon_found	A commotion could be heard coming from the shed.	s2_hideout_solomon_found_00	5	1	death
+s2_hideout_solomon_found	Most likely it was Solomon and his guards lying in wait, hoping to catch the intruders by surprise.	s2_hideout_solomon_found_01	5	1	death
+s2_hideout_solomon_found	It was then that the Inquisitor saw the curious wires leading into the barn.	s2_hideout_solomon_found_02	5	1	death
+s2_hideout_locked_door	Solomon had locked himself inside. A key would be needed.	s2_hideout_locked_door	5	1	death
+s2_hideout_chest_opened	A key was located. It likely fit the lock on Solomon’s shed.	s2_hideout_chest_opened	5	1	death
+s2_hideout_safe_opened	In their haste to flee, someone had left the safe open.	s2_hideout_safe_opened_00	5	1	death
+s2_hideout_safe_opened	Though nearly empty, Cervantes took what was left.	s2_hideout_safe_opened_01	5	1	death
+s2_hideout_safe_opened	Every little bit would help to finance his “noble” cause.	s2_hideout_safe_opened_02	5	1	death
+s2_hideout_lever_used	The power unleashed from those charged coils electrocuted everyone in the shed.	s2_hideout_lever_used_00	5	1	death
+s2_hideout_lever_used	The blast from that burst of energy blew the doors wide open.	s2_hideout_lever_used_01	5	1	death
+s2_hideout_delear_dead	DeLear was dead. His demise seemed almost too easy.	s2_hideout_delear_dead	5	1	death
+s2_hideout_everyone_dead	Cervantes approached DeLear's body.	s2_hideout_everyone_dead_00	5	1	death
+s2_hideout_everyone_dead	One look at his face and the Inquisitor knew he’d been hoodwinked.	s2_hideout_everyone_dead_01	5	1	death
+s2_hideout_everyone_dead	The dead man was a decoy. An imposter.	s2_hideout_everyone_dead_02	5	1	death
+s2_hideout_everyone_dead	Cervantes spat on the corpse and left in a furious huff.	s2_hideout_everyone_dead_03	5	1	death
+s2_before_raum	Cervantes was enraged.	s2_before_raum_00	5	1	death
+s2_before_raum	He did not like being bamboozled. For that Solomon would pay.	s2_before_raum_01	5	1	death
+s2_raum_targets_dead	Every member of the Order that Raum identified was dead.	s2_raum_targets_dead_00	5	1	death
+s2_raum_targets_dead	It was time for the Inquisitor to meet up with him again.	s2_raum_targets_dead_01	5	1	death
+s2_heading_for_church	Raum’s vision directed the Inquisitor towards a house of worship.	s2_heading_for_church_00	5	1	death
+s2_heading_for_church	The mystic assured him that DeLear would be there.	s2_heading_for_church_01	5	1	death
+s2_church_start_front	The guards of the Order drew their guns as soon as they spotted them.	s2_church_start_front_00	5	1	death
+s2_church_start_front	Something important was going on in that church.	s2_church_start_front_01	5	1	death
+s2_church_start_back	A tunnel enabled them to enter the premises unseen.	s2_church_start_back_00	5	1	death
+s2_church_start_back	The church was heavily guarded.	s2_church_start_back_01	5	1	death
+s2_church_start_back	Something important was going on in there.	s2_church_start_back_02	5	1	death
+s2_church_enter	To Cervantes' surprise, there was but one lone soul inside the church.	s2_church_enter_00	5	1	death
+s2_church_enter	Her name was Sister Rosario Aiza and she was a prisoner of the Order.	s2_church_enter_01	5	1	death
+s2_church_assembled	Sister Rosa was a supporter of the Order until she discovered DeLear was using a clairvoyant to stay one step ahead of their enemies.	s2_church_assembled_00	5	1	death
+s2_church_assembled	Believing this was blasphemy, she tried to turn the others against him.	s2_church_assembled_01	5	1	death
+s2_church_assembled	That’s when DeLear imprisoned her in the church.	s2_church_assembled_02	5	1	death
+s2_church_assembled	He would use her as bait to lure the Grand Inquisitor into a trap.	s2_church_assembled_03	5	1	death
+s2_church_assembled	She prayed for deliverance, not realizing that her prayers were answered by the forces of darkness.	s2_church_assembled_04	5	1	death
+s2_church_alldead	The final enemy met his end and Sister Rosa was now free.	s2_church_alldead	5	1	death
+s2_after_church	Cervantes convinced Sister Rosa that he was a servant of light and wanted what she wanted.	s2_after_church_00	5	1	death
+s2_after_church	An end to Solomon DeLear’s blasphemy.	s2_after_church_01	5	1	death
+s2_after_church	Rosa directed them to someone who might know the identity of the clairvoyant.	s2_after_church_02	5	1	death
+s2_after_church	Gustav Wedholm, a local banker who was once the Order’s paymaster.	s2_after_church_03	5	1	death
+s2_after_church	He was an opium addict and an embezzler and was forced to leave in disgrace.	s2_after_church_04	5	1	death
+s2_after_church	But because of his former position, he knew the identity of every member of the secret society.	s2_after_church_05	5	1	death
+s2_suit_targets_dead	Every member of the Order in the area was dead, but the cipher was still incomplete.	s2_suit_targets_dead_00	5	1	death
+s2_suit_targets_dead	The Inquisitor hoped that Wedholm had more information to offer.	s2_suit_targets_dead_01	5	1	death
+s2_before_mine	The letter from a supposed ally was an interesting turn of events.	s2_before_mine_00	5	1	death
+s2_before_mine	However, the motivations of the sender were a mystery.	s2_before_mine_01	5	1	death
+s2_before_mine	Cervantes hoped to finally deal with the clairvoyant who remained a thorn in his side.	s2_before_mine_02	5	1	death
+s2_mine_start_1_default	Indeed, the "abandoned" mine was not so abandoned.	s2_mine_start_1_default_00	5	1	death
+s2_mine_start_1_default	As they reached the compound, they instantly saw armed men.	s2_mine_start_1_default_01	5	1	death
+s2_mine_start_1_cover	The information in the letter about the caravan had been correct.	s2_mine_start_1_cover_00	5	1	death
+s2_mine_start_1_cover	Cervantes and his posse took cover behind the wagons.	s2_mine_start_1_cover_01	5	1	death
+s2_mine_start_2	They suspected their new friend was locked up in the shed.	s2_mine_start_2	5	1	death
+s2_mine_clairvoyant_killed	The clairvoyant was no more.	s2_mine_clairvoyant_killed	5	1	death
+s2_mine_rescued	They discovered a young woman, undoubtedly the author of the letter.	s2_mine_rescued	5	1	death
+s2_mine_rescued_enemies_left	She agreed to join their cause.	s2_mine_rescued_enemies_left	5	1	death
+s2_mine_all_killed	Every member of The Order had been dispatched.	s2_mine_all_killed	5	1	death
+s2_mine_mission_complete	Now, they only needed to cut the cipher piece from the clairvoyant's still warm corpse.	s2_mine_mission_complete	5	1	death
+s2_after_mine	Cassandra offered her help in bringing the Order down.	s2_after_mine_00	5	1	death
+s2_after_mine	But first, she wished to collect her personal effects from the nearby village.	s2_after_mine_01	5	1	death
+s2_cass_escape	Cervantes wondered if sending Perez after Cassandra was the best course of action.	s2_cass_escape_00	5	1	death
+s2_cass_escape	Even so, he was not one to let go of a grudge. The clairvoyant had to die.	s2_cass_escape_01	5	1	death
+s2_cass_escape	He and Sister Rosa would have to do without Perez’s protection from now on.	s2_cass_escape_02	5	1	death
+s2_indian_targets	Every member of the Order they knew of was dead.	s2_indian_targets_00	5	1	death
+s2_indian_targets	But they were still one cipher piece short.	s2_indian_targets_01	5	1	death
+s2_indian_targets	They decided to pay another visit to Dohosan.	s2_indian_targets_02	5	1	death
+s2_after_shaman	The Inquisitor was covered in the old shaman's blood, but he had what he came for.	s2_after_shaman_00	5	1	death
+s2_after_shaman	The last piece of the cipher.	s2_after_shaman_01	5	1	death
+s2_after_shaman	Sister Rosa had vanished, but Cervantes had neither the time nor means to pursue her.	s2_after_shaman_02	5	1	death
+s2_after_shaman	Only one thing mattered to the Inquisitor now. The Meteor.	s2_after_shaman_03	5	1	death
+s2_after_shaman	It was time to find Raum and put the Cipher to use.	s2_after_shaman_04	5	1	death
+s2_cipher_use	The cipher revealed the location of the Sanctuary.	s2_cipher_use	5	1	death
+s2_house_start	The Grand Inquisitor reached his destination.	s2_house_start_00	5	1	death
+s2_house_start	The end of a very long trail. The Sanctuary.	s2_house_start_01	5	1	death
+s2_house_start	Here was where Solomon DeLear would make his last stand.	s2_house_start_02	5	1	death
+s2_house_delear_dead	Finally the one and only true Solomon DeLear was dead.	s2_house_delear_dead	5	1	death
+s2_house_wave_1_dead	Solomon and all the guards at the Sanctuary were no longer among the living.	s2_house_wave_1_dead_00	5	1	death
+s2_house_wave_1_dead	It was time for the Inquisitor and his followers to gather at the meteor and begin the ritual.	s2_house_wave_1_dead_01	5	1	death
+s2_house_ritual	Once in position around the meteor, they began to chant their infernal verses.	s2_house_ritual_00	5	1	death
+s2_house_ritual	The sound of an approaching mob broke their concentration. Who would dare interfere?	s2_house_ritual_01	5	1	death
+s2_house_ritual	Sister Rosa led the righteous multitude, determined to make amends for what she had done.	s2_house_ritual_02	5	1	death
+s2_house_ritual_accelerate	Cervantes knew the ritual could be quickened by igniting the skull torches in the garden.	s2_house_ritual_accelerate	5	1	death
+s2_house_ritual_complete	The blast from the meteor could be heard for hundreds of miles.	s2_house_ritual_complete_00	5	1	death
+s2_house_ritual_complete	It melted off Raum’s flesh to reveal his true form: an abomination; a demon.	s2_house_ritual_complete_01	5	1	death
+s2_house_aiza_dead	Sister Rosa’s demise gave Cervantes a feeling of perverse satisfaction.	s2_house_aiza_dead	5	1	death
+s2_house_wave_2_dead	The last remnants of the Order were finally gone and the Inquisitor's quest was over.	s2_house_wave_2_dead	5	1	death
+	Scenario 3: Graveyard Shift				
+s3_t1_01	Your father kept to the shadows.	s3_t1_01_00	5	1	death
+s3_t1_01	Masquerading as one of the evildoers, he edged closer to the jail where Harrington was held.	s3_t1_01_01	5	1	death
+s3_t1_01	A shootout could get Harrington killed, so your father weighed his options.	s3_t1_01_02	4	1	death
+s3_t1_02	By staying to the shadows, your father freed Oswald Harrington without firing a shot.	s3_t1_02_00	4	1	death
+s3_t1_02	The old bounty hunter told him that those running roughshod over the town were possessed by something wicked.	s3_t1_02_01	4	1	death
+s3_t1_02	As the bulk of them were busy chasing down the fleeing townsfolk,	s3_t1_02_02	4	0	death
+s3_t1_02	Harrington suggested they dispatch those that remained.	s3_t1_02_03	4	1	death
+s3_t1_03	At the sound of the first shots, Harrington managed to free himself from his binds,	s3_t1_03_00	4	0	death
+s3_t1_03	injuring his wrist in the process.	s3_t1_03_01	4	1	death
+s3_t1_03	He told your father that those running roughshod over the town were possessed by something wicked.	s3_t1_03_02	4	1	death
+s3_t1_03	As the bulk of them were busy chasing down the fleeing townsfolk,	s3_t1_03_03	4	0	death
+s3_t1_03	Harrington suggested they dispatch those that remained.	s3_t1_03_04	4	1	death
+s3_t1_04	Your father forced the guard to open Harrington's cell.	s3_t1_04_00	4	1	death
+s3_t1_04	The old bounty hunter told him that those running roughshod over the town were possessed by something wicked.	s3_t1_04_01	4	1	death
+s3_t1_04	As the bulk of them were busy chasing down the fleeing townsfolk,	s3_t1_04_02	4	1	death
+s3_t1_04	Harrington suggested they dispatch those that remained.	s3_t1_04_03	4	1	death
+s3_t1_05	The marauders that remained in town were dead.	s3_t1_05_00	4	1	death
+s3_t1_05	Your father and Harrington prepared for the return of their confederates.	s3_t1_05_01	4	1	death
+s3_t1_06	They hid in the shadows, high above.	s3_t1_06_00	4	1	death
+s3_t1_06	As their enemies returned, they gathered on the main square.	s3_t1_06_01	4	1	death
+s3_t1_06	Their leader addressed them in some odd, unfamiliar tongue.	s3_t1_06_02	4	1	death
+s3_t1_07	Your father and Harrington cut down those unsuspecting evildoers.	s3_t1_07	4	1	death
+s3_t1_08	The town was cleansed of whatever evil had possessed it.	s3_t1_08_00	4	1	death
+s3_t1_08	Your father, the Undertaker, could now take up his true purpose.	s3_t1_08_01	4	1	death
+s3t2_01	Your father asked Harrington to end his life.	s3t2_01_00	4	1	death
+s3t2_01	He saw no other way to protect the innocent from his curse.	s3t2_01_01	4	1	death
+s3t2_01	The old bounty hunter agreed, promising to give your father a proper burial.	s3t2_01_02	4	1	death
+s3t2_02	The shot that was to kill your father only wounded him.	s3t2_02_00	4	1	death
+s3t2_02	The Undertaker’s time had not yet come - he still had a larger role to play.	s3t2_02_01	4	1	death
+s3t2_02	And that’s when he saw a great evil approach:	s3t2_02_02	4	1	death
+s3t2_02	a demonic prince intent on disturbing the peace of the dead.	s3t2_02_03	4	1	death
+s3t2_02	Your Father reached for his weapon - He would battle the plague he had brought upon this land.	s3t2_02_04	4	1	death
+s3t2_03	The Demon Prince approached the first brazier and the fire disappeared.	s3t2_03	4	1	death
+s3t2_04	The mere presence of his cold, dark soul extinguished the second.	s3t2_04	4	1	death
+s3t2_05	The third brazier lost its flame when the demon came near.	s3t2_05	4	1	death
+s3t2_06	The final fire was then snuffed out.	s3t2_06_00	4	1	death
+s3t2_06	Stygian darkness replaced all hope.	s3t2_06_01	4	1	death
+s3t2_06	The souls of the townsfolk were doomed to oblivion.	s3t2_06_02	4	1	death
+s3t2_07	One of the braziers was blown out.	s3t2_07_00	4	1	death
+s3t2_07	Full protection from the darkness was no longer possible.	s3t2_07_01	4	1	death
+s3t2_08	The Demon Prince and his followers were finally defeated.	s3t2_08	4	1	death
+s3t2_09	The Demon Prince fell dead. But not for long.	s3t2_09_00	4	1	death
+s3t2_09	He used his dark powers to take control of one of his followers.	s3t2_09_01	4	1	death
+s3t3_01	The Undertaker and the bounty hunter approached the abandoned sawmill.	s3t3_01_00	4	1	death
+s3t3_01	They needed to find Reverend Ashmore. Hopefully more alive than dead.	s3t3_01_01	4	1	death
+s3t3_01	They would either stumble into him by chance, in one of the buildings,	s3t3_01_02	4	0	death
+s3t3_01	or beat the truth out of the Mad King.	s3t3_01_03	4	1	death
+s3t3_02	In a rush of lucidity, the Mad King revealed the good reverend’s location.	s3t3_02	4	1	death
+s3t3_03	The reverend was alive.	s3t3_03_00	4	1	death
+s3t3_03	Locked up in a shed.	s3t3_03_01	4	1	death
+s3t3_04a	The crate contained much needed food supplies.	s3t3_04a	4	1	death
+s3t3_04b	More food was found. A blessing indeed.	s3t3_04b	4	1	death
+s3t3_04c	A third crate was also packed with rations.	s3t3_04c	4	1	death
+s3t3_04d	More found food. A real cornucopia.	s3t3_04d	4	1	death
+s3t3_05	As the reverend promised his saviors a lifetime of prayers,	s3t3_05_00	4	0	death
+s3t3_05	the Undertaker looked for a way out of there.	s3t3_05_01	4	1	death
+s3t3_05	Ashmore pointed out a boat they could use to escape downstream.	s3t3_05_02	4	1	death
+s3t3_06	They climbed aboard the boat and navigated downstream.	s3t3_06_00	4	1	death
+s3t3_06	Relief flooded all three as they left that wicked place behind.	s3t3_06_01	4	1	death
+s3t4_01	The posse approached the hideout at dawn.	s3t4_01_00	4	1	death
+s3t4_01	The altar where blood sacrifices were made gave the demon his ability to control his followers' bodies.	s3t4_01_01	4	1	death
+s3t4_01	They could destroy the altar or kill his disciples.	s3t4_01_02	4	1	death
+s3t4_01	Either one would stop the Demon Prince from resurrecting.	s3t4_01_03	4	1	death
+s3t4_01	The three vessels filled with the blood of his believers strengthened the demon’s ungodly powers.	s3t4_01_04	4	1	death
+s3t4_01	Destroying these vessels would cripple the fiend.	s3t4_01_05	4	1	death
+s3t4_02	With the vessel shattered, the demon suddenly lost his vitality.	s3t4_02	4	1	death
+s3t4_03	Blood spilled on the floor and the demon lost a bit of his speed.	s3t4_03	4	1	death
+s3t4_04	As the vessel fell apart, so did the demon's protective aura.	s3t4_04	4	1	death
+s3t4_05	The altar lay in ruins.	s3t4_05_00	4	1	death
+s3t4_05	The demon could no longer return to fight in the mortal form of another.	s3t4_05_01	4	1	death
+s3t4_05	It was time to send this evil creature back to hell.	s3t4_05_02	4	1	death
+s3t4_06	The demon's followers were all dead.	s3t4_06_00	4	1	death
+s3t4_06	Without a vessel, he could not return.	s3t4_06_01	4	1	death
+s3t4_06	It was time to send this evil creature back to hell.	s3t4_06_02	4	1	death
+s3t4_07	The demon returned in the body of one of his worshippers.	s3t4_07	4	1	death
+s3t4_08	The fiend was no longer anchored in the realm of the living.	s3t4_08_00	4	1	death
+s3t4_08	With its demise, your father found a new path. A new ambition.	s3t4_08_01	4	1	death
+s3t4_08	His final destination, his place to find redemption, was now… with you.	s3t4_08_02	4	1	death
+	Scenario 4: On Earth as It Is in Hell				
+s4_t1_intro	The battlefield echoed with rallying cries of your father’s enemies.	s4_t1_intro	4	1	death
+s4_t1_shriek	An otherwordly shriek pierced the night air.	s4_t1_shriek	4	1	death
+s4_t1_demonrespawn	The demon was reborn in a flash of burning brimstone.	s4_t1_demonrespawn_00	4	1	death
+s4_t1_demonrespawn	But there was a way to sever its connection to this world.	s4_t1_demonrespawn_01	4	1	death
+s4_t1_complete	Later on, your father questioned a survivor to suss out your location.	s4_t1_complete_00	4	1	death
+s4_t1_complete	He revealed where you were headed. Your father, the Undertaker, would confront you there.	s4_t1_complete_01	4	1	death
+s4_t2_intro	If half of what you heard about Hardin was true, he was an irredeemable scumbag.	s4_t2_intro_00	4	1	death
+s4_t2_intro	But a man with nothing left to lose was just the kind of man you needed.	s4_t2_intro_01	4	1	death
+s4_t2_combatintro	Things didn't go exactly as planned.	s4_t2_combatintro_00	4	1	death
+s4_t2_combatintro	Despite the odds, you still needed to get Hardin out of there.	s4_t2_combatintro_01	4	1	death
+s4_t2_meeting_hardin	Hardin's female guard was strong and imposing.	s4_t2_meeting_hardin_00	4	1	death
+s4_t2_meeting_hardin	She offered to join you in Hardin’s stead.	s4_t2_meeting_hardin_01	4	1	death
+s4_t2_meeting_hardin	Only one of them would leave this room alive.	s4_t2_meeting_hardin_02	4	1	death
+s4_t2_freehardin	Hardin's guard was strong and imposing.	s4_t2_freehardin_00	4	1	death
+s4_t2_freehardin	You couldn't release Hardin with her around.	s4_t2_freehardin_01	4	1	death
+s4_t2_hardinfreed	Free from his binds, Hardin thanked you and cursed those who betrayed him.	s4_t2_hardinfreed_00	4	1	death
+s4_t2_hardinfreed	Of course, he had no idea why you freed him in the first place.	s4_t2_hardinfreed_01	4	1	death
+s4_t2_hardinfreed_b	But there was too much shooting to be done to discuss that now.	s4_t2_hardinfreed_b	4	1	death
+s4_t2_lulujoined	Lulu the courtesan congratulated you on your splendid choice.	s4_t2_lulujoined	4	1	death
+s4_t2_lulujoined_b	But now you needed to clear out a lot of her angry associates.	s4_t2_lulujoined_b	4	1	death
+s4_t2_subduedassistant	The assistant gave up the keys to the madam's office fairly willingly.	s4_t2_subduedassistant	4	1	death
+s4_t2_safecracked	Madame Bai-Bai was wealthier than you expected.	s4_t2_safecracked	4	1	death
+s4_t2_alldead	With every enemy dispatched, the whorehouse was uncommonly silent.	s4_t2_alldead	4	1	death
+s4_t2_alldead_b	But it was time to leave.	s4_t2_alldead_b	4	1	death
+s4_t3_c_intro1	Escaped convicts held Henry Persons for ransom.	s4_t3_c_intro1	4	1	death
+s4_t3_c_intro2	But this band of opium fiends had bitten off more than they could chew.	s4_t3_c_intro2	4	1	death
+s4_t3_c_opium1	You recovered a supply of opium.	s4_t3_c_opium1	4	1	death
+s4_t3_c_opium2	Another crate recovered. That would fetch a pretty penny.	s4_t3_c_opium2	4	1	death
+s4_t3_c_personsdead	You were too late; Persons was dead.	s4_t3_c_personsdead	4	1	death
+s4_t3_c_personsdead_kill	These fiends were going to pay for that.	s4_t3_c_personsdead_kill	4	1	death
+s4_t3_c_personsdead_end1	Hopefully, Ochoa was competent enough to replace him.	s4_t3_c_personsdead_end1	4	1	death
+s4_t3_c_personsdead_end2	But your posse was one man down.	s4_t3_c_personsdead_end2	4	1	death
+s4_t3_c_outro	The opium fiends were no more.	s4_t3_c_outro	4	1	death
+s4_t3_c_outro_bh_lives	Hopefully, Ochoa would prove to be competent enough to replace Persons.	s4_t3_c_outro_bh_lives	4	1	death
+s4_t3_c_outro_bh_dead	But your posse was one man down.	s4_t3_c_outro_bh_dead	4	1	death
+s4_t3_bh_intro	Even the Wizard's best men couldn't stop you.	s4_t3_bh_intro	4	1	death
+s4_t3_bh_intro_opium	Stealing the opium stash would add insult to injury.	s4_t3_bh_intro_opium	4	1	death
+s4_t3_bh_released	Persons thanked you politely for the rescue.	s4_t3_bh_released	4	1	death
+s4_t3_bh_released_kill	He was eager to fight back against his oppressors.	s4_t3_bh_released_kill_00	4	1	death
+s4_t3_bh_released_kill	In fact, he refused to leave until they were all dead.	s4_t3_bh_released_kill_01	4	1	death
+s4_t3_bh_released_done	He was rather disappointed that there was no one left to kill.	s4_t3_bh_released_done_00	4	1	death
+s4_t3_bh_released_done	But he promised to ride with you as long as he could have some payback.	s4_t3_bh_released_done_01	4	1	death
+s4_t3_bh_killedeveryone	Henry Persons inhaled deeply, enjoying the smell of fresh blood and spent gunpowder.	s4_t3_bh_killedeveryone_00	4	1	death
+s4_t3_bh_killedeveryone	His contented smile was a clear indication of how truly insane he was.	s4_t3_bh_killedeveryone_01	4	1	death
+s4_t3_bh_missionendpinkydied	You wiped out the rest of the outlaws.	s4_t3_bh_missionendpinkydied_00	4	1	death
+s4_t3_bh_missionendpinkydied	But Henry Persons was also dead and your posse was one man down.	s4_t3_bh_missionendpinkydied_01	4	1	death
+s4_t4_w_intro	And so you arrived in Purgatory.	s4_t4_w_intro_00	4	1	death
+s4_t4_w_intro	Where your own father, the Undertaker, would try to put an end to your fool’s errand.	s4_t4_w_intro_01	4	1	death
+s4_t4_u_intro	Your father was used and abused and discarded by the same dark forces that dominate you now.	s4_t4_w_intro_02	4	1	death
+s4_t4_u_intro	I gave him purpose. A chance at redemption. For if he can stop you, he can set things right.	s4_t4_w_intro_03	4	1	death
+s4_t4_purpose	Because of you, those in purgatory cannot move on.	s4_t4_purpose_00	4	1	death
+s4_t4_purpose	You exist between life and death and that has disrupted the natural order.	s4_t4_purpose_01	4	1	death
+s4_t4_reasoning	You must know by now that all your suffering has been orchestrated.	s4_t4_reasoning_00	4	1	death
+s4_t4_reasoning	From that fateful night on the Oregon Trail, when your mother was murdered…	s4_t4_reasoning_01	4	1	death
+s4_t4_reasoning	…to the curse that befell your father, to your death at the hands of the Masked Man,	s4_t4_reasoning_02	4	1	death
+s4_t4_reasoning	to your undead existence and all the misery and bloodshed that came with it.	s4_t4_reasoning_03	4	1	death
+s4_t4_reasoning	You have been a puppet all along.	s4_t4_reasoning_04	4	1	death
+s4_t4_ramifications	If you destroy Purgatory, you will not bring Florence back.	s4_t4_ramifications_00	4	1	death
+s4_t4_ramifications	She and every other soul you release will wander lost, untethered from the world of the living,	s4_t4_ramifications_01	4	0	death
+s4_t4_ramifications	restlessly roaming and never finding peace.	s4_t4_ramifications_02	4	1	death
+s4_t4_ramifications	Unless you let her go, all you will create is more chaos.	s4_t4_ramifications_03	4	1	death
+s4_t4_w_choice	You have to make a choice.	s4_t4_w_choice	4	1	death
+s4_t4_u_end	You have restored the natural order and fulfilled your destiny.	s4_t4_u_end	4	1	death
+s4_wm_quest	The first member of your posse would be Jefferson Burns.	s4_wm_quest_00	5	1	death
+s4_wm_quest	As a decorated war hero and Indian fighter, you would likely find him in the nearby military encampment.	s4_wm_quest_01	5	1	death
+s4_wm_quest	Of course, you were still a wanted outlaw from your brush with the Masked Man.	s4_wm_quest_02	5	1	death
+s4_wm_area2	Your next candidates were: Randy Hardin, a notorious gunfighter,	s4_wm_area2_00	5	0	death
+s4_wm_area2	and Henry Persons - a former Pinkerton agent.	s4_wm_area2_01	5	1	death
+s4_wm_area2	The local crime lord would know where to find them.	s4_wm_area2_02	5	1	death
+	Scenario 5: Method in Madness				
+s5_t1_start	DeLear was nervous and thought about fleeing. Then three massive Pinkertons appeared.	s5_t1_start_00	4	1	death
+s5_t1_start	Each introduced himself in turn, but all three had the same name: Mr. Persons.	s5_t1_start_01	4	1	death
+s5_t1_start	They explained that they had been hired to protect him, but declined to say by whom.	s5_t1_start_02	4	1	death
+s5_t1_combat	DeLear's presence made the madmen uneasy. Then angry. They attacked en masse.	s5_t1_combat	4	1	death
+s5_t1_end	The laboratory was finally cleared of lunatics.	s5_t1_end_00	4	1	death
+s5_t1_end	DeLear breathed a sigh of relief as he sat down to begin his research.	s5_t1_end_01	4	1	death
+s5_natives	Trumercliff's notes suggested the natives knew what caused the madness.	s5_natives_00	4	1	death
+s5_natives	DeLear decided to pay them a visit and try to find out what they knew.	s5_natives_01	4	1	death
+s5_t2_start	The church was now a makeshift asylum. But it appeared the inmates had taken it over.	s5_t2_start_00	4	1	death
+s5_t2_start	The madmen guarding the doors all wore deputy badges that read "Turner."	s5_t2_start_01	4	1	death
+s5_t2_start	DeLear wondered where Gilmur's office had been. Probably upstairs, he grumbled.	s5_t2_start_02	4	1	death
+s5_t2_start	Only DeLear knew how to identify the files. He would need to go there personally.	s5_t2_start_03	4	1	death
+s5_t2_alert	One loony began yapping. Other inmates gradually joined him, raising a cacophony.	s5_t2_alert_00	4	1	death
+s5_t2_alert	The collective insanity in the room boiled over. Violence was now inevitable.	s5_t2_alert_01	4	1	death
+s5_t2_afterobj	DeLear carefully removed the research data. To his dismay, it triggered an alarm.	s5_t2_afterobj_00	4	1	death
+s5_t2_afterobj	The bell clamored incessantly as Turner's psychotic deputies swarmed after DeLear.	s5_t2_afterobj_01	4	1	death
+s5_t2_afterobj	His back against the wall, DeLear's only option was to escape via steam carriage.	s5_t2_afterobj_02	4	1	death
+s5_t2_zealot	Eerily, Mr. Persons repeated his pledge to protect DeLear's life at all costs.	s5_t2_zealot	4	1	death
+s5_t2_notes	DeLear searched the room and found documents bearing Trumercliff's insignia.	s5_t2_notes	4	1	death
+s5_t3_start	Solomon found himself in a maze of trains and stations.	s5_t3_start_00	4	1	death
+s5_t3_start	The scattered notes he'd found rearranged themselves into a giant telegraph hub.	s5_t3_start_01	4	1	death
+s5_t3_start	The Pinkertons stared at him with hollow eyes, listless and lethargic.	s5_t3_start_02	4	1	death
+s5_t3_start	When he finally heard Trumercliff's voice telling him to find his answers,	s5_t3_start_03	4	0	death
+s5_t3_start	DeLear realized he was dreaming.	s5_t3_start_04	4	1	death
+s5_t3_obj1	It was clear to DeLear now. The Madness existed only within this region.	s5_t3_obj1_00	4	1	death
+s5_t3_obj1	Trumercliff's voice urged him to find more clues.	s5_t3_obj1_01	4	1	death
+s5_t3_obj2	Another mystery: why did the asylum patients relapse after returning home?	s5_t3_obj2_00	4	1	death
+s5_t3_obj2	The solemn voice intoned that there were too many unknowns.	s5_t3_obj2_01	4	1	death
+s5_t3_obj3	The old man had said that a comet appeared the night the Madness started.	s5_t3_obj3_00	4	1	death
+s5_t3_obj3	Realization thrilled through him. DeLear was ready to make his conclusions.	s5_t3_obj3_01	4	1	death
+s5_t3_obj3	He knew that certain physical substances, like mercury, could cause Madness.	s5_t3_obj3_02	4	1	death
+s5_t3_obj3	If that were true, then the plague could have a physical source.	s5_t3_obj3_03	4	1	death
+s5_t3_obj3	What if the comet had become a meteor? Could that be the cause of all this?	s5_t3_obj3_04	4	1	death
+s5_t3_obj3	The maze receded from view. Trumercliff's voice faded, distant but satisfied.	s5_t3_obj3_05	4	1	death
+s5_t4_start	As DeLear drilled for the meteor, Trumercliff's last letter reverberated in his mind.	s5_t4_start_00	4	1	death
+s5_t4_start	Trumercliff thought his "death" was actually a rebirth through the meteor's power.	s5_t4_start_01	4	1	death
+s5_t4_start	Obviously he had been insane. But what had he been trying to communicate?	s5_t4_start_02	4	1	death
+s5_t4_start2	One thing was clear. Trumercliff had renounced his old mind and embraced genius.	s5_t4_start2_00	4	1	death
+s5_t4_start2	The Pinkertons shouted. They'd spotted a horde of armed madmen. Turner's minions.	s5_t4_start2_01	4	1	death
+s5_t4_start2	Insane or not, Trumercliff had known what must  be done. Now it was DeLear's turn.	s5_t4_start2_02	4	1	death
+s5_t4_escapetime	DeLear emerged from the crater, the meteor tucked under his coat.	s5_t4_escapetime_00	4	1	death
+s5_t4_escapetime	The steam carriage was his only means of escape.	s5_t4_escapetime_01	4	1	death
+s5_t4_1pinkerton	Mr. Persons swore he would get DeLear out alive.	s5_t4_1pinkerton	4	1	death
+s5_t4_2pinkertons	The Pinkertons formed a tight, protective ring around DeLear.	s5_t4_2pinkertons	4	1	death
+s5_t4_turner_killed	Ornery to the end, Turner swore and spat blood. He cursed DeLear once more and died.	s5_t4_turner_killed	4	1	death
+s5_t5_start	DeLear was putting the final touches on his masterpiece when the madmen closed in.	s5_t5_start_00	4	1	death
+s5_t5_start	If he could get power to the machine, it would invert the meteor's energy.	s5_t5_start_01	4	1	death
+s5_t5_start	It might cure them, it might kill them. Either way it would stop them.	s5_t5_start_02	4	1	death
+s5_t5_turneralive	Sheriff Turner gave a loud whistle, ordering his men to begin the attack.	s5_t5_turneralive	4	1	death
+s5_t5_firstfuse	Solomon restored partial power, but not enough to start the device.	s5_t5_firstfuse	4	1	death
+s5_t5_secondfuse	Solomon restored full power. The machine came to life on its own.	s5_t5_secondfuse	4	1	death
+s5_t5_trumercliff_killed	Trumercliff froze and fell to the ground, dead.	s5_t5_trumercliff_killed	4	1	death
+s5_t5_trumercliff_killed2	On seeing his master fall, Turner became apoplectic, screaming at his men to attack.	s5_t5_trumercliff_killed2	4	1	death
+s5_end	Suddenly, a blinding flash suffused the battlefield, along with a thunderous blast.	s5_end_00	4	1	death
+s5_end	The power of the meteor, now inverted, invaded every mind in the area.	s5_end_01	4	1	death
+s5_end	All in the vicinity were cleansed of madness, but in its place, only blanks remained.	s5_end_02	4	1	death
+s5_end	Some awoke as from a bad dream, others stared emptily, several dropped dead.	s5_end_03	4	1	death
+s5_end	Over the next few weeks, Pinkertons appeared by the dozen to help rebuild the town.	s5_end_04	4	1	death
+s5_end	The crisis was over. DeLear vowed to protect the machine until it was needed again.	s5_end_05	4	1	death
+	Scenario 6: In Gold We Trust				
+s6_t1_intro	Vasquez broke free, but found himself alone and out-gunned.	s6_t1_intro_00	5	1	death
+s6_t1_intro	His associates needed help. The best way to give it to them	s6_t1_intro_01	5	1	death
+s6_t1_intro	was to acquire as much firepower as possible.	s6_t1_intro_02	5	1	death
+s6_t1_newweapons	Vasquez didn't feel so defenseless anymore.	s6_t1_newweapons	4	1	death
+s6_t1_friend	Vasquez freed his old friend Diego.	s6_t1_friend	5	1	death
+s6_t1_tutor	Vasquez's mentor, Señor Zacarias thanked him for liberating him.	s6_t1_tutor	4	1	death
+s6_t1_twomore	Two more of Vasquez's companions still needed his help.	s6_t1_twomore	5	1	death
+s6_t1_onemore	The enemy still held one of the his men captive.	s6_t1_onemore	5	1	death
+s6_t1_inquisitor	Vasquez freed Cervantes, but the Inquisitor was badly wounded.	s6_t1_inquisitor	5	1	death
+s6_t1_kickass	The crew was determined to drive all the bandits from the camp.	s6_t1_kickass	4	1	death
+s6_t1_complete	Finally, the camp was theirs.	s6_t1_complete	5	1	death
+s6_after_t1	The camp would make an excellent, if temporary, home base.	s6_after_t1_00	5	1	death
+s6_after_t1	They would need to secure some manpower. And supplies to keep them fed.	s6_after_t1_01	5	1	death
+s6_after_t1	Unfortunately, Inquisitor Cervantes was in no shape to accompany them.	s6_after_t1_02	5	1	death
+s6_after_t1	They left him behind, hoping he would still be breathing when they returned.	s6_after_t1_03	5	1	death
+s6_cervantes_healed	Wild-eyed and shouting, Cervantes called to Vasquez as the peons carried him off.	s6_cervantes_healed_00	5	1	death
+s6_cervantes_healed	Grasping Vasquez's arm like a drowning man, he raved that they must "follow the red star."	s6_cervantes_healed_01	5	1	death
+s6_cervantes_healed	Diego shook his head sadly. Zacarias merely raised an eyebrow.	s6_cervantes_healed_02	5	1	death
+s6_cervantes_healed	Vasquez would never forget the raw conviction in the Inquisitor's eyes.	s6_cervantes_healed_03	5	1	death
+s6_t2_intro	As the peons began loading the rafts, Lafórtuna's men attacked.	s6_t2_intro_00	5	1	death
+s6_t2_intro	Vasquez and his crew held the invaders off as long as they could.	s6_t2_intro_01	5	1	death
+s6_t2_intro	Meanwhile, the peons continued hauling supplies.	s6_t2_intro_02	5	1	death
+s6_t2_basicloaded	Most of the supplies were loaded.	s6_t2_basicloaded_00	5	1	death
+s6_t2_basicloaded	They could make a run for it now or try to hold the enemies off,	s6_t2_basicloaded_01	6	0	death
+s6_t2_basicloaded	giving the peons time to load absolutely everything.	s6_t2_basicloaded_02	4	1	death
+s6_t2_depleted	Their medical supplies were already depleted.	s6_t2_depleted	6	1	death
+s6_t2_enemieskilled	Crushed by Vasquez's superior firepower, Lafortuna's men dispersed.	s6_t2_enemieskilled_00	5	1	death
+s6_t2_enemieskilled	The rafts were loaded without further disturbances.	s6_t2_enemieskilled_01	5	1	death
+s6_t2_bonusloaded	The remaining provisions were loaded.	s6_t2_bonusloaded_00	4	1	death
+s6_t2_bonusloaded	It was time to leave.	s6_t2_bonusloaded_01	4	1	death
+s6_after_river_desert	After landing on the far bank, Vasquez's crew discovered an abandoned camp.	s6_after_river_desert_00	4	1	death
+s6_after_river_desert	They adopted it as their temporary home.	s6_after_river_desert_01	4	1	death
+s6_after_river_desert	Above a distant mountain range, Vasquez spied a red star.	s6_after_river_desert_02	4	1	death
+s6_after_river_desert	It pointed north-east, staining the sky like a smear of blood in a consumptive's handkerchief -	s6_after_river_desert_03	4	1	death
+s6_after_river_desert	a harbinger of suffering to come. Vasquez now knew his destination.	s6_after_river_desert_04	4	1	death
+s6_after_river_desert	Surviving the journey, however, would be a different matter.	s6_after_river_desert_05	4	1	death
+s6_t3_intro	As expected, the fort was currently only lightly guarded.	s6_t3_intro_00	5	1	death
+s6_t3_intro	They needed to plan their strike carefully.	s6_t3_intro_01	5	1	death
+s6_t3_intro	Reinforcements would be on the way as soon as Vasquez's men fired their first shot.	s6_t3_intro_02	5	1	death
+s6_t3_combat_start	The first shot was fired, setting the bloody ballet in motion.	s6_t3_combat_start_00	5	1	death
+s6_t3_combat_start	Reinforcements from the West would arrive first. More would follow.	s6_t3_combat_start_01	5	1	death
+s6_t3_quick	They managed to dispatch every guard before reinforcements could arrive.	s6_t3_quick_00	5	1	death
+s6_t3_quick	If they worked quickly, they would have time to prepare an ambush.	s6_t3_quick_01	5	1	death
+s6_t3_1st_reinforcements	The western gate sprung wide, revealing several armed men.	s6_t3_1st_reinforcements_00	5	1	death
+s6_t3_1st_reinforcements	Vasquez was amazed by the organization of these jungle-raised natives.	s6_t3_1st_reinforcements_01	5	1	death
+s6_t3_1st_reinforcements_peoned	The peons wounded several enemies, but ultimately perished.	s6_t3_1st_reinforcements_peoned	5	1	death
+s6_t3_2nd_reinforcements	A second batch of reinforcements had arrived at the eastern gate.	s6_t3_2nd_reinforcements	5	1	death
+s6_t3_2nd_reinforcements_peoned	Fighting the peons had tired them, but their injuries were only slight.	s6_t3_2nd_reinforcements_peoned	5	1	death
+s6_t3_loot	Vasquez happily collected the natives' goods and equipment.	s6_t3_loot	5	1	death
+s6_t3_victory	The last of the natives died, coughing up blood.	s6_t3_victory_00	5	1	death
+s6_t3_victory	The fort was secured. The expedition could safely head north.	s6_t3_victory_01	5	1	death
+s6_exterminated	The natives' underground hideout would now be their tomb.	s6_exterminated_00	5	1	death
+s6_exterminated	Vasquez pictured the men, women and children, still alive in the barrow tunnels, but not for long.	s6_exterminated_01	5	1	death
+s6_exterminated	As the air became stale, they would succumb to panic and rip one another apart.	s6_exterminated_02	5	1	death
+s6_exterminated	Vasquez told himself it was a neccesary evil.	s6_exterminated_03	5	1	death
+s6_masked	As the jade mask covered his face, Vasquez felt a strange power thrill through him.	s6_masked_00	5	1	death
+s6_masked	His mind blazed with electric clarity. He was enlightened, freed from earthly worry.	s6_masked_01	5	1	death
+s6_masked	Zacarias found Vasquez's behavior troubling. He feared for his protégé's sanity.	s6_masked_02	5	1	death
+s6_t4_intro	Vasquez was in a difficult situation, but his goal was finally within reach.	s6_t4_intro_00	4	1	death
+s6_t4_intro	He would do whatever it took to fulfill his destiny.	s6_t4_intro_01	4	1	death
+s6_t4_intro_peon	O'Connell was in the far corner of the camp. Though he was tied up and bleeding profusely,	s6_t4_intro_peon_00	4	0	death
+s6_t4_intro_peon	Vasquez knew he would remain loyal. And that Diego wouldn't dare kill him.	s6_t4_intro_peon_01	4	1	death
+s6_t4_intro_peon	There was still time to save him.	s6_t4_intro_peon_02	4	1	death
+s6_t4_peondead	O'Connell bled to death, awake and alone. No tears were shed for him.	s6_t4_peondead	4	1	death
+s6_t4_peonfree	They found O'Connell in time and treated his wounds.	s6_t4_peonfree_00	4	1	death
+s6_t4_peonfree	Moments later, he was ready to join the fight again.	s6_t4_peonfree_01	4	1	death
+s6_t4_friendfound	Diego begged Vasquez to stop this madness.	s6_t4_friendfound_00	4	1	death
+s6_t4_friendfound	But the man in the mask did not listen.	s6_t4_friendfound_01	4	1	death
+s6_t4_friendfound	To him, there was only one way this could end.	s6_t4_friendfound_02	4	1	death
+s6_t4_frienddead	Vasquez gazed, dispassionately at the remains of his oldest friend.	s6_t4_frienddead_00	7	1	death
+s6_t4_frienddead	Zacarias moved to console him, then saw Vasquez was cold and firm as stone.	s6_t4_frienddead_01	5	1	death
+s6_t4_frienddead	His protégé was beyond sympathy now.	s6_t4_frienddead_02	5	1	death
+s6_valley_reached	As they cleared the passage, the earth trembled under their feet.	s6_valley_reached_00	5	1	death
+s6_valley_reached	Falling boulders buried several men alive, blocking the passage completely.	s6_valley_reached_01	5	1	death
+s6_valley_reached	There would be no turning back now.	s6_valley_reached_02	5	1	death
+s6_tzompantli_passed	The last obstacle was removed and the path to the temple lay clear.	s6_tzompantli_passed_00	5	1	death
+s6_tzompantli_passed	The red star hung directly over the structure, like an angry gash in the sky.	s6_tzompantli_passed_01	5	1	death
+s6_tzompantli_passed	Whatever waited for him inside, Vasquez was determined to fulfill his destiny.	s6_tzompantli_passed_02	5	1	death
+s6_t5_begin	Horrified, Zacarias finally understood Vasquez's intentions.	s6_t5_begin_00	4	1	death
+s6_t5_begin	He would stop him or die trying.	s6_t5_begin_01	5	1	death
+s6_t5_tutordead	Zacarias was dead. Vasquez smiled.	s6_t5_tutordead_00	4	1	death
+s6_t5_tutordead	Surely the forces inhabiting the temple would accept this sacrifice.	s6_t5_tutordead_01	4	1	death
+s6_t5_tutordead	It was time to pass through the gate and fulfill his destiny.	s6_t5_tutordead_02	4	1	death
+s6_t5_devilfree	Smiling and relaxed, the Antichrist emerged from the temple.	s6_t5_devilfree_00	5	1	death
+s6_t5_devilfree	His teeth glinted in the red star's baleful light and a spark danced in his eyes.	s6_t5_devilfree_02	5	1	death
+s6_t5_devilfree	This was his world now.	s6_t5_devilfree_03	5	1	death
+s6_t5_devilfree_unused	He looked less like a hellish apparition than a wealthy businessman.	s6_t5_devilfree_01	5	1	death
+	Scenario 7: Hard Times				
+s7_t1_intro	Father set out to find her.	s7_t1_intro	4	1	death
+s7_t1_notinhouse	She was nowhere to be found.	s7_t1_notinhouse	4	1	death
+s7_t1_openbox	He saw the box. What was in it?	s7_t1_openbox	4	1	death
+s7_t1_clear	He had to make sure no one shot him in the back while he looked more carefully.	s7_t1_clear	4	1	death
+s7_t1_backtobox	He recalled the box. What was in it?	s7_t1_backtobox	4	1	death
+s7_t1_box	The simple wooden box contained a head. Your mother's head.	s7_t1_box	4	1	death
+s7_t1_revenge	She couldn't be saved, but he had to make sure you're safe.	s7_t1_revenge	4	1	death
+s7_tutorial_final_a	Afterwards, your father found one of the gunmen still alive.	s7_tutorial_final_a_00	4	1	death
+s7_tutorial_final_c	He asked him why they would murder such a fine, innocent woman.	s7_tutorial_final_a_01	4	1	death
+s7_tutorial_final_b	The dying man rambled on about some unholy obligation,	s7_tutorial_final_b_00	4	0	death
+s7_tutorial_final_b	about promises made by the devil himself and the rewards they would find in Hell.	s7_tutorial_final_b_01	4	1	death
+s7_tutorial_final_d	And then the light left his eyes and he was gone, presumably to claim his unjust rewards.	s7_tutorial_final_b_02	4	1	death
+s7_intermission	You and your father were alive, but all your supplies were destroyed.	s7_intermission_00	4	1	death
+s7_intermission	No way you'd make it to Oregon now.	s7_intermission_01	4	1	death
+s7_intermission	Your father decided to stay put and build a life right there.	s7_intermission_02	4	1	death
+s7_intermission	Many years passed and you grew up. You became a man.	s7_intermission_03	4	1	death
+s7_gold	So, you took up prospecting gold.	s7_gold_00	4	1	death
+s7_gold	And dreamed of striking it rich.	s7_gold_01	4	1	death
+s7_banditattacks	You made a deal with the leader of the outlaws.	s7_banditattacks_00	4	1	death
+s7_banditattacks	Not a good deal, but a necessary one.	s7_banditattacks_01	4	1	death
+s7_meetflorence	From the day you first laid eyes on Florence, she was all you could think about.	s7_meetflorence_00	4	1	death
+s7_meetflorence	It wasn’t just desire that she inspired in you.	s7_meetflorence_01	4	1	death
+s7_meetflorence	It was the way she saw the best in you. The way she made you feel.	s7_meetflorence_02	4	1	death
+s7_2_start	You were ready and armed when you first spotted the gunmen in the distance.	s7_2_start	4	1	death
+s7_2_oshcurodies	With the hired gun's death, you were burdened with a heavy debt.	s7_2_oshcurodies	4	1	death
+s7_2_turn	There were but a few enemies left.	s7_2_turn	4	1	death
+s7_2_end	You stood your ground and vanquished your enemies.	s7_2_end	4	1	death
+s7_afterattack	You spurred your horse on, worried about what you might find.	s7_afterattack	4	1	death
+s7_meantime	With the power of the amulet, everywhere you and your father looked you found gold.	s7_meantime_00	4	1	death
+s7_meantime	With success, came confidence in the future and you asked Florence to marry you.	s7_meantime_01	4	1	death
+s7_meantime	She said yes.	s7_meantime_02	4	1	death
+s7_florencecaptured	You’d never been more furious as you rushed out the door, gun in hand.	s7_florencecaptured_00	4	1	death
+s7_florencecaptured	There was killing to be done.	s7_florencecaptured_01	4	1	death
+s7_5_start	You talked with Florence through a barred window.	s7_5_start_00	4	1	death
+s7_5_start	To get her out, you’d need the key.	s7_5_start_01	4	1	death
+s7_5_start	This same key could also be used to lock the guards inside the house.	s7_5_start_02	4	1	death
+s7_5_key	The key was yours. You could release her right away.	s7_5_key_00	4	0	death
+s7_5_key_altobj	Or, first lock the guards inside to make sure they didn’t try to stop you.	s7_5_key_01	4	1	death
+s7_5_lockedup	All the doors were locked tight with the master key.	s7_5_lockedup_00	4	1	death
+s7_5_lockedup	Getting away would be much easier now.	s7_5_lockedup_01	4	1	death
+s7_5_florencereleased	At last, Florence was free.	s7_5_florencereleased	4	1	death
+s7_5_loanshark	Vengeance was yours.	s7_5_loanshark	4	1	death
+s7_5_killall	Now, onto the guards.	s7_5_killall	4	1	death
+s7_5_killfree	Now all you had to do was dispatch the guards outside.	s7_5_killfree	4	1	death
+s7_5_end	Florence was free and there was no one left to pursue you.	s7_5_end	4	1	death
+s7_jinx	Your father was under a dark cloud and not a day would go by without some sort of mishap.	s7_jinx	4	1	death
+s7_fatherleaves	You and Florence were on your own now. At least you still had a home.	s7_fatherleaves	4	1	death
+s7_5alt_start	You came to clean up the chaos left in the wake of the outlaw leader’s demise.	s7_5alt_start_00	4	1	death
+s7_5alt_start	But it was quiet. Too quiet...	s7_5alt_start_01	4	1	death
+s7_5alt_ambush	It was an ambush. They knew you were coming.	s7_5alt_ambush	4	1	death
+s7_5alt_turn	Your enemies met their end and their numbers gradually dwindled.	s7_5alt_turn	4	1	death
+s7_5alt_boss	Finally, you took down the most vicious among them.	s7_5alt_boss	4	1	death
+s7_5alt_end	With the worst of the lot gone, the town now had a chance to find some semblance of normalcy.	s7_5alt_end	4	1	death
+s7_siege	A gang of desperadoes had taken over your homestead.	s7_siege_00	4	1	death
+s7_siege	Was there no end to the tyranny of evil men?	s7_siege_01	4	1	death
+s7_6_start	You would fight for your home and take back what was yours.	s7_6_start	4	1	death
+s7_6_startalt	The tunnel you used was mighty useful and led you all the way into the house.	s7_6_startalt	4	1	death
+s7_6_turn	What you didn’t know at the time was that those hired thugs worked for the railroad.	s7_6_turn_00	4	1	death
+s7_6_turn	The corrupt local government deeded them your property, claiming the right of eminent domain.	s7_6_turn_01	4	1	death
+s7_6_turn	Making the house you were defending no longer yours.	s7_6_turn_02	4	1	death
+s7_6_turn	Every man you killed raised the reward on your head a little higher…	s7_6_turn_03	4	1	death
+s7_6_turn	Because now you were a wanted man. An outlaw.	s7_6_turn_04	4	1	death
+s7_finale	When every last thug was silenced, the truth of your situation finally hit home.	s7_finale_00	4	1	death
+s7_finale	You had to run.	s7_finale_01	4	1	death
+	Scenario 8: A Matter of Time				
+s8_t1_hanging	Two men would save Cassandra and set her free.	s8_t1_hanging_00	4	1	death
+s8_t1_hanging	But first they needed to distract the mob.	s8_t1_hanging_01	4	1	death
+s8_t1_marshaldead	Before the life left the hangman’s eyes, Cassandra had already loosened her binds.	s8_t1_marshaldead	5	1	death
+s8_t1_crowdrouted	Cassandra didn’t know the names of her saviors.	s8_t1_crowdrouted_00	4	1	death
+s8_t1_crowdrouted	But there was no time for introductions.	s8_t1_crowdrouted_01	3	1	death
+s8_t1_crowdrouted	The men who wanted her dead needed to be dealt with.	s8_t1_crowdrouted_02	5	1	death
+s8_t1_crowdrouted	Neither they nor their carrier pigeons could leave that town alive.	s8_t1_crowdrouted_03	4	1	death
+s8_t1_frontattack	Cassandra thought the front approach looked risky.	s8_t1_frontattack_00	4	1	death
+s8_t1_frontattack	She wondered if there was another way in.	s8_t1_frontattack_01	4	1	death
+s8_t1_doorlocked	There was a backdoor. But it required a key.	s8_t1_doorlocked_00	4	1	death
+s8_t1_doorlocked_2	The key had to be somewhere nearby.	s8_t1_doorlocked_01	4	1	death
+s8_t1_nightmare	The rurales turned out to be something more than just corrupt lawmen.	s8_t1_nightmare	5	1	death
+s8_t1_pigeonsdead	The birds were no more. For the time being, Cassandra was safe.	s8_t1_pigeonsdead	5	1	death
+s8_t1_pigeonsdeadbutnotdemons	The birds were no more, but the Inquisitor's men still posed a threat.	s8_t1_pigeonsdeadbutnotdemons	5	1	death
+s8_t1_alldead	With their adversaries dead, there was no one left to bear witness to what happened that day.	s8_t1_alldead	5	1	death
+s8_str_closeshave	The two men introduced themselves as servants of the Protector.	s8_str_closeshave_00	3	1	death
+s8_str_closeshave	Their employer was a friend of the order Cassandra once belonged to.	s8_str_closeshave_01	4	1	death
+s8_str_closeshave	The Protector offered shelter and whatever help Cassandra required.	s8_str_closeshave_02	3	1	death
+s8_str_closeshave	She didn't want shelter. She wanted to rid herself of her "gift".	s8_str_closeshave_03	4	1	death
+s8_str_closeshave	Hardin assured her the Protector could help her with that as well.	s8_str_closeshave_04	3	1	death
+s8_str_closeshave	But to reach him, they would need to cross a river and sail across a bay.	s8_str_closeshave_05	4	1	death
+s8_t3_intro	The Inquisitor's men had destroyed their means of escape.	s8_t3_intro_00	4	1	death
+s8_t3_intro	Their only hope was to seize an enemy boat.	s8_t3_intro_01	4	1	death
+s8_t3_intro	And eliminate the other enemy vessel, lest they give chase.	s8_t3_intro_02	4	0	death
+s8_t3_intro_supplies	The supplies from the island could be useful. But freedom came first.	s8_t3_intro_supplies	4	1	death
+s8_t3_bridge	Lifting the bridge trapped the enemies on the other side.	s8_t3_bridge_00	4	1	death
+s8_t3_supplieslost	But it also separated Cassandra and her saviors from those supplies.	s8_t3_supplieslost	4	1	death
+s8_t3_federaledead	Joaquim Perez would never dog Cassandra again.	s8_t3_federaledead_00	4	1	death
+s8_t3_firstboat	The first boat drifted away from the island. They needed to reach that last one.	s8_t3_firstboat	4	1	death
+s8_t3_secondboat_enemies	The final boat was within reach, but their enemies were tenacious.	s8_t3_secondboat_enemies	4	1	death
+s8_t3_secondboat	The final boat was within reach and any stragglers would be left behind.	s8_t3_secondboat	4	1	death
+s8_str_postlake	Ricardo Lafórtuna was the Protector's most dangerous rival.	s8_str_postlake_00	4	1	death
+s8_str_postlake	His fleet blockaded their ultimate destination.	s8_str_postlake_01	4	1	death
+s8_str_postlake	Any vessel that attempted to get by would be blasted out of the water.	s8_str_postlake_02	4	1	death
+s8_str_postlake	Cassandra wondered if Lafórtuna could be persuaded to let them pass.	s8_str_postlake_03	4	1	death
+s8_str_postlake	Hardin told her about a grand poker tournament that Lafórtuna was hosting.	s8_str_postlake_04	4	1	death
+s8_str_postlake	Joining the game would require a 25000 peso buy-in.	s8_str_postlake_05	4	1	death
+s8_str_25k	Now that Cassandra had the necessary twenty-five thousand pesos,	s8_str_25k_00	4	1	death
+s8_str_25k	She was ready to conquer Lafórtuna's grand tournament.	s8_str_25k_01	4	1	death
+s8_str_mercs	Lafórtuna's mercenary force had to be prevented from reaching the bay.	s8_str_mercs_00	4	1	death
+s8_str_mercs	Hardin suggested they blow up the train.	s8_str_mercs_01	4	1	death
+s8_str_mercs	Cassandra concurred. They just needed to procure the explosives.	s8_str_mercs_02	4	1	death
+s8_t2_intro	Survivors crawled from the ruins of the train wreck.	s8_t2_intro_00	4	1	death
+s8_t2_intro	The team readied their weapons with killing intent.	s8_t2_intro_01	4	1	death
+s8_t2_alldead	Cassandra looked relieved when the last mercenary was finally dispatched.	s8_t2_alldead	4	1	death
+s8_str_posttrain	With the mercenary force gone, Lafórtuna would likely accept Cassandra's offer.	s8_str_posttrain	4	1	death
+s8_str_ontotheisland	At long last, Cassandra set sail for the Protector's island.	s8_str_ontotheisland	4	1	death
+s8_t4_intro	Hardin and the Protector both proved to be traitors.	s8_t4_intro_00	4	1	death
+s8_t4_intro	The latter wanted to experiment on Cassandra to see what made her tick.	s8_t4_intro_01	4	1	death
+s8_t4_breakout	The lock on her cell door was easily picked with a hairpin.	s8_t4_breakout_00	4	1	death
+s8_t4_breakout	But the guards were on high alert.	s8_t4_breakout_01	4	1	death
+s8_t4_breakout	If they saw her loose, they would shoot to kill.	s8_t4_breakout_02	4	1	death
+s8_t4_freecompanions	Cassandra's companions were here as well. She could free them.	s8_t4_freecompanions	4	1	death
+s8_t4_cellkeys	Cassandra could now free her companions.	s8_t4_cellkeys	4	1	death
+s8_t4_federale	Joaquim Perez was also held prisoner by the Protector.	s8_t4_federale_00	4	1	death
+s8_t4_federale	He promised to help her, if Cassandra let him go.	s8_t4_federale_01	4	1	death
+s8_t4_federale	She wasn't sure she could trust him.	s8_t4_federale_02	4	1	death
+s8_t4_betrayal	Perez called Cassandra on her ruthless killings, as he drew his gun against her.	s8_t4_betrayal	4	1	death
+s8_t4_machine	Cassandra couldn’t help but notice all the Protector’s sophisticated machinery.	s8_t4_machine	4	1	death
+s8_t4_meetprotector	The Protector claimed he was the only one who could lift Cassandra’s curse.	s8_t4_meetprotector_00	4	1	death
+s8_t4_meetprotector	If she killed him, she would lose the opportunity.	s8_t4_meetprotector_01	4	1	death
+s8_t4_meetprotector	She told him she would take her chances.	s8_t4_meetprotector_02	4	1	death
+s8_t4_protectordead	The Protector was gone and so was his knowledge of how to use that machine.	s8_t4_protectordead_00	4	1	death
+s8_t4_protectordead_2	But Cassandra wasn’t ready to give up that easily.	s8_t4_protectordead_01	4	1	death
+s8_t4_protectordead_2	She had the Protector’s notes and documents, and all the time in the world.	s8_t4_protectordead_02	4	1	death
+s8_t4_postfade	Several days later, Cassandra decided she was ready.	s8_t4_postfade_00	4	1	death
+s8_t4_postfade	Nightmares flooded her consciousness as exhaustion took its toll.	s8_t4_postfade_01	4	1	death
+s8_t4_specimens	The room contained not only machinery, but also the Protector's failed human experiments.	s8_t4_specimens	4	1	death
+s8_t4_usewithenemies	The operation was quick and excruciating.	s8_t4_usewithenemies_00	4	1	death
+s8_t4_usewithenemies	But from the pain, a new perception emerged.	s8_t4_usewithenemies_01	4	1	death
+s8_t4_usewithenemies	She was finally free.	s8_t4_usewithenemies_02	4	1	death
+s8_t4_removepower	Cassandra flipped the last lever and closed her eyes in anticipation.	s8_t4_removepower_00	4	1	death
+s8_t4_removepower2	A short, but excruciating moment later her curse was lifted.	s8_t4_removepower_01	4	1	death
+s8_t4_removepower3	She was finally free.	s8_t4_removepower_02	4	1	death

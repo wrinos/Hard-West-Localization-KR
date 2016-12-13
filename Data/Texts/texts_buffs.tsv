@@ -1,0 +1,227 @@
+text_id	en	format
+	special	
+critical_buff	Essential	
+critical_buff_desc	This person has a larger role to play in the unfolding events. Make sure they don't die.	
+	scenario buffs	
+aim_boost	Firmness	
+aim_boost_desc	No more shaky hands.	
+all_seeing_eye	Sight Cured	
+all_seeing_eye_desc	Nothing escapes your gaze.	
+bear_endurance	Bear Spirit	
+bear_endurance_desc	The animal spirit is always nearby.	
+blood_berry_buff	Rage	
+blood_berry_buff_desc	Like a beast!	
+broken_leg	Open Fracture	
+broken_leg_desc	A bone is protruding from the wound.	
+burned_hand	Burned Hand	
+burned_hand_desc	Hand burns make gunslinging difficult.	
+cassandra_defense	Danger Sense	
+cassandra_defense_desc	Precogs can predict enemy attacks.	
+couragedrink	Bravado	
+couragedrink_desc	Given enough booze, courage turns to bravado.	
+couragedrink2	Recklessness	
+couragedrink2_desc	Given enough quality booze, bravado turns to recklessness.	
+damned	Damnation	
+damned_desc	Damned by the devil himself.	
+dmg_boost	Keen Eye	
+dmg_boost_desc	Deadly accuracy	
+drank_poison	Poison	
+drank_poison_desc	Poison inflames the innards.	
+full	Repleteness	
+full_desc	Everything is better with a full stomach.	
+gunshot_hole	Gunshot Wound	
+gunshot_hole_desc	An untreated wound prevents full recovery.	
+hungry	Hunger	
+hungry_desc	An empty belly makes one weak.	
+intoxicated	Inebriation	
+intoxicated_desc	In vino veritas.	
+irradiation	Curserock Sickness	
+irradiation_desc	Nausea and enfeeblement.	
+knife_damage	Knife Wound	
+knife_damage_desc	Blunt knives leave evil wounds	
+madness_1	Vertigo	
+madness_1_desc	It is hard to focus.	
+madness_2	Psychosis	
+madness_2_desc	The unspeakable lurks in the shadows.	
+madness_3	Delusions	
+madness_3_desc	The gaze becomes hostile and terrifying.	
+madness_4	Schizophrenia	
+madness_4_desc	Frightening enemies lurk in the shadows.	
+madness_5	Split Personality	
+madness_5_desc	All thoughts are confusing.	
+maxhp_boost	Endurance	
+maxhp_boost_desc	Tough as nails.	
+maxluck_boost	Good Fortune	
+maxluck_boost_desc	Lucky as a four-leaf clover.	
+mov_boost	Swiftness	
+mov_boost_desc	Fast as the wind.	
+numb_leg	Numb Leg	
+numb_leg_desc	Urchin stings cause lasting numbness.	
+revolted	Disgust	
+revolted_desc	Disgusting experiences result in enfeeblement.	
+snake_bite	Snake Bite	
+snake_bite_desc	Taints the blood with venom.	
+starving	Starvation	
+starving_desc	Both body and mind beg for nutrition.	
+syphilis	Syphilis	
+syphilis_desc	One kinky adventure too many.	
+throbbing_cough	Rattling Cough	
+throbbing_cough_desc	Lungs may be collapsing.	
+voodoo_curse	Voodoo Curse	
+voodoo_curse_desc	Bad luck hangs heavy on the soul.	
+inspired	Inspiration	
+inspired_desc	A general state of well-being granted by an inspiring event.	
+s7_story_luck	Amulet Power	
+s7_story_luck_desc	The amulet bought from a shady character grants you good luck.	
+s7_story_curse	Amulet Curse	
+s7_story_curse_desc	The curse of the shattered amulet hangs heavily on your family.	
+mercury	Mercury Treatment	
+mercury_desc	The effects of syphilis are staved off for a while.	
+poison	Venom	
+poison_desc	Toxic secretions cause extensive damage to human tissue.	
+endfight_bonus_gunslinger_medium	Power of Experience	
+endfight_bonus_gunslinger_hard	Power of Experience	
+endfight_bonus_skirmisher_medium	Power of Experience	
+endfight_bonus_skirmisher_hard	Power of Experience	
+endfight_bonus_sniper_medium	Power of Experience	
+endfight_bonus_sniper_hard	Power of Experience	
+endfight_bonus_brawler_medium	Power of Experience	
+endfight_bonus_brawler_hard	Power of Experience	
+	Enemy-targeted buffs	
+health_idol	Drained	
+luck_idol	Unlucky	
+speed_idol	Slowed	
+	Ability buffs	
+arteryshot	Artery Shot	
+arteryshot_desc	This person will lose a lot of HP after making 5 steps from the place where they were hit.	
+courage2	Courage	
+courage2_desc	There are 2 enemies in your line of sight.	
+courage3	Courage	
+courage3_desc	There are 3 enemies in your line of sight.	
+courage4	Courage	
+courage4_desc	There are 4 enemies in your line of sight.	
+courage5	Courage	
+courage5_desc	There are 5 enemies in your line of sight.	
+crippledaim	Crippled Aim	
+crippledaim_desc	This person has decreased Aim.	
+crippleddefense	Crippled Defense	
+crippleddefense_desc	This person has decreased Defense.	
+crippledmovement	Crippled Movement	
+crippledmovement_desc	This person has decreased Movement.	
+crippledsight	Crippled Sight	
+crippledsight_desc	This person has decreased Sight.	
+demonpower	Demonspawn	
+demonpower_desc	While in demon form, your statistics are improved across the board.	
+dodge	Dodge	
+dodge_desc	All shots fired at this character miss, unless Chance to Hit is 100%. Lasts 2 turns.	
+halfdead	Half-dead	
+halfdead_desc	During this turn, if you manage to kill the person who killed you, you will survive. Otherwise, you will die.	
+intimidated	Intimidated	
+intimidated_desc	This person is intimidated by a powerful warrior nearby.	
+jinxed	Jinxed	
+jinxed_desc	This person is jinxed, as long as they stay near the character with bad luck.	
+nemesis	Nemesis	
+nemesis_desc	Kill this character to save your life.	
+nightmareregen	Nightmare Regeneration	
+nightmareregen_desc	You regenerate Hit Points as long as nightmares rule the land.	
+prayeraim	Blessed Aim	
+prayeraim_desc	This person has been blessed with superior Aim.	
+prayerheal	Blessed Healing	
+prayerheal_desc	This person has been blessed with Hit Points regeneration.	
+prayerinvul	Blessed Durability	
+prayerinvul_desc	This person has been blessed with temporary Invulnerability.	
+prayermovement	Blessed Legs	
+prayermovement_desc	This person has been blessed with superior Movement.	
+prayersight	Blessed Sight	
+prayersight_desc	This person has been blessed with superior Sight.	
+revealed	Revealed	
+revealed_desc	This character has been detected.	
+rewardedkill	Chain Kill	
+rewardedkill_desc	For each enemy you kill during this turn, you will restore 2 Hit Points and 1 Action Point.	
+shadowcloak	Shadow Cloak	
+shadowcloak_desc	While in shadows, you are invisible to enemies.	
+shadowregen	Shadow Regeneration	
+shadowregen_desc	If you stay in the shadows at the end of your turn, you'll regenerate at the beginning of the next.	
+wellfed	Well Fed	
+wellfed_desc	You have eaten well and can fight better.	
+	Handbuffs	
+hand_nohand	No hand	
+hand_nohand_desc	Collect cards into poker hands for added bonuses.	
+hand_highcard	High card	
+hand_highcard_desc	Hand bonus:	
+hand_pair	Pair	
+hand_pair_desc	Hand bonus:	
+hand_twopairs	Two Pair	
+hand_twopairs_desc	Hand bonus:	
+hand_straight	Straight	
+hand_straight_desc	Hand bonus:	
+hand_threeofakind	Three of a Kind	
+hand_threeofakind_desc	Hand bonus:	
+hand_fullhouse	Full House	
+hand_fullhouse_desc	Hand bonus:	
+hand_flush	Flush	
+hand_flush_desc	Hand bonus:	
+hand_fourofakind	Four of a Kind	
+hand_fourofakind_desc	Hand bonus:	
+hand_royalflush	Royal Flush	
+hand_royalflush_desc	Hand bonus:	
+hand_fiveofakind	Five of a Kind	
+hand_fiveofakind_desc	Hand bonus:	
+	Card names	
+9_clubs	Nine of Clubs	
+10_clubs	Ten of Clubs	
+J_clubs	Jack of Clubs	
+Q_clubs	Queen of Clubs	
+K_clubs	King of Clubs	
+A_clubs	Ace of Clubs	
+9_diamonds	Nine of Diamonds	
+10_diamonds	Ten of Diamonds	
+J_diamonds	Jack of Diamonds	
+Q_diamonds	Queen of Diamonds	
+K_diamonds	King of Diamonds	
+A_diamonds	Ace of Diamonds	
+9_hearts	Nine of Hearts	
+10_hearts	Ten of Hearts	
+J_hearts	Jack of Hearts	
+Q_hearts	Queen of Hearts	
+K_hearts	King of Hearts	
+A_hearts	Ace of Hearts	
+9_spades	Nine of Spades	
+10_spades	Ten of Spades	
+J_spades	Jack of Spades	
+Q_spades	Queen of Spades	
+K_spades	King of Spades	
+A_spades	Ace of Spades	
+Jok_red	Red Joker	
+Jok_red_desc	Nothing on its own, but this wild card is useful for making better hands.	
+Jok_black	Black Joker	
+Jok_black_desc	Nothing on its own, but this wild card is useful for making better hands.	
+	Injuries	
+mangled_foot	Mangled Foot	
+mangled_foot_desc	Damage to the foot results in reduced movement rate.	
+lame_leg	Lame Leg	
+lame_leg_desc	Your scars slow you down, but make your dodging unpredictable.	
+face_mutilation	Face Mutilation	
+face_mutilation_desc	A shot to the face so bad, even Lady Luck turns away.	
+gouged_eye	Gouged Eye	
+gouged_eye_desc	The eye couldn't be saved, but it seems it was just holding your other eye back.	
+shredded_hand	Shredded Hand	
+shredded_hand_desc	Severe hand damage reduces gun skills.	
+missing_forefinger	Missing Forefinger	
+missing_forefinger_desc	You were missing a finger, but the next one in line was your favorite anyway.	
+gushing_wound	Gushing Wound	
+gushing_wound_desc	A deep cut results in severe enfeeblement.	
+abdomen_puncture	Abdomen Puncture	
+abdomen_puncture_desc	Some organs had to be removed, but that gives the other fella less to aim at.	
+cracked_skull	Cracked Skull	
+cracked_skull_desc	A powerful blow to the head induces vertigo.	
+missing_brain_part	Missing Brain Part	
+missing_brain_part_desc	The skull healed well. What was lost in intellect, was made up in speed and luck.	
+spine_fracture	Spine Fracture	
+spine_fracture_desc	Back injury causes stiffness and makes movement difficult.	
+spinal_cord_infarction	Spinal Jeopardy	
+spinal_cord_infarction_desc	Your stiff back hampers movement, but provides stability when shooting.	
+	Other buffs	
+protected_from	Protected from	
+hand_straightflush	Straight Flush	
+hand_straightflush_desc	Hand bonus:	

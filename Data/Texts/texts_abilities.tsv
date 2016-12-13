@@ -1,0 +1,137 @@
+text_id	en	format
+	For cards and tactical character screen	
+arteryshot_name	ARTERY SHOT	
+arteryshot_tooltip	ARTERY SHOT	
+arteryshot_desc	If hit, target enemy will suffer greatly after walking five steps.	
+arteryshot_desc_targeting	Hit an enemy. If they walk five steps during their next turn, they will receive 8 damage.	
+cannibal_name	CANNIBAL	
+cannibal_tooltip	CANNIBAL<br>only over a corpse	
+cannibal_desc	Eat human flesh to gain strength and restore health.	
+cannibal_desc_targeting	Stand on a tile with a dead character.<br>Eat to restore [%0] HP and improve Stats.	
+courage_name	COURAGE	
+courage_tooltip	COURAGE	
+courage_desc	Bolster your parameters when surrounded by enemies.	
+courage_desc_targeting	The more enemies in sight on activation, the better bonuses you will receive.	
+crippler_name	CRIPPLER	
+crippler_tooltip		
+crippler_desc	Every hit you score cripples the target.	
+crippler_desc_targeting		
+demon_name	UNHOLY POWER	
+demon_tooltip	UNHOLY POWER	
+demon_desc	Gain demonic strength.	
+demon_desc_targeting	Confirm to gain demonic strength.	
+disguise_name	DISGUISE	
+disguise_tooltip		
+disguise_desc	You are ignored by enemies in setup stage.	
+disguise_desc_targeting		
+dodge_name	DODGE	
+dodge_tooltip	DODGE	
+dodge_desc	If there's a chance to dodge the bullet, you will.	
+dodge_desc_targeting	Dodge all shots fired with less than 100% Chance to Hit. Lasts 2 turns.	
+equalization_name	EQUALIZATION	
+equalization_tooltip	EQUALIZATION	
+equalization_desc	Reduce every character's HP to 1.	
+equalization_desc_targeting	Reduce everyone’s HP to 1.	
+finder_name	SCAVENGER	
+finder_tooltip	SCAVENGER<br>only over a corpse	
+finder_desc	You somehow find the best guns in the world on dead enemies. But then you tend to lose them.	
+finder_desc_targeting	Stand on a tile with a dead character. Use to find a rare weapon. You will lose it at the end of combat.	
+hearing_name	BEAST HEARING	
+hearing_tooltip		
+hearing_desc	Sense nearby enemies.	
+hearing_desc_targeting		
+intimidate_name	TERROR	
+intimidate_tooltip		
+intimidate_desc	Nearby enemies panic.	
+intimidate_desc_targeting		
+jinx_name	JINX	
+jinx_tooltip		
+jinx_desc	Your shots don't replenish enemy luck, plus nearby enemies lose luck all the time.	
+jinx_desc_targeting		
+multishot_name	BARRAGE	
+multishot_tooltip	BARRAGE	
+multishot_desc	Shoot at all enemies in sight in sequence.	
+multishot_desc_targeting	Fires a shot at every enemy in sight, up to 6 times.	
+penetrate_name	GOLDEN BULLET	
+penetrate_tooltip	GOLDEN BULLET	
+penetrate_desc	Fire a bullet that shoots through everything, and is sure to hit anything.	
+penetrate_desc_targeting	Fire a shot that ignores all obstructions and never misses.	
+prayer_name	PRAYER	
+prayer_tooltip	PRAYER	
+prayer_desc	Grants random, powerful bonuses.	
+prayer_desc_targeting	Pray for random, powerful bonuses.	
+rewardedkill_name	CHAIN KILL	
+rewardedkill_tooltip	CHAIN KILL	
+rewardedkill_desc	Kill an enemy to get a chance to kill another, and another...	
+rewardedkill_desc_targeting	For each enemy you kill during this turn,<br>replenish 1 AP and 2 HP.	
+ricochet_name	RICOCHET	
+ricochet_tooltip	RICOCHET	
+ricochet_desc	Bounce bullets off one or more ricochet objects.	
+ricochet_desc_targeting	Select a ricochet object to bounce the shot off.	
+ricochet_desc_targeting2	Now select ANOTHER ricochet object OR the target character.	
+ricochet_desc_targeting3	Confirm to shoot along the selected path.	
+ricochet_desc_targeting_none	No valid targets in range.	
+shadowcloak_name	SHADOW CLOAK	
+shadowcloak_tooltip	SHADOW CLOAK	
+shadowcloak_desc	When not in direct sunlight, you become invisible.	
+shadowcloak_desc_targeting		
+shadowkill_name	SHADOW KILL	
+shadowkill_tooltip	SHADOW KILL	
+shadowkill_desc	Ravage an enemy not protected by sunlight.	
+shadowkill_desc_targeting	Deal [%0] damage to an enemy not protected by sunlight.	
+shriek_name	SHRIEK	
+shriek_tooltip	SHRIEK	
+shriek_desc	Damage enemies in sight.	
+shriek_desc_targeting	Deal [%0] damage to enemies in your Line of Sight.	
+smell_name	SMELL BLOOD	
+smell_tooltip	SMELL BLOOD	
+smell_desc	Track wounded enemies.	
+smell_desc_targeting	Detect every wounded enemy within a range of [%0].	
+transfusion_name	TRANSFUSION	
+transfusion_tooltip	TRANSFUSION	
+transfusion_desc	Exchange health with target character.	
+transfusion_desc_targeting	Target a character to exchange health with.	
+vampire_name	SHADOW SALVE	
+vampire_tooltip		
+vampire_desc	Regenerate when not in direct sunlight.<br>Very powerful in nightmares.	
+vampire_desc_targeting		
+vengeance_name	VENGEANCE	
+vengeance_tooltip		
+vengeance_desc	Survive a fatal shot; if you kill your killer, you'll make it. Otherwise, you'll die.	
+vengeance_desc_targeting		
+	Ability-like general actions - button names and occasional descriptions	
+altfire_coneshot_name	CONE SHOT	
+altfire_coneshot_tooltip	CONE SHOT [%0]	
+altfire_coneshot_desc_targeting	Fire at all characters within the cone.	
+altfire_fanning_name	FANNING	
+altfire_fanning_tooltip	FANNING [%0]	
+altfire_fanning_desc_targeting	Fires 3 shots with [%0]% aim penalty.	
+gunpoint_name	SUBDUE	
+gunpoint_tooltip	SUBDUE [%0]	
+gunpoint_desc_targeting	Select an enemy to subdue for [%0] turns (based on character Heat). Subdue again to prolong the effect.	
+reload_name	RELOAD	
+reload_tooltip	RELOAD [%0]	
+reload_desc_targeting	Reload the active weapon with [%0] round(s).	
+altfire_scopedshot_name	SCOPED SHOT	
+altfire_scopedshot_tooltip	SCOPED SHOT [%0]	
+altfire_scopedshot_desc_targeting	Sacrifice two Action Points to score a sure hit.	
+shoot_name	SHOOT	
+shoot_tooltip	SHOOT [%0]	
+shoot_desc_targeting	Shoot the target with the active weapon.	
+suicideshot_name	SUICIDE	
+suicideshot_tooltip	SUICIDE [%0]	
+suicideshot_desc_targeting	Kill yourself to undo the devil's plot and bring back the natural order of things.	
+	Joker abilities = none	
+none_name	NONE	
+none_desc	No ability on its own, but Jokers serve as wild cards for making better hands.	
+	Ability used floats	
+ability_float_equalization	Equalization: HP set to 1	
+ability_float_smell_unused	Smelled	
+ability_float_dodge	Dodged!	
+ability_float_vengeance_nemesiskilled	Nemesis killed	
+ability_float_vengeance_nemesisfailed	Failed to kill Nemesis	
+ability_float_subdue_count	DevSubdued: Count [%0] of [%1]	
+ability_float_shadowcloak_active	Shadow Cloak active	
+ability_float_shadowcloak_leaving	Leaving Shadow Cloak	
+ability_float_detectedby	Detected by [%0]	
+ability_float_ap	AP	

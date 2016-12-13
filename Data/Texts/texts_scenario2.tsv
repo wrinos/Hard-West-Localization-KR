@@ -1,0 +1,254 @@
+text_id	en	format
+	GLOBAL UI	
+scen_02	Law and Order	
+scen_02_name	Solomon DeLear had done well to acquire the meteor and contain its powers.<br>But what the Devil wants, the Devil gets.	
+2_1_Reverend_House_name	Grand Inqusitor Gabriel de Cervantes, following directions given<br>by fellow agent Bathym Raum, travelled to a farm where DeLear was said to spend his days in hiding.	
+2_2_Church_name	The Grand Inquisitor could not wait to spill Solomon's blood.<br>He swore the old inventor would die that night.	
+2_4_Road_name	The old mine would soon become the clairvoyant's tomb.	
+2_5_Judge_House_name	Solomon DeLear had been a man of science most of his life.<br>For the first time in decades, he turned to God as he prepared his last stand.	
+	OBJECTIVES	
+s2_map_pieces	Collect cipher pieces	
+s2_map_pieces_left	(	
+s2_map_pieces_right	more required)	
+s2_guysleft_left	(	
+s2_guysleft_right	remaining)	
+s2_hideout_kill_all	Kill all enemies	
+s2_hideout_locate_delear	Find Solomon DeLear	
+s2_hideout_kill_delear	Kill Solomon DeLear	
+s2_hideout_check_barn	Inspect where the wires lead	
+s2_hideout_check_upstairs	Loot the main building	
+s2_meet_cultist	Meet the agent at the altar	
+s2_raum_report	Talk to Bathym Raum	
+s2_rally_mob	Organize an angry mob at Wretchport	
+s2_follow_mob	Follow the mob to the Wretchport harbor	
+s2_raum_kill	Kill all Order members in the area	
+s2_church_payment	Bring Raum two doses of opium for more information about the Church	
+s2_attack_church	Attack the Church	
+s2_church_enter	Find and kill DeLear at the church	
+s2_church_assemble	Assemble inside the church	
+s2_church_kill_all	Kill the attackers	
+s2_mine_kill_all	Kill all enemies	
+s2_mine_rescue	Rescue your mysterious ally	
+s2_meet_cultist_again	Return to the cultist at the altar	
+s2_meet_suit	Meet the expelled Order member at the Opium Den	
+s2_attack_mine	Attack the abandoned mine	
+s2_meet_outcast	Enter the Natives' lands	
+s2_revisit_outcast	Meet Dohosan again	
+s2_outcast_kill	Kill all the Order members near the Native village	
+s2_place_locket	Place the locket at the graveyard	
+s2_frame	Frame the Native	
+s2_suit_kill	Kill all Order members in the Desert Area	
+s2_go_to_saloon	Escort Cassandra to the Saloon	
+s2_mansion_ritual_start	Begin the ritual	
+s2_survive_until_ritual	Survive until the ritual's completion	
+s2_mansion_ritual_finish	Finish the ritual by lighting the skull poles	
+s2_mansion_kill_defenders	Kill the defenders	
+s2_mansion_kill_attackers	Destroy the last remaining order members	
+s2_suit_report	Report back to the Business Man	
+s2_prepare_cavalry_attack	Talk the Cavalry into attacking the Native Village	
+s2_revisit_the_village	Return to the Native Village	
+s2_kill_shaman	Kill the Shaman	
+s2_goto_mansion	Attack the Sanctuary	
+	LOCATION PANELS	
+	Part 1: Bathym Raum	
+s2_altar_title	Altar	
+s2_altar_intro_1	When they reached fellow agent Bathym Raum, he was absorbed in what looked like dark rituals. Still, Perez trusted the Inquisitor would not tolerate a man's company were there any doubts about his godliness.<br><br>The agitated Inquisitor told Raum that DeLear had not been there. Raum said this was troubling, but suggested they hunt smaller fish until more cipher pieces were available. DeLear's time would come.	
+s2_altar_intro_2	Raum had some rudimentary information as to the identities and whereabouts of the cipher-bearing Order members. They could be eliminated via brute force by simply slaughtering the local populace, but doing so would have devastating consequences.<br><br>Raum was confident he could pinpoint the culprits quite accurately, though, if he had the correct ingredients for his rituals. He left the decision to Cervantes.	
+s2_altar_desc_targets	Raum knew of three order members who carried cipher pieces in their flesh. They were all located somewhere in the region, hiding among the populace.	
+s2_altar_desc_reported_1	The collected cipher pieces weren't close to enough to assemble the device.<br><br>Raum was looking at the bonfire blankly, when suddenly he shivered and grabbed his head in pain. He had had a vision. DeLear was at the church to the North.	
+s2_altar_desc_reported_2	Raum said that if Cervantes brought him two doses of opium his visions would be clearer, granting them a strategic advantage.	
+s2_altar_desc_docks_unpaid	One of the men was at the docks near Wretchport to the East. He was either a dock worker or a sailor. If he had two bottles of liquor, Raum said he would have a clearer vision.	
+s2_altar_desc_docks_paid	Raum took a few sips, then poured most of the first bottle into the cauldron. He put the second bottle away for later. Then he proclaimed that the man that needed to die was Laszlo, the dockworkers' foreman.	
+s2_altar_desc_trappers_unpaid	Raum knew someone from the trappers' camp in the woods was an Order member, but he could not pinpoint the exact person. If he had five pieces of dried meat, he said, he could make a mixture that would clairfy his vision of the area.	
+s2_altar_desc_trappers_paid	Raum took the first four pieces of meat and chewed on each one before spitting it into the cauldron. He swallowed the last one. After a few moments, the stew began bubbling intensely. Raum nodded silently. The man they were looking for was William Tanner.	
+s2_altar_desc_farm_unpaid	Raum could tell one of the Order's members lived at the farm to the North, but the vision was not clear enough to identify the exact person. If he had a rabbit's foot he could obtain a clearer image.	
+s2_altar_desc_farm_paid	Raum shredded the rabbit's foot into pieces and threw them into the cauldron. Then he could see the man clearly: it was Mike Mudgett, one of the farmhands at the farm to the North.	
+s2_farm_title	Farm	
+s2_farm_desc	It was one of the larger farms in the area, and an important food source for the region. Somewhere among the men and women working the fields was a member of the Order.	
+s2_farm_slaughtered	Cervantes introduced himself as a man of God on a mission of utmost importance. He commanded everyone on the farm to meet in front of the barn.<br><br>Once everyone was assembled, Cervantes and Perez drew their guns and ordered everyone inside. Then Perez blocked the door while Cervantes lit the building on fire. The next day they dug through the charred remains and found the cipher piece.	
+s2_farm_killed	Cervantes introduced himself as a man of God on a mission of utmost importance. He told the foreman that Mike Mudgett was part of an unholy cult and that for the sake of all their souls, he must be purged.<br><br>Shocked by this revelation, the foreman plucked Mudgett from the fields, then bound and impaled him. To the cheers of the farmers, Cervantes then put fire to the man's body.<br><br>When the people had dispersed and Mudgett was a pile of human-shaped ash, Cervantes discreetly grabbed the revealed cipher piece.	
+s2_wretchport_title	Wretchport	
+s2_wretchport_desc	Thanks to the nearby harbor, Wretchport, while not large, was a bustling town. Strong law enforcement kept the town safe and the market offered a good variety of wares.	
+s2_wretchport_mob_rallied	With his powerful voice and imposing demeanor, Grand Inquisitor Cervantes easily commanded the crowd's attention. He railed against evil and promised eternal damnation for those who refused to join the fight against sin. Soon, the entire town was rallied to a state of blind rage.	
+s2_harbour_title	Wretchport Harbor	
+s2_harbour_desc	The harbor had a huge economic impact on the region. Ships laden with goods and passengers arrived there every day, before continuing their journey on land.<br><br>Those that stuck around in town tended mainly to be traders, caravaneers, sailors and prostitutes. It would be a melting pot, if scum could melt.<br><br>And somewhere among them was a member of the Order.	
+s2_harbour_slaughtered_1	Cervantes decided the best course of action was to burn the entire place to the ground. But the harbor was no place to start things. He needed the kind of weak-minded manpower that could be found in the respectable part of the town.	
+s2_harbour_slaughtered_2	When Perez and Cervantes arrived, the harbor was in chaos. Fighting was normal here, but it turned into slaughter as villagers surprised the dock workers, prostitutes and sailors with their bloodthirsty attacks.<br><br>As the harbor glowed with burning bodies, an eager young man brought Cervantes a cipher piece that had been revealed by the flames.<br><br>The harbor was never the same, however, and the region entered a period of severe economic distress.	
+s2_harbour_killed	With his powerful voice, Cervantes proclaimed that a sinner was in their midst who would soon bring doom to them all. When he told them it was Laszlo, the man was immediately chained and brought forth.<br><br>Cervantes looked at him with disdain, then made a dramatic gesture. The wretch was torn apart by the crowd. None of them noticed the cipher piece pop out of his body, allowing Cervantes to quietly pocket it and take his leave.	
+s2_altar_desc_waiting	Bathym Raum stared at Cervantes impatiently, inquiring as to whether the Inquisitor had brought him his opium.	
+s2_altar_desc_church_paid	After much grinding, cooking and sniffing, Raum seemed satisfied with his infernal stew. He sat with his face over the top of the pot, inhaling deeply, then in a sonorous voice declared he had been visited with a vision. A secret passage led to a shed behind the Church.<br><br>The Order was not aware of it. Cervantes and Perez could use it to take them by surprise.	
+s2_gunshop_title	Christensen's Gunshop	
+s2_gunshop_desc_default	John Christensen was the mild, prosperous, middle-aged proprietor of the shop. He guaranteed a wide selection of formidable guns at reasonable prices.<br><br>He greeted Cervantes politely, offering him a discount in consideration of the Inquisitor's respectable profession.	
+s2_gunshop_desc_medium	Wordlessly, Christensen continued cleaning a gun, while watching Cervantes suspiciously. He understood by now that Cervantes' presence in the region meant trouble.	
+s2_gunshop_desc_slaughtered	When Cervantes arrived, the door stood open. He stepped in to find a dead Christensen in an empty room, apparently a victim of looters.<br><br>Cervantes couldn't help but wonder if his death was a consequence of the chaos he had stirred in the last few days.	
+s2_mountain_men_title	Mountain Men	
+s2_mountain_men_desc	In the woods, they found a group of mountain men. These formidable hunters and tanners contributed most of the leather goods in the area. Slaughtering them would have economic consequences.	
+s2_mountain_men_killed	Cervantes confided in the men that one William Tanner had been seen in this area and that he was involved in the black arts. If they had experienced any bad luck lately, it was undoubtedly his fell presence that caused it.<br><br>The men delivered swift justice, rousting Tanner with kicks, then carrying him to the main camp area and nailing him to a tree. Cervantes told them he must now remove the source of evil and cut the cipher piece from Tanner's abdomen using a ceremonial dagger, telling the men the had saved countless lives through their selfless actions that day.	
+s2_mountain_men_slaughtered	Cervantes and Perez snuck up to the mountain men's longhouse that night and blocked its only door with a stack of wood. Then they set the building ablaze. When the sleeping men woke, they were already being devoured by the flames.<br><br>Cervantes and Perez rested and watched the hut turn to ash. The cipher piece was still warm when Cervantes recovered it.<br><br>Now, however, without the leather the mountain men provided, certain wares would become much harder to acquire.	
+s2_doctor_title	Doctor Harmon's Home	
+s2_doctor_desc_default	The house belonged to Ryan Harmon, a well-known doctor. He had a reputation for treating anyone, be they farmer or outlaw, so long as they remunerated his expense and effort. He even venture out to treat the natives once in a while when they needed more than their shaman could provide.<br><br>He was honored by the Inquisitor's visit and offered him discounted services.	
+s2_doctor_desc_medium	The doctor eyed the Inquisitor suspiciously as he entered the house. All earlier signs of sympathy were gone. Seeming more angry than afraid, he asked what business Cervantes had with him.	
+s2_doctor_desc_slaughter	Cervantes tried knocking politely, then banging as hard as he could. A look through a window showed nobody inside.<br><br>With all the massacres that had plagued the region lately, it was likely the doctor was out treating people.<br><br>Or he had left to avoid another visit from the Inquisitor.	
+s2_doctor_desc_broken_in	Cervantes forced his way into the building. It had been looted, but there were still one or two things of value. He took everything that appeared useful.	
+s2_church_title	Church	
+s2_church_desc	They stood on a nearby hill looking down at the church, contemplating their next move. Their trust in Raum's visions was measured at this point, but attacking the church still seemed their best bet.<br><br>Armed guards on the premises confirmed that something important was going on there.	
+s2_elixir_trader_title	Gypsies	
+s2_elixir_trader_desc	Cervantes spied a Gypsy wagon parked beside the road offering a variety of uncommon wares.	
+s2_elixir_trader_medium	The Gypsies were tense. They wanted the Inqusitor's business to be finished as quickly as possible.	
+s2_elixir_trader_slaughtered	All Cervantes found was an abandoned gypsy wagon. With all the recent trouble, scapegoats were bound to be quickly found.	
+s2_chinese_trader_title	Chinese Trader	
+s2_chinese_trader_desc_default	At the crossing, Cervantes met a middle-aged Chinese man enjoying a moment of rest during his journey to the West. The man was friendly and polite, offering his wares to the inquisitor.	
+s2_chinese_trader_desc_medium	The trader displayed none of his previous hospitality. Times were hard and violence was everpresent.	
+s2_chinese_trader_desc_slaughtered	The wagon had been shattered and looted. The trader's mutilated body lay next to it.<br><br>There was no more business to be done here. Cervantes knew it was likely related to his recent destabilizing actions.	
+	Part 2: Suit	
+s2_opium_den_title	Opium Den	
+s2_opium_den_desc_intro_1	A Chinese man welcomed them with a smile, which turned into a frown, when they told him they only wanted to speak with one of the patrons. He rolled his eyes as he waved them into one of the rooms.<br><br>Perez knew these places and was unfazed. Sister Aiza was disgusted by the addicts' sloth. Finally, they beheld Gustav Wedholm in all his confused, bemused glory. They asked him to find some pants.	
+s2_opium_den_desc_intro_2	It took an hour for Wedholm to come to his senses, but through a combination of kindness and cruelty, Cervantes brought him back into awareness.	
+s2_opium_den_desc	Wedholm explained that he was no longer a member and had never been trusted with one of the cipher pieces himself. However, he knew the identities of several Order operatives in the region.<br><br>Though he had a rough idea of their whereabouts, details such as names and appearances escaped him. For a price, however, he could call on his associates to fill in the blanks.	
+s2_opium_den_desc_mine_unpaid	He knew that one Order member worked at the nearby mine. His memory was hazy as to his exact position or what he looked like.	
+s2_opium_den_desc_mine_paid	The man was one of the regular miners. Guy named was Jim Rapkins.	
+s2_opium_den_desc_brothel_unpaid	He remembered one member of the Order had worked at the brothel. He was a bouncer. Or maybe a prostitute. Or a patron. Or the piano player. The owner? He just couldn't rightly recall.	
+s2_opium_den_desc_brothel_paid	The man's name was Bernard Lacroix. He'd made a fortune gambling and now spent all his time and money at the brothel.	
+s2_opium_den_desc_saloon_unpaid	One definitely remembered there was an Order member who hung out at the saloon. He was almost sure he was a man. But then again his recollection was hazy.	
+s2_opium_den_desc_saloon_paid	The man's name was Tino Neubacher. He was an Austrian mercenary how hung out at the Cooperton saloon.	
+s2_opium_den_desc_distillery_unpaid	One member of the Order worked at the local whisky distillery. Or maybe he just really liked whisky. Wedholm really wasn't sure.	
+s2_opium_den_desc_distillery_paid	The Order member's name was Brendan Hennessy, owner of the local distillery.	
+s2_opium_den_desc_report	When they revisited the den, they found Wedholm sleeping, his hands folded on his chest, clutching an envelope addressed to the Grand Inquisitor.<br><br>The message was from a woman named Cassandra who said she was being held prisoner at an abandoned mine. It said the clairvoyant was there too, along with many other Order members and provided copious information about the compound.	
+s2_mine_title	Mine	
+s2_mine_desc	Dozens of men worked this mine, which supplied iron for the entire region. One of its workers was a member of the Order.	
+s2_mine_killed	Cervantes went to the mine foreman, Michael Chaffin and told him about the "demon worshipper" in their midst. Horrified, the foreman asked who it could be. Cervantes said he felt awful disclosing the man's name. The foreman begged him. Finally Cervantes relented and told the foreman it was Rapkins. The foreman said they should bury Rapkins alive. Cervantes told him he would need access to the body afterwards, for "purification."<br>So it was that the miners bound Rapkins and shoved dynamite down his throat. They cheered as they detonated him and Cervantes saw the glint of the cipher piece as it flew across the torch-lit cavern. He recovered it and made his exit, the cheering of the men at his back.	
+s2_mine_slaughtered	Cervantes went to the miners, wild-eyed, warning them of an imminent Indian attack. Perturbed by this news, the miners flocked into the mine tunnels, while Cervantes and Perez stayed topside to "keep lookout." Perez lit a stack of dynamite with a cigar and threw it down the shaft.<br><br>Once the moaning stopped, Cervantes searched among the loose body parts, eventually finding the cipher piece.<br><br>He had a feeling, however, that iron firearms would become more expensive shortly, due to the metal shortage this massacre would cause.	
+s2_brothel_title	Brothel	
+s2_brothel_desc	The brothel was owned by madam Kimberly Hosmer, a respected philanthropist who ran a reputable shop. Someone here was a member of the Order, whether one of the patrons or the women.<br><br>Simply slaughtering them all would surely gain Cervantes new enemies.	
+s2_brothel_killed	Cervantes entered the establishment and confronted madam Hosmer. When he proclaimed that Bernard Lacroix had been worshipping evil Indian spirits, the man was defenestrated without delay.<br><br>He found the cipher piece in his ruptured abdomen.	
+s2_brothel_slaughtered	Cervantes left his companions at the brothel and returned to Cooperton to raise a mob. Two hours later, he led a clamoring group of bloodthirsty simpletons ready to murder whomever Cervantes told them in the name of the Lord. Women and patrons alike fell to their depradations. Even Madam Hosmer's pleas for mercy fell on deaf ears.<br><br>When the massacre was complete, the posse scoured the premises for the cipher. Cervantes found it glimmering in one of the corpses' wounds.<br><br>Cervantes made many enemies that day.	
+s2_saloon_title	Saloon	
+s2_saloon_desc	The Cooperton saloon was a typical western saloon, full of strong drink, stone-faced poker players and women of ill repute. Among their number lay a member of the Order.	
+s2_saloon_killed	Cervantes stormed into the saloon and accused Neubacher of spying for the Austro-Hungarian Empire to prepare for an invasion by his emperor.<br><br>While most had never heard of the place, they were quick to beat the life out of the man. Cervantes demanded that that the traitor's body be burned to ashes and the crowd was more than happy to oblige, passing jugs of whiskey as the pyre's flames lit the night. When they dispersed, the Inquisitor recovered the cipher piece and rode off.	
+s2_saloon_slaughtered	Starting a bar fight was not difficult. Cervantes began an assortment of curses and baseless accusations, which quickly led to a brutal brawl, where eyes were gouged out and limbs chopped off.<br><br>Cervantes saw the flaw in his plan when the Inquisitor and his companions were dragged into the fight and seriously injured.<br><br>Nevertheless, they managed to extricate themselves. Once the slaughterhouse quieted, the posse found another cipher piece in the body of one of the victims.	
+s2_saloon_cass1_desc	The bartender recognized Cassandra immediately, brightening when he saw her. His pleasant mood did not seem to extend to the Inquisitor and his other companions. Cassandra recovered her things from a trunk behind the bar and handed Cervantes with an large bundle of cash in gratitude for her rescue.<br><br>When they sat down to talk, Cassandra revealed a great many secrets, chief among them that members of the Order were hiding among the natives to the south.	
+s2_saloon_cass2_desc	When asked how she had become a prisoner of the Order, she replied that she had been Solomon DeLear's personal assistant. He had accused her of disloyalty when she refused to have a cipher piece embedded in her flesh.<br><br>The posse were sympathetic to her story, having heard Aiza's remarkably similar story.	
+s2_saloon_cass3_desc	Cassandra complained of a sudden migraine. It had been a stressful time, she said, and this often happened to her in such cases. She held her head like she was trying to keep her brains in and told Cervantes she needed to lie down.<br><br>Perez concurred. They all needed a good night's sleep. Cervantes rented two rooms for the night and the party got some much needed shuteye.	
+s2_saloon_cass4_desc	In the morning, Cassandra was gone, leaving only a note.<br><br>In it, she begged them to forgive her deception and forget she ever existed. She said she bore them no ill will. Cervantes for his part, was furious. He now understood that Cassandra had been the clairvoyant all along.<br><br>He threw the note in the fire and ordered Perez to hunt her down if it took the rest of his life. The lieutenant was suprised by the ferocity Cervantes showed, as well as the swiftness of the decision, but he knew what must be done and left immediately.<br><br>Together, Cervantes and Aiza continued the quest for the last pieces of the cipher.	
+s2_distillery_title	Whiskey Distillery	
+s2_distillery_desc	They came to the Brendan Hennessy distillery. The brand was well known in that region and beyond for its remarkable flavor. The Grand Inquisitor had reason to believe it sheltered a member of the Order.	
+s2_distillery_killed	Cervantes surprised Hennessy and tied him up. Then he climbed with him onto a catwalk and attracted the attention of the workers below. He told them that their boss the high priest of a cult of devil worshippers. Worse, he had been cheating them on their paychecks, using the extra cash to pay for his dark rituals. He said if the man were truly good, he would resist the flames. If not, he would burn. Little did the workers know that Cervantes had soaked Hennessy's clothes in alcohol. The the flames spread across his body immediately as the workers cheered.<br><br>Cervantes let the man die twisting and flailing in the flames rather than put him out of his misery. When the fire went out, he recovered the cipher piece.	
+s2_distillery_slaughtered	Burning a building usually required planning and effort. Not so with distilleries. With just a small fire here and a few gunshots there, Cervantes was able to unleash an inferno that consumed the entire structure.<br><br>When things were finally quiet, the posse inspected the charred bodies and found the cipher piece on Brendan Hennessy himself.<br><br>However, with the distillery gone, booze prices would go up, which would make many people unhappy.	
+s2_abandoned_mine_title	Devil Banner's Mine	
+s2_abandoned_mine_desc	The mine looked abandoned, but Cervantes knew it was a secret base for the Order.<br><br>According to the letter, the clairvoyant and his prisoner were there. Cervantes felt uneasy, worried that it might be a trap. Still, it was their only lead.<br><br>The letter helped them plan their attack. They could strike when fewer men were at the compound or wait until the arrival of a convoy, when there would be more men, but they could use the wagons as cover.	
+	Part 3: Native Traitor	
+s2_outcast_title	Indian Outcast	
+s2_outcast_desc_intro_1	Out north of the village, they met a native man on his own, sitting in front of his tent with a melancholy look. When they hailed him, they discovered he spoke English fluently.<br><br>Cervantes adopted his kindest manner and asked him about his worries. Dohosan told them his tale of woe.	
+s2_outcast_desc_intro_2	Dohosan had befriended a family of farmers, some of the few that neither feared nor hated natives. His tribe however was horrified at this. They could not forgive him for befriending any of the race that had brought such suffering upon them. He had been shunned and expelled.<br><br>Cervantes, ever the manipulator, knew he could exploit the man's sorrow to elicit secrets from him.	
+s2_outcast_desc	Dohosan believed that if he accumulated enough money, he would be accepted among the white people.<br><br>He also said he knew of several Order members in the area, and that he was aware of the metal pieces in their flesh. He would not part with his information without gold in return.	
+s2_outcast_desc_indian_village_unpaid	Dohosa said that of his former tribesmen had been in league with the Order. He would not divulge his identity, however, unless Cervantes paid him.	
+s2_outcast_desc_indian_village_paid	A tribesman named Gomda was the Order's eyes and ears among the natives.<br><br>Having never dealt with Dohosan's people before, Cervantes asked him what would make his people turn on one another. Dohosan handed Cervantes a pendant. It was one of several items he had stolen from his tribe when he left. He had hoped to trade these items for money. Cervantes figured out the rest.	
+s2_outcast_desc_smuggler_cave_unpaid	South of the village there was a cave by the river where white smugglers traded forbidden goods with both Europeans and natives.<br>One of the smugglers was a member of the Order. Dohosan would identify him in exchange for money.	
+s2_outcast_desc_smuggler_cave_paid	The Order member's name was Jack Weinberg. He could be found in the smugglers' cave.	
+s2_outcast_desc_tradepost_unpaid	One Order member worked at the nearby trading post.	
+s2_outcast_desc_tradepost_paid	Dohosan revealed that the Order member at the trading post was named Roger Matthews.	
+s2_outcast_report	Cervantes was one cipher piece short of his goal. <br><br>He returned to Dohosan and in his most intimidating voice, demanded that the outcast reveal the final member of the Order. Dohosan tried to resist, but eventually he confessed. It was the shaman. He lived in isolation to the West of the village. Dohosan warned the Inquisitor gravely, though. The man's wielded formidable mystical powers.	
+s2_outcast_charm	Dohosan hinted that he was in possession of a charm that would protect the wearer against the shaman's spiritual powers. He had it hidden nearby and said he was willing to sell it to the Inquisitor.<br><br>His price was $150.	
+s2_outcast_charm_bought	Greedily, Dohosan took the money and told Cervantes where he could find the charm. It was hidden under a nearby rock. While the Inquisitor fetched the item, Dohosan packed up his belongings and set out northwards, his head lowered in shame.	
+s2_indian_village_title	Native Village	
+s2_indian_village_desc	It was a peaceful, seemingly idyllic village. The natives tolerated the presence of the white folk, but watched their every step. Cervantes felt they would not hesitate to strike them down should the need arise.	
+s2_indian_village_kill_not_ready	Cervantes had not yet made preparations at the burial grounds to frame Gomda.	
+s2_indian_village_kill_1	Cervantes asked to see Chief Setangya and was granted an audience. Setangya listened patiently as the Inquisitor spun his tale. Cervantes told how he came upon one of Setangya's tribesmen desecrating native graves.<br><br>Setangya was enraged by these allegations, and sent several men to inspect the burial grounds. When they returned, they confirmed the claims Cervantes had made. Worse still, they found Gomda's pendant there. There could be little doubt it had been his doing.	
+s2_indian_village_kill_2	Setangya wanted to exile Gomda, but Cervantes convinced him the only true punishment for this heinous crime was immolation.<br><br>Gomda remained proud and solemn as he burned, staring at Cervantes in silence until his flesh was blackened and he saw no more. When the cipher piece fell from his belly, Cervantes said it had driven Gomda to commit the atrocities. He picked it up as they recoiled, promising the natives he would destroy it for them. As he rode away, the natives thanked Cervantes with prodigious prostrations and gestures of respect.	
+s2_indian_village_slaughtered_1	There was no way Cervantes could kill all the natives himself. And tricking the tribesmen into turning on one another seemed unlikely.<br><br>There was a force, however, that would be both willing and capable of slaughtering them all.	
+s2_indian_village_slaughtered_2	The tribe was no more. When Cervantes arrived at the scene, Captain Alexis handed him the cipher piece without saying a word.<br><br>He noted that Indian-crafted goods would be hard to obtain from now on.	
+s2_fort_title	Fort Brice	
+s2_fort_desc	Most of the cavalrymen were relaxing, playing cards or napping in the corner. Captain Michael Alexis was very hospitable to the members of the clergy such as Cervantes.	
+s2_fort_slaughter	When Cervantes told Captain Alexis that the Indians were preparing to attack the fort, he ordered his troops to prepare for a preemptive strike.<br><br>Cervantes barely managed to tell Alexis to keep his eyes open for a strange metallic piece before the cavalry rode off.	
+s2_burial_grounds_title	Indian Burial Grounds	
+s2_burial_grounds_desc	The burial grounds were a large field of graves with a magnificent mystical tree at its center. Tranquility hung like mist in the air.	
+s2_burial_grounds_desecrated	Aiza was reluctant to desecrate the graves, but sly Cervantes convinced her that since they were pagan graves, the normal rules did not apply.<br><br>After several hours, they had dug up most of the graves, collecting many valuables in the process. Cervantes then dropped the locket in a slightly out of the way spot as though it had accidentally been dropped there.	
+s2_shaman_title	The Shaman's Tent	
+s2_shaman_desc	The Shaman lived in a tipi, as did the rest of the natives. His, however, was notably larger with intimidating decorations. Cervantes swore he felt a force eminating from within. The shaman would be expecting them.	
+s2_shaman_kill_1	When they entered, the shaman was kneeling on the ground with his back turned to them. Without turning, he asked Aiza in broken English whether she was aware that her "friend" was in fact a servant of the evil spirit Christians called "the Devil."<br><br>Enraged, Cervantes approached the shaman, dagger in hand, but the Indian quickly turned and blew a white powder into his face. Cervantes felt immediately weak and gloomy.	
+s2_shaman_kill_1_charm	When they entered, the shaman was kneeling on the ground with his back turned to them. Without turning, he asked Aiza in broken English whether she was aware that her "friend" was in fact a servant of the evil spirit Christians called "the Devil."<br><br>Enraged, Cervantes approached the shaman, dagger in hand, but the Indian quickly turned and blew a white powder into his face. Protected by Dohosan's protection charm, however, the powder had no effect on Cervantes.	
+s2_shaman_kill_2	Cervantes, enraged, stabbed the man a dozen times and tore the cipher piece out of his chest.<br><br>When he emerged from the tipi, Aiza was gone. But what did that matter? The last cipher piece was in his possession. It was time to pay Raum a visit.<br><br>And then, DeLear.	
+s2_cave_title	Cave	
+s2_cave_desc	Beyond the trapdoor, a tunnel led into the hill and opened into the smugglers' cave. The place was an underground market, where several merchants had fancy stands. And enough muscle to guarantee order in a place that operated completely outside the law.<br><br>For a secretive outlaw joint, it was clean, well-run and the the clientele were diverse.	
+s2_cave_killed	Cervantes asked the crowd in the cave if they were aware of the Internal Revenue Service. When the indignant hubbub died down, he said he was only asking because Jack Weinberg was a known spy for the agency.<br><br>Within seconds, Weinberg had been stabbed, clubbed in the head, and shot. The Inquisitor mimed giving Weinberg last rites as a pretense to retrieve the cipher piece from his dead body.	
+s2_cave_salesman_intro	One of the merchants approached Cervantes, introducing himself as merchant of miracle potions, but also one who could spot a true visionary.<br><br>He said he'd been watching the Inquisitor and believed that by joining forces with him he could gain more than just corporeal riches. He sought immortality. Cervantes assured him he was making the right choice and accepted him into the posse.	
+s2_cave_slaughtered	Cervantes and his compatriots collected dry wood and grass and built a bonfire just beyond the trap door. Cervantes lit it, then closed the trapdoor and blocked it with rocks.<br><br>As acrid smoke filled the passages below and the screams of the victims wafted up, Cervantes sat contemplatively, smoking. Once the screams died down, they removed the rocks, vented the chamber, and began slicing open bodies until they found the cipher piece.	
+s2_tradepost_title	Jackson's Trading Post	
+s2_tradepost_desc	Paul Jackson's Trading Post was a popular store in the area, frequented by both white folk and natives. It also sheltered a member of the Order.	
+s2_tradepost_killed	Accusing Roger Matthews of smuggling goods to the Indians was all it took for the crowd to hang him from a pole.<br><br>Still he did not succumb, and hung there, gasping for breath and flailing his limbs pitifully. Cervantes did not wait until he died to cut the cipher piece out of his body to the cheers of the bloodthirsty crowd.	
+s2_tradepost_slaughtered	Cervantes spread rumors around the crowd that the proprietors had been fencing goods taken in Indian attacks back to the people who had been stolen from. When he accused the vendors openly, a lynch mob formed, which pushed the staff to the ground and stomped the life out of them.<br><br>When their blood lust had dissapated and they dispersed, Cervantes searched through the bloody, misshapen remains to find another cipher piece.	
+s2_outlawjoint_title	The Drunken Boar	
+s2_outlawjoint_desc	The Drunken Boar was a cutthroat saloon, frequented by some of the nastiest men in the West.<br><br>Among all the scum, one man in caught Cervantes' attention. He was a slick, quiet fellow with an air of danger. Word had it he was Chip Hinshaw, the sharpest shot in 3 counties.	
+s2_outlawjoint_hire_cheap	Cervantes used his sweetest talk, including assurances that he would be doing God's work, which meant a secure spot in Heaven.<br><br>Hinshaw interrupted him to name his price: $100.	
+s2_outlawjoint_hire_expensive	Cervantes used his sweetest talk, including assurances that he would be doing God's work, which meant a secure spot in Heaven.<br><br>Hinshaw interrupted him, stating bluntly that he knew Cervantes burned down the brothel. It had been his favorite.<br><br>His little stunt would cost Cervantes extra. Hinshaw named his price, $250.	
+s2_outlawjoint_hired	Hinshaw finished his drink, slammed the glass on the bar and accepted the deal.	
+	Part 4: Finale	
+s2_altar_final	While calm during their earlier meetings, Raum was visibly agitated when Cervantes returned to tell him the cipher was complete. Now they could use it to locate the Sanctuary, acquire the meteor and kill DeLear, its protector.<br><br>For reasons only known to himself, the normally dextrous Raum tipped over his cauldron before they left to search for the sanctuary.	
+s2_sanctuary_title	The Sanctuary	
+s2_sanctuary_desc	The magnificent villa was fortified and would require great force to capture. It didn't look like a hiding place for a mystical object, but according to the cipher, this was the fabled Sanctuary that DeLear had built.<br><br>They were certain DeLear was there, this time without the protection of his clairvoyant. That did not mean that he wasn't still a force to be reckoned with. If they were to make any last preparations, now was the time.	
+s2_devil_appearance	They were closing in on the Sanctuary, when the Stranger appeared. Cervantes kneeled.<br><br>The Stranger said he was pleased with the death and destruction Cervantes had caused. As a reward, he had decided to give the Inquisitor nothing less than a gun forged in the fires of Hell. The Inquisitor thanked his master, then continued his quest with renewed determination.	
+	ACTIONS / CHOICES	
+s2_slaughter	They let the Devil sort 'em out.	g
+s2_kill	Using the information they had, they only killed the Order member.	g
+s2_shop	Cervantes looked at the wares.	b
+	Part 1: Raum	
+s2_altar_info_docks	The one at the docks	i
+s2_altar_pay_docks	Cervantes gave Raum the missing ingredients ([%0])	p2liquoir
+s2_altar_info_trappers	The one at the trappers' camp	i
+s2_altar_pay_trappers	Cervantes handed Raum the ingredients ([%0])	p5dried_meat
+s2_altar_info_farm	The one at the the farm	i
+s2_altar_pay_farm	Cervantes handed Raum the item ([%0])	p1rabbit_foot
+s2_altar_pay_church	Cervantes handed Raum what he asked for ([%0])	p2opium
+s2_doctor_break_in	Cervantes forced his way into the house	g
+s2_organize_mob	Cervantes organized a mob	g
+s2_church_sneakattack	They attacked using the secret tunnel for a tactical advantage	t
+s2_church_attack	They launched a frontal assault at the church	t
+s2_doctor_heal	They had the doctor take care of the posse ([%0])	p300cash
+s2_doctor_heal_slaughter	Reluctantly the doctor agreed to patch up the posse ([%0])	p500cash
+	Part 2: Suit	
+s2_opium_den_info_mine	The one at the mine	i
+s2_opium_den_pay_mine	Cervantes paid for additional information ([%0])	p200cash
+s2_opium_den_info_brothel	The one at the brothel	i
+s2_opium_den_pay_brothel	Cervantes paid for additional information ([%0])	p200cash
+s2_opium_den_info_saloon	The one at the saloon	i
+s2_opium_den_pay_saloon	Cervantes paid for additional information ([%0])	p200cash
+s2_opium_den_info_distillery	The one at the distillery	i
+s2_opium_den_pay_distillery	Cervantes paid for additional information ([%0])	p200cash
+s2_mine_attack	They attacked the mine	t
+	Part 3: Outcast	
+s2_outcast_info_indian_village	The one at the Indian Village	i
+s2_outcast_pay_indian_village	Cervantes paid for additional information ([%0])	p200cash
+s2_outcast_info_smuggler_cave	The one at the Smuggler Cave	i
+s2_outcast_pay_smuggler_cave	Cervantes paid for additional information ([%0])	p200cash
+s2_outcast_info_tradepost	The one at the Tradepost	i
+s2_outcast_pay_tradepost	Cervantes paid for additional information ([%0])	p200cash
+s2_cavalry_attack_prepare	Talk the Cavalry into attacking the Indians	g
+s2_cavalry_trade	Cervantes looked at the wares	t
+s2_cavalry_heal	They had the cavalry's medic patch them up ([%0])	p400cash
+s2_burial_grounds_frame	They raided the graves and placed the locket	g
+s2_buy_charm	Cervantes bought the charm ([%0])	p150cash
+s2_engage_shaman	They engaged the Shaman	g
+s2_outlawjoint_approach_poncho	Cervantes approached the man	n
+s2_outlawjoint_pay_poncho_cheap	Cervantes handed over the money ([%0])	p100cash
+s2_outlawjoint_pay_poncho_expensive	Cervantes handed over the money ([%0])	p250cash
+	Part 4: Finale	
+s2_attack_sanctuary	They attacked the Sanctuary	t
+	Additional texts	
+s2_slaughter_reward	Cervantes looted what was left after the chaos.	
+s2_kill_reward	The people rewarded Cervantes for protecting them.	
+s2_heal_inquisitor	Gabriel de Cervantes was healed ($[%0])	p25cash
+s2_heal_el_federale	Joaquim Perez was healed ($[%0])	p25cash
+s2_heal_nun	Sister Aiza was healed ($[%0])	p25cash
+s2_heal_cassandra	Cassandra was healed ($[%0])	p25cash
+s2_heal_devil_worshipper	Bathym Raum was healed ($[%0])	p25cash
+s2_heal_poncho	Chip was healed ($[%0])	p25cash
+s2_heal_salesman	Dave Oshry was healed ($[%0])	p25cash
+s2_heal_inquisitor_slaughter	Gabriel de Cervantes was healed ($[%0])	p50cash
+s2_heal_el_federale_slaughter	Joaquim Perez was healed ($[%0])	p50cash
+s2_heal_nun_slaughter	Sister Aiza was healed ($[%0])	p50cash
+s2_heal_cassandra_slaughter	Cassandra was healed ($[%0])	p50cash
+s2_heal_devil_worshipper_slaughter	Bathym Raum was healed ($[%0])	p50cash
+s2_heal_poncho_slaughter	Chip was healed ($[%0])	p50cash
+s2_heal_salesman_slaughter	Dave Oshry was healed ($[%0])	p50cash
+s2_demonprince	Demon Prince	
+s2_river_shop_name	Wretchport Market	

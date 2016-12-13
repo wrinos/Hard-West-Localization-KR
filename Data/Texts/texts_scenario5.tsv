@@ -1,0 +1,286 @@
+text_id	en	format
+	Loading screens	
+scen_05	Method in Madness	
+scen_05_name	Solomon DeLear and the Persons set out to confront the plague of madness overtaking the land.	
+5_1_Lab_name	Solomon DeLear was in no shape to fight the madmen in Trumercliff's Laboratory.<br>Thankfully he was joined by a trio of mysterious Pinkerton agents.	
+5_2_Asylum_name	Searching for information about the plague of madness, Solomon and the Persons arrived at an old church that had been converted into a mental asylum.<br>It didn't take long for the inmates to mutiny, however. With the staff gone, it had descended into a chaotic, lawless mess.	
+5_3_Maze_name	Solomon's investigation of the plague of madness led him to a railway station and telegraph hub.<br>After spending days reading through the logs, his posse came under attack.	
+5_4_Crater_name	Solomon had finally located the source of the plague of madness. It was the meteor.<br>While Solomon drilled into the ground in an attempt to retrieve it, the Persons set up camp and secured the area.	
+5_5_Machine_name	They returned with the meteor, pursued closely by Trumercliff's minions.<br>Solomon had devised a machine that could cure the affliction, but the madmen were already banging on the door.	
+	Objectives	
+s5_t1_kill	Kill all the madmen	
+s5_t_survive_pink	At least one Pinkerton must survive	
+s5_craft_unused	Go to the Workshop and craft one item	
+s5_research1	Go to the Indian Village and ask the natives about the madness	
+s5_research2	Go to the Ruined Mansion and say "Jade is the gem of greed"	
+s5_research3	Go to the Asylum in the west	
+s5_t2_takeinfo	Have Solomon collect hospital documentation	
+s5_t2_escape	Move Solomon to the safe zone	
+s5_t2_notes_opt	Have Solomon acquire all notes	
+s5_t2_kill_opt	Kill all the madmen,	
+s5_backtolab	Go to the Laboratory to analyze the data	
+s5_origininfo	Go to the Railroad Station to find out more about the plague of madness	
+s5_t3_notes	Have Solomon collect the notes	
+s5_t3_turns_opt	Gather all notes in the required number of turns	
+s5_calculatecrash	Find the Crater by watching the Insanity Gauge as you scout locations	
+s5_workshop_gauge	Go to the Workshop	
+s5_craftdrill	Search the Mine Shafts for a mineral drill	
+s5_gotocrash	Go to the Crater	
+s5_t4_wait	Wait until the drilling is complete	
+s5_t4_escape	Move Solomon to the safe zone	
+s5_t4_killturner	Kill Sheriff Turner (Optional)	
+s5_craftmachine	Return to the Laboratory and build the Sanity Machine	
+s5_t5_fuses	Solomon must use the required number of levers	
+s5_t5_stay	Solomon cannot leave the control room	
+s5_solomon_floating	Only Solomon can do that.	
+	Failstates	
+s5_fail_survive_pink	You failed to protect Solomon<br>while he extracted the meteor.	
+	Scenario Critical Path	
+s5_cp2_safe	The Pinkertons told Solomon that the Protector would send replacements if any of them died, but that there would never be more than three of them at one time.<br><br>While the Pinkertons were cleaning up the mess in the lab, Solomon found a safe.<br>He opened it with the key he found with the documents. Inside were the notes, diagrams, charts, blueprints and other data Trumercliff had gathered, along wth a letter.	
+s5_cp2_safe3	DeLear, if you are reading this it means I have succumbed to the madness. You have arrived here exactly as I planned.<br><br>You may be asking yourself why the greatest inventor of our time would move to the hard lands of the West. It is a fair question. After being informed that the land was being ravaged by a plague of madness, I offered my help to a man known as the Protector.	
+s5_cp2_lab1	A few days later, the laboratory was restored. Solomon could barely contain his excitement. It was a perfect place to work on a revolutionary new technology. And Trumercliff's blueprints would give him a helpful head start.	
+s5_cp2_lab_instruction	- Each patent requires a Blueprint.<br>- Blueprints belong to one of 3 fields: chemistry, engineering and gunsmithing.<br>- Each new patent unlocks additional development opportunities.<br>- Each patent enables you to order new items from the nearby workshop.	
+s5_cp2_lab_instruction_title	Research and Patents	
+s5_cp2_lab_pinkertons1	A new Pinkerton arrived shortly. The death of his predecessor had a slight but noticeable impact on Solomon's mind.	
+s5_cp2_lab_pinkertons2	Notified by telegram, two new Pinkertons arrived. The deaths of their predecessors were a fixture in Solomon's nightmares.	
+s5_cp2_lab_pinkertons3	Three new Pinkertons arrived a couple days later, even though Solomon had told no one about his losses.<br><br>The slaughter of his previous guardians constantly haunted him in flashbacks.	
+s5_l1_lab	Laboratory	
+s5_l1_pinkertons_return	Never enough Persons	
+s5_l1_lab_desc	Solomon remained in Trumercliff's old laboratory. He had truly made it his own now.	
+s5_l1_r_research	Solomon started his research.	n
+s5_l1_r_instruction_repeat	Repeat the instructions.	i
+s5_l1_research_fail	Unfortunately, Solomon didn't have a Blueprint to start working from.	
+s5_l1_research	Chemistry allows you to create different usable items for healing and improved performance.<br>Engineering provides passive upgrades and throwable items that deteriorate enemy performance.<br>Gunsmithery enables you to construct powerful weapons.<br>Solomon chose to focus on...	
+s5_l1_r_chemistry	Chemistry	n
+s5_l1_r_engineering	Engineering	n
+s5_l1_r_gunsmith	Gunsmithery	n
+s5_l1_r_confirm_research	Solomon required a blueprint to inspire his research ([%0])	p1blueprint
+s5_l1_chemistry_lvl0	Solomon has never researched Chemistry.<br>He felt his first breakthrough would allow him to patent the Revealer and the Medical Bag.<br>The former improves sight and reveals notes in invisible ink, but reduces health.<br>Medical Bags allow instantaneous healing of damage.	
+s5_l1_chemistry_lvl1	Solomon had his first Chemistry breakthrough.<br>If he continued, he was convinced his next breakthrough would allow him to patent a Stimulant.<br>Stimulant improved movement rate at the cost of some health.	
+s5_l1_chemistry_lvl2	Solomon made his second Chemistry breakthrough.<br>He had a feeling the next would yield patents for Dexterity Elixir and Mandrake Powder.<br>Dexterity Elixir improved the user's.<br>Mandrake Powder was reputed to influence luck over time.	
+s5_l1_chemistry_lvl3	Solomon made a third Chemistry breakthrough.<br>He hoped the next would allow him to patent a Healing Elixir.<br>Healing Elixir instantly regenerated even grave wounds.	
+s5_l1_chemistry_lvl4	Solomon had his fourth Chemistry breakthrough.<br>He hoped the next would yield patents for the Vitality Elixir and the Gas Bomb.<br>Vitality Elixir healed over time, while improving vitality.<br>The Gas Bomb damaged in its blast radius over time.	
+s5_l1_chemistry_lvl5	Solomon had a fifth Chemistry breakthrough. In these tumultuous times, he did not expect to accomplish more in this field.	
+s5_l1_engineering_lvl0	Solomon had yet to do any Engineering research.<br>He hoped his first breakthrough would allow him to patent Assorted Parts and the Noise Bomb.<br>Assorted Parts were an assortment of versatile parts that could fix almost any device.<br>The Noise Bomb reduced the aim and defense capabilities of enemies caught in its blast.	
+s5_l1_engineering_lvl1	Solomon made his first breakthrough in Engineering.<br>He hoped his next discovery would yield a patent for the Stun Bomb.<br>Stun Bombs reduced the accuracy and speed of a single enemy.	
+s5_l1_engineering_lvl2	Solomon made his second breakthrough in Engineering.<br>He had a feeling the third would yield patents for the Nail Bomb and the Ocular.<br>Nail Bombs dealt damage to all enemies within range.<br>The Ocular improved the wearer's aim.	
+s5_l1_engineering_lvl3	Solomon had his third breakthrough in Engineering.<br>He was sure the fourth would yield the Bulletproof Vest.<br>Bullerproof Vests significantly improved the wearer's defense.	
+s5_l1_engineering_lvl4	Solomon had his fourth breakthrough in Engineering.<br>His gut said the next one would yield patents for Piercing Ammo and Petrification Bolts.<br>Piercing Ammo improved weapon damage.<br>The Petrification Bolt affected a single enemy, reducing the enemy's health over time, along with his movement.	
+s5_l1_engineering_lvl5	Solomon had his fifth Engineering breakthrough. In these tumultuous times, he did not expect to accomplish more in this field.	
+s5_l1_gunsmith_lvl0	Solomon had yet to research Gunsmithing.<br>He hoped his first breakthrough would yield patents for the Protector Ring Revolver and the Revolver Rifle.<br>The Protector was an easily concealed miniature revolver.<br>The Revolver Rifle could be reloaded quickly.	
+s5_l1_gunsmith_lvl1	Solomon made his first breakthrough in Gunsmithing.<br>He had a hunch the next would yield a patent for the Harmonica Gun.<br>It was a pistol with a revolutionary clip that allowed quick reloading.	
+s5_l1_gunsmith_lvl2	Solomon made his second breakthrough in Gunsmithing.<br>The wondered if the next would allow him to patent the Chain Rifle and the Duckfoot Pistol.<br>Chain Rifles had great capacity.<br>The Duckfoot was a powerful pistol design.	
+s5_l1_gunsmith_lvl3	Solomon made his third Gunsmithing breakthrough.<br>He was sure the next would yield a patent for the Mammoth Rifle.<br>It would be a version of the Elephant precision rifle, but with more stopping power.	
+s5_l1_gunsmith_lvl4	Solomon made his fourth Gunsmithing breakthrough.<br>He could say with certainty that the fifth would yield patents for the Revolving Revolver and the Shotgun Revolver.<br>The first would have an unmatched clip capacity.<br>The second would offer both a large magazine and fast reload time.	
+s5_l1_gunsmith_lvl5	Solomon made his fifth Gunsmithing breakthrough. In these tumuluous times, he did not expect to accomplish more in this field.	
+s5_l1_chemistry_lvl0_done	Solomon invented and patented the Revealer and the Medical Bag.	
+s5_l1_chemistry_lvl1_done	Solomon invented and patented Stimulant.	
+s5_l1_chemistry_lvl2_done	Solomon invented and patented Dexterity Elixir and Mandrake Powder.	
+s5_l1_chemistry_lvl3_done	Solomon invented and patented Healing Elixir.	
+s5_l1_chemistry_lvl4_done	Solomon invented and patented Vitality Elixir and the Gas Bomb.	
+s5_l1_engineering_lvl0_done	Solomon invented and patented Assorted Parts and the Noise Bomb.	
+s5_l1_engineering_lvl1_done	Solomon invented and patented the Stun Bomb	
+s5_l1_engineering_lvl2_done	Solomon invented and patented the Nail Bomb and the Ocular.	
+s5_l1_engineering_lvl3_done	Solomon invented and patented the Bulletproof Vest.	
+s5_l1_engineering_lvl4_done	Solomon invented and patented Piercing Ammo and the Petrification Bolt.	
+s5_l1_gunsmith_lvl0_done	Solomon invented and patented the Protector Ring Revolver and the Revolving Rifle.	
+s5_l1_gunsmith_lvl1_done	Solomon invented and patented the Harmonica Gun.	
+s5_l1_gunsmith_lvl2_done	Solomon invented and patented the Chain Rifle and the Duckfoot Pistol.	
+s5_l1_gunsmith_lvl3_done	Solomon invented and patented the Mammoth Rifle.	
+s5_l1_gunsmith_lvl4_done	Solomon invented and patented the Revolving Revolver and the Revolver Shotgun.	
+s5_l1_about_workshop	Solomon felt this was his best work thus far. He was now ready to change theory into practice and build a new invention. The workshop awaited nearby.	
+s5_l2_workshop	Workshop	
+s5_l2_workshop_first	Solomon entered the Workshop. It was an utter mess. He spent the rest of the day restoring the tools to an operational state so he could begin building prototypes for new patents.<br>The raw material stocks were empty, and the only way to restock them was through the Pony Express. That meant that each prototype would come at a cost.	
+s5_l2_workshop_before_crater	Solomon locked himself in the Workshop for an entire day. He built a mining drill to extract the Meteor from the crater. He also built an Insanity Gauge, so that whenever he visited a location, he could observe the gauge to check that areas Madness level. He was positive he would find higher results near the Crater.	
+s5_l2_workshop_desc	It was now Solomon DeLear's Workshop. Completely renovated and ready to use.	
+s5_l2_craft	Solomon ordered parts via the Pony Express to craft an item.	c
+s5_l2_r_create_trum	Solomon created a Blueprint from Trumercliff's notes using the Revealer ([%0])	p1revealer
+s5_l2_r_create_plans	Solomon created a Blueprint from plans using the Revealer ([%0])	p1revealer
+s5_l2_create_trum_a	Solomon used the Revealer on Trumercliff's notes and made a stunning discovery.	
+s5_l2_create_plans_a	Solomon used the Revealer on the plans and discovered an innovative method.	
+s5_l2_create_norevealer_b	Solomon could smell invisible ink. He knew something must be hidden on those pages. If only he had the Revealer. Then he'd be able to read it.	
+s5_l10_indian	Indian Village	
+s5_l10_indian_desc	Solomon came to the Native Village. The people here were eccentric but closer to sanity than most.	
+s5_l10_r_trade	Solomon traded with the natives.	b
+s5_l10_r_talk	Solomon talked with the natives.	i
+s5_l10_r_lesson	Solomon gave the natives some mechanisms and shared his gunsmithing expertise, earning $50 ([%0])	p3mechanical_parts
+s5_l10_lesson	They learned eagerly, worried there might come a time when they needed better guns to protect themselves. Solomon happily took their gold.	
+s5_l10_lesson_noskill	Solomon determined that in order to teach the natives anything at all, he required at least 3 Gunsmithing breakthroughs of his own.	
+s5_l10_talk	The natives told him about a comet they had seen shortly before people began going mad. Everyone had twisted dreams that night.<br><br>The man who lived in the Ruined Mansion could tell him more, but Solomon would need to give him the password: "Jade is the gem of greed."	
+s5_l9_ruinedmansion	Ruined Mansion	
+s5_l9_ruinedmansion_desc	Once a majestic home, the Ruined Mansion now retained only a shadow of its former glory.<br><br>Solomon knocked to no avail.	n
+s5_l9_r_code	He said: "Jade is the gem of greed".	g
+s5_l9_code	At Solomon's words, the door sprang open. Behind it was an elderly man, who invited Solomon inside and asked if he would like some refreshment.<br><br>The inside of the house was also in ruins and the whole building looked as though it might collapse at any moment.	
+s5_l9_r_a	Solomon asked about the Madness	i
+s5_l9_r_b	Solomon asked about the nearby land.	i
+s5_l9_r_c	Solomon asked to barter.	b
+s5_l9_r_d	Solomon bought a key which he thought might open the back entrance of a nearby Church. He didn't care to know how the old man had obtained it ([%0])	p100cash
+s5_l9_a	The elderly man spoke to him about the origin of the Madness. He said he remembered the night it had begun. The same night, a comet blazed across the sky and everyone he knew was touched by terrible nightmares.<br><br>Father Gilmur had organised an asylum in his church to the southwest in an attempt to cure the sick. Though he was able to gain much insight into the disease and record it in his notes, the madmen turned on him at their first opportunity and tore him apart.	
+s5_l9_b	The old man spoke at length about the reactions of three prominent members of the local community:<br>First he spoke of Trumercliff, an insane genius who wrote secret notes about the comet in invisible ink on top of decoy documents.<br>Then, he told the story of Sheriff Turner, a wise and just lawman, who became paranoid after the comet's arrival. It began his reign of terror in which he built an army of madmen and criminals who hunted like a pack of ravening wolves.<br>Finally, he spoke of his own son, Alvaro, who went looking for an ancient native city and never returned.<br>	
+s5_l9_d	The key went into Solomon's pocket.	
+s5_l3_asylum	Church	
+s5_l3_asylum_desc	The Church had been refitted to function as an Asylum. The old man had told him of this place.	
+s5_l3_r_approach	Solomon approached the Asylum, guns at the ready.	t
+s5_l3_r_backdoor	Solomon used the key to open the back door.	t
+s5_l3_approach	Solomon approached the Asylum from the east, heading for the main entrance.	
+s5_l3_backdoor	Solomon left his steam carriage near the eastern entrance.<br>Then he snuck around to the the north and opened the church's backdoor.	
+s5_after_asylum_title	Escape from the Asylum	
+s5_after_asylum	Solomon leaped into his steam carriage, hotly pursued by Turner's men. It was the same bunch of lunatics that had been in the Laboratory when he first arrived there. He was horrified by their ferocity. Clearly, they thought of themselves as lawmen. Between their lack of fear, Turner's leadership and their sheer numbers, they had rapidly dominated the region.<br><br>He hoped the documents from the Asylum would shed some light on the Madness and its source.	
+s5_after_asylum_with_optional	Solomon leaped into his steam carriage, hotly pursued by Turner's men. It was the same bunch of lunatics that had been in the Laboratory when he first arrived there. He was horrified by their ferocity. Clearly, they thought of themselves as lawmen. Between their lack of fear, Turner's leadership and their sheer numbers, they had rapidly dominated the region.<br><br>He hoped the documents from the Asylum would shed some light on the Madness and its source.<br><br>To Solomon's surprise, the documents contained Trumercliff's notes. He seemed he had been looking for answers here as well. On the basis of Trumercliff's schematics, Solomon was able to draft another blueprint.	
+s5_after_asylum_s6_bool	His most bizarre discovery yet waited for him inside a normal-looking envelope. Inside was a strange talisman along with a note in Father Gilmur's hand, "I had to confiscate this token from Diaz. Clutching it in his hands at all times, he had become unable to focus during prayer. Diaz said it reminded him of his former master, the man in the Jade Mask. I will keep it for him until such time as he can handle it."	
+s5_cp3_asylum	Solomon wrote himself a note about the Asylum being located to the west. He felt it was a likely place to find out more about the cause of Madness.	
+s5_cp4_r_studium	Solomon analyzed the data.	n
+s5_cp4_studium	The documents displayed a clear pattern. When patients entered the Asylum, they typically got better and went back home. There, their symptoms inevitably worsened and they would return, worse off than before. The same effect seemed to happen to Trumercliff himself.<br><br>The process was highly unusual. Father Gilmur was determined to find out if there were other areas affected by the plague in other parts of the country.	
+s5_cp5_station1	Telegraph Station	
+s5_cp5_station1_desc	Solomon found an abandoned telegraph station and trainyard. Official reports and private letters lay scattered everywhere. Solomon guessed a wealth of information must be hidden in those papers. Some might even hint at how far the Madness had spread.	
+s5_cp5_r_station2	Solomon began his research.	n
+s5_cp5_station2	While Solomon read everything he could get his hands on, the Persons guarded the telegraph station.<br><br>The first round of documents he read were worthless, but Solomon continued, determined not to miss any clue. He hoped his zealousness would not allow Turner's men to get the drop on him.	
+s5_cp5_r_station3	He delved deeper into his research.	t
+s5_cp5_station3	The endeavor took several days and was endlessly frustrating. Solomon considered walking away at many points. None of the letters from neighboring states mentioned anything about the plague. Solomon felt he was missing something important. He was exhausted, but still carried on, reading far into the night.	
+s5_cp6_drill_info	Finding the source	
+s5_cp6_drill_info_desc	A flash of light and excited shouting woke Solomon from the nightmare. It took him a moment to regain his bearings. One of the Persons shouted that they'd discovered a cache of gold under the station floor.<br><br>Solomon, however could think of nothing but the source of the Madness. He was now convinced that the meteor had crashed somewhere in these lands. He needed to find out where.<br><br>But first, he would need to make sure he had the right tools in his Workshop.	
+s5_cp6_station_optional_false	Solomon didn't get any rest that night. The nightmare he'd had at the telegraph station weighted heavily on his mind. He worried he might have taken the first step toward Madness.	
+s5_cp6_station_optional_true	Solomon felt lucky he had been awoken when he had. As he awoke he had the distinct feeling he was breaking through the veil of Madness that had been trying to envelop his mind while he slept.	
+s5_cp6_crater	The Heart of Darkness	
+s5_cp6_crater_desc	As Solomon continued his scouting efforts, he noticed that the Insanity Gauge had jumped up massively. This area was reading at 18-20 trumercliffs. In the distance he noticed a large crater.	
+s5_cp7_meteor_title	Meteor Crash Zone	
+s5_cp7_meteor_can_drill	The Crater was difficult to notice as it blended near-seamlessly into the canyon walls, and only a small portion protruded from the rock bed. Everything around it had been destroyed by the shockwave.	
+s5_cp7_meteor_r_drill_unused	Inside the crater, he found a letter with a familiar seal on it. Solomon realized he had to excavate the Meteor as soon as possible.<br><br>The drilling would take days. He instructed the Pinkertons to prepare defenses around his operation, and The Persons began constructing a temporary fort.	
+s5_cp7_meteor_drill	Solomon initiated the drilling procedure.	t
+s5_cp8_meteor_cage	Solomon could feel waves of insanity emanating from the Meteor but, somehow he felt much more intelligent than usual.<br>Did Madness enhance brilliance? Trumercliff had thought so at least.<br><br>Solomon locked the Meteor in a cage of steel and glass.	
+s5_cp8_meteor_afterbattle	Solomon fled in his steam carriage. He knew Trumercliff could arrive at the Laboratory any time. The Meteor was his obsession, the source of his genius as far as he was concerned. For Solomon, however, it was the only way to cure the Madness.<br><br>He would need to invent a special device to use the Meteor. In case things turned ugly, Solomon created several dazzle bombs using the dust from the meteor drilling site.	
+s5_cp9_r_research_meteor	Solomon researched the Meteor.	t
+s5_cp9_whattodo	Solomon concentrated on how he could use the Meteor to cure the Madness. He was feeling blazingly intelligent. His relentless epiphanies kickstarted an unprecedented fit of successful research.	
+s5_cp10_machine	Eureka! Solomon shouted as he put the final bolts on his Sanity Machine.<br><br>Then he gathered the Pinkertons in the laboratory and explained what needed to be done in order to activate it.	
+	Repeating mechanics	
+s5_checking_gauge	Checking Insanity Level	
+s5_checking_gauge_desc1	According to the Insanity Gauge, the level of Madness in the psychosphere was	
+s5_checking_gauge_desc2	trumercliffs. Too low. The nearer the impact crater, the higher the Madness level should rise.	
+s5_madness_incoming	Madness imminent	
+s5_madness_level1	Solomon felt weak and insecure. His mind was constantly distracted. He was plagued by strange dreams which inspired him to create a strange new blueprint.	
+s5_madness_level2	Solomon misheard things and experienced hallucinations. Had the Madness come for him?<br><br>Then in a fit of raw inspiration, he created another blueprint.	
+s5_madness_level3	Solomon tried not to blame his allies, but his hateful thoughts were becoming stronger and stronger. He was becoming convinced that the Protector and the Persons had conspired against him.<br><br>That night, after waking from a nightmare, he was consumed with ideas for another new blueprint.	
+s5_madness_level4	Solomon's paranoia deepened. It seemed enemies lurked in every corner and Solomon struggled to convince himself there was nothing to fear.<br><br>Still he feared everything. Random thoughts attacked his mind, coalescing into concepts for another blueprint.	
+s5_madness_level5	Solomon felt the Madness had penetrated his very soul. He struggled to ignore voices that whispered dark secrets. Try as he might though, they inspired him to create a new blueprint.	
+	Locations	
+s5_l6_ghosttown	Ghost Town	
+s5_l6_ghosttown_desc	The inhabitants of this town had became either so crazed or so terrified that they had left. Seeming suddenly and all at once. Buildings stood abandoned as decay slowly crept in. Solomon wondered whether they had left anything useful behind.	
+s5_l6_r_a	Solomon performed a thorough search, allowing the Madness of the place to leave an imprint on his mind.	g
+s5_l6_r_b	Solomon devoted only a short moment to look for interesting items.	g
+s5_l6_a	The search yielded several items, including liquor from a secret stash and the notebook of sheriff Turner's deputy, "Dead-Eye" Dean. Dean wrote that sheriff Turner was arresting lawful citizens for crimes they didn't commit. And every accusation ended on the gallows. Sheriff Turner had become convinced that every person in his town was a criminal. After reading through the notebook, Solomon felt this tainted place had left a mark on his soul.	
+s5_l6_b	The brief search yielded several items, including the notebook of sheriff Turner's deputy, "Dead-Eye" Dean. Dean wrote that sheriff Turner was arresting lawful citizens for crimes they didn't commit. And every accusation ended on the gallows. Sheriff Turner had become convinced that every person in his town was a criminal. After reading through the notebook, Solomon felt this tainted place had left a mark on his soul.	
+s5_l7_gunsmith	Death's Embrace Gunsmith	
+s5_l7_gunsmith_desc	Arno M. Scharinger was intelligent, but paranoid. Yet despite his quirks, he impressed the Pinkertons with his expertise.	
+s5_l8_mine	Abandoned Mine	
+s5_l8_mine_desc	Solomon determined the mine was still rich in resources. It had been abandoned after the madmen had damaged the support beams.<br><br>Some gold veins remained exposed, though. It was possible to mine them, but only at the risk of collapsing the mine entirely. Solomon was confident his Engineering expertise would help with extraction, however.	
+s5_l8_r_a	They began the mining process.	g
+s5_l8_a	Solomon fixed the elevator and the drill. Unfortunately, the mine collapsed after only a handful of transports.	
+s5_l12_house_of_mad	Large House	
+s5_l12_house_of_mad_desc	Solomon arrived at a dilapidated cottage inhabited by the Thurner family, a strange group that laughed at even the most solemn things.<br><br>They invited him for dinner.	
+s5_l12_r_intimidate	Solomon pointed his gun at them and ordered them to hand over their valuables.	g
+s5_l12_intimidate	Solomon intimidated the Thurners, taking everything of worth that they had.<br><br>They began crying like children and pouted, refusing to talk to him again.	
+s5_l12_r_eat	Solomon decided to accept their offer.	g
+s5_l12_eat	He broke bread with the Thurners, but felt sick soon afterwards. Hallucinations and depression struck his mind with a punch.	
+s5_l12_eat2	One of the Pinkertons accepted their offer, but fell sick soon afterwards. Later, tormented by horrible waking nightmare, he perished.	
+s5_l12_visited	The cottage stood abandoned.	
+s5_l12_r_confront	Solomon confronted the family.	g
+s5_l12_confront	They begged for their lives and gave him a blueprint signed by Trumercliff.	
+s5_l12_r_kill	Solomon killed them and took their valuables.	g
+s5_l12_kill	Solomon killed the crazy family and took everything of worth.	
+s5_l13_battleground	Gangs' Battleground	
+s5_l13_battleground_desc	A pile of dead bodies sporting sheriff's deputy badges lay in the field.<br><br>Each also carried a letter instructing him to kill any criminals he found in the name of his Master. The letters were signed by sheriff Turner. There were no signs of any victims other than the deputies.	
+s5_l13_battleground_r_a	Solomon only checked the bodies on the edge of the battleground.	g
+s5_l13_battleground_r_b	Solomon thoroughly searched the whole battleground, despite the risk that it could negatively impact his psyche.	g
+s5_l13_battleground_a	He managed to find weapons and parts among the dead.	
+s5_l13_battleground_b	In addition to weapons and parts, Solomon found a bag filled with chemicals. His mind was haunted by the thought of deputies murdering one another for a long time afterward.	
+s5_l14_ranch	Grim Ranch	
+s5_l14_ranch_desc	The ranch appeared abandoned. A strange smell came from the barn. Solomon didn't know whether it death, madness or some other abomination.	
+s5_l14_ranch_r_a	Solomon searched the barn.	g
+s5_l14_ranch_r_b	Solomon scavenged the area around but didn't enter the barn itself.	g
+s5_l14_ranch_a	The barn contained nearly fifty bodies. They appeared to have commited suicide together by slicing open their wrists.<br><br>Though both the stench and the scene were extreme, to his growing discomfort, the inventor found he was becoming used to these things. Sometimes he felt he even looked forward to them.<br><br>Solomon searched the bodies and recovered quite a few valuables.	
+s5_l14_ranch_b	Solomon gave the barn a wide berth. Instead, he searched the house and found several items including chemicals and opium.	
+s5_l15_circus	Circus of Blood	
+s5_l15_circus_desc	A crowd of people watched intensely as two men fought to the death using knifes. The crowd was cheering and the sand was soaked with blood.<br><br>A man in a top hat commented on the fight in a booming voice.	
+s5_l15_r_talk	Solomon talked to the announcer.	n
+s5_l15_talk	Solomon approached the announcer who said his name was Daniel Mollgaard Andersen. He was an entrepreneur who had found a way to profit from the plague by way of this, the Circus of Blood.<br><br>He challenged Solomon to a wager: one of his men against one of the Persons. If his man won, Solomon would receive $50.	
+s5_l15_r_confirm	Solomon accepted ([%0])	p50cash
+s5_l15_confirm	Solomon chose to send one of the Persons into the pit.	
+s5_l15_r_nevermind	After some consideration, he decided against it.	n
+s5_l15_r_senda	Mr A. Persons.	g
+s5_l15_r_sendb	Mr B. Persons.	g
+s5_l15_r_sendc	Mr C. Persons.	g
+s5_l15_winner	Mr Persons killed the madman quickly. Solomon collected his reward.	
+s5_l15_win_wounded	Mr Persons killed the madman after a long, tiring fight. He was badly wounded, but Solomon was glad to have the money.	
+s5_l15_loser	The madman was wiry and cruel, gutting Mr Persons with his shining blade. Solomon lost a good man, along with his money.	
+s5_l15_end_arena	As Solomon left the arena, the crowd seemed to become consumed by bloodlust. The inventor hurried away. From a distance, he saw the whole site go up in flames.	
+s5_l16_artist	Artist Hut	
+s5_l16_artist_desc	The old hut stank of feces and paint. It was inhabited by Ernesto Ristola, an insane painter whom some considered a genius.<br><br>His admirers said Ristola's incomprehensible patterns hid untold secrets and obscure meanings. Only a mind clouded by Madness could understand the paintings, however. A healthy intellect would simply plunge into insanity.	
+s5_l16_r_a	Solomon decided to see for himself. He admired the paintings for hours.	g
+s5_l16_r_b	Solomon decided against spending time with such horrid creations.	g
+s5_l16_a	After a short contemplation of the paintings, Solomon could feel his mental stability fading away. He ran from the hut.	
+s5_l16_b	He found solace in this reflex. It reassured him he would not easily allow himself to go insane.	
+s5_l16_stare_already	The paintings looked as insane as when Solomon last saw them.	
+s5_l16_bp	Solomon found incredible beauty in Ristola's work. In fact, they inspired him to create an entirely original blueprint.	
+s5_l16_no_bp	Solomon couldn't understand such a vast abyss of insanity. The Madness in his mind grew stronger, but no inspiration followed.	
+s5_l17_camp	Abandoned Camp	
+s5_l17_camp_desc	Solomon stumbled upon an abandoned campsite. Beside an extinguished fire pit he found Trumercliff's notes. They made little sense to him presently, but he thought they might prove useful later on.<br><br>One notebook was entitled "My rival inventors" and contained slanderous texts ridiculing other inventors such as Tim Russell, Christopher Wilson and Solomon DeLear. Amid mocking comments about his mistakes, Solomon found extensive deliberations on the senselessness of his past research.	
+s5_l17_camp_r_a	Solomon decided to keep the notebook. It would motivate him toward scientific perfection.	g
+s5_l17_camp_a	With the notebook in his pocket, he never forgot his past errors. Though his Madness increased, with it came scientific greatness.	
+s5_l17_camp_r_b	Solomon burned the notebook. In this insane land, he didn't want to take on emotional weight he couldn't handle.	g
+s5_l17_camp_b	Solomon maintaned his mental stability for the time being. Madness was a greater enemy than his past shortcomings.	
+s5_l18_pharmacy	Teebken Pharmacy	
+s5_l18_pharmacy_desc	A middle-aged man with his lips sewn together ran a pharmacy in the middle of nowhere. Though he never spoke a word, he seemed rational and was eager to strike a bargain.	
+s5_l19_clock	The World's Clock	
+s5_l19_clock_desc	Solomon met J. M. Hobie, an engineer who had developed what he called the "World's Clock". The device counted the time remaining until doomsday.<br><br>Solomon asked about the clock in detail and, seeing the dedication of the watchmaker, decided it was his duty as an inventor to help with its construction.	
+s5_l19_clock_desc_b	Watchmaker J. M. Hobie devoted all his time to creating what he called the "World's Clock."<br><br>According to his ingenious contraption, doomsday would start only a couple years hence.	
+s5_l19_r_ask	The watchmaker needed parts and the help of a master engineer ([%0])	p8mechanical_parts
+s5_l19_help	Solomon DeLear and J. M. Hobie joined forces to create the extraordinary clock.<br><br>The gargatuan construction towered above them, measuring entropy in the air, while its indicator inevitably moved towards "Point Zero," the time it predicted the world would end.<br><br>As a token of his thanks, Hobie presented Solomon with a miniature version of his masterpiece. The device was functional and could be used in combat.	
+s5_l19_help_noskill	Solomon's engineering skills were insufficient to help the watchmaker.	
+s5_l20_swamp	Swamp - Trumercliff's last known location	
+s5_l20_swamp_desc	The murky swamp was the last place where Trumercliff had been seen before vanishing. Curious about his fate, Solomon searched the area briefly, finding a message carved on a tree in the middle of the bog: "I'm at the edge of my sanity. The source must be close now. Heading North."	
+s5_l20_swamp_new_r_dig	Solomon chewed ginseng to improve his eyesight and thoroughly searched the swamp ([%0])	p2ginseng
+s5_l20_swamp_new_dig	Solomon did a thorough excavation searching for the body. While he didn't find his fellow inventor's corpse, his ginseng-enhanced eyes did notice a tube bearing Trumercliff's insignia. It contained a blueprint for a device.	
+s5_l21_seer	Seer's hut	
+s5_l21_seer_desc	An old seer was said to inhabit this small redwood house. Through an open door, Solomon could see a two-foot glass sphere in the middle of the room.	
+s5_l21_seer_desc_b	A seer was said to inhabit this small redwood house. Through an open door, Solomon could see a two-foot glass sphere in the middle of the room next to a bony old man sitting perfectly still.	
+s5_l21_pinkerton	Mr Persons advised Solomon against talking to the seer. He had heard he was a manipulative madman and that conversations with him only sent people deeper into insanity.	
+s5_l21_seer_desc_2	Papa Hav the seer looked at Solomon, then indicated he should sit beside the glass sphere.	
+s5_l21_r_talk	Solomon accepted the invitation.	g
+s5_l21_talk	Solomon's conversation with Papa Hav veered from topic to topic. The seer spoke chaotically about a terrible future, along with an inspiring story of fate and madness. The experience left Solomon profoundly energized.	
+s5_l23_trading_post	Trading Post	
+s5_l23_trading_post_desc	This Indian Trading Post was a modest hut made of raw planks. Ms. Bradford ran the trade with the natives. Her wares included weapons, clothes and tobacco. The quality of her wares seemed high but so were her prices.	
+s5_l24_burned_fort	Burnt Fort	
+s5_l24_burned_fort_desc	The fort showed evidence of a terrible fire. Some of the walls were collapsed, the rest was a rickety mess of wood and iron. Charred bodies plastered the floor and with rancid fat and bones littered the yard.<br><br>At one edge was a scorched building that looked like an armory. The site looked profoundly insecure.	
+s5_l24_r_a	Solomon's cursory search yielded only some useful parts in the yard.	g
+s5_l24_r_b	Solomon decided to thoroughly check both the yard and the armory.	g
+s5_l24_a	Solomon acquired useful parts, but the macabre images plagued his mind for weeks.	
+s5_l24_b	While they were looting the fort, the armory collapsed, injuring Solomon's companions.	
+s5_l27_derailed	Derailed Train	
+s5_l27_derailed_desc	Solomon arrived at the scene of a terrible catastrophe. Inside the crashed train, sat a single conscious man, surrounded by bodies. He was covered in blood, but otherwise appeared well. He introduced himself as James Scheffler and assured Solomon that he had once been a doctor. He asked whether Solomon or his companions needed any help.	
+s5_l27_r_solo	Solomon needed help ([%0])	p50cash
+s5_l27_r_apers	A. Persons needed help ([%0])	p50cash
+s5_l27_r_bpers	B. Persons needed help ([%0])	p50cash
+s5_l27_r_cpers	C. Persons needed help ([%0])	p50cash
+s5_l27_medic_cured	The doctor gave his patient a strange mixture to drink. Then he opened his vein to "let the bad blood out." When he was satisfied, he patched them back up.<br><br>After about an hour, he was feeling healthy again.	
+s5_l28_shaft_1	Eriksson Mineshaft	
+s5_l28_shaft_1_desc	A damaged crane had once transported the platform up and down shaft.<br><br>It appeared the machine had failed while the miner - Eriksson - was riding up with a pan full of golden nuggets. He would have been killed instantly.	
+s5_l28_shaft_1_r_a	Solomon realized that with a few parts, he could repair the crane and retrieve the gold ([%0])	p4mechanical_parts
+s5_l28_shaft_1_a	The crane was soon restored to working order and Solomon retrieved the gold. He left the crane intact, so it could be used once Madness had been banished from the land.	
+s5_l28_shaft_1_a_noitems	Unfortunately, Solomon didn't have the parts to fix the crane.	
+s5_l28_shaft_3	Heldelanse Mineshaft	
+s5_l28_shaft_3_desc	Solomon saw a glimmer of golden light at the bottom of the shaft. Perhaps a madman had thrown his possessions down the hole?<br><br>Unfortunately, he could see no way down.	
+s5_l28_shaft_3_r_a	Solomon ordered one of the Pinkertons to climb down.	g
+s5_l28_shaft_3_r_b	Solomon built a simple ladder ([%0])	p3mechanical_parts
+s5_l28_shaft_3_a	The Pinkerton obeyed and descended into the shaft.<br><br>As he approached the bottom, however, he slipped and injured his leg.<br><br>Luckily his colleagues were able to help him climb back up with the valuables.	
+s5_l28_shaft_3_b	Solomon built a rudimentary ladder that allowed him to safely retrieve the valuables from the bottom of the shaft. Unfortunately it wasn't durable enough to last beyond this venture.	
+s5_l28_shaft_3_b_noitems	Unfortunately, Solomon didn't have the parts he needed to create a ladder.	
+s5_l31_fatetrader	Fate Trader	
+s5_l31_fatetrader_desc	Solomon encountered a toothless dwarf who seemed to have gone completely mad. The merchant kept asking him whether he wanted to buy "scraps of fate". Despite his appearance, he had a few genuinely remarkable items for sale.	
+s5_l32_oasis	Arcadian Orchard	
+s5_l32_oasis_desc	Solomon came into a place that didn't seem to fit with this broken land. Gorgeous fruit trees filled an orchard, crates of fresh produce lay in easy reach, seemingly inviting anyone to taste their sweetness. Could it be real?	
+s5_l32_oasis_r_a	Solomon traveled to the orchard, hoping to rest a while and recuperate.	g
+s5_l32_oasis_r_b	Solomon dismissed it as a mirage.	g
+s5_l32_oasis_a_insanity	Solomon's party were soon gorging themselves on ripe fruit. The water in the nearby stream was clear and cool. They found chilled liquor and gold in nearby boxes. El Dorado Pequeno, they name it. It felt like a dream come true.<br><br>The next morning, it had disappeared. And while the gold was real enough, Solomon couldn't help thinking their minds must have been permanently affected by this oddity.	
+s5_l32_oasis_a_sanity	Solomon never returned there and never learned whether his suspicions had been correct.	
+s5_l32_oasis_b	Soon Solomon realized it was only a mirage. The orchard was just a pack of withering trees, grim testimony that desperate minds will warp anything to gain a moment of respite.	
+s5_cp2_safe3b	I believed that by using the modern, objective principles of science, I could devise a method to erase this Madness. But as I come closer to a cure, I can feel my mind slipping away. I fear I may not be able to complete my work.<br><br>The notes in this safe comprise everything I have learned thus far. For the sake of your fellow man, finish what I have started. Cure this madness. You are the only one left with the ingenuity required to accomplish this herculean feat of intellect.<br><br>- Sincerely: Trumercliff	

@@ -1,0 +1,308 @@
+text_id	en	format
+	Loading screen titles and descriptions	
+scen_07	Hard Times	
+scen_07_name	If only your prospecting was lucky enough, you could get on the Oregon Trail again.	
+7_1_AbandonedTown_name	They took Mother away. Could Father still save her?	
+7_2_Homestead_name	You were well-armed and prepared to defend your home from the bad men.	
+7_5_MexicoVillage_name	Florence was locked up. It was the time to get her out. And get some payback.	
+7_5_MexicoRevisited_name	There would be no peace in this town until all opposition ate lead.	
+7_6_HomesteadRuined_name	They'd learn soon enough what happens when you try to take a man's home.	
+	Objectives	
+s7_t1_rescueher	Rescue her	
+s7_t1_kill	Kill all enemies	
+s7_accumulate	Mine gold until your license runs out	
+s7_accumulate_postfix	uses left)	
+s7_askforhelp	Ask the crime lord for protection	
+s7_t2_defend	Defend the homestead	
+s7_t2_vaquero	If Cheech dies, it'll cost you $200 (Optional)	
+s7_t2_killall	Kill all enemies	
+s7_t2_killall_postfix	remaining)	
+s7_checkonflorence	Check on Florence	
+s7_rescueflorence	Rescue Florence	
+s7_t3_findkey	Find the jail key	
+s7_t3_findflorence	Release Florence	
+s7_t3_lockenemies	Lock the guards in the house	
+s7_t3_killall	Kill enemies to escape	
+s7_t3_killall_postfix	remaining)	
+s7_t3_killfree	Kill enemies who are not locked up to escape	
+s7_t3_killfree_postfix	remaining)	
+s7_revisitmexico	Clean up the Mexican town of bandits (Optional)	
+s7_liftcurse	Find a way to lift the curse	
+s7_siegehomestead	Siege the homestead	
+	Main events in the world map	
+s7_afterintro	After the fight	
+s7_afterintro_desc	So the two of you took over the ruined railroad company buildings and tried your hands at farming.	
+s7_afterintro_desc2	The soil was dry and the land was dangerous. You spent ten long years scratching out an existence from the dirt.<br><br>Now you were grown, you figured the two of you should try for Oregon again. It's what Mother would have wanted.	
+s7_afterintro_desc3	Gold! Who would have thought they'd find it here.<br><br>And just when you needed cash for your journey.<br><br>Time to strike it rich and get out of town before the outlaws and madmen showed up. They always do.	
+s7_afterintro_desc4	The Masked Man controlled all the gold mining. His henchmen sold you a license that let you run 9 prospecting operations.	
+s7_attackimminent	Attack imminent	
+s7_attackimminent_desc	Inevitably, news about the gold spread.<br><br>Overnight, several nearby homesteads and settlements were raided.	
+s7_attackimminent_desc2	Father worried you wouldn't make it on your own. He figured you'd need protection.<br><br>You disagreed, but went along with his decision.<br><br>For the last time.	
+s7_mexican	The deal	
+s7_mexican_desc	The Mexican said he'd help if you split your gold money with him.<br><br>He left you a bunch of guns, some empty blessings and a promise to send a vaquero to help out.	
+s7_afterattack	After the shootout	
+s7_afterattack_desc	Though you survived the attack, Father was worried.<br><br>He said you should build an underground escape tunnel in case of another attack. But he also wanted you to call the shots.	
+s7_afterattack_buildtunnel	It was a good idea ([%0])	p200cash
+s7_afterattack_decline	It was too expensive.	g
+s7_afterattack_desc_buildtunnel	Father said he'd take care of the materials and construction.<br><br>Meanwhile, the bandits were attacking elsewhere.<br><br>You ran to make sure Florence was safe.	
+s7_afterattack_desc_decline	When you declined, he never mentioned it again.<br><br>But you had other things on your mind. The bandits were attacking elsewhere.<br><br>You ran to make sure Florence was safe.	
+s7_meanwhile	Meanwhile...	
+s7_meanwhile_desc	While you were gone, your father had a visitor. A well dressed gentleman with a peculiar accent who seemed to appear out of nowhere. His magnificent cologne almost concealed his curious sulfur aroma.<br><br>Could he be...? No, that was madness.	
+s7_meanwhile_desc2	The gentleman was quite persuasive, convincing Father to spend most of his cash on a lucky amulet.<br><br>He was fed up with struggling; running scared from bandits, crime lords and the weather. He wanted the prospecting business to take off, and fast.<br><br>Still, though, Father seemed loath to discuss the matter. He downplayed the power of the trinket, insisting it probably wouldn't work.	
+s7_meanwhile_desc3	Still, things improved. Father swiftly found new digging sites and extraction was efficient. Soon he was able to buy a better mining license.	
+s7_mexicancut	The Mexican's cut	
+s7_mexicancut_desc	As agreed, a cut of your gold went to The Mexican.	
+s7_florencegone	Florence is gone	
+s7_florencegone_desc	You realized too late that your gold had made The Mexican powerful. He demanded more and more of your profits and there was little way to stop him.<br><br>Proud, brave Florence went to parley with the criminal, hoping to appeal to his kinder nature.<br><br>She knew you would never allow it, so left without telling you, leaving just a note.	
+s7_florencegone_desc2	But The Mexican had no better nature to appeal to. Florence never returned. You immediately prepared to bust her out.	
+s7_aftermexicantown	After the fight	
+s7_aftermexicantown_desc	Reunited again, the two of you returned home, safe and sound.	
+s7_aftermexicantown_desc2	A few days later, Father came to you in a panic with the amulet. It was falling apart in his hands.<br><br>It appeared Father had been cheated by the strange gentleman who had been so devilishly convincing.	
+s7_aftermexicantown_desc3	No one can meddle with the balance of the world and get away with it. <br><br>Ever onwards Father was jinxed by the cursed trinket. <br><br>Forever more he brought bad luck wherever he went.	
+s7_fatherleaves	Father leaves	
+s7_fatherleaves_desc	Father's curse made prospecting impossible. Whatever methods you tried, whatever places you sought, nothing worked.<br><br>The situation was hopeless. Though you never said it, his guilt was clear. Which made for many silent evenings.	
+s7_fatherleaves_desc2	One day, you awoke to a note from Father.<br><br>He was sorry for the bad decisions he'd made. He was sorry for your mother, for Florence, for you. He loved you, and that meant he had to leave.	
+s7_fatherleaves_desc3	If only it had helped.	
+s7_homesteadattacked	Homestead under attack	
+s7_homesteadattacked_desc	Just when you thought things couldn't get worse, you returned after a hard day's work, to find thugs raiding your house.<br><br>You scouted from a safe distance. They would pay for this with their lives.	
+s7_homesteadattacked_secrettunnel	Sneak in through the escape tunnel.	t
+s7_homesteadattacked_desc_slavehelp	As you prepared to make your move, the slave you were sheltering came out of hiding. He had been working the fields when he saw armed men approaching. He was in no condition to fight, but gave you the charm that had kept him alive until now.	
+	Exploration prompts	
+s7_neighbourhouse	Neighbors' house	
+s7_neighbourhouse_desc	It looked like the nearby farmhouse was inhabited.<br><br>You paid them a visit and they turned out to be kind people. You exchanged pleasantries, and the customary promises to help one another. More importantly, you met Florence, their beautiful, kind-hearted daughter. All you exchanged were a few glances, but you found yourself smitten.	
+s7_neighbourhouse_desc2	Not interested in prospecting themselves, the neighbors tipped you off about a couple of promising spots.	
+s7_neighbourhouse_desc_abandoned	Florence's parents didn’t survive the raid. You found her among the dead. Weeping, she followed you home and never left.<br><br>She never spoke of it, but brought fresh flowers to their house in their memory every week.	
+s7_mexicantown	Mexican town	
+s7_mexicantown_desc_florence	That was where Florence was being held.	
+s7_mexicantown_attack	You went on to rescue her.	t
+s7_homestead	Your family homestead	
+s7_homestead_desc	The bandits were coming. It was the hour of reckoning.	
+s7_homestead_defend	You took up defensive positions.	t
+s7_homestead_notyet	You weren't fully prepared yet.	x
+s7_homestead_desc_taken	From afar, you could see armed thugs roaming your homestead.	
+s7_homestead_attack	You attacked.	t
+s7_shadyjoint	Shady joint	
+s7_shadyjoint_desc	The place was filled with lowlifes.	
+s7_shadyjoint_barter	You did your best to barter.	b
+s7_shadyjoint_sellslave	You wondered if they'd buy the slave you'd been sheltering. It was a cold world after all.	i
+s7_shadyjoint_desc_sellslave	Well looky there. They offered $200 if you'd tell them where he was.	
+s7_shadyjoint_sellslave_yes	What did he ever do for you? $200 would buy a lot of supplies.	g
+s7_shadyjoint_sellslave_no	You couldn't bring yourself to turn him in.	g
+s7_shadyjoint_desc_sellslave_yes	They came at night and took him away. You were paid well, but money didn't help you sleep at night.	
+s7_shadyjoint_liftcurse	You asked around if anyone knew how to lift a curse.	g
+s7_shadyjoint_desc_liftcurse	Everyone had a different "sure-fire" method. Some told you to pray, others said to make an offering at the church. Still more put their faith in exorcisms.	
+s7_shadyjoint_desc_liftcurse2	You heard tell of a fortune teller nearby. Proabably a charlatan, but at this point you'd try anything.	
+s7_shadyjoint_desc_liftcurse3	Or maybe you'd be better off with a classic: find a wishing well and drop a coin inside.	
+s7_shadyjoint_mexicantown	Talk turned to news from The Mexican's town now that he was dead.	g
+s7_shadyjoint_desc_mexicantown	Things sounded bad there. The Mexican was harsh, but he kept order. Now, the town was total anarchy.	
+s7_fortuneteller	Fortune teller	
+s7_fortuneteller_desc	You found the hut inhabited by a young woman. Rumor had it she could see the future.	
+s7_fortuneteller_barter	You browsed her wares while she eyed you mysteriously.	b
+s7_fortuneteller_curse	You asked how much she would charge to try to lift the curse ([%0])	p100cash
+s7_fortuneteller_desc_curse	She took your money eagerly, but though she tried a range of methods, none of them were effective.	
+s7_well	Well	
+s7_well_desc	It was the well you'd heard people talking about. You could drop a coin inside and make a wish.<br><br>Looking down, you saw golden coins glimmering in the water.	
+s7_well_desc_nogold	It was the well you'd heard people talking about. You could drop a coin inside and make a wish.	
+s7_well_dropcoin	You dropped a coin for good luck.	g
+s7_well_desc_dropcoin	You dropped the coin down the well, but it had no effect that you could discern.	
+s7_well_takegold	You climbed down to collect the wishes of others. What did they need with wishes?	g
+s7_well_desc_takegold	Climbing down, you fell hard on some slippery rocks and suffered an injury. Still, the coins were yours.	
+s7_forest	Forest thicket	
+s7_forest_desc	As you traversed the forest, you spotted a rare albino rabbit. Its skin would net a decent price, and albino rabbits' feet are a powerful good luck charm.<br><br>The rabbit, for its part, sat still, as though perhaps you were the valuable prey.	
+s7_forest_shoot	You shot the rabbit in the head.	g
+s7_forest_follow	Foolish as it sounded, you followed the rabbit, hoping to capture its good fortune.	g
+s7_forest_desc_shoot	You shot the creature, quickly skinned it and kept the foot for good measure.	
+s7_forest_desc_follow	You followed the rabbit into the forest, but quickly lost track of the creature. Cursing your bad decision, you stumbled upon a cave whose markings indicated it was a worthwhile mining site. You marked it on your map and vowed to return.	
+s7_meadow	Tranquil meadow	
+s7_meadow_desc	You noticed a young native woman with a basket, picking flowers and carefully selecting herbs. Initially startled by your arrival, she then offered you healing herbs for sale.	
+s7_meadow_buy	You bought the herbs ([%0])	p35cash
+s7_meadow_seek	You inspected the basket but decided to seek out the healing plants yourself instead.	g
+s7_meadow_desc_buy	After selling you some herbs, the young woman left.	
+s7_meadow_desc_seek_lucky	Observant and lucky, you picked the correct herbs.	
+s7_meadow_desc_seek_unlucky	Whether it was bad luck or a lack of care, the herbs you ingested proved poisonous.	
+s7_crevice	Narrow crevice	
+s7_crevice_desc	As you scouted the country, you came across a narrow crevice. You could have climbed through it, but it would have been a difficult challenge. Unless you came well prepared, it would be all too easy to sustain a serious injury.	
+s7_crevice_climb	You climbed down.	g
+s7_crevice_prepared	Well prepared as always, you climbed down ([%0])	p1dexterity_elixir
+s7_crevice_desc_climb	The climb was long and tiring. As you neared the top, your foot slipped and resulted in a serious injury.	
+s7_crevice_desc_prepared	The climb was long and tiring, but your extra dexterity served you well and you finished it without incident.	
+s7_crevice_desc_result	You found a natural cavern, that had rocks indicating a good chance for gold deposits. You marked it on your map.	
+s7_collapsedmine	Collapsed mine	
+s7_collapsedmine_desc	You'd heard about this place. A rich mine that collapsed years ago on top of a bunch of miners, burying them alive. Their wives and children still decorate the entrance with flowers.<br><br>It looked like you could squeeze in, maybe get some of the gold they found.	
+s7_collapsedmine_go	It might not have been the smartest thing to do, but you got in.	g
+s7_collapsedmine_desc_go	As you reached the first opening, you found a skeleton with its legs crushed under a boulder. You wondered if he bled out before he died of thirst. His shirt, though stained, was still intact and of very good quality.	
+s7_collapsedmine_go2	You decided to go even deeper.	g
+s7_collapsedmine_return	It was all too much. You headed back to the surface.	g
+s7_collapsedmine_desc_go2	The next cavern was cramped and full of stale air. You've found a little gold, but still not much.	
+s7_collapsedmine_go3	You moved onwards, wondering how far it was to the bottom.	g
+s7_collapsedmine_desc_go3	Wounded and weary, you eventually reached the end of the farthest tunnel. And there inside - a massive stash of gold.<br><br>The air must have poisoned you, because as you went to pick it up, you hallucinated a tall man in a suit, smiling and smoking. As you turned to leave he said: "Just so we're clear, that's mine. But you can borrow it a while."	
+s7_collapsedmine_desc_goback	As you inched your way back to the sunlight, you heard a low rumbling all around you. You hurried, hands  trembling, heavy drops of sweat rolling down your face.	
+s7_collapsedmine_desc_unlucky	You were almost to the entrance when you felt the weight of a boulder come crashing into your back. Immobilized in sight of your goal, you cried out for help. But the only answer was your own voice echoing back from the depths, accompanied by a strange, low chuckle.	
+s7_collapsedmine_desc_back	You had just emerged, blinking into the sunlight, when the mine collapsed behind you.	
+s7_watermill	Watermill	
+s7_watermill_desc	The abandoned mill held a puzzling scene. Two identical twins. One holding a gun. The other shot dead. You'd seen their face on a wanted poster, but just one of them.<br><br>When he saw your gun, the shooter dropped his and claimed innocence, saying he shot his murderous brother in self defense. He offered you the gun.	
+s7_watermill_cash	You took him to the sheriff, along with the gun as evidence.	g
+s7_watermill_gun	You let him go, keeping the gun for yourself.	g
+s7_watermill_desc_cash	You've received the bounty, but the sherrif held onto the gun as evidence.	
+s7_watermill_desc_gun	You inspected the gun - the craftsmanship was simply magnificent.	
+s7_orchard	The blind man	
+s7_orchard_desc	The man's eyes had been sewn shut with crude twine. He sat perfectly still, his gun in his holster, his stash on the ground close to you. For minutes he didn't make the slightest noise, then uttered a single, slow sniff.<br><br>You could have grabbed his stuff and made a run for it. But then there was that gun.	
+s7_orchard_steal	You grabbed the stash and ran.	g
+s7_orchard_greet	Knowing better than to meddle in affairs you didn't understand, you greeted him simply and respectfully.	g
+s7_orchard_desc_steal	In an instant he was spraying bullets at you. You were fast, but he was faster, hitting you at every turn as if guided by spirits. You ran for your life until you were sure you were out of his range.	
+s7_orchard_desc_greet	Nodding, he blessed you.	
+s7_crossroads	The Crossroads	
+s7_crossroads_desc	Some folks said that just before sunrise, there was an electric feeling out on the packed earth of The Crossroads. The kind that makes your hair stand on end and sends shivers down your spine. Some swore they'd met a man there, well-dressed and well spoken, who offered them a tempting deal.<br><br>He could make you powerful in return for a piece of yourself.	
+s7_crossroads_deal	You took the deal.	
+s7_crossroads_nodeal	You declined the man's offer.	
+s7_crossroads_desc_deal	You felt empowered, but more than a little hollow inside. You turned to ask the man if that was normal, but he had vanished.	
+s7_crossroads_desc_nodeal	The man smiled, tipped his hat, then turned on his heel and left the crossroads. After a few steps he had disappeared, though the night was crisp and clear.	
+s7_town	Town	
+s7_town_desc	You visited a small frontier town, made up mostly by miners. One of the shops featured a selection of firearms.	
+s7_town_barter	You visited the gunshop.	b
+s7_town_mines	You paid for information about additional mining spots ([%0])	p50cash
+s7_town_mineoffices	You inquired about special mining tools ([%0])	p30cash
+s7_town_desc_mines	By this point you'd been pointed towards several spots which could contain gold.	
+s7_town_desc_mineoffices	You learned about several specialists who might be able to help you out.	
+s7_town_hireminer1	You hired a young miner to help in prospecting ([%0])	p200cash
+s7_town_hireminer2	You hired an old miner to help in prospecting ([%0])	p400cash
+s7_town_desc_hireminer1	You welcomed him on board. For as long as he was around he helped your operations, increasing your mining income by 10 per cent.	
+s7_town_desc_hireminer2	The seasoned expert joined the company and increased your mining income by 15% as long as he was around.	
+s7_tradingpost	Trading post	
+s7_tradingpost_desc	The proprietor was eager to exchange goods with you.	
+s7_tradingpost_barter	You got to bartering.	b
+s7_tradingpost_denounceslave	The trader made dark overtures, wanted you to know he "knew people." You got the feeling he'd pay for  information on the escaped slave.	g
+s7_tradingpost_desc_slavedenounced	You weren't proud, but you needed the money. A week afterwards, you heard a rumor of the slave being captured.	
+s7_slavefugitive	Slave fugitive	
+s7_slavefugitive_desc	The man was cold, hungry and scared. He explained that he had been a slave, but had escaped and had been on the run for months. Terrified that "they" were on his trail, he begged you to shelter him, saying that if you didn't he'd surely be taken back to his previous, hellish existence.	
+s7_slavefugitive_shelter	You agreed to shelter him, provided he'd help with the homestead.	g
+s7_slavefugitive_desc_shelter	The former slave was beside himself with joy. Promising you wouldn't regret it. You sincerely hoped he was correct.	
+s7_slavefugitive_ignore	You just couldn't find it in your heart to put your name on the line and shelter him. You were sure he'd be fine.	g
+s7_slavefugitive_desc_ignore	Crestfallen, he quickly gathered his things and left, presumably wishing to get as far away  as possible before you disclosed his location.	
+s7_smallbridge	Smallbridge homestead	
+s7_smallbridge_desc	You came by a house of a poor family. The Smallbridges, they told you. They were trying to leave, saying this country was unsafe. But without money, they had little chance of preparing for even a short journey.	
+s7_smallbridge_help	You decided to lend them the necessary sum. You didn't really expect to ever get it back ([%0])	p200cash
+s7_smallbridge_decline	You agreed that the times were hard, but had enough ot worry about on your own without giving out loans to strangers.	x
+s7_smallbridge_desc_left	It was clear the Smallbridge family had left the area. The house stood empty, except for a few things they left behind. It was impossible to tell whether they left them on purpose, or forgot about them in haste.	
+s7_smallbridge_desc_help	They were very grateful. Said they'd pray for you. Which is a nice idea, but who are we kidding?	
+s7_church	Church	
+s7_church_desc	God may have been away on business, but Reverend Gervais had a reputation of being a miracle worker. For a price, he could heal the most serious ailments. Those with less cash could leave a tip in the offering box, granting them a place in his prayers for the day.	
+s7_church_healing	You sought healing.	n
+s7_church_heal_father	Father needed healing ([%0])	p50cash
+s7_church_heal_warren	Warren needed healing ([%0])	p50cash
+s7_church_heal_florence	Florence needed healing ([%0])	p50cash
+s7_church_heal_miner1	Pat Douglas needed healing ([%0])	p50cash
+s7_church_heal_miner2	Old Ike needed healing ([%0])	p50cash
+s7_church_offering	The prayer offering had a surprising high price for something that might not have worked at all ([%0])	p25cash
+s7_church_desc_heal	While the healing was costly, it also proved effective.	
+s7_church_desc_offering	Would the offering grant awesome powers? Who knew?	
+s7_church_exorcism	You asked for a curse exorcism ([%0])	p50cash
+s7_church_desc_exorcism	You paid your money, but would later discover it had no effect.	
+s7_fatetrader	Fate Trader	
+s7_fatetrader_desc	You came across a shady character in a peculiar clothing and by a bizarre market stand. He said that his trinkets will only reveal themselves to you when you deserve so.	
+s7_fatetrader_barter	You browsed his exceptional wares.	b
+	MINING SYSTEM	
+s7_prospecting_1	Ugly Ditch	
+s7_prospecting_2	Ford's Shaft	
+s7_prospecting_3	Damp Mine	
+s7_prospecting_4	Excavation Field	
+s7_prospecting_5	Dalton's Site	
+s7_prospecting_6	Shovel Pit	
+s7_prospecting_7	Treasure Trove	
+s7_prospecting_8	The Bonanza	
+s7_prospecting_9	The Dig	
+s7_prospecting_10	Carter's Mining Op.	
+s7_prospecting_desc_1	Everyone said there was placer gold down in the Ditch, but most of it was buried deep under hard rock.	
+s7_prospecting_desc_2	The shaft had been thoroughly explored in the hard rock depth, but not much apart from that.	
+s7_prospecting_desc_3	The mine looked like its hard-rock depths were still untouched. There was probably gold down there.	
+s7_prospecting_desc_4	The site had been very popular back when prospecting was new in these parts, but most had given up on it.	
+s7_prospecting_desc_5	It was an active site some time ago with works focusing on the deeper and hard rock mining, but no one seemed to bother with the placer deposits.	
+s7_prospecting_desc_6	The shovel pit had abandoned once the placer deposits started being exhausted, and the hard rock proved too hard.	
+s7_prospecting_desc_7	The placer gold had been excavated, and the deeper gold exhausted completely. But rumor had it there was still hard rock deposit to be had.	
+s7_prospecting_desc_8	This site has been popular for placer rinsing, but no one seemed to want to go after the deeper deposits.	
+s7_prospecting_desc_9	The dig had been prepped, but never started. Everyone said it was bad luck to touch this ground.	
+s7_prospecting_desc_10	Even though he never got the operation running, Carter paid a hefty sum for this place. Must have been something down there.	
+s7_prospect_mine_placer	You rinsed the placer gold, costing you [%0].	m3p15cash
+s7_prospect_mine_deeper	You excavated the deeper gold, costing you [%0].	m4p40cash
+s7_prospect_mine_hardrock	You mined the hard rock gold, costing you [%0].	m5p100cash
+s7_prospect_done	However, gold has already been depleted in	
+s7_prospect_done_placer	The placer gold deposit had already been exhausted.	
+s7_prospect_done_deeper	The deeper gold deposit had already been exhausted.	
+s7_prospect_done_hardrock	The hard rock gold deposit had already been exhausted.	
+s7_mining_title	Excavation	
+s7_prospect_placer_tech1	^You collected placer gold deposits by rinsing gravel and sand in a flat metal pan.	f
+s7_prospect_placer_tech2	^You collected the placer gold deposits by pouring gravel and sand through a Rocker Box.	f
+s7_prospect_placer_tech3	^You collected the placer gold deposits by pouring gravel and sand through a Cradle Box, constantly discarding bigger stones with a lever.	f
+s7_prospect_placer_tech4	^You collected the placer gold deposits by rinsing gravel and sand through a sluice trough.	f
+s7_prospect_deeper_tech1	^You collected the deeper gold deposits rinsing the rocks you excavated with a shovel.	f
+s7_prospect_deeper_tech2	^You collected the deeper gold deposits rinsing the rocks using a Long-tom chute.	f
+s7_prospect_deeper_tech3	^You collected the deeper gold deposits by creating a coyote hole.	f
+s7_prospect_deeper_tech4	^You collected the deeper gold deposits by creating a shallow open-pit mine.	f
+s7_prospect_hardrock_tech1	^You collected the hard rock gold deposits by smashing the quartz stones with a pickaxe.	f
+s7_prospect_hardrock_tech2	^You collected the hard rock gold deposits by hiring some hands and creating a mining shaft a few meters deep.	f
+s7_prospect_hardrock_tech3	^You collected the hard rock gold deposits by hiring some hands to create a mining shaft with a lift, then having them split the rocks with pickaxes.	f
+s7_prospect_hardrock_tech4	^You collected the hard rock gold deposits by hiring some hands to create a shaft with a lift and using dynamite demolition.	f
+s7_prospect_back	...	
+s7_placer_buy_tech1	You learned the simple techniques of placer gold rinsing (+25%) for [%0].	m3p100cash
+s7_placer_buy_tech2	You learned the advanced techniques of placer gold rinsing (+50%) for [%0].	m3p200cash
+s7_placer_buy_tech3	You learned the master techniques of placer gold rinsing (+75%) for [%0].	m3p300cash
+s7_deeper_buy_tech1	You learned the simple techniques of deeper gold excavating (+25%) for [%0].	m4p150cash
+s7_deeper_buy_tech2	You learned the advanced techniques of deeper gold excavating (+50%) for [%0].	m4p300cash
+s7_deeper_buy_tech3	You learned the master techniques of deeper gold excavating (+75%) for [%0].	m4p450cash
+s7_hardrock_buy_tech1	You learned the simple techniques of hard rock gold mining (+25%) for [%0].	m5p200cash
+s7_hardrock_buy_tech2	You learned the advanced techniques of hard rock gold mining (+50%) for [%0].	m5p400cash
+s7_hardrock_buy_tech3	You learned the master techniques of hard rock gold mining (+75%) for [%0].	m5p600cash
+	Mining popups	
+s7_popup_mining	^Prospecting cost $[%0], gaining you $[%1].<br>Income totalled at $[%2].	f
+s7_popup_mining_taxed	^Prospecting cost $[%0], gaining you $[%1]. The Mexican's cut amounted to $[%3], resulting in an income of $[%2].	f
+s7_popup_mining_cursed	^Prospecting cost $[%0], but because of the curse you only earned $[%1]. The resulting income totalled at $[%2].	f
+s7_popup_mine_depleted	^Prospecting site depleted:	f
+s7_popup_tax_raised	^The Mexican crimelord raised your tax to [%0]%.	f
+	Mining system related events	
+s7_placer_trainer	Prospectors' camp	
+s7_placer_trainer_desc	Prospectors, led by Aleksander Kane, had been collecting gold using rinsing pans. Kane had vast knowledge of placer gold retreiving techniques.	
+s7_deeper_trainer	Excavation company	
+s7_deeper_trainer_desc	The excavation site and floodgate were being used by the company owned by Chris Jordan. The main source of income, however, was training fees.	
+s7_hardrock_trainer	Gold mine office	
+s7_hardrock_trainer_desc	A local enterpreneur, Falk Lange, opened a mine several years ago. Now that he was retired, he was willing to sell his knowledge on hard rock gold mining.	
+s7_placer_bought_tech1	You learned how to create and operate your own Rocker Box.	
+s7_placer_bought_tech2	You learned how to create and operate your own Cradle Box.	
+s7_placer_bought_tech3	You learned how to retreive gold using a sluice trough.	
+s7_deeper_bought_tech1	You learned how to build a Long-tom rinsing chute.	
+s7_deeper_bought_tech2	You learned how to dig a coyte hole.	
+s7_deeper_bought_tech3	You learned how to create and organize an open-pit mine.	
+s7_hardrock_bought_tech1	You learned where and how to build deep mining shafts.	
+s7_hardrock_bought_tech2	You learned how to install a lift in the mining shaft.	
+s7_hardrock_bought_tech3	You learned how to use dynamite in hard rock mining.	
+s7_special_jet	Hydraulic Mining	
+s7_special_jet_desc_a	You could have rented a hydro jet to move the deeper gold deposits to the surface. The partners that operated it - Mitch Brummel and Nathan Benzer - had made a small fortune selling their services.	
+s7_special_jet_desc_b	You could have rented a hydro jet to move the deeper gold deposits to the surface. The partners that operated it - Mitch Brummel and Nathan Benzer - had made a small fortune selling their services.<br><br>The rental equipment was now ready to be order.	
+s7_special_jet_buy	You rented the hydro jet for one day, costing you [%0].	m9p25cash
+s7_special_jet_bought	The rental order had been placed. Now you just needed to visit the site and send for the equipment.	
+s7_special_mercury	Pharmaceuticals shop	
+s7_special_mercury_desc_a	The shop featured all kinds of drugs and chemicals. Old Deacon Spires took great care to keep plenty of copper slabs and mercury pots on hand. Miners used them to quickly acquire placer gold and deep gold. This technique, while expedient, often resulted in accidental poisonings.	
+s7_special_mercury_desc_b	The shop featured all kinds of drugs and chemicals. Old Deacon Spires took great care to keep plenty of copper slabs and mercury pots on hand. Miners used them to quickly acquire placer gold and deep gold. This technique, while expedient, often resulted in accidental poisonings.<br><br>The purchased equipment was ready to use.	
+s7_special_mercury_buy	You bought some mercury and a copper slab, costing you [%0].	m6p40cash
+s7_special_mercury_bought	Mercury was ready to be used in the site of your choosing.	
+s7_special_drill	Dilapidated mining company	
+s7_special_drill_desc_a	The company was nearly bankrupt, but it still rented out the drills it had used back when it was a going concern. KC McCrum still ran the operation and the rentals were letting him get the business afloat again. McCrum's drills allowed miners to collect hard rock gold and placer deposits all at once.	
+s7_special_drill_desc_b	The company was almost bankrupt, but still rented drills that it used back in the day when it was a large operation. KC McCrum was running the operation since back in the day, and now, through rental, was getting the business back on tracks. Using such a drill allowing miners to collect hard rock gold along with the placer deposits.<br><br>The rented equipment was ready to use.	
+s7_special_drill_buy	You rented the drills for [%0].	m7p80cash
+s7_special_drill_bought	The rent order had been placed. Now you just needed to visit the site and send for the equipment.	
+s7_special_stampmill	Mining partnership	
+s7_special_stampmill_desc_a	Maxime Bourgeois led a massive enterprise that rented out portable stamp mills. The mills crushed the quartz, allowing hard rock deposits to be collected the same way deeper deposits were obtained. And let you extract  deeper deposits using surface methods.	
+s7_special_stampmill_desc_b	A massive enterprise, led by Maxime Bourgeois, had some portable stamp mills, which could be rented for several hours. A mill could crash the quartz so that hard rock deposits could be collected in the same manner deeper deposits were obtained, and what used to be deeper down was obtainable through surface methods.<br><br>The rented stamp mill was ready to use.	
+s7_special_stampmill_buy	You rented a stamp mill for [%0].	m8p90cash
+s7_special_stampmill_bought	The rent order had been placed. You just needed to visit the site and send for the stamp mill.	
+s7_prospect_special	You considered using unconventional extraction methods.	
+s7_prospect_special_desc	The unconventional methods were effective, but expensive. You first needed to obtain or rent the proper tools.	
+s7_prospect_special_jet	You sent for the hydro jet so you could move deeper gold deposits to the surface and collect them more easily.	
+s7_prospect_special_mercury	You used the copper slab and mercury to quickly acquire placer and deep deposit gold.	m6g
+s7_prospect_special_drill	You used the drill to collect hard rock gold along with the placer deposits.	m7g
+s7_prospect_special_stampmill	You used the stamp mill, to move the hard rock and deeper deposits up.	m8g
+s7_prospect_special_jet_desc	The powerful hydro jet rinsed the ground, moving the gold up.	m9g
+s7_prospect_special_mercury_desc	^The mercury connected with the gold, creating amalgam, which turned back into gold a moment later. Surface and deeper deposits were exhausted. Though your efforts succeeded, however, you were poisoned in the process.	f
+s7_prospect_special_drill_desc	Drills crushed the quartz and made the hard rock stones as simple to clear as the deeper ones.	
+s7_prospect_special_stampmill_desc	The stamp mill worked through the hard and deeper rocks, making them as easy to rinse as the placer gold.	
+s7_prospect_goodluck	<br><br>The power of the pendant worked. You were on a prospecting lucky streak.	
+s7_prospect_badluck	<br><br>The curse seemed to be affecting your prospecting enterprise.	

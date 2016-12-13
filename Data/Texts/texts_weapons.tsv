@@ -1,0 +1,90 @@
+text_id	en	format
+	weapons	
+pistol_derringer_name	Deadly Derringer	
+pistol_derringer_desc	The Deadly was specially crafted for discreet assassinations of heads of state.	
+pistol_derringerdouble_name	Golden Derringer	
+pistol_derringerdouble_desc	This lavish weapon was only ever produced on a small scale for select customers.	
+revolver_ring_name	Protector Ring Revolver	
+revolver_ring_desc	A weapon concealed in a signet. A weapon of surprise for close quarters attacks.	
+pistol_lancaster_name	Lancaster Pistol	
+pistol_lancaster_desc	Fast, deadly and reliable, the Lancaster is one of the newest weapons on the market.	
+pistol_flintlock_name	Ivory Flintlock Pistol	
+pistol_flintlock_desc	Painstakingly handcrafted, this pistol has been in the Suncove family for generations.	
+pistol_multibarrel_name	Steadfast Pistol	
+pistol_multibarrel_desc	With 14 barrels, what the Steadfast lacks in accuracy it makes up for in volume.	
+pistol_duckfoot_name	Duckfoot Pistol	
+pistol_duckfoot_desc	Four high-caliber barrels arranged like a fan, for maximum mayhem.	
+pistol_hical_name	Quarter Pounder Pistol	
+pistol_hical_desc	The havoc caused by this gun's massive slugs belies its low capacity & strong recoil.	
+pistol_harmonica_name	Harmonica Gun	
+pistol_harmonica_desc	Its innovative design gives this weapon an extremely fast reload time.	
+pistol_volcanic_name	Volcano Pistol	
+pistol_volcanic_desc	For those who value caliber and capacity over maneuverability.	
+revolver_coltarmy_name	Six Shooter	
+revolver_coltarmy_desc	Like the saying goes, "God made men but the six shooter made them equal."	
+revolver_coltarmydouble_name	Twelve Shooter	
+revolver_coltarmydouble_desc	Two six shooters engineered into one. Twice the equality in a single hand.	
+revolver_coltarmyholy_name	The Judicator	
+revolver_coltarmyholy_desc	Rumor has it the Pope himself gave Cervantes this gun before he came to America.	
+revolver_coltranger_name	Cañón Calavera	
+revolver_coltranger_desc	Joaquim Perez's personal weapon, adorned with traditional Mexican ornaments.	
+revolver_coltnavy_name	Navy Gun	
+revolver_coltnavy_desc	Similar to a regular revolver, but with bigger slugs and lower capacity.	
+revolver_18shot_name	Eighteen Shooter	
+revolver_18shot_desc	An outrageous contraption featuring an oversize magazine for extended firefights.	
+revolver_chain_name	Chain Revolver	
+revolver_chain_desc	The traditional cylinder is replaced with a chain of bullets. Unmatched capacity.	
+revolver_multicylinder_name	Revolving Revolver	
+revolver_multicylinder_desc	It worked for bullets, why not guns? Eight magazines with six bullets apiece.	
+revolver_pepperbox_name	Pepperbox	
+revolver_pepperbox_desc	A stack of breech-loaded revolving barrels. Weak accuracy, but quite a punch.	
+revolver_pepperboxheavy_name	Heavy Pepperbox	
+revolver_pepperboxheavy_desc	The regular pepperbox revolver spiced up with triple the barrels.	
+rifle_winchester_name	Western Rifle	
+rifle_winchester_desc	One of the first repeaters, some call it "the gun that won the west."	
+rifle_bonehand_name	Bonehand Rifle	
+rifle_bonehand_desc	This unique rifle was commissioned specially for exorcist work.	
+rifle_hankings_name	Remi Borgen Rifle	
+rifle_hankings_desc	As effective as popular lever action rifles, but twice as intimidating.	
+rifle_henry_name	Repeater Rifle	
+rifle_henry_desc	Shoot in the head, rinse, repeat.	
+rifle_musket_name	Musket	
+rifle_musket_desc	Muskets fell out of favor due to their low capacity, but their power is unmatched.	
+rifle_musketholy_name	Holy Musket	
+rifle_musketholy_desc	A musket empowered by faith. Evil requires maximum stopping power.	
+rifle_revovling_name	Revolver Rifle	
+rifle_revovling_desc	A shotgun wedding between a classic rifle and a revolving magazine. Quick reload.	
+rifle_treeby_name	Chain Rifle	
+rifle_treeby_desc	Nothing beats chain ammunition when you just want to keep shooting.	
+scopedrifle_sharps_name	Mammoth Rifle	
+scopedrifle_sharps_desc	If the Elephant Rifle doesn't have enough stopping power, here's something heavier.	
+scopedrifle_heavy_name	Elephant Rifle	
+scopedrifle_heavy_desc	Some say scoped rifles are a tool of the devil. But you can't argue with their results.	
+scopedrifle_custom_name	Scoped Custom Rifle	
+scopedrifle_custom_desc	A scoped rifle designed specifically for long-range combat.	
+shotgun_single_name	10 ga. Single Shotgun	
+shotgun_single_desc	A popular weapon, whether hunting game or humans.	
+shotgun_2barrel_name	10 ga. Double Shotgun	
+shotgun_2barrel_desc	A doubly popular hunting weapon.	
+shotgun_3barrel_name	10 ga. Triple Shotgun	
+shotgun_3barrel_desc	When two barrels aren't enough, get your trip on.	
+shotgun_4barrel_name	10 ga. Quadruple Shotgun	
+shotgun_4barrel_desc	Four barrels, no waiting.	
+shotgun_9barrel_name	Baby No. 9	
+shotgun_9barrel_desc	Childeater's signature weapon only shoots once, but that's all you'll need.	
+shotgun_sawnoff_name	Sawed off Cobra	
+shotgun_sawnoff_desc	A high damage scattergun. Powerful and easily concealed.	
+shotgun_manville_name	Shotgun Revolver	
+shotgun_manville_desc	Your basic, one-of-a-kind, state-of-the-art revolving shotgun.	
+shotgun_hillberg_name	12 ga. Defender	
+shotgun_hillberg_desc	Four double shotguns that dance on a revolving mechanism.	
+revolver_coltarmyrusty_name	Rusty Peashooter	
+revolver_coltarmyrusty_desc	If you don't equip a weapon, you'll use this inferior, default gun.	
+pistol_backer_bandit_name	One-Armed Bandit	
+pistol_backer_bandit_desc	Who needs accuracy with a round this big? The ultimate last-ditch option.	
+pistol_backer_duster_name	Douglas Duster Special	
+pistol_backer_duster_desc	When you pack this, any fool who draws on you dooms their own mortal fate.	
+rifle_backer_judge_name	The Judge	
+rifle_backer_judge_desc	To kill, one must prepare to be killed. This gun trades defense for damage.	
+scopedrifle_backer_dablue_name	Dablue Double Precision Rifle	
+scopedrifle_backer_dablue_desc	A unique recoil-minimizing design makes this rifle fast and accurate.	
